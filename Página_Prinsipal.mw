@@ -10,34 +10,38 @@ E Wikipedia na papiamentu ta ofisial desde 26 di mart 2006.<br />
 <p style="font-size: 16px;">'''[[Kòrsou|Kòrsou]]'''</p>
 </div>
 
-<div style="float: right;">
-<div style=" border: 1px solid #cfcfff; padding: 0em 1em 0.5em 1em; background-color: #f9f9ff; width: 375px; height: auto; margin-top: 1em; ">
-<h3 style="border-bottom: solid 1px #cfcfff;">
+<div style="background: #f5faff; float: right; width: 40%; border: 1px solid #cedff2;">
+<div style="background: #cedff2; margin: 10px 10px 0 10px; border: 1px solid #a3b0bf;">
+<h4 style="padding: 0.3em; margin: 0px;">
 Preguntanan hasi frekuentemente
-</h3>
+</h4>
+</div>
+<div style="background: none; margin: 5px 10px 10px 10px;">
 *[[Wikipedia:Kon_pa_edita_artikulo|Kon mi por edita un artíkulo?]]
 *[[Wikipedia:Kon_pa_traha_artikulo|Kon mi por traha un artíkulo?]]
 *[[Ortografia_di_papiamentu|Kon mi por skibi papiamentu korekto?]]
 *[[Wikipedia:Kiko_ta_reglanan|Kiko ta e reglanan?]]
 *[[Wikipedia:Mi_mester_ta_miembro|Mi mester ta miembro di Wikipedia?]]
-*[[en:wikipedia|Kiko ta wikipedia eksaktamente?]]
+*[[:en:wikipedia|Kiko ta wikipedia eksaktamente?]]
 *[[Wikipedia:Kon_kuminsa_yuda|Kon mi por yuda ku e proyekto?]]
 </div>
-
-<div style=" border: 1px solid #cfcfff; padding: 0em 1em 0.5em 1em; background-color: #f9f9ff; width: 375px; height: auto; margin-top: 0.5em;">
-<h3 style="border-bottom: solid 1px #cfcfff;">
+<div style="background: #cedff2; margin: 10px 10px 0 10px; border: 1px solid #a3b0bf;">
+<h4 style="padding: 0.3em; margin: 0px;">
 Di tur un tiki
-</h3>
+</h4>
+</div>
+<div style="background: none; margin: 5px 10px 10px 10px;">
 *[[Marlon_Brando|Marlon Brando]]
 *[[Isla|Isla]]
 *[[Ortografia_di_papiamentu|Ortografia di papiamentu]]
 *[[Laman_Karibe|Laman Karibe]]
 </div>
-
-<div style=" border: 1px solid #cfcfff; padding: 0em 1em 0.5em 1em; background-color: #f9f9ff; width: 375px; height: auto; margin-top: 0.5em;">
-<h3 style="border-bottom: solid 1px #cfcfff;">
+<div style="background: #cedff2; margin: 10px 10px 0 10px; border: 1px solid #a3b0bf;">
+<h4 style="padding: 0.3em; margin: 0px;">
 Miembronan
-</h3>
+</h4>
+</div>
+<div style="background: none; margin: 5px 10px 10px 10px;">
 Hasi pregunta na:
 *[[user:ghettocash|GhettoCash]]
 *[[user:kamizu|Kamizu]]
@@ -45,20 +49,37 @@ Hasi pregunta na:
 </div>
 </div>
 
-<div style="margin-top: 1.5em;">
+<div style="background: #f5fffa; margin-right: 41%; border: solid 1px #cef2e0;">
+<div style="background: none; padding: 10px;">
+<div style="background: #cef2e0; border: 1px solid #a3bfb1;">
+<h4 style="padding: 0.3em; margin: 0px;">
+Artikulo di awe
+</h4>
+</div>
+<div>
+'''Curaçao''' (òf '''Kòrsou''', '''Corsou''') ta un [[isla]] den parti zùit di [[Laman Karibe|Karibe]] for di e kosta di [[Venezuela]].  E isla ta esun mas grandi i mas populá di e tres [[islanan ABC]] (ta para pa [[Aruba]], [[Bonaire]], i Curaçao) i ta parti di [[Antias Hulandes]], un parti outonomo di e [[Reino di Hulanda]]. Kòrsou su kapital ta [[Willemstad, Antias Hulandes|Willemstad]]. 
+
+Kòrsou tin un area di 444 kilometer kuadrá (171 mia²). Den e senso di Antias Hulandes di 2001, e populashon tabata 130.627 habitante, lokual ta nifiká un densidat di populashon di 294 habitante pa kilometer kuadrá. Den 2004 e populashon tabata aproksimadamente 133.644 habitante. '''[[Kòrsou|Sigui lesa...]]'''
+</div>
+<div style="background: #cef2e0; border: 1px solid #a3bfb1;">
+<h4 style="padding: 0.3em; margin: 0px;">
+Kategoria
+</h4>
+</div>
+<div>
 [[Kultura|Kultura]] - [[Literatura|Literatura]] - [[Deporte|Deporte]] - [[Musika|Musika]] - [[Idioma|Idioma]] - [[Religion|Religion]] - [[Polítika|Polítika]] - [[Siensia_i_Teknologia|Siensia i Teknologia]] - [[Historia|Historia]]
 </div>
+</div>
+</div>
 
-
-
-
-
+<div style="clear: both;">
 Por yuda, wak '''[[m:Help:How to start a new Wikipedia|how to start a new Wikipedia]]'''.
 
 ==Sister projects==
 [http://meta.wikipedia.org Meta-Wikipedia] | [http://www.wiktionary.org Wikitonary] | [http://www.wikibooks.org Wikibooks] | [http://www.wikinews.org Wikinews] | [http://www.wikiquote.org Wikiquote] | [http://www.wikisource.org Wikisource]
 
 See the [http://www.wikipedia.org Wikipedia portal] for other language Wikipedias.
+</div>
 
 [[aa:]]
 [[af:]]
