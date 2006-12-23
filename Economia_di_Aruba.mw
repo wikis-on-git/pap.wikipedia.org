@@ -1,5 +1,23 @@
 ==Estadisticanan==
 ''fuente di informacion Banco Central di Aruba''<br>
 <table>
-<tr><td>Aña</td><td>2005</td></tr>
+<tr><td width="150" align="center" rowspan="2"><b>Elemento</b></td><td colspan="2" align="center"><b>Aña</b></td></tr>
+<tr>
+ <td width="75" align="center"><b>2004</b></td>
+ <td width="75" align="center"><b>2005</b></td>
+</tr>
+<tr>
+ <td>GDP ''nominal''<br>den miyon di AWG</td>
+ <td align="center">3,819</td>
+ <td align="center">?</td></tr>
+<tr>
+ <td>Inflacion</td>
+ <td align="center">2.5 %</td>
+ <td align="center">3.4 %</td>
+</tr>
+<tr>
+ <td>% di Desempleo</td>
+ <td align="center">7.3 %</td>
+ <td align="center">? %</td>
+</tr>
 </table>
