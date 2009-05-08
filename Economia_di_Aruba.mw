@@ -1,20 +1,20 @@
 {{Variante|a}}
-==Estadisticanan==
-''fuente di informacion Banco Central di Aruba''<br>
+== Estadisticanan ==
+''fuente di informacion Banco Central di Aruba''<br />
 <table>
-<tr><td width="150" align="center" rowspan="2"><b>Elemento</b></td><td colspan="3" align="center"><b>Aña</b></td></tr>
+<tr><td width="150" align="center" rowspan="2">'''Elemento'''</td><td colspan="3" align="center">'''Aña'''</td></tr>
 <tr>
  <td width="75" align="center"><b>2003</b></td>
  <td width="75" align="center"><b>2004</b></td>
  <td width="75" align="center"><b>2005</b></td>
 </tr>
 <tr>
- <td>GDP ''nominal''<br>den miyon di AWG</td>
+ <td>GDP ''nominal''<br />den miyon di AWG</td>
  <td align="center">3.599</td>
  <td align="center">3.819</td>
  <td align="center">4.041</td></tr>
 <tr>
- <td>Inflacion<br>''average di aña''</td>
+ <td>Inflacion<br />''average di aña''</td>
  <td align="center">3,6 %</td>
  <td align="center">2,5 %</td>
  <td align="center">3,4 %</td>
@@ -26,7 +26,7 @@
  <td align="center">6,9 %</td>
 </tr>
 <tr>
- <td>Populacion<br>''average di aña''</td>
+ <td>Populacion<br />''average di aña''</td>
  <td align="center">95.076</td>
  <td align="center">97.658</td>
  <td align="center">100.629</td>
@@ -35,5 +35,7 @@
 
 [[Category:Aruba]]
 
+[[ca:Economia d'Aruba]]
 [[en:Economy of Aruba]]
 [[io:Ekonomio di Aruba]]
+[[oc:Economia d'Aruba]]
