@@ -24,3 +24,6 @@ Dor di e daylight savings time, UTC e tempu lokal na e Observatorio Royal na Gre
 Si e tempu ta na Tempu Koordinal Universal (UTC), pone un 'z' direktamente patras di e tempu sin un espasio. 'Z' ta e designator di e zona di tempu pa e UTC. "09:30 UTC" ta bira representa komi "09:30Z" of "0930Z". "14:45:14" lo bira "14:45:15Z' of "144515Z"
 
 UTC tambe ta konsi komo tempu Zulu pasobra 'Zulu' ta codigo pa 'Z' na e [[Alphabet di ICAO]]
+
+===Time zone as offsets from UTC===
+Zona di tempu ta skibi manera un ''offset'' di UTC den e formaat ±[hh]:[mm], ±[hh][mm], of ±[hh]. Esei kemen ku e tempu ta describi manera un ora prome ku UTC (meskos ku e tempu na [[Berlin]] den winter), e zona designator lo ta  "+01:00", "+0100", of simplemente "+01". Eskaki ta appende na e tempu meskos ku 'Z' tabata ariba. E offset di UTC ku [[Daylight savings Time]]. Kemen e tempu di [[Chicago]], ku ta situa na e zona di tempu Zmerican Central Time Zone, lo ta  "[[UTC−06|−06:00]]" Pa winter i "[[UTC−05|−05:00]]" pa zomer.
