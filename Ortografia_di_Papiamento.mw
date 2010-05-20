@@ -26,40 +26,39 @@ E reglanan cu ta sigui ta un resumen na forma simpel di e reglanan describi den 
 
 == Dia y luna ==
 
-E dianan di siman:
+{| border="1" cellpadding="4" cellspacing="1" width="100%"  class="wikitable"
+|-
+!width="16%" align="right"| E dianan di siman''
 
-{|border=0 cellspacing=0 cellpadding=4 style="margin-bottom:1em; font-size:large; text-align:center; border:0 none transparent;" style="font-weight:normal; font-size:small; margin-top:1em;"
-|- style="border-top:1px solid #999;"
-| width=35 | diadomingo || width=75 | dialuna
-|-
-| width=35 | diamars || width=75 | diaranson
-|-
-| width=35 | diahuebs || width=75 | diabierna
-|-
-| width=35 | diasabra || width=75 | 
-|-
+!width="12%"| diadomingo<br>''prome dia''
+!width="12%"| dialuna<br>''di dos dia''
+!width="12%"| diamars<br>''di tres dia''
+!width="12%"| diaranson<br>''di cuater dia''
+!width="12%"| diahuebs<br>''di cinco dia''
+!width="12%"| diabierna<br>''di seis dia''
+!width="12%"| diasabra<br>''di shete dia''
+
+|-style="background:#eef;"-
 |}
 
+{| border="1" cellpadding="4" cellspacing="1" width="100%"  class="wikitable"
+|-
+!width="16%" align="right"| E lunanan di aña''
 
-
-E lunanan di aña:
-
-{|border=0 cellspacing=0 cellpadding=4 style="margin-bottom:1em; font-size:large; text-align:center; border:0 none transparent;" style="font-weight:normal; font-size:small; margin-top:1em;"
-|- style="border-top:1px solid #999;"
-| width=35 | januari || width=75 | ferbuari
-|-
-| width=35 | maart || width=75 | april
-|-
-| width=35 | mei || width=75 | juni
-|-
-| width=35 |juli || width=75 | augustus
-|-
-| width=35 | september || width=75 | o''''''c''''''tober
-|-
-| width=35 | november || width=75 | december
-|-
+!width="6%"| januari
+!width="6%"| ferbuari
+!width="6%"| maart
+!width="7%"| april
+!width="7%"| mei
+!width="7%"| juni
+!width="7%"| juli
+!width="7%"|augustus
+!width="8%"|september
+!width="7%"|o''''''c''''''tober
+!width="8%"|november
+!width="14%"|december
+|-style="background:#eef;"-
 |}
-
 
 '''No ta skirbi nomber di dia ni luna cu letter grandi. Solamente na cuminsamento di frase ta skirbi nan cu letter grandi.'''
 
