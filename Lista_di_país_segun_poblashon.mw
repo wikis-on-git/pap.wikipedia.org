@@ -43,40 +43,40 @@ Figuranan indika ku "estima di NU" ta basá riba e e estima di Divishon di Pobla
 |-
 |13 || align=left|'''[[Vietnam]]''' || 85,789,573 || April 1, 2009 || 1.26% || style="font-size: 75%"|[http://www.gso.gov.vn/default_en.aspx?tabid=462&idmid=2&ItemID=9198 Preliminary 2009 census result]
 |-
-|14 || '''[[Alemania]]''' || 81,757,600 || January 1, 2010 || 1.2% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|14 ||'''[[Alemania]]''' || 81,757,600 || January 1, 2010 || 1.2% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|15 || align=left|'''[[Ethiopia]]''' || 79,221,000 || July 2008 || {{#expr: 79221000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|
+|15 || align=left|'''[[Ethiopia]]''' || 79,221,000 || July 2008 ||  1.16% || style="font-size: 75%"|
 [http://www.csa.gov.et/surveys/National%20statistics/national%20statistics%202007/Population.pdf Ethiopia Central Statistics Agency]
 |-
-|16 || align=left|'''[[Egypto]]''' || {{formatnum:{{#expr: 72798.031 + 4.413 * {{Age in days|2006|11|11}} round 0}}000 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Egypt pop clock adds 4,261 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(72798031 + 4413 * {{Age in days|2006|11|11}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.msrintranet.capmas.gov.eg/pls/fdl/tst12e?action=1&lname=%201 Official Egyptian Population clock]
+|16 || align=left|'''[[Egypto]]''' || 78,601,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} ||  1.15% || style="font-size: 75%"|[http://www.msrintranet.capmas.gov.eg/pls/fdl/tst12e?action=1&lname=%201 Official Egyptian Population clock]
 |-
-|17 || align=left|'''[[Iran]]''' || 74,196,000 ||  || {{#expr: 74196000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|17 || align=left|'''[[Iran]]''' || 74,196,000 ||  || 1.09% || style="font-size: 75%"|UN estimate
 |-
-|18 || align=left|'''[[Turkia]]''' || 72,561,312 || December 31, 2009 || {{#expr: 72561312 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=6178 Turkish Statistical Institute estimate]
+|18 || align=left|'''[[Turkia]]''' || 72,561,312 || December 31, 2009 ||  1.06%|| style="font-size: 75%"|[http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=6178 Turkish Statistical Institute estimate]
 |-
-|19 || align=left|'''[[Republika demorkatika di Kongo]]''' || 66,020,000 ||  || {{#expr: 66020000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|19 || align=left|'''[[Republika demorkatika di Kongo]]''' || 66,020,000 ||  || 0.97% || style="font-size: 75%"|UN estimate
 |-
-|20 || align=left|'''[[Fransia]]'''{{ref|n3|n3}} || 65,447,374 || January 1, 2010 || {{#expr: 65447374 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.insee.fr/fr/themes/document.asp?ref_id=ip1276#inter1 Official&nbsp;INSEE&nbsp;estimate]<br>The figure for France without the overseas collectivities is 64,667,374.
+|20 || align=left|'''[[Fransia]]''' || 65,447,374 || January 1, 2010 || 0.96% || style="font-size: 75%"|[http://www.insee.fr/fr/themes/document.asp?ref_id=ip1276#inter1 Official&nbsp;INSEE&nbsp;estimate]<br>The figure for France without the overseas collectivities is 64,667,374.
 |-
-|21 || align=left|'''[[Thailandia]]''' || 63,525,062 || December 31, 2009 || {{#expr: 63389730 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|
+|21 || align=left|'''[[Thailandia]]''' || 63,525,062 || December 31, 2009 || 0.93% || style="font-size: 75%"|
 [http://www.dopa.go.th/stat/y_stat52.html Official Thai Statistics estimate]<!--Official Department of Provincicial Administration estimate-->
 |-
-|22 || align=left|'''{[[Reina Uni]]''' || 62,041,708 || January 1, 2010 || {{#expr: 62041708 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|22 || align=left|'''[[Reina Uni]]''' || 62,041,708 || January 1, 2010 || 0.91% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|23 || align=left|'''[[Italia]]''' || 60,340,328 || December 1, 2009 || {{#expr: 60340328 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://demo.istat.it/bilmens2009gen/index_e.html Official ISTAT estimate]
+|23 || align=left|'''[[Italia]]''' || 60,340,328 || December 1, 2009 || 0.88% || style="font-size: 75%"|[http://demo.istat.it/bilmens2009gen/index_e.html Official ISTAT estimate]
 |-
-|24 || align=left|'''[[Myanmar]]''' (Burma) || 50,020,000 ||  || {{#expr: 50020000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|
+|24 || align=left|'''[[Myanmar]]''' (Burma) || 50,020,000 ||  || 0.73% || style="font-size: 75%"|
 UN estimate
 |-
-|25 || align=left|'''[[Sur Korea]]''' || 49,773,145 || December 31, 2009 || {{#expr: 49774145 / {{worldpop}} * 100  round 2}}% || style="font-size: 75%"|[http://ups.kosis.kr/upload/Magazine/NEW/AC/AC10_2009.xls Statistics Korea]
+|25 || align=left|'''[[Sur Korea]]''' || 49,773,145 || December 31, 2009 || 0.73% || style="font-size: 75%"|[http://ups.kosis.kr/upload/Magazine/NEW/AC/AC10_2009.xls Statistics Korea]
 |-
-|26 || align=left|'''[[Sur Afrika]]''' || 49,320,500 || July 1, 2009 || {{#expr: 49320500 / {{worldpop}} * 100 round 2}}% || style="font-size:75%"|[http://www.statssa.gov.za/publications/P0302/P03022009.pdf Statistics South Africa]
+|26 || align=left|'''[[Sur Afrika]]''' || 49,320,500 || July 1, 2009 || 0.72% || style="font-size:75%"|[http://www.statssa.gov.za/publications/P0302/P03022009.pdf Statistics South Africa]
 |-
 |27 || align=left|'''[[Spaña]]''' || 46,951,532 || January 1, 2010 || {{#expr: 46951532 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.ine.es/prensa/np595.pdf Official INE estimate]
 |-
 |28 || align=left|'''[[Ukrania]]''' ||  45,962,900 || January 1, 2010 || {{#expr: 45962900 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.ukrstat.gov.ua/operativ/operativ2009/ds/kn/kn_e/kn1209_e.html Official UKRSTAT estimate]
 |-
-|29 || align=left|'''[[Kolombia]]''' || {{formatnum:{{#expr: 42888.592 + 1.432 * {{Age in days|2005|6|28}} round 0}}000 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Colombian pop clock adds 1,432 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(42888592 + 1432 * {{Age in days|2005|6|28}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.dane.gov.co/reloj/reloj_animado.php Official Colombian Population clock]
+|29 || align=left|'''[[Kolombia]]''' || 45,489,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(42888592 + 1432 * {{Age in days|2005|6|28}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.dane.gov.co/reloj/reloj_animado.php Official Colombian Population clock]
 |-
 |30 || align=left|'''[[Tanzania]]''' || 43,739,000 ||  || {{#expr: 43739000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
@@ -90,19 +90,19 @@ UN estimate
 |-
 |35 || align=left|'''[[Algeria]]''' || 34,895,000 ||  || {{#expr: 34895000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|36 || align=left|'''[[Kanada]]''' || {{formatnum:{{CanPopCommas}} }} <!--AUTOUPDATES to an EXACTLY ACCURATE rounded-off figure DAILY at 00:00 UTC Please do not replace--> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: {{CanPop}}/{{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.statcan.gc.ca/pub/82-003-x/pop/pop-h-clock-eng.htm Official Canadian Population clock]
+|36 || align=left|'''[[Canada]]''' ||  34,143,000|| {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: {{CanPop}}/{{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.statcan.gc.ca/pub/82-003-x/pop/pop-h-clock-eng.htm Official Canadian Population clock]
 |-
 |37 || align=left|'''[[Uganda]]''' || 32,710,000 ||  || {{#expr: 32710000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|38 || align=left|'''[[Marokko]]''' || {{formatnum:{{#expr: 31514 + 0.923 * {{Age in days|2009|6|30}} round 0}}000}} <!--AUTOUPDATES DAILY at 00:00 UTC, Morocco pop clock adds 923 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (31514000 + 923 * {{Age in days|2009|6|30}}) / {{worldpop}} * 100  round 2}}% || style="font-size: 75%"|[http://www.hcp.ma Official Moroccan Population clock]
+|38 || align=left|'''[[Marokko]]''' || 31,840,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (31514000 + 923 * {{Age in days|2009|6|30}}) / {{worldpop}} * 100  round 2}}% || style="font-size: 75%"|[http://www.hcp.ma Official Moroccan Population clock]
 |-
 |39 || align=left|'''[[Iraq]]''' || 30,747,000 ||  || {{#expr: 30747000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|40 || align=left|'''Nepal''' || 29,331,000 ||  || {{#expr: 29331000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|40 || align=left|'''[[Nepal]]''' || 29,331,000 ||  || {{#expr: 29331000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
 |41 || align=left|'''[[Peru]]''' || 29,132,013 || June 30, 2009 || {{#expr: 29165000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.inei.gob.pe/web/NotaPrensa/Attach/8477.pdf Official INEI estimate]
 |-
-|42 || align=left|'''[[Venezuela]]''' || {{formatnum:{{#expr: 28384.132 + 1.231 * {{Age in days|2009|6|30}} round 0}}000 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Venezuelan pop clock adds 1,231 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(28384132 + 1231 * {{Age in days|2009|6|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.ine.gov.ve Official Venezuelan Population clock]
+|42 || align=left|'''[[Venezuela]]''' || 28,819,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(28384132 + 1231 * {{Age in days|2009|6|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.ine.gov.ve Official Venezuelan Population clock]
 |-
 |43 || align=left|'''[[Malaysia]]''' || 28,306,700 || July 2009 || {{#expr: 28306700 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.statistics.gov.my/ccount12/click.php?id=294 Statistic Department of Malaysia]
 |-
@@ -110,7 +110,7 @@ UN estimate
 |-
 |45 || align=left|'''[[Uzbekistan]]''' || 27,488,000 ||  || {{#expr: 27468000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|46 || align=left|'''{[[Saudi Arabia]]''' || 25,721,000 ||  || {{#expr: 25721000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|46 || align=left|'''[[Saudi Arabia]]''' || 25,721,000 ||  || {{#expr: 25721000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
 |47 || align=left|'''[[Nort Korea]]''' || 24,051,706 || October 2008 || {{#expr: 23906000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UNFPA
 |-
@@ -118,9 +118,9 @@ UN estimate
 |-
 |49 || align=left|'''[[Yemen]]''' || 23,580,000 ||  || {{#expr: 23580000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|50 || align=left|'''[[Republika di China|Taiwan]] ([[Taiwan]])''' {{ref|n4|n4}} || 23,131,093 || March 31, 2010 || {{#expr: 23119772 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://eng.stat.gov.tw/mp.asp?mp=5 Official National Statistics Taiwan estimate]
+|50 || align=left|'''[[Republika di China|Taiwan]]''' || 23,131,093 || March 31, 2010 || {{#expr: 23119772 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://eng.stat.gov.tw/mp.asp?mp=5 Official National Statistics Taiwan estimate]
 |-
-|51 || align=left|'''[[Australia]]'''{{ref|n5|n5}} || {{formatnum:{{#expr: 22323695 + (86400 / 70) * {{Age in days|2010|4|27}} round 0}}}}<!--AUTOUPDATES DAILY at 00:00 UTC, Australia pop clock adds 1 person every 70 seconds --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (22000 + 1.208 * {{Age in days|2009|10|10}}) / {{worldpop}} * 100000  round 2}}% || style="font-size: 75%"|[http://www.abs.gov.au/ausstats/abs@.nsf/94713ad445ff1425ca25682000192af2/1647509ef7e25faaca2568a900154b63?OpenDocument Australian Official Population Clock]
+|51 || align=left|'''[[Australia]]''' || 22,387,878 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (22000 + 1.208 * {{Age in days|2009|10|10}}) / {{worldpop}} * 100000  round 2}}% || style="font-size: 75%"|[http://www.abs.gov.au/ausstats/abs@.nsf/94713ad445ff1425ca25682000192af2/1647509ef7e25faaca2568a900154b63?OpenDocument Australian Official Population Clock]
 |-
 |52 || align=left|'''[[Syria]]''' || 21,906,000 ||  || {{#expr: 21906000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
@@ -138,9 +138,9 @@ UN estimate
 |-
 |59 || align=left|'''[[Angola]]''' || 18,498,000 ||  || {{#expr: 18498000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|60 || align="left"|'''[[Chile]]''' || {{formatnum:{{#expr: (16928873 + (17094270 - 16928873) / 365 * {{Age in days|2009|6|30}})/1000 round 0}}000 }} <!--AUTOUPDATES DAILY at 00:00 UTC, (17094270-16928873)/365 people added per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(16928873 + (17094270 - 16928873) / 365 * {{Age in days|2009|6|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.ine.cl/canales/chile_estadistico/demografia_y_vitales/proyecciones/Informes/Microsoft%20Word%20-%20InforP_T.pdf Official INE projection] (p.36)
+|60 || align="left"|'''[[Chile]]''' || 17,089,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(16928873 + (17094270 - 16928873) / 365 * {{Age in days|2009|6|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.ine.cl/canales/chile_estadistico/demografia_y_vitales/proyecciones/Informes/Microsoft%20Word%20-%20InforP_T.pdf Official INE projection] (p.36)
 |-
-|61 || align=left|'''[[Hulanda]]''' || {{NetherlandsPopCommas}} <!--AUTOUPDATES DAILY at 00:00 UTC, The Netherlands pop clock adds 225 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:{{NetherlandsPop}} / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.cbs.nl/en-GB/menu/themas/bevolking/cijfers/extra/bevolkingsteller.htm Official Netherlands population clock]
+|61 || align=left|'''[[Hulanda]]''' || 16,617,975 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:{{NetherlandsPop}} / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.cbs.nl/en-GB/menu/themas/bevolking/cijfers/extra/bevolkingsteller.htm Official Netherlands population clock]
 |-
 |62 || align=left|'''[[Kazakhstan]]''' || 15,776,492 || July 1, 2009 || {{#expr: 15776492 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.eng.stat.kz/digital/Population/DocLib/hs0906eks.xls National Statistics Agency estimate]
 |-
@@ -154,7 +154,7 @@ UN estimate
 |-
 |67 || align=left|'''[[Mali]]''' || 14,517,176 || April 1, 2009 || {{#expr: 14517176 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://instat.gov.ml/voir_actu.aspx?lactu=44 Preliminary 2009 census result]
 |-
-|68 || align=left|'''[[Ecuador]]''' || {{formatnum:{{#expr: 14005.45 + 0.545 * {{Age in days|2009|6|30}} round 0}}000 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Ecuadorian pop clock adds 545 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(14005450 + 545 * {{Age in days|2009|6|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.inec.gov.ec Official Ecuadorian population clock]
+|68 || align=left|'''[[Ecuador]]''' || 14,198,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(14005450 + 545 * {{Age in days|2009|6|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.inec.gov.ec Official Ecuadorian population clock]
 |-
 |69 || align=left|'''[[Guatemala]]''' || 14,027,000 ||  || {{#expr: 14027000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
@@ -190,14 +190,14 @@ UN estimate
 |-
 |85 || align=left|'''[[Bolivia]]''' || 9,879,000 ||  || {{#expr: 9863000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|86 || align=left|'''[[Serbia]]'''{{ref|n6|n6}} || 9,850,000 ||  || {{#expr: 9850000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|86 || align=left|'''[[Serbia]]''' || 9,850,000 ||  || {{#expr: 9850000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|87 || align=left|'''{[[Belarus]]''' || 9,473,600 || April 1, 2010 || {{#expr: 9473600  / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://belstat.gov.by/homep/en/indicators/press/demogr.php Official statistics of Belarus]
+|87 || align=left|'''[[Belarus]]''' || 9,473,600 || April 1, 2010 || {{#expr: 9473600  / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://belstat.gov.by/homep/en/indicators/press/demogr.php Official statistics of Belarus]
 |-
 |88 || align=left|'''[[Zweden]]''' ||9,359,742
  ||April 30, 2010|| {{#expr: 9336487 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.scb.se/Pages/Product____25799.aspx Statistics Sweden]
 |-
-|89 || align=left|'''[[Somalia]]'''{{ref|n7|n7}} || 9,133,000 ||  || {{#expr: 9133000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|89 || align=left|'''[[Somalia]]''' || 9,133,000 ||  || {{#expr: 9133000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
 |90 || align=left|'''[[Benin]]''' || 8,935,000 ||  || {{#expr: 8935000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
@@ -213,9 +213,9 @@ UN estimate
 |-
 |96 || align=left|'''[[Bulgaria]]''' || 7,576,751 || January 1, 2010 || {{#expr: 7576751 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|97 || align=left|'''{[[Honduras]]''' || 7,466,000 ||  || {{#expr: 7466000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|97 || align=left|'''[[Honduras]]''' || 7,466,000 ||  || {{#expr: 7466000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|98 || align=left|''[[Hong Kong'' || 7,026,400 || December 31, 2009 || {{#expr: 7026400 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=2&displayMode=T Hong Kong Census and Statistics Department]
+|98 || align=left|''[[Hong Kong]]'' || 7,026,400 || December 31, 2009 || {{#expr: 7026400 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=2&displayMode=T Hong Kong Census and Statistics Department]
 |-
 |99 || align=left|'''[[Tajikistan]]''' || 6,952,000 ||  || {{#expr: 6952000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
@@ -235,29 +235,29 @@ UN estimate
 |-
 |107 || align=left|'''[[Nicaragua]]''' || 5,743,000 ||  || {{#expr: 5743000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|108 || align=left|'''{{flag|Sierra Leone}}''' || 5,696,000 ||  || {{#expr: 5696000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|108 || align=left|'''[[Sierra Leone]]''' || 5,696,000 ||  || {{#expr: 5696000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|109 || align=left|'''{{flag|Denmark}}''' || 5,540,241||March 31, 2010 || {{#expr: 5519441 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop_quarterly.aspx Statistics Denmark]
+|109 || align=left|'''[[Denamarka]]''' || 5,540,241||March 31, 2010 || {{#expr: 5519441 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop_quarterly.aspx Statistics Denmark]
 |-
-|110 || align=left|'''{{flag|Kyrgyzstan}}''' || 5,482,000 ||  || {{#expr: 5482000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|110 || align=left|'''[[Kyrgyzstan]]''' || 5,482,000 ||  || {{#expr: 5482000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|111 || align=left|'''{{flag|Slovakia}}''' || 5,424,925  || December 31, 2009 || {{#expr: 5424925 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://portal.statistics.sk/showdoc.do?docid=5639 Statistics Slovakia]
+|111 || align=left|'''[[Slovakia]]''' || 5,424,925  || December 31, 2009 || {{#expr: 5424925 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://portal.statistics.sk/showdoc.do?docid=5639 Statistics Slovakia]
 |-
-|112 || align=left|'''{{flag|Finland}}''' {{ref|n9|n9}} || {{formatnum:{{#expr: 53263 + 0.68 * {{Age in days|2009|1|5}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, Finland pop clock adds 68 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (5326314 + 68 * {{Age in days|2009|1|5}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.vaestorekisterikeskus.fi/vrk/home.nsf/pages/index_eng Official Finnish Population clock]
+|112 || align=left|'''[[Finlandia]]''' || {{formatnum:{{#expr: 53263 + 0.68 * {{Age in days|2009|1|5}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, Finland pop clock adds 68 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (5326314 + 68 * {{Age in days|2009|1|5}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.vaestorekisterikeskus.fi/vrk/home.nsf/pages/index_eng Official Finnish Population clock]
 |-
-|113 || align=left|'''{{flag|Turkmenistan}}''' || 5,110,000 ||  || {{#expr: 5110000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|113 || align=left|'''[[Turkmenistan]]''' || 5,110,000 ||  || {{#expr: 5110000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|114 || align=left|'''{{flag|Eritrea}}''' || 5,073,000 ||  || {{#expr: 5073000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|114 || align=left|'''[[Eritrea]]''' || 5,073,000 ||  || {{#expr: 5073000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|115 || align=left|'''{{flag|Singapore}}''' || 4,987,600 || Mid-2009 || {{#expr: 4987600 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.singstat.gov.sg/stats/keyind.html#popnarea Statistics Singapore]
+|115 || align=left|'''[[Singaporo]]''' || 4,987,600 || Mid-2009 || {{#expr: 4987600 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.singstat.gov.sg/stats/keyind.html#popnarea Statistics Singapore]
 |-
-|116 || align=left|'''{{flag|Norway}}''' {{ref|n10|n10}} || {{formatnum:{{#expr: 48582 + 1.72 * {{Age in days|2010|1|1}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, Norway pop clock adds 172 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (4858200 + 172 * {{Age in days|2010|1|1}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.ssb.no/english/subjects/02/befolkning_en/ Official Norwegian Population clock]
+|116 || align=left|'''[[Norwega]]''' || {{formatnum:{{#expr: 48582 + 1.72 * {{Age in days|2010|1|1}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, Norway pop clock adds 172 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (4858200 + 172 * {{Age in days|2010|1|1}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.ssb.no/english/subjects/02/befolkning_en/ Official Norwegian Population clock]
 |-
-|117 || align=left|'''{{flag|United Arab Emirates}}''' || 4,599,000 ||  || {{#expr: 4599000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|117 || align=left|'''[[Emirate Arabiko Uni]]''' || 4,599,000 ||  || {{#expr: 4599000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|118 || align=left|'''{{flag|Costa Rica}}''' || 4,579,000 ||  || {{#expr: 4579000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|118 || align=left|'''[[Costa Rica]]''' || 4,579,000 ||  || {{#expr: 4579000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|119 || align=left|'''{{Flag|Ireland}}''' || 4,459,300 || April 1, 2009 || {{#expr: 4422100 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.cso.ie/releasespublications/documents/population/current/popmig.pdf Irish Central Statistics Office estimate]
+|119 || align=left|'''[[Irlandia]]''' || 4,459,300 || April 1, 2009 || {{#expr: 4422100 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.cso.ie/releasespublications/documents/population/current/popmig.pdf Irish Central Statistics Office estimate]
 |-
 |120 || align=left|'''{{flag|Croatia}}''' || 4,435,056 || January 1, 2009 || {{#expr: 4435056 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
@@ -469,3 +469,9 @@ UN estimate
 |-
 |223 || align=left|''{{flag|Pitcairn Islands}}'' || 50 ||  || 0.000001% || style="font-size: 75%"|UN estimate
 |}
+
+==Mira tambe==
+
+==Referensia==
+
+ <references/>
