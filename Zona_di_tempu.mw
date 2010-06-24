@@ -1,6 +1,6 @@
-Un Zona di Tempu ta un region na [[Mundu]], mas o menos dirigi pa e liñanan di longitud, ku tin un tempu uniforma i mada legalmente normalmente yama e tempu lokal. Pa konvention, e 24 zonanan di tempunan na munda ta computa nan tempu lokal komo un variashon di UTC ku ta e meridian di Greenwich, kida zona ta situa 14 grado oost i west di esun banda di dje e punto di refferensia, e liña di Greenwich ta na 0°. Tempu lokal ta e UTC plus e differencia di tempu for di e liña aki pa e lokashon menshona. Na theoria e subida ta sigui direshon oost inkrementa ku un ora kada 15°, te ku e liña internashonal di dato (longitud 180°). I e ta baha ku un ora kada 15° na direkson de ora e yega e liña internashonal di dato  atrobe.
+Un Zona di Tempu ta un region na [[Mundu]], mas o menos dirigi pa e liñanan di longitud, ku tin un tempu uniforma i mada legalmente normalmente yama e tempu lokal. Pa konvention, e 24 zonanan di tempunan na munda ta computa nan tempu lokal komo un variashon di UTC ku ta e meridian di Greenwich, kida zona ta situa 14 grado oost i west di esun banda di dje e punto di refferensia, e liña di Greenwich ta na 0°. Tempu lokal ta e UTC plus e differencia di tempu for di e liña aki pa e lokashon menshona. Na theoria e subida ta sigui direshon oost inkrementa ku un ora kada 15°, te ku e liña internashonal di dato (longitud 180°). I e ta baha ku un ora kada 15° na direkson de ora e yega e liña internashonal di dato atrobe.
 
-==Intodukson==
+== Intodukson ==
 
 Zona di tempu ta wordu adjusta seasonalmente na standaart i daylight saving (den zomer). '''Daylight saving time zones'' (of zona di tempu di zomer) ta inklui un kambio (typikamente +1 ora) pa daylight saving time.
 
@@ -10,31 +10,31 @@ Prome ku e intrudukson di zona di tempu, hende a usa e tempu de solo lokal. Orig
 
 E uso di e oloshi lokal a bira kada biaha mas inkumbiniente ora [[Trein|treinan]] i [[Telekomunikashon]] a bira mas effeciente e e oloshinan tabata differensia dor di nan postition geografiko, ku nomralmente no tabata un number kumbiniente. E problema aki por a wordu resolve dor e synkronisa e oloshinan , pero na hopi kaminda te ahinda e tempu lo differnensia drastikamente for di e tempu di solo ku hende a kustumbra kune. Zona di tempu ta un komprimiso, ku ta kita e dependensia geografiko e astronomiko pero ku ta te ahinda ta duna e luganan lokal un tempu ku parse nan tempu di solo.
 
-==Zona di tempu standaart==
+== Zona di tempu standaart ==
 
-[[Image:Timezones2008.png|500px|thumb|right|Zona di tempu standaart manera nan ta na Maart 2010]]
+[[File:Timezones2008.png|500px|thumb|right|Zona di tempu standaart manera nan ta na Maart 2010]]
 
-Te ku basta resien zona di tempu tabata basa riba Greenwich mean Time (GMT tambe jama [[Tempu Universal|UT1]], e tempu di solo na longitud 0° (Meridian Primo). Pero komo tempu di solo, GMT ta defina pa e rotashon di mundu, ku no ta den un grado konstante.   Kemen, e grado di e [[Oloshi atomiko]] a kambia kada aña i e la wordu di stuur den direkshon pa kuadra ku e tempu di solo di e GMT. Na Januari 1972, oloshinan atomiko a keda fixa anto un [[Schrikkel Seconde]] perdefina a wordu pone pa remplasa e kambionan. E nobo systema aki ta yama Tempu Universal Kordina (Coordinated Universal Time) UTC. Schrikkel secondes a wordu pone a laga e oloshi keda den 0.9 seconden di e UT1. Na e manera aki, tempu lokal ta keda korresponde na e tempu di solo, terwijl e variashonan den e rotashon di mundu ta konstrina na un simpel kambio di stap ku mas fasilmente por wordu applika pa obtene un tempu standaart uniforma (Tempu Internashonal Atomiko of TAi. Ke e implementashon di UTC, nashonan a kominsa use den e definashon na luga di GMT. Te Ku 2005 mayoria pero no tur nashon  a altera e definishon de nan tempu lokal den e manera aki (ounke hopi hende no ta mira un destinkson entre GMT anto UTC). Kambionan den futuro por pasa si bin ku e desishon pa abandona shrikkel secondes.
+Te ku basta resien zona di tempu tabata basa riba Greenwich mean Time (GMT tambe jama [[Tempu Universal|UT1]], e tempu di solo na longitud 0° (Meridian Primo). Pero komo tempu di solo, GMT ta defina pa e rotashon di mundu, ku no ta den un grado konstante. Kemen, e grado di e [[Oloshi atomiko]] a kambia kada aña i e la wordu di stuur den direkshon pa kuadra ku e tempu di solo di e GMT. Na Januari 1972, oloshinan atomiko a keda fixa anto un [[Schrikkel Seconde]] perdefina a wordu pone pa remplasa e kambionan. E nobo systema aki ta yama Tempu Universal Kordina (Coordinated Universal Time) UTC. Schrikkel secondes a wordu pone a laga e oloshi keda den 0.9 seconden di e UT1. Na e manera aki, tempu lokal ta keda korresponde na e tempu di solo, terwijl e variashonan den e rotashon di mundu ta konstrina na un simpel kambio di stap ku mas fasilmente por wordu applika pa obtene un tempu standaart uniforma (Tempu Internashonal Atomiko of TAi. Ke e implementashon di UTC, nashonan a kominsa use den e definashon na luga di GMT. Te Ku 2005 mayoria pero no tur nashon a altera e definishon de nan tempu lokal den e manera aki (ounke hopi hende no ta mira un destinkson entre GMT anto UTC). Kambionan den futuro por pasa si bin ku e desishon pa abandona shrikkel secondes.
 
 Dor di e daylight savings time, UTC e tempu lokal na e Observatorio Royal na Greenwich solamente entre 01:00 UTC riba e delaster djadumingu na Oktober i 01:00 UTC riba e delaster djadumingu na Maart. Pa e restante di aña, temou lokal einan ta [[UTC+01]], konosi na [[Inglaterra]] komo tempu britanniko di zomer (British Summer Time BST). Sircumstansia similar ta wordu applika na otro luganan.
 
 [[Categoria:Geografia]]
 
-==Notashon di Tempu (ISO 8601)==
+== Notashon di Tempu (ISO 8601) ==
 
-===UTC===
+=== UTC ===
 Si e tempu ta na Tempu Koordinal Universal (UTC), pone un 'z' direktamente patras di e tempu sin un espasio. 'Z' ta e designator di e zona di tempu pa e UTC. "09:30 UTC" ta bira representa komi "09:30Z" of "0930Z". "14:45:14" lo bira "14:45:15Z' of "144515Z"
 
 UTC tambe ta konsi komo tempu Zulu pasobra 'Zulu' ta codigo pa 'Z' na e [[Alphabet di ICAO]]
 
-===Time zone as offsets from UTC===
-Zona di tempu ta skibi manera un ''offset'' di UTC den e formaat ±[hh]:[mm], ±[hh][mm], of ±[hh]. Esei kemen ku e tempu ta describi manera un ora prome ku UTC (meskos ku e tempu na [[Berlin]] den winter), e zona designator lo ta  "+01:00", "+0100", of simplemente "+01". Eskaki ta appende na e tempu meskos ku 'Z' tabata ariba. E offset di UTC ku [[Daylight savings Time]]. Kemen e tempu di [[Chicago]], ku ta situa na e zona di tempu Zmerican Central Time Zone, lo ta  "[[UTC−06|−06:00]]" Pa winter i "[[UTC−05|−05:00]]" pa zomer.
+=== Time zone as offsets from UTC ===
+Zona di tempu ta skibi manera un ''offset'' di UTC den e formaat ±[hh]:[mm], ±[hh][mm], of ±[hh]. Esei kemen ku e tempu ta describi manera un ora prome ku UTC (meskos ku e tempu na [[Berlin]] den winter), e zona designator lo ta "+01:00", "+0100", of simplemente "+01". Eskaki ta appende na e tempu meskos ku 'Z' tabata ariba. E offset di UTC ku [[Daylight savings Time]]. Kemen e tempu di [[Chicago]], ku ta situa na e zona di tempu Zmerican Central Time Zone, lo ta "[[UTC−06|−06:00]]" Pa winter i "[[UTC−05|−05:00]]" pa zomer.
 
-===Abbreviashonan===
+=== Abbreviashonan ===
 
 Zona di tempu hopi biaha ta wordu representa dor di abbrevashon manera "EST, WST, CST" pero esakinan no ta parti di e tempu standaart internashonal ISO 8601 anto nan uso ta pa solamente designa e zona di tempu i esaki mes no ta rekomenda. Un par di e abbrevashonan aki por refferensia na differente zona di tempu na otro continente, por ehemper EST, WST, CST por refferensia na na e tempu Oost, West, i Suit, na [[Estandonan Uni|Merka]] i tambe na [[Australia]].
 
-==Ejemplonan==
+== Ejemplonan ==
 
 E ejemplonan aki ta duna e tempu lokal na e siguiente lokashonan ront mundu na 12:00 UTC ora daylight savings time (of tempu di zomer) no tin effekto.
 
@@ -248,6 +248,7 @@ E ejemplonan aki ta duna e tempu lokal na e siguiente lokashonan ront mundu na 1
 [[he:אזור זמן]]
 [[hi:समय मण्डल]]
 [[hr:Vremenska zona]]
+[[hsb:Časowe pasmo]]
 [[hu:Időzóna]]
 [[hy:Ժամային գոտի]]
 [[ia:Fuso horari]]
