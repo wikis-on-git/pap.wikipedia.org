@@ -43,7 +43,7 @@ Figuranan indika ku "estima di NU" ta basá riba e e estima di Divishon di Pobla
 |-
 |13 || align=left|'''[[Vietnam]]''' || 85,789,573 || April 1, 2009 || 1.26% || style="font-size: 75%"|[http://www.gso.gov.vn/default_en.aspx?tabid=462&idmid=2&ItemID=9198 Preliminary 2009 census result]
 |-
-|14 ||'''[[Alemania]]''' || 81,757,600 || January 1, 2010 || 1.2% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|14 || align=left|'''[[Alemania]]''' || 81,757,600 || January 1, 2010 || 1.2% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
 |15 || align=left|'''[[Ethiopia]]''' || 79,221,000 || July 2008 ||  1.16% || style="font-size: 75%"|
 [http://www.csa.gov.et/surveys/National%20statistics/national%20statistics%202007/Population.pdf Ethiopia Central Statistics Agency]
@@ -380,13 +380,13 @@ UN estimate
 |-
 |179 || align=left|''[[Samoa]]'' || 179,000 ||  || {{#expr: 198000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|180 || align=left|''[[Guam'' || 178,000 ||  || {{#expr: 179000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|180 || align=left|''[[Guam]]'' || 178,000 ||  || {{#expr: 179000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|181 || align=left|'''[[Saint Lucia''' || 172,000 ||  || {{#expr: 178000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|181 || align=left|'''[[Saint Lucia]]''' || 172,000 ||  || {{#expr: 178000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |182 || align=left|'''[[São Tomé i Príncipe]]''' || 163,000 ||  || {{#expr: 172000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|183 || align=left|''[[Korsou]['' || 142,180 ||  || {{#expr: 163000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|183 || align=left|''[[Korsou]]'' || 142,180 ||  || {{#expr: 163000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |184 || align=left|''[[U.S Virgin Islands]]'' || 109,000 ||  || {{#expr: 111000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
