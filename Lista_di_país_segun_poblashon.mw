@@ -140,21 +140,21 @@ UN estimate
 |-
 |60 || align="left"|'''[[Chile]]''' || 17,089,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || 0.25% || style="font-size: 75%"|[http://www.ine.cl/canales/chile_estadistico/demografia_y_vitales/proyecciones/Informes/Microsoft%20Word%20-%20InforP_T.pdf Official INE projection] (p.36)
 |-
-|61 || align=left|'''[[Hulanda]]''' || 16,617,975 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:{{NetherlandsPop}} / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.cbs.nl/en-GB/menu/themas/bevolking/cijfers/extra/bevolkingsteller.htm Official Netherlands population clock]
+|61 || align=left|'''[[Hulanda]]''' || 16,617,975 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || 0.242%% || style="font-size: 75%"|[http://www.cbs.nl/en-GB/menu/themas/bevolking/cijfers/extra/bevolkingsteller.htm Official Netherlands population clock]
 |-
-|62 || align=left|'''[[Kazakhstan]]''' || 15,776,492 || July 1, 2009 || {{#expr: 15776492 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.eng.stat.kz/digital/Population/DocLib/hs0906eks.xls National Statistics Agency estimate]
+|62 || align=left|'''[[Kazakhstan]]''' || 15,776,492 || July 1, 2009 || 0.24% || style="font-size: 75%"|[http://www.eng.stat.kz/digital/Population/DocLib/hs0906eks.xls National Statistics Agency estimate]
 |-
-|63 || align=left|'''[[Burkina Faso]]''' || 15,757,000 ||  || {{#expr: 15757000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|63 || align=left|'''[[Burkina Faso]]''' || 15,757,000 ||  || 0.23% || style="font-size: 75%"|UN estimate
 |-
-|64 || align=left|'''[[Niger]]''' || 15,290,000 ||  || {{#expr: 15290000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|64 || align=left|'''[[Niger]]''' || 15,290,000 ||  || 0.23% || style="font-size: 75%"|UN estimate
 |-
-|65 || align=left|'''[[Malawi]]''' || 15,263,000 ||  || {{#expr: 15263000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|65 || align=left|'''[[Malawi]]''' || 15,263,000 ||  || 0.23% || style="font-size: 75%"|UN estimate
 |-
-|66 || align=left|'''[[Kambodia]]''' || 14,805,000 ||  || {{#expr: 14805000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
+|66 || align=left|'''[[Kambodia]]''' || 14,805,000 ||  || 0.22% || style="font-size: 75%"|UN estimate
 |-
-|67 || align=left|'''[[Mali]]''' || 14,517,176 || April 1, 2009 || {{#expr: 14517176 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://instat.gov.ml/voir_actu.aspx?lactu=44 Preliminary 2009 census result]
+|67 || align=left|'''[[Mali]]''' || 14,517,176 || April 1, 2009 || 0.21% || style="font-size: 75%"|[http://instat.gov.ml/voir_actu.aspx?lactu=44 Preliminary 2009 census result]
 |-
-|68 || align=left|'''[[Ecuador]]''' || 14,198,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(14005450 + 545 * {{Age in days|2009|6|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.inec.gov.ec Official Ecuadorian population clock]
+|68 || align=left|'''[[Ecuador]]''' || 14,198,000 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || 0.21% || style="font-size: 75%"|[http://www.inec.gov.ec Official Ecuadorian population clock]
 |-
 |69 || align=left|'''[[Guatemala]]''' || 14,027,000 ||  || {{#expr: 14027000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
