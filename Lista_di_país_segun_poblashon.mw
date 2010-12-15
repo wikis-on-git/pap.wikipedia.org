@@ -184,7 +184,7 @@ UN estimate
 |-
 |82 || align=left|'''[[Haiti]]''' || 10,033,000 ||  || {{#expr: 10033000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|83 || align=left|'''{[[Hungaria]]''' || 10,013,628 || January 1, 2010 || {{#expr: 10013628 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|83 || align=left|'''[[Hungaria]]''' || 10,013,628 || January 1, 2010 || {{#expr: 10013628 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
 |84 || align=left|'''[[Rwanda]]''' || 9,998,000 ||  || {{#expr: 9998000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
@@ -225,13 +225,13 @@ UN estimate
 |-
 |102 || align=left|'''[[Libya]]''' || 6,420,000 ||  || {{#expr: 6420000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|103 || align=left|'''{[[Paraguay]]''' || 6,349,000 ||  || {{#expr: 6349000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|103 || align=left|'''[[Paraguay]]''' || 6,349,000 ||  || {{#expr: 6349000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |104 || align=left|'''[[Laos]]''' || 6,320,000 ||  || {{#expr: 6320000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |105 || align=left|'''[[Jordan]]''' || 6,316,000 ||  || {{#expr: 6316000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|106 || align=left|'''{[[El Salvador]]''' || 6,163,000 ||  || {{#expr: 6163000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|106 || align=left|'''[[El Salvador]]''' || 6,163,000 ||  || {{#expr: 6163000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |107 || align=left|'''[[Nicaragua]]''' || 5,743,000 ||  || {{#expr: 5743000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
@@ -259,216 +259,219 @@ UN estimate
 |-
 |119 || align=left|'''[[Irlandia]]''' || 4,459,300 || April 1, 2009 || {{#expr: 4422100 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.cso.ie/releasespublications/documents/population/current/popmig.pdf Irish Central Statistics Office estimate]
 |-
-|120 || align=left|'''{{flag|Croatia}}''' || 4,435,056 || January 1, 2009 || {{#expr: 4435056 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|120 || align=left|'''[[Kroatia]]''' || 4,435,056 || January 1, 2009 || {{#expr: 4435056 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|121 || align=left|'''{{flag|Central African Republic}}''' || 4,422,000 ||  || {{#expr: 4422000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|121 || align=left|'''[[Republika Sentral Afrikano]]''' || 4,422,000 ||  || {{#expr: 4422000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|122 || align=left|'''{{flag|Georgia}}''' {{ref|n11|n11}} || 4,385,400 || January 1, 2009 || {{#expr: 4385400 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.geostat.ge/index.php?action=page&p_id=473&lang=eng National Statistics Office of Georgia]
+|122 || align=left|'''[[Georgia]]''' {{ref|n11|n11}} || 4,385,400 || January 1, 2009 || {{#expr: 4385400 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.geostat.ge/index.php?action=page&p_id=473&lang=eng National Statistics Office of Georgia]
 |-
-|123 || align=left|'''{{flag|New Zealand}}''' || {{formatnum:{{#expr: 43200 + 1.64 * {{Age in days|2009|7|21}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, New Zealand pop clock adds 164 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (4320000 + 164 * {{Age in days|2009|7|21}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.stats.govt.nz/methods_and_services/population_clock.aspx Official New Zealand Population clock]
+|123 || align=left|'''[[Nobo Zelandia]]''' || {{formatnum:{{#expr: 43200 + 1.64 * {{Age in days|2009|7|21}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, New Zealand pop clock adds 164 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (4320000 + 164 * {{Age in days|2009|7|21}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.stats.govt.nz/methods_and_services/population_clock.aspx Official New Zealand Population clock]
 |-
-|124 || align=left|'''{{flag|Lebanon}}''' || 4,224,000 ||  || {{#expr: 4224000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|124 || align=left|'''[[Libanon]]''' || 4,224,000 ||  || {{#expr: 4224000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|125 || align=left|''{{flag|Puerto Rico}}'' || 3,982,000 ||  || {{#expr: 3982000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|125 || align=left|''[[Puerto Rico]]'' || 3,982,000 ||  || {{#expr: 3982000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|126 || align=left|'''{{flag|Bosnia and Herzegovina}}''' || 3,767,000 ||  || {{#expr: 3767000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|126 || align=left|'''[[Bosnia and Herzegovina]]''' || 3,767,000 ||  || {{#expr: 3767000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|127 || align=left|'''''{{flag|Palestine}}''''' || 3,935,249 || Mid 2009 || {{#expr: 3935249 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.pcbs.gov.ps/Portals/_pcbs/child/demog.htm Palestinian Central Bureau of Statistics]
+|127 || align=left|'''''[[Palestina]]''''' || 3,935,249 || Mid 2009 || {{#expr: 3935249 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.pcbs.gov.ps/Portals/_pcbs/child/demog.htm Palestinian Central Bureau of Statistics]
 |-
-|128 || align=left|'''{{flag|Republic of the Congo}}''' || 3,683,000 ||  || {{#expr: 3683000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|128 || align=left|'''[[Republika di Kongo]]''' || 3,683,000 ||  || {{#expr: 3683000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|129 || align=left|'''{{flag|Moldova}}''' {{ref|n12|n12}} || 3,563,800 || January 1, 2010 || {{#expr: 3563800 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.statistica.md/index.php?l=en National Bureau of Statistics of Moldova]
+|129 || align=left|'''[[Moldova]]''' {{ref|n12|n12}} || 3,563,800 || January 1, 2010 || {{#expr: 3563800 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.statistica.md/index.php?l=en National Bureau of Statistics of Moldova]
 |-
-|130 || align=left|'''{{flag|Liberia}}''' || 3,476,608 || March 21, 2008 || {{#expr: 3476608 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.emansion.gov.lr/doc/Population_by_County.pdf 2008 Population and Housing Census]
+|130 || align=left|'''[[Liberia]]''' || 3,476,608 || March 21, 2008 || {{#expr: 3476608 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.emansion.gov.lr/doc/Population_by_County.pdf 2008 Population and Housing Census]
 |-
-|131 || align=left|'''{{flag|Uruguay}}''' || 3,361,000 ||  || {{#expr: 3361000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|131 || align=left|'''[[Uruguay]]''' || 3,361,000 ||  || {{#expr: 3361000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|132 || align=left|'''{{flag|Lithuania}}''' || 3,329,227 || January 1, 2010 || {{#expr: 3329227 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|132 || align=left|'''[[Lithuania]]''' || 3,329,227 || January 1, 2010 || {{#expr: 3329227 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|133 || align=left|'''{{flag|Panama}}''' || 3,322,576 || May 16, 2010 || {{#expr: 3322576 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.censos2010.gob.pa/Resultados/cuadros.aspx Official INEC preliminary 2010 census result]
+|133 || align=left|'''[[Panama]]''' || 3,322,576 || May 16, 2010 || {{#expr: 3322576 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.censos2010.gob.pa/Resultados/cuadros.aspx Official INEC preliminary 2010 census result]
 |-
-|134 || align=left|'''{{flag|Mauritania}}''' || 3,291,000 ||  || {{#expr: 3291000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|134 || align=left|'''[[Mauritania]]''' || 3,291,000 ||  || {{#expr: 3291000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|135 || align=left|'''{{flag|Armenia}}''' || 3,238,000 || January 1, 2009 || {{#expr: 3238000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.armstat.am/file/article/poverty_2009e_2.pdf National Statistical Service of Armenia]
+|135 || align=left|'''[[Armenia]]''' || 3,238,000 || January 1, 2009 || {{#expr: 3238000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.armstat.am/file/article/poverty_2009e_2.pdf National Statistical Service of Armenia]
 |-
-|136 || align=left|'''{{flag|Albania}}''' || 3,195,000 || January 1, 2010 || {{#expr: 3195000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.instat.gov.al/graphics/doc/tabelat/Treguesit%20Sociale/Popullsia/POP%202009/t3.xls Institute of Statistics INSTAT Albania]
+|136 || align=left|'''[[Albania]]''' || 3,195,000 || January 1, 2010 || {{#expr: 3195000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.instat.gov.al/graphics/doc/tabelat/Treguesit%20Sociale/Popullsia/POP%202009/t3.xls Institute of Statistics INSTAT Albania]
 |-
-|137 || align=left|'''{{flag|Kuwait}}''' || 2,985,000 ||  || {{#expr: 2985000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|137 || align=left|'''[[Kuwait]]''' || 2,985,000 ||  || {{#expr: 2985000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|138 || align=left|'''{{flag|Oman}}''' || 2,845,000 ||  || {{#expr: 2845000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|138 || align=left|'''[[Oman]]''' || 2,845,000 ||  || {{#expr: 2845000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|139 || align=left|'''{{flag|Mongolia}}''' || {{formatnum:{{#expr: 27500 + 1.35 * {{Age in days|2010|3|27}} round 0}}00 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Mongolian pop clock adds 131 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(2750000 + 135 * {{Age in days|2010|3|27}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.nso.mn/v3/index2.php Official Mongolian population clock]
+|139 || align=left|'''[[Mongolia]]''' || {{formatnum:{{#expr: 27500 + 1.35 * {{Age in days|2010|3|27}} round 0}}00 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Mongolian pop clock adds 131 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(2750000 + 135 * {{Age in days|2010|3|27}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.nso.mn/v3/index2.php Official Mongolian population clock]
 |-
-|140 || align=left|'''{{flag|Jamaica}}''' || 2,719,000 ||  || {{#expr: 2719000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|140 || align=left|'''[[Jamaica]]''' || 2,719,000 ||  || {{#expr: 2719000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|141 || align=left|'''{{flag|Latvia}}''' || 2,241,500 || May 1, 2010 || {{#expr: 2241500 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.csb.gov.lv/csp/content/?cat=2269 Official Statistics of Latvia]
+|141 || align=left|'''[[Latvia]]''' || 2,241,500 || May 1, 2010 || {{#expr: 2241500 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.csb.gov.lv/csp/content/?cat=2269 Official Statistics of Latvia]
 |-
-|142 || align=left|'''{{flag|Namibia}}''' || 2,171,000 ||  || {{#expr: 2171000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|142 || align=left|'''[[Namibia]]''' || 2,171,000 ||  || {{#expr: 2171000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|143 || align=left|'''{{flag|Lesotho}}''' || 2,067,000 ||  || {{#expr: 2067000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|143 || align=left|'''[[Lesotho]]''' || 2,067,000 ||  || {{#expr: 2067000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|144 || align=left|'''{{flag|Slovenia}}''' || {{formatnum:{{#expr: 204590 + 5.3 * {{Age in days|2009|9|30}} round 0}}0 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Slovenian pop clock adds 53 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(2045901 + 53 * {{Age in days|2009|9|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.stat.si/eng/preb_ura.asp Official Slovenian population clock]
+|144 || align=left|'''[[Slovenia]]''' || {{formatnum:{{#expr: 204590 + 5.3 * {{Age in days|2009|9|30}} round 0}}0 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Slovenian pop clock adds 53 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(2045901 + 53 * {{Age in days|2009|9|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.stat.si/eng/preb_ura.asp Official Slovenian population clock]
 |-
-|145 || align=left|'''{{flag|Republic of Macedonia}}''' || 2,048,620 || January 1, 2009 || {{#expr: 2048620 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|145 || align=left|'''[[Republika di Macedonia]]''' || 2,048,620 || January 1, 2009 || {{#expr: 2048620 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|146 || align=left|'''{{flag|Botswana}}''' || 1,950,000 ||  || {{#expr: 1950000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|146 || align=left|'''[[Botswana]]''' || 1,950,000 ||  || {{#expr: 1950000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|147 || align=left|'''{{flag|Gambia}}''' || 1,705,000 ||  || {{#expr: 1705000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|147 || align=left|'''[[Gambia]]''' || 1,705,000 ||  || {{#expr: 1705000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|148 || align=left|'''{{flag|Guinea-Bissau}}''' || 1,611,000 ||  || {{#expr: 1611000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|148 || align=left|'''[[Guinea-Bissau]]''' || 1,611,000 ||  || {{#expr: 1611000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|149 || align=left|'''{{flag|Gabon}}''' || 1,475,000 ||  || {{#expr: 1475000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|149 || align=left|'''[[Gabon]]''' || 1,475,000 ||  || {{#expr: 1475000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|150 || align=left|'''{{flag|Qatar}}''' || 1,409,000 ||  || {{#expr: 1409000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|150 || align=left|'''[[Qatar]]''' || 1,409,000 ||  || {{#expr: 1409000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|151 || align=left|'''{{flag|Estonia}}''' || 1,340,021 || January 1, 2010 || {{#expr: 1340021 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.stat.ee/main-indicators]
+|151 || align=left|'''[[Estonia]]''' || 1,340,021 || January 1, 2010 || {{#expr: 1340021 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.stat.ee/main-indicators]
 |-
-|152 || align=left|'''{{flag|Trinidad and Tobago}}''' || 1,339,000 ||  || {{#expr: 1339000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|152 || align=left|'''[[Trinidad i Tobago]]''' || 1,339,000 ||  || {{#expr: 1339000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|153 || align=left|'''{{flag|Mauritius}}''' {{ref|n13|n13}} || 1,288,000
+|153 || align=left|'''[[Mauritius]]''' {{ref|n13|n13}} || 1,288,000
  ||  || {{#expr: 1288000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|154 || align=left|'''{{flag|Swaziland}}''' || 1,185,000 ||  || {{#expr: 1185000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|154 || align=left|'''[[Swaziland]]''' || 1,185,000 ||  || {{#expr: 1185000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|155 || align=left|'''{{flag|East Timor}}''' || 1,134,000 ||  || {{#expr: 1134000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|155 || align=left|'''[[Ost Timor]]''' || 1,134,000 ||  || {{#expr: 1134000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|156 || align=left|'''{{flag|Djibouti}}''' || 864,000 ||  || {{#expr: 864000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|156 || align=left|'''[[Djibouti]]''' || 864,000 ||  || {{#expr: 864000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|157 || align=left|'''{{flag|Fiji}}''' || 849,000 ||  || {{#expr: 849000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|157 || align=left|'''[[Fiji]]''' || 849,000 ||  || {{#expr: 849000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|158 || align=left|'''{{flag|Cyprus}}''' {{ref|n14|n14}} || 801,851 || January 1, 2010 || {{#expr: 801851 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1  Eurostat estimate]
+|158 || align=left|'''[[Cyprus]]''' {{ref|n14|n14}} || 801,851 || January 1, 2010 || {{#expr: 801851 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1  Eurostat estimate]
 |-
-|159 || align=left|'''{{flag|Bahrain}}''' || 791,000 ||  || {{#expr: 791000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|159 || align=left|'''[[Bahrain]]''' || 791,000 ||  || {{#expr: 791000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|160 || align=left|'''{{flag|Guyana}}''' || 762,000 ||  || {{#expr: 762000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|160 || align=left|'''[[Guiana]]''' || 762,000 ||  || {{#expr: 762000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|161 || align=left|'''{{flag|Bhutan}}''' || 697,000 ||  || {{#expr: 697000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|161 || align=left|'''[[Bhutan]]''' || 697,000 ||  || {{#expr: 697000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|162 || align=left|'''{{flag|Comoros}}''' {{ref|n15|n15}} || 676,000 ||  || {{#expr: 676000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|162 || align=left|'''[[Comoros]]''' {{ref|n15|n15}} || 676,000 ||  || {{#expr: 676000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|163 || align=left|'''{{flag|Equatorial Guinea}}''' <ref>A 2003 U.S State Department report states the following: "Although the 2002 census estimated the population at 1,015,000, credible estimates put the number at closer to 500,000. The opposition claimed that the Government inflated the census in anticipation of the December presidential election." (...) "Opposition leaders charged earlier in the year that census results showing a twofold population increase were flawed and that numbers were inflated to perpetuate election fraud." [http://www.state.gov/g/drl/rls/hrrpt/2002/18181.htm] The official census figures are available [http://www.dgecnstat-ge.org/Datos/estructurales/Poblacion.htm here].</ref> || 676,000 ||  || {{#expr: 507000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|163 || align=left|'''[[Guinea Equatorial]]''' <ref>A 2003 U.S State Department report states the following: "Although the 2002 census estimated the population at 1,015,000, credible estimates put the number at closer to 500,000. The opposition claimed that the Government inflated the census in anticipation of the December presidential election." (...) "Opposition leaders charged earlier in the year that census results showing a twofold population increase were flawed and that numbers were inflated to perpetuate election fraud." [http://www.state.gov/g/drl/rls/hrrpt/2002/18181.htm] The official census figures are available [http://www.dgecnstat-ge.org/Datos/estructurales/Poblacion.htm here].</ref> || 676,000 ||  || {{#expr: 507000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|164 || align=left|'''{{flag|Montenegro}}''' || 624,000 ||  || {{#expr: 624000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|164 || align=left|'''[[Montenegro]]''' || 624,000 ||  || {{#expr: 624000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|165 || align=left|''{{flag|Macau}}'' || 542,200 || December 31, 2009 || {{#expr: 542200 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dsec.gov.mo/default.aspx?lang=en-US Macau Statistics and Census Service]
+|165 || align=left|''[[Macau]]'' || 542,200 || December 31, 2009 || {{#expr: 542200 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dsec.gov.mo/default.aspx?lang=en-US Macau Statistics and Census Service]
 |-
-|166 || align=left|'''{{flag|Solomon Islands}}''' || 523,000 ||  || {{#expr: 478000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|166 || align=left|'''[[Islanan Solomon]]''' || 523,000 ||  || {{#expr: 478000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|167 || align=left|'''{{flag|Suriname}}''' || 520,000 ||  || {{#expr: 520000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|167 || align=left|'''[[Suriname]]''' || 520,000 ||  || {{#expr: 520000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|168 || align=left|'''''{{flag|Western Sahara}}''''' || 513,000 ||  || {{#expr: 513000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|168 || align=left|'''''[[West Sahara]]''''' || 513,000 ||  || {{#expr: 513000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|169 || align=left|'''{{flag|Cape Verde}}''' || 506,000 ||  || {{#expr: 506000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|169 || align=left|'''{[[Cape Verde]]''' || 506,000 ||  || {{#expr: 506000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|170 || align=left|'''{{flag|Luxembourg}}''' || 502,207 || January 1, 2010 || {{#expr: 502207 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|170 || align=left|'''[[Luxembourg]]''' || 502,207 || January 1, 2010 || {{#expr: 502207 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|171 || align=left|'''{{flag|Malta}}''' || 416,333 || January 1, 2010 || {{#expr: 416333 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|171 || align=left|'''[[Malta]]''' || 416,333 || January 1, 2010 || {{#expr: 416333 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
-|172 || align=left|'''{{flag|Brunei}}''' || 400,000 ||  || {{#expr: 400000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|172 || align=left|'''[[Brunei]]''' || 400,000 ||  || {{#expr: 400000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|173 || align=left|'''{{flag|Bahamas}}''' || 342,000 ||  || {{#expr: 342000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|173 || align=left|'''[[Bahamas]]''' || 342,000 ||  || {{#expr: 342000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|174 || align=left|'''{{flag|Belize}}''' || 322,100 || June 30, 2008 || {{#expr: 322100 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.cso.gov.bz/dms20uc/dynamicdata/docs/20090227122642_2.pdf Statistical Institute of Belize]
+|174 || align=left|'''[[Belize]]''' || 322,100 || June 30, 2008 || {{#expr: 322100 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.cso.gov.bz/dms20uc/dynamicdata/docs/20090227122642_2.pdf Statistical Institute of Belize]
 |-
-|175 || align=left|'''{{flag|Iceland}}''' || 317,900 || April 1, 2010 || {{#expr: 317900 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.statice.is/ Statistics Iceland]
+|175 || align=left|'''[[Eisland]]''' || 317,900 || April 1, 2010 || {{#expr: 317900 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.statice.is/ Statistics Iceland]
 |-
-|176 || align=left|'''{{flag|Maldives}}''' || 309,000 ||  || {{#expr: 309000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|176 || align=left|'''[[Maldivonan]]''' || 309,000 ||  || {{#expr: 309000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|177 || align=left|'''{{flag|Barbados}}''' || 256,000 ||  || {{#expr: 256000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|177 || align=left|'''[[Barbados]]''' || 256,000 ||  || {{#expr: 256000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|178 || align=left|'''{{flag|Vanuatu}}''' || 240,000 ||  || {{#expr: 240000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|178 || align=left|'''[[Vanuatu]]''' || 240,000 ||  || {{#expr: 240000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|179 || align=left|''{{flag|Netherlands Antilles}}'' || 198,000 ||  || {{#expr: 198000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|179 || align=left|''[[Samoa]]'' || 179,000 ||  || {{#expr: 198000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|180 || align=left|'''{{flag|Samoa}}''' || 179,000 ||  || {{#expr: 179000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|180 || align=left|''[[Guam'' || 178,000 ||  || {{#expr: 179000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|181 || align=left|''{{flag|Guam}}'' || 178,000 ||  || {{#expr: 178000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|181 || align=left|'''[[Saint Lucia''' || 172,000 ||  || {{#expr: 178000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|182 || align=left|'''{{flag|Saint Lucia}}''' || 172,000 ||  || {{#expr: 172000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|182 || align=left|'''[[São Tomé i Príncipe]]''' || 163,000 ||  || {{#expr: 172000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|183 || align=left|'''{{flag|São Tomé and Príncipe}}''' || 163,000 ||  || {{#expr: 163000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|183 || align=left|''[[Korsou]['' || 142,180 ||  || {{#expr: 163000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|184 || align=left|'''{{flag|Federated States of Micronesia}}''' || 111,000 ||  || {{#expr: 111000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|184 || align=left|''[[U.S Virgin Islands]]'' || 109,000 ||  || {{#expr: 111000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|185 || align=left|''{{flag|U.S. Virgin Islands}}'' || 110,000 ||  || {{#expr: 110000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|185 || align=left|'''[[Saint Vincent i e Grenadinesnan]]''' || 109,000 ||  || {{#expr: 110000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|186 || align=left|'''{{flag|Saint Vincent and the Grenadines}}''' || 109,000 ||  || {{#expr: 109000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|186 || align=left|'''[[Estadonan Federa di Mikronesia]]''' || 107,839 ||  || {{#expr: 109000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|187 || align=left|''{{flag|Aruba}}'' || 107,000 ||  || {{#expr: 107000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|187 || align=left|''[[Aruba]]'' || 107,000 ||  || {{#expr: 107000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|188 || align=left|'''{{flag|Grenada}}''' || 104,000 ||  || {{#expr: 104000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|188 || align=left|'''[[Grenada]]''' || 104,000 ||  || {{#expr: 104000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|189 || align=left|'''{{flag|Tonga}}''' || 104,000 ||  || {{#expr: 104000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|189 || align=left|'''[[Tonga]]''' || 104,000 ||  || {{#expr: 104000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|190 || align=left|'''{{flag|Kiribati}}''' || 98,000 ||  || {{#expr: 98000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|190 || align=left|'''[[Kiribati]]''' || 98,000 ||  || {{#expr: 98000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|191 || align=left|''{{flag|Jersey}}'' || 90,050 || Mid 2007 || {{#expr: 90050 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://unstats.un.org/unsd/demographic/products/vitstats/serATab2.pdf UN estimate: Series A, Table 2]
+|191 || align=left|''[[Jersey]]'' || 90,050 || Mid 2007 || {{#expr: 90050 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://unstats.un.org/unsd/demographic/products/vitstats/serATab2.pdf UN estimate: Series A, Table 2]
 |-
-|192 || align=left|'''{{flag|Antigua and Barbuda}}''' || 88,000 ||  || {{#expr: 88000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|192 || align=left|'''[[Antigua i Barbuda]]''' || 88,000 ||  || {{#expr: 88000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|193 || align=left|''{{flag|Northern Mariana Islands}}'' || 87,000 ||  || {{#expr: 87000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|193 || align=left|''[[Islanan Mariana Nort]]'' || 87,000 ||  || {{#expr: 87000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|194 || align=left|'''{{flag|Andorra}}''' || 84,082 ||December 31, 2009  || {{#expr: 84082 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.estadistica.ad/serveiestudis/noticies/noticia311cat.pdf]
+|194 || align=left|'''[[Andorra]]''' || 84,082 ||December 31, 2009  || {{#expr: 84082 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.estadistica.ad/serveiestudis/noticies/noticia311cat.pdf]
 |-
-|195 || align=left|'''{{flag|Seychelles}}''' || 84,000 ||  || {{#expr: 84000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|195 || align=left|'''[[Seychellnan]]''' || 84,000 ||  || {{#expr: 84000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|196 || align=left|''{{flag|Isle of Man}}'' || 80,000 ||  || {{#expr: 80000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|196 || align=left|''[[Isle of Man]]'' || 80,000 ||  || {{#expr: 80000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|197 || align=left|'''{{flag|Dominica}}''' || 67,000 ||  || {{#expr: 67000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|197 || align=left|'''[[Dominica]]''' || 67,000 ||  || {{#expr: 67000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|198 || align=left|''{{flag|American Samoa}}'' || 67,000 ||  || {{#expr: 67000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|198 || align=left|''[[Samoa Merikano]]'' || 67,000 ||  || {{#expr: 67000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|199 || align=left|''{{flag|Bermuda}}'' || 65,000 ||  || {{#expr: 65000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|199 || align=left|''[[Bermuda]]'' || 65,000 ||  || {{#expr: 65000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|200 || align=left|'''{{flag|Marshall Islands}}''' || 62,000 ||  || {{#expr: 62000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|200 || align=left|'''[[Islanan Marshall]]''' || 62,000 ||  || {{#expr: 62000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|201 || align=left|''{{flag|Guernsey}}'' || 61,811 || March 1, 2007 || {{#expr: 61811 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://unstats.un.org/unsd/demographic/products/vitstats/serATab2.pdf UN estimate: Series A, Table 2]
+|201 || align=left|''[[Guernsey]]'' || 61,811 || March 1, 2007 || {{#expr: 61811 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://unstats.un.org/unsd/demographic/products/vitstats/serATab2.pdf UN estimate: Series A, Table 2]
 |-
-|202 || align=left|''{{flag|Greenland}}'' || 57,000 ||  || {{#expr: 57000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|202 || align=left|''[[Groenlandia]]'' || 57,000 ||  || {{#expr: 57000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|203 || align=left|''{{flag|Cayman Islands}}'' || 56,000 ||  || {{#expr: 56000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|203 || align=left|''[[Cayman Islands]]'' || 56,000 ||  || {{#expr: 56000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|204 || align=left|'''{{flag|Saint Kitts and Nevis}}''' || 52,000 ||  || {{#expr: 52000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|204 || align=left|'''[[Saint Kitts i Nevis]]''' || 52,000 ||  || {{#expr: 52000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|205 || align=left|''{{flag|Faroe Islands}}'' || 48,760 ||May 1, 2010|| {{#expr: 48940 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.hagstova.fo/portal/page/portal/HAGSTOVAN/Statistics_%20Faroe_Islands Official statistics of the Faroe Islands]
+|205 || align=left|''[[Islanan Faroe]]'' || 48,760 ||May 1, 2010|| {{#expr: 48940 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.hagstova.fo/portal/page/portal/HAGSTOVAN/Statistics_%20Faroe_Islands Official statistics of the Faroe Islands]
 |-
-|206 || align=left|'''{{flag|Liechtenstein}}''' || 35,904 || December 31, 2009 || {{#expr: 35904 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|[http://www.llv.li/amtsstellen/llv-as-basisdaten.htm]
+|206 || align=left|'''[[Liechtenstein]]''' || 35,904 || December 31, 2009 || {{#expr: 35904 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|[http://www.llv.li/amtsstellen/llv-as-basisdaten.htm]
 |-
-|207 || align=left|'''{{flag|Monaco}}''' || 33,000 ||  || {{#expr: 33000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|
+|207 || align=left|'''[[Monaco]]''' || 33,000 ||  || {{#expr: 33000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|
 UN estimate
 |-
-|208 || align=left|''{{flag|Turks and Caicos Islands}}'' || 33,000 ||  || {{#expr: 33000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|208 || align=left|''[[Islanan Turks i Caicos]]'' || 33,000 ||  || {{#expr: 33000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|209 || align=left|'''{{flag|San Marino}}''' || 32,386 || Mid 2008 || {{#expr: 32386 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|[http://unstats.un.org/unsd/demographic/products/vitstats/serATab2.pdf UN estimate: Series A, Table 2]
+|209 || align=left|'''[[San Marino]]''' || 32,386 || Mid 2008 || {{#expr: 32386 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|[http://unstats.un.org/unsd/demographic/products/vitstats/serATab2.pdf UN estimate: Series A, Table 2]
 |-
-|210 || align=left|''{{flag|Gibraltar}}'' || 31,000 ||  || {{#expr: 31000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|210 || align=left|''[[Gibraltar]]'' || 31,000 ||  || {{#expr: 31000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|211 || align=left|''{{flag|British Virgin Islands}}'' || 23,000 ||  || {{#expr: 23000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|211 || align=left|''[[British Virgin Islands]]'' || 23,000 ||  || {{#expr: 23000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|212 || align=left|''{{flag|Cook Islands}}'' || 20,000 ||  || {{#expr: 20000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|212 || align=left|''[[Islanan Cook]]'' || 20,000 ||  || {{#expr: 20000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|213 || align=left|'''{{flag|Palau}}''' || 20,000 ||  || {{#expr: 20000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|213 || align=left|'''[[Palau]]''' || 20,000 ||  || {{#expr: 20000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|214 || align=left|''{{flag|Anguilla}}'' || 15,000 ||  || {{#expr: 15000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|214 || align=left|''[[Anguilla]]'' || 15,000 ||  || {{#expr: 15000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|215 || align=left|'''{{flag|Tuvalu}}''' || 10,000 ||  || {{#expr: 10000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|215 || align=left|'''[[Tuvalu]]''' || 10,000 ||  || {{#expr: 10000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|216 || align=left|'''{{flag|Nauru}}''' || 10,000 ||  || {{#expr: 10000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|216 || align=left|'''[[Nauru]]''' || 10,000 ||  || {{#expr: 10000 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|217 || align=left|''{{flag|Montserrat}}'' || 5,900 ||  || {{#expr: 5900 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|217 || align=left|''[[Montserrat]]'' || 5,900 ||  || {{#expr: 5900 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|218 || align=left|''{{flag|Saint Helena}}'' {{ref|n16|n16}} || 4,500 ||  || {{#expr: 4500 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
+|218 || align=left|''[[Santu Helena]]'' {{ref|n16|n16}} || 4,500 ||  || {{#expr: 4500 / {{worldpop}} * 100 round 4}}% || style="font-size: 75%"|UN estimate
 |-
-|219 || align=left|''{{flag|Falkland Islands}}'' || 3,000 ||  || 0.00005% || style="font-size: 75%"|UN estimate
+|219 || align=left|''[[Islanan Falkland]]'' || 3,000 ||  || 0.00005% || style="font-size: 75%"|UN estimate
 |-
-|220 || align=left|''{{flag|Niue}}'' || 1,500 ||  || 0.00003% || style="font-size: 75%"|UN estimate
+|220 || align=left|''[[Niue]]'' || 1,500 ||  || 0.00003% || style="font-size: 75%"|UN estimate
 |-
-|221 || align=left|''{{flag|Tokelau}}'' || 1,200 ||  || 0.00003% || style="font-size: 75%"|UN estimate
+|221 || align=left|''[[Tokelau]]'' || 1,200 ||  || 0.00003% || style="font-size: 75%"|UN estimate
 |-
-|222 || align=left|'''{{flag|Vatican City}}''' || 800 ||  || 0.00002% || style="font-size: 75%"|UN estimate
+|222 || align=left|'''[[Siudad Vatikano]]''' || 800 ||  || 0.00002% || style="font-size: 75%"|UN estimate
 |-
-|223 || align=left|''{{flag|Pitcairn Islands}}'' || 50 ||  || 0.000001% || style="font-size: 75%"|UN estimate
+|223 || align=left|''[[Islanan Pitcairn]]'' || 50 ||  || 0.000001% || style="font-size: 75%"|UN estimate
 |}
+
+==Referenisanan==
+{{reflist}}
 
 ==Mira tambe==
 
