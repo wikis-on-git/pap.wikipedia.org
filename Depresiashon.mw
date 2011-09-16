@@ -1,0 +1,43 @@
+'''Depresiashon''' (na hulandes: ''afschrijving'') ta un término ku ta keda usá den kontabilidat ora ta referí na redukshon di balor di un propiedat di un kompania. Esaki ta de echo un estimashon di kuantu un propiedat a keda usá pa generá ingreso. Pa kalkulá e montante di depresiashon mester di lo siguiente: e kosto, e [[balor residual]] i e durashon di e propiedat. Tur e propiedatnan ku un kompania ta doño di dje, mester wòrdu depresiá anual. Na mundu tin diferente provishon pa kon atendé ku depresiashon. E provishonnan aki ta varia pa pais, pero tambe tin sierto stándartnan internashonal ku sierto [[personanan hurídiko]] mester tene kuenta kuné. Tin diferente manera pa kalkulá e montante anual ku mester dedusí for di e balor di kompra di e propiedat. Ta trata aki di: método di liña rekta, método di redukshon di saldo, método di e suma di dígito di e término i método di uso.
+
+
+==Método di liña rekta==
+Ku e método di depresiashon aki ta dedusí anual un montante igual for di e balor inisial di e propiedat. Ta yega na e montante ku mester depresiá anual dor di kita e balor residual for di e balor di kompra i despues dividí e resultado dor di e durashon.   
+
+
+E fórmula di kalkulo ta: ( kosto inisial - balor residual ) / durashon = gastu di depresiashon
+
+
+''Ehèmpel''
+<br />
+''Kompania B a kumpra un vehíkulo pa un balor di fl. 50.000,-. E durashon ekonómiko di e vehíkulo ta 3 aña. Despues di e tres añanan aki e vehíkulo su balor residual ta fl. 5.000,-.''
+
+''( 50.000 - 5.000 ) / 3 = 15.000 esaki ta lokual mester depresiá anual durante e tres añanan. ''
+
+
+== Método di redukshon di saldo==
+Akinan ta depresiá un montante haltu den e promé añanan di uso di e propiedat i mas lat un montante mas abou. Ku otro palabra ta baha e montante di depresiashon gradualmente. Pa kalkulá esaki ta hasi uso di un porsentahe fiho. Anual ta kalkulá un porsentahe di e balor den buki di e propiedat. Ku e balor den buki kier men: e kosto inisial di e propiedat ménos e depresiashonnan akumulá. 
+
+
+E fórmula di kalkulo ta: balor den buki x porsentahe depresiashon = gastu di depresiashon
+
+
+''Ehèmpel''
+<br />
+''Kompania B a kumpra un propiedat na balor di fl. 30.000 i ta depresiá esaki degresivo ku un porsentahe di 20% anual. E balor residual di e propiedat ta fl. 10.000 i e tin un durashon di 3 aña.''
+{|
+|-
+| ''Kosto inisial'' || ''30.000''
+|-
+| ''Depresiashon aña 1 (20% di 30.000)'' || --''6.000 -/-''
+|-
+| ''Balor den buki'' || ''24.000''
+|-
+| ''Depresiashon aña 2 (20% di 24.000)'' || --''4.800 -/-''
+|-
+| ''Balor den buki'' || ''19.200''
+|-
+| ''Depresiashon aña 3 (20% di 19.200)'' || --''3.840 -/-''
+|-
+| ''Balor residual'' || ''15.360''
+|}
