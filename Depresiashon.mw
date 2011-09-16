@@ -43,7 +43,7 @@ E fórmula di kalkulo ta: balor den buki x porsentahe depresiashon = gastu di de
 |}
 
 
-== Método di e suma di dígito di e término==
+== Método di e suma di dígitonan==
 Serka e método aki ta kalkulá e tasa di depresiashon dor di relatá e añanan restante ku e bida inisial di un propiedat. Ta hasi uso akinan di dígito. 
 
 
@@ -67,4 +67,34 @@ E fórmula pa kalkulá e tasa ta: añanan restante di e propiedat / suma di aña
 | ''Depresiashon aña 3 ='' || ''2/10 x 80.000 = 16.000'' || - - - - -''Balor den buki na final di aña 3 = 44.000 - 16.000 = 28.000''
 |-
 | ''Depresiashon aña 4 ='' || ''1/10 x 80.000 = 8.000''  || - - - - -''Balor residual na final di aña 4 = 28.000 - 8.000 = 20.000''
+|}
+
+
+==Método di uso==
+Ku e método aki ta depresiá e propiedat a base di su uso. E tasa di depresiashon ta e uso òf e produkshon na kantidat. Ta dividí e total produkshon den e produkshon di e aña aktual i despues ta multipliká e resultado ku e montante total ku mester depresiá. 
+E fórmula pa e kalkulo ta: produkshon aktual / total produkshon x ( kosto inisial - balor residual )
+
+
+''Ehèmpel''
+''Kompania D tin un mashin ku por produsí 200.000 artíkulo durante su bida ekonómiko. A kumpra e mashin pa fl. 50.000,- i esaki tin un balor residual di fl. 10.000,- E produkshon den e promé kuater añanan ta lo siguiente:''
+{|
+|-
+| ''Aña 1 : 15.000 artíkulo''
+|-
+| ''Aña 2 : 25.000 artíkulo''
+|-
+| ''Aña 3 : 20.000 artíkulo''
+|-
+| ''Aña 4 : 35.000 artíkulo''
+|}
+''E montante total ku mester depresiá ta: 50.000 - 10.000 = 40.000''
+{|
+|-
+| ''Depresiashon aña 1 ='' || ''15.000/200.000 x 40.000 = 3.000'' || - - - - -''Balor den buki na final di aña 1 = 50.000 - 3.000 = 47.000''
+|-
+| ''Depresiashon aña 2 ='' || ''25.000/200.000 x 40.000 = 5.000'' || - - - - -''Balor den buki na final di aña 1 = 47.000 - 5.000 = 42.000''
+|-
+| ''Depresiashon aña 3 ='' || ''20.000/200.000 x 40.000 = 4.000'' || - - - - -''Balor den buki na final di aña 1 = 42.000 - 4.000 = 38.000''
+|-
+| ''Depresiashon aña 4 ='' || ''35.000/200.000 x 40.000 = 7.000'' || - - - - -''Balor den buki na final di aña 1 = 38.000 - 7.000 = 31.000''
 |}
