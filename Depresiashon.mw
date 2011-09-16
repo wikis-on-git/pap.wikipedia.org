@@ -41,3 +41,30 @@ E fórmula di kalkulo ta: balor den buki x porsentahe depresiashon = gastu di de
 |-
 | ''Balor residual'' || ''15.360''
 |}
+
+
+== Método di e suma di dígito di e término==
+Serka e método aki ta kalkulá e tasa di depresiashon dor di relatá e añanan restante ku e bida inisial di un propiedat. Ta hasi uso akinan di dígito. 
+
+
+E fórmula pa kalkulá e tasa ta: añanan restante di e propiedat / suma di añanan den dígito x ( kosto inisial - balor residual )
+
+
+''Ehèmpel''
+<br />
+''Kompania C tin un propiedat ku kosto di kompra di fl.100.000 kual lo tin un balor residual di fl. 20.000 despues di 4 aña.''
+
+''E suma di e digitonan ta pues: 4 + 3 + 2 + 1 = 10''
+<br />
+''E montante total ku mester depresia den e 4 añanan ta: kosto inisial - balor residual  = 100.000 - 20.000 = 80.000''
+
+{|
+|-
+| ''Depresiashon aña 1 ='' || ''4/10 x 80.000 = 32.000'' || - - - - -''Balor den buki na final di aña 1 = 100.000 - 32.000 = 68.000''
+|-
+| ''Depresiashon aña 2 ='' || ''3/10 x 80.000 = 24.000'' || - - - - -''Balor den buki na final di aña 2 = 68.000 - 24.000 = 44.000''
+|-
+| ''Depresiashon aña 3 ='' || ''2/10 x 80.000 = 16.000'' || - - - - -''Balor den buki na final di aña 3 = 44.000 - 16.000 = 28.000''
+|-
+| ''Depresiashon aña 4 ='' || ''1/10 x 80.000 = 8.000''  || - - - - -''Balor residual na final di aña 4 = 28.000 - 8.000 = 20.000''
+|}
