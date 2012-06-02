@@ -1,0 +1,207 @@
+==Betawiki: better support for your language in MediaWiki==
+Dear community. I am writing to you to promote a special wiki called [[betawiki:|Betawiki]]. This wiki facilitates the localisation (l10n) of the MediaWiki interface. You may have changed many messages here to use your language in the interface, but if you would log in to for example the Japanese language Wiktionary, you would not be able to use the interface as well translated as here. In fact, of 1,736 messages in the core of MediaWiki, 15.04% of the messages have been translated. Betawiki also supports the translation of messages for 126 extensions, with 2,174 messages. Many of them are used in WMF projects and they are vital for understanding the wiki. Currently 0.00% of the WMF extension messages have been translated. Translators for over 90 languages contribute their work to MediaWiki this way every month.
+
+If you wish to contribute to better support of your language in MediaWiki, as well as for many MediaWiki extensions, please visit [[betawiki:Translating:Intro|Betawiki]], [http://translatewiki.net/w/?title=Special:Userlogin&type=signup&uselang=en create an account] and [[betawiki:Betawiki:Rights|request translator privileges]]. You can see the current status of localisation of your language on [[mw:Localisation_statistics|MediaWiki.org]] and do not forget to get in touch with others that may already be [[betawiki:Translating:Languages|working on your language on Betawiki]].
+
+If you have any further questions, [[betawiki:User_talk:GerardM|please let me know on my talk page on Betawiki]]. We will try and assist you as much as possible, for example by [[betawiki:Import requests|importing]] all messages from a local wiki for you to start with, if you so desire.
+
+You can also find us on the Freenode [[w:en:Internet Relay Chat|IRC]] network in the channel #mediawiki-i18n where we will be happy to help you get started.
+
+Thank you very much for your attention and I do hope to see some of you on [[betawiki:|Betawiki]] soon! Thanks, [[betawiki:User:GerardM|GerardM@Betawiki]]
+
+* Currently 14.24% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Fpap recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 08:21, 21 aprel 2008 (UTC)
+* Currently 13.67% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Fpap recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 07:42, 27 mei 2008 (UTC)
+* Currently 13.38% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Fpap recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 07:27, 8 yüli 2008 (UTC)
+* Currently 12.98% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Fpap recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 13:00, 9 ougùstùs 2008 (UTC)
+* Currently 11.81% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Fpap recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 13:12, 10 sèptèmber 2008 (UTC)
+* Currently 11.55% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Fpap recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 10:09, 16 òktober 2008 (UTC)
+* Currently 11.59% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising at [http://translatewiki.net Betawiki]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&namespace=8&trailer=%2Fpap recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 13:51, 10 novèmber 2008 (UTC)
+* Currently 11.44% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|Betawiki]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 10:01, 15 desèmber 2008 (UTC)
+* Currently 11.36% of the MediaWiki messages and 0.00% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|Betawiki]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 20:02, 12 yanüari 2009 (UTC)
+:PS Please help us complete [http://translatewiki.net/w/i.php?title=Special%3ATranslate&task=untranslated&group=core-mostused&language={{CONTENTLANGUAGE}}&limit=100 the most wanted messages]..
+
+==The village pump==
+Could someome be so kind and move my contribution to your "village pump" and also, could someone please add a link to your village pump on [[meta:International names for Village Pump|meta]] [[User:GerardM|GerardM]] 10:05, 30 yanüari 2008 (UTC)
+
+==The LocalisationUpdate extension has gone live==
+
+The LocalisationUpdate extension is now enabled for all Wikimedia projects. From now on new localisations that become available in SVN will become available to your project within 24 hours. Your localisations get into SVN from [http://translatewiki.net translatewiki.net] typically within a day and at worst in two days. This is a huge improvement from the old practice where the localisations became available with new software. This could take weeks, even months.
+
+The localisations done by our community at translatewiki.net are committed to SVN typically every day. When the system messages in English are the same as the local messages, they will now be inserted in a file and are available for use in all our projects in a timely manner
+
+===What this means for you===
+Local messages have an impact on the performance of our system. It is best when messages are as much as possible part of the system messages. In order to remove unnecessary duplication, all the messages that have a local localisation and are '''exactly''' the same as the system message will be removed.  What we ask you to do is to compare and proof read the messages in translatewiki.net and the local messages. You can then either remove local messages when the translatewiki.net message is to be preferred or, you can update the message at translatewiki.net. 
+
+Messages that are specific to your project will have to stay as they are. You do want to check if the format and the variables of the message are still the same.
+
+===Why localise at translatewiki.net===
+When you localise at translatewiki.net, your messages will be used in all Wikimedia projects and eventually in all MediaWiki based projects. This is how we provide the standard support for your language. When messages change, at translatewiki.net you will be prompted to revisit your translations. Localising is more efficient because we have innovated the process to make you more efficient; there is text explaining about messages and we have applied AJAX technology to reduce the number of clicks you have to make.
+
+==Translatewiki.net update==
+*Currently 11.17% of the MediaWiki messages and 3.17% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|translatewiki.net]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 13:51, 30 sèptèmber 2009 (UTC)
+*Currently 11.06% of the MediaWiki messages and 3.03% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|translatewiki.net]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 14:31, 1 novèmber 2009 (UTC)
+*Currently 11.30% of the MediaWiki messages and 3.20% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|translatewiki.net]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 13:13, 8 desèmber 2009 (UTC)
+*Currently 11.27% of the MediaWiki messages and 3.16% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|translatewiki.net]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[User:GerardM|GerardM]] 14:49, 18 yanüari 2010 (UTC)
+
+*PS Please help us complete [http://translatewiki.net/w/i.php?title=Special%3ATranslate&task=untranslated&group=core-mostused&language={{CONTENTLANGUAGE}}&limit=100 the most wanted messages]..
+
+==How can we improve the usability for your language==
+We expect that with the implementation of LocalisationUpdate the usability of MediaWiki for your language will improve. We are now ready to look at other aspects of usability for your language as well.  There are two questions we would like you to answer:
+Are there issues with the new functionality of the Usability Initiative
+Does MediaWiki support your language properly
+
+The best way to answer the first question is to visit the translatewiki.net. Change the language to your language, select the “vector” skin and add the advanced tool bar in in the preferences and check out the new functionality. And make some changes in your user page. When there is a need to improve on the localisation, please make the [http://translatewiki.net/w/i.php?title=Special:Translate&group=ext-ui-0-all necessary changes]s . It should update your localisation straight away. 
+We would like you to report each issue individually at http://meta.wikimedia.org/wiki/Usability_issues.
+
+When there are problems with the support of MediaWiki for your language, we really want to know about this. It is best to report each issue separately. In this way there will be no large mass of issues to resolve but we can address each issue on its own. Consider issues with the display of characters, the presentation of your script, the position of the side bar, the combination of text with other languages, scripts. It is best to try this in an environment like the prototype wiki as it provides you with a clean, basic and up to date environment. The prototype wiki is available for five languages but you can select any of them, change the preferences to your language and test out MediaWiki for your language.
+
+We would like you to report each issue individually at http://meta.wikimedia.org/wiki/Language_issues. The issues you raise will all be assessed. It is important to keep each issue separate, because this will make it easier to understand the issues and find solutions.
+
+PS This text has been approved by Naoko, Brion and Siebrand. Thanks, [[User:GerardM|GerardM]] 13:51, 30 sèptèmber 2009 (UTC)
+
+[[an:Wikipedia:Comunid%C3%A1]]
+[[ar:ويكيبيديا:بوابة المجتمع]]
+[[bg:Уикипедия:Портал]]
+[[ca:Viquipèdia:Portal]]
+[[cs:Wikipedie:Portál Wikipedie]]
+[[da:Wikipedia:Forside]]
+[[de:Wikipedia:Portal]]
+[[en:Wikipedia:Community Portal]]
+[[eo:Vikipedio:Redakta subportalo]]
+[[es:Wikipedia:Portal de la comunidad]]
+[[fo:Wikipedia:Forsíða]]
+[[fr:Wikipédia:Accueil]]
+[[id:Portal Komunitas]]
+[[is:Wikipedia:Samfélagsgátt]]
+[[ja:Wikipedia:コミュニティ・ポータル]]
+[[ms:Wikipedia:Portal masyarakat]]
+[[nl:Wikipedia:Gebruikersportaal]]
+[[pl:Wikipedia:Portal wikipedystów]]
+[[ro:Portal comunitate]]
+[[ru:Википедия:Портал сообщества]]
+[[simple:Community Portal]]
+[[sv:Wikipedia:Portalen]]
+[[vi:Wikipedia:Trang Cộng Đồng]]
+[[zh:Wikipedia:首页]]
+
+==Wikimania Scholarships==
+The call for applications for Wikimania Scholarships to attend Wikimania 2010 in Gdansk, Poland (July 9-11) is now open. The Wikimedia Foundation offers Scholarships to pay for selected individuals' round trip travel, accommodations, and registration at the conference.
+To apply, visit the [[wm2010:Main Page|Wikimania 2010]] [[wm2010:Scholarships|scholarships information page]], click the secure link available there, and fill out the form to apply.
+For additional information, please visit the Scholarships information and FAQ pages:
+* [[wm2010:Scholarships|Scholarships]]
+* [[wm2010:Scholarships/FAQ|Scholarships FAQ]]
+Yours very truly,
+[[m:User:Cary Bass|Cary Bass]]</br>
+Volunteer Coordinator</br>
+Wikimedia Foundation
+
+==Fundraising 2010: Beat Jimmy Challenge==
+
+The Fundraising Committee is issuing all interested community members a challenge: [http://meta.wikimedia.org/wiki/Fundraising_2010 we want you to beat Jimmy]. The appeal from Jimmy Wales and the corresponding banner have been tested head-to-head with other successful banners, and the results are clear: it's our best performing message... by a lot. This year we have a lofty fundraising goal; we need all of our banners to bring in donations like the Jimmy Appeal, but no one wants to keep the Jimmy banner up for two months.  We want to run donor quotes, and other wonderful ideas, but we have to have banners that work as well as or better than the Jimmy appeal.
+
+We've just released the highlights from a [http://meta.wikimedia.org/wiki/Fundraising_2010#Focus_Group donor focus group], and the results of our [http://meta.wikimedia.org/wiki/File:FR_Donor_survey_report.pdf donor survey]. With one month to the launch of the fundraiser, the messages we test must be driven by data from our tests and surveys - we can no longer rely on instinct alone. 
+
+We've redesigned our fundraising meta pages with the Jimmy challenge; check out the survey results and propose/discuss banners that reflect these findings.  Add the banners you think will 'beat Jimmy' [http://meta.wikimedia.org/wiki/Fundraising_2010/Messages/BeatJimmy here] to be tested '''Tuesday October 12''' against Jimmy. -[[User:Dgultekin|Dgultekin]] 19:08, 6 òktober 2010 (UTC)
+
+== Call for image filter referendum ==
+
+The Wikimedia Foundation, at the direction of the Board of Trustees, will be holding a vote to determine whether members of the community support the creation and usage of an opt-in personal image filter, which would allow readers to voluntarily screen particular types of images strictly for their own account.
+
+Further details and educational materials will be available shortly.  The referendum is scheduled for 12-27 August, 2011, and will be conducted on servers hosted by a neutral third party.  Referendum details, officials, voting requirements, and supporting materials will be posted at [[Meta:Image filter referendum]] shortly.
+
+Sorry for delivering you a message in English. Please help translate the pages on the referendum on Meta and join the [[mail:translators-l|translators mailing list]].
+
+For the coordinating committee,<br />
+[[m:User:Philippe (WMF)|Philippe (WMF)]]<br />
+[[m:User:Cbrown1023|Cbrown1023]]<br/>
+[[m:User:Risker|Risker]]</br>
+[[m:User:Mardetanha|Mardetanha]]<br/>
+[[m:User:PeterSymonds|PeterSymonds]]<br/>
+[[m:User:Robertmharris|Robert Harris]]
+<!-- EdwardsBot 0090 -->
+
+== Terms of Use update ==
+
+''I apologize that you are receiving this message in English. Please help translate it.''
+ 
+Hello,
+ 
+The Wikimedia Foundation is discussing changes to its Terms of Use.  The discussion can be found at [[m:Talk:Terms of use|Talk:Terms of use]]. Everyone is invited to join in. Because the new version of [[m:Terms of use|Terms of use]] is not in final form, we are not able to present official translations of it. Volunteers are welcome to translate it, as German volunteers have done at [[:m:Terms of use/de]], but we ask that you note at the top that the translation is unofficial and may become outdated as the English version is changed. The translation request can be found at [[m:Translation requests/WMF/Terms of Use 2]] -- [[m:User:Mdennis (WMF)|Maggie Dennis, Community Liaison]] 01:10, 27 òktober 2011 (UTC)
+<!-- EdwardsBot 0119 -->
+
+== Open Call for 2012 Wikimedia Fellowship Applicants ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+''I apologize that you are receiving this message in English. Please
+help translate it.''
+*Do you want to help attract new contributors to Wikimedia projects?
+*Do you want to improve retention of our existing editors?
+*Do you want to strengthen our community by diversifying its base and increasing the overall number of excellent participants around the world?
+The Wikimedia Foundation is seeking Community Fellows and project ideas for the Community Fellowship Program. A Fellowship is a temporary position at the Wikimedia Foundation in order to work on a specific project or set of projects. Submissions for 2012 are encouraged to focus on the theme of improving editor retention and increasing participation in Wikimedia projects. If interested, please submit a project idea or apply to be a fellow by January 15, 2012. Please visit https://meta.wikimedia.org/wiki/Wikimedia_Fellowships for more information.
+
+Thanks!
+
+--[[m:User:Sbouterse (WMF)|Siko Bouterse, Head of Community Fellowships,
+Wikimedia Foundation]] 03:01, 22 desèmber 2011 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0139 -->
+
+== Announcing Wikipedia 1.19 beta ==
+
+Wikimedia Foundation is getting ready to push out 1.19 to all the WMF-hosted wikis.  As we finish wrapping up our code review, you can test the new version ''right now'' on [http://beta.wmflabs.org/ beta.wmflabs.org].  For more information, please read the [https://svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/RELEASE-NOTES-1.19?view=markup release notes] or the [[mw:MediaWiki_1.19|start of the final announcement]].
+
+The following are the areas that you will probably be most interested in:
+* [https://bugzilla.wikimedia.org/show_bug.cgi?id=33711#c2 Faster loading of javascript files makes dependency tracking more important.]
+* New common*.css files usable by skins instead of having to copy piles of generic styles from MonoBook or Vector's css.
+* The default user signature now contains a talk link in addition to the user link.
+* Searching blocked usernames in block log is now clearer.
+* Better timezone recognition in user preferences.
+* Improved diff readability for colorblind people.
+* The interwiki links table can now be accessed also when the interwiki cache is used (used in the API and the Interwiki extension).
+* More gender support (for instance in logs and user lists).
+* Language converter improved, e.g. it now works depending on the page content language.
+* Time and number-formatting magic words also now depend on the page content language.
+* Bidirectional support further improved after 1.18.
+
+Report any [http://labs.wikimedia.beta.wmflabs.org/wiki/Problem_reports problems] on the labs beta wiki and we'll work to address them before they software is released to the production wikis.
+
+'''Note''' that this cluster does have SUL but it is not integrated with SUL in production, so you'll need to create another account.  You should avoid using the same password as you use here.  — [[m:Global message delivery|Global message delivery]] 16:28, 15 yanüari 2012 (UTC)
+<!-- EdwardsBot 0145 -->
+
+==Language support group for Papiamento==
+The Wikimedia Foundation has brought together a new team of developers who are dedicated to language support. This team is to support all the languages and consequently it is not realistic to expect that the team members can provide proper support for your language. It is for this reason that we are looking for volunteers who will make up a [[:translatewiki:language support team|language support team]]. 
+
+This language support team will be asked to provide us with information about their language. Such information may need to be provided either to us or on a website that we will indicate to you. Another activity will be to test software that will likely have an effect on the running of the MediaWiki software. We are looking for people who clearly identify their ability. Formal knowledge is definitely appreciated.
+
+As much of the activity will be concentrated on [[:translatewiki:Main Page|translatewiki.net]], it will be a plus when team members know how to localise at translatewiki.net. <br>
+Thanks, [[User:Gmeijssen|Gmeijssen]] 18:49, 1 febrüari 2012 (UTC)
+
+== MediaWiki 1.19 ==
+
+(Apologies if this message isn't in your language.) The Wikimedia Foundation is planning to upgrade MediaWiki (the software powering this wiki) to its latest version this month. You can help to test it before it is enabled, to avoid disruption and breakage. More information is available [[:mw:MediaWiki 1.19/Deployment announcement|in the full announcement]]. Thank you for your understanding.
+
+[[:m:user:guillom|Guillaume Paumier]], via the [[:m:Global message delivery|Global message delivery system]] <small>([[:m:Distribution list/Global message delivery|wrong page? You can fix it.]])</small>. 15:14, 12 febrüari 2012 (UTC)
+<!-- EdwardsBot 0154 -->
+
+== Update on IPv6 ==
+
+[[File:Wikimedia_Foundation_RGB_logo_with_text.svg|80px|right]]
+(Apologies if this message isn't in your language. Please consider translating it, as well as '''[[m:Special:MyLanguage/IPv6 initiative/2012 IPv6 Day announcement|the full version of this announcement on Meta]]''') 
+
+The Wikimedia Foundation is planning to do limited testing of IPv6 on June 2-3. If there are not too many problems, we may fully enable IPv6 on [http://www.worldipv6day.org/ World IPv6 day] (June 6), and keep it enabled.
+
+What this means for your project:
+
+*At least on June 2-3, 2012, you may see a small number of edits from IPv6 addresses, which are in the form "<code>2001:0db8:85a3:0000:0000:8a2e:0370:7334</code>". See e.g. [[w:en:IPv6 address]]. These addresses should behave like any other IP address: You can leave messages on their talk pages; you can track their contributions; you can block them. (See [[m:Special:MyLanguage/IPv6 initiative/2012 IPv6 Day announcement|the full version of this announcement]] for notes on range blocks.)
+
+*In the mid term, some user scripts and tools will need to be adapted for IPv6. 
+
+*We suspect that IPv6 usage is going to be very low initially, meaning that abuse should be manageable, and we will assist in the monitoring of the situation.
+
+Read [[m:Special:MyLanguage/IPv6 initiative/2012 IPv6 Day announcement|the full version of this announcement]] on how to test the behavior of IPv6 with various tools and how to leave bug reports, and to find a fuller analysis of the implications of the IPv6 migration.
+
+--[[m:User:Eloquence|Erik Möller, VP of Engineering and Product Development, Wikimedia Foundation]] 01:17, 2 yüni 2012 (UTC)
+
+<small>Distributed via [[m:Global message delivery|Global message delivery]]. (Wrong page? [[m:Distribution list/Global message delivery|Fix here]].)</small>
+<!-- EdwardsBot 0201 -->
