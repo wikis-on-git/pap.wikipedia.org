@@ -1,0 +1,60 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+Use this template to link to "official" websites. The only parameter is the URL; however, a <code>name=</code> parameter can be used to reformat the title if "official website" is not suitable.
+
+Some URLs that contain special characters, such as <code>&</code> or <code>=</code>, will break the template. The solution is to prepend the URL with <code>1=</code>
+
+{|class="wikitable"
+|-
+! Code !! Result
+|-
+| <code><nowiki>{{Official website|example.org}}</nowiki></code>
+| {{Official website|example.org/}}
+|-
+| <code><nowiki>{{Official website|www.example.org}}</nowiki></code>
+| {{Official website|www.example.org/}}
+|-
+| <code><nowiki>{{Official website|http://www.example.org}}</nowiki></code>
+| {{Official website|http://www.example.org/}}
+|-
+| <code><nowiki>{{Official website|https://www.example.org}}</nowiki></code>
+| {{Official website|https://www.example.org/}}
+|-
+| <code><nowiki>{{Official website|1=http://www.example.org/?action=view}}</nowiki></code> 
+| {{Official website|1=http://www.example.org/?action=view}}
+|-
+| <code><nowiki>{{official website|http://www.example.org|name=Official example website}}</nowiki></code>
+| {{official website|http://www.example.org/|name=Official example website}}
+|}
+
+=== See also ===
+*{{Tl|URL}} – for use instead of {{Tl|Official website}} in infoboxes
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:External link templates|{{PAGENAME}}]]
+
+[[ca:Plantilla:Oficial]]
+[[de:Vorlage:Offizielle]]
+[[es:Plantilla:Web oficial]]
+[[fa:الگو:رسمی]]
+[[fr:Modèle:Officiel]]
+[[hy:Կաղապար:Պաշտոնական կայք]]
+[[id:Templat:Official]]
+[[mk:Шаблон:Официјална]]
+[[ja:Template:Official]]
+[[ko:틀:공식 웹사이트]]
+[[pt:Predefinição:Oficial]]
+[[simple:Template:Official]]
+[[uk:Шаблон:Official]]
+[[tr:Şablon:Resmî site]]
+[[vi:Bản mẫu:Trang web chính thức]]
+[[ml:ഫലകം:ഔദ്യോഗിക_വെബ്സൈറ്റ്]]
+</includeonly><noinclude>
+[[arz:قالب:Official website/doc]]
+[[en:Template:Official website/doc]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Official website/doc]]
+[[ko:틀:공식 웹사이트/설명문서]]
+</noinclude>
