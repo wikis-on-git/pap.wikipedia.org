@@ -1,0 +1,247 @@
+==Kon mi por editá un artíkulo?==
+[[Wikipedia]] ta un 'wiki'. Esei ta nifiká ku kualke hende por editá e kontenido di un artíkulo ku no ta protehá, i por laga kambionan na e artíkulo sali riba e página mes ora.
+
+Pa ''editá'' un artíkulo den Wikipedia ta fásil. Simplemente klek riba '''"edit"''' ariba pa editá henter e artíkulo, òf na man drechi di e sekshon pa editá e sekshon so. Tur dos opshon ta habri un página nobo unda bo por editá e kontenido di e artíkulo. Mas abou den e página bo ta haña algu ku yama '''"Summary"''' (resúmen). Einan ta skirbi den breve, preferibel ku algun palabra so, kiko ert artíkulo ta trata. E resúmen aki ta opshonal.
+
+Despues ku bo kaba di editá e artíkulo, bo por warda tur kambio, mira kon e artíkulo lo parse despues, òf mira kiko a kambia. Esaki ta ku e botonnan '''Save page''', '''Show preview''' i '''Show changes''', respektivamente. Si bo klek "Show preview" i bo ta kontentu ku loke bo a kambia, bo por klek "Save page". Si bo no ta kontentu i bo ke kanselá tur kambio, bo por sali via '''Cancel'''.
+
+Si ta algu chikitu bo ta kambiando, bo por selekshoná '''"This is a minor edit"'''. Esaki por ta pa ora bo ta kambia algun eror gramatikal òf den ortografia.
+
+==Editá==
+Riba e página kaminda bo por editá artíkulo, tin un sèt di boton ku ta yuda bo kambia e aparensia di e teksto òf agregá mas kos.
+
+[[Image:BoutonsDefaut.jpg]]
+
+Di man robes pa drechi, e botonnan aki ta:
+* hasi un palabra '''vèt'''
+* hasi un palabra ''italiko''
+* buta un link interno (link den Wikipedia mes) [[Main_Page|Papiamentu Wikpedia]]
+* buta un link eksterno (link pafo di Wikipedia) [http://www.curacao.com Curaçao.com]
+* buta un imágen 
+* buta un zonido
+* buta fórmula matemátiko <math>\sqrt{1-e^2}</math>
+* ignorá e areglamentu (formatting) di Wikipedia
+* buta bo firma, fecha i ora  >  --[[User:Ghettocash|Ghettocash]] 15:54, 5 March 2006 (UTC)
+* buta un liña horizontal
+
+===Ehèmpel===
+
+{| border="1" cellpadding="2" cellspacing="0"
+|-
+! Resultado di loke bo ta tek
+! Loke ku bo ta tek
+|- valign="top"
+|
+Kuminsá bo sekshonnan asin'aki:
+
+<!-- The following just uses bolding and font changes,
+     so it should be safe.  However, it might not
+     look exactly right, especially when people
+     use non-standard CSS stylesheets.
+-->
+'''<font style="font-size:120%">Sekshon nobo</font>'''
+
+'''<font style="font-size:110%">Subsekshon</font>'''
+
+'''<font style="font-size:100%">Sub-subsekshon</font>'''
+
+* Kuminsá ku un di dos nivel di ''heading'' (<tt><nowiki>==</nowiki></tt>); no usa promé nivel di ''heading'' (=).
+* No bula nivel (por ehèmpel, di dos nivel siguí pa di kuater nivel).
+|
+<pre><nowiki>
+==Sekshon nobo==
+
+===Subsekshon===
+
+====Sub-subsekshon====
+</nowiki></pre>
+|- valign="top"
+|
+Si bo kuminsá skibi riba un liña nobo e no tin niun efekto riba e lay-out.
+Kemen bo por sigui skibi normal.
+
+Pero si bo bula un liña, anto kuminsá skibi e ora ei bo ta kuminsá párafo nobo.
+|
+<pre><nowiki>
+Si bo kuminsá 
+skibi riba un liña nobo
+e no tin niun efekto riba e layout.
+Kemen bo por sigui skibi normal.
+
+Pero si bo bula un liña, anto kuminsá 
+skibi e ora ei bo ta kuminsá párafo nobo.
+</nowiki></pre>
+|- valign="top"
+|
+Bo por kibra un liña<br>
+sin kuminsá un párafo nobo. 
+
+*Ora bo skibi <nowiki><br></nowiki> bo ta kibra e liña anto kuminsá riba un liña nobo.
+* Por fabor no uz'é hopi, anto uz'é ku kuidou.
+|
+<pre><nowiki>
+Bo por kibra un liña<br>
+sin kuminsa un párafo nobo.
+</nowiki></pre>
+|- id="lists" valign="top"
+|
+* Ta fasil pa traha un lista:
+** Kuminsa tur liña nobo ku un strea.
+*** Mas strea ta nifika un nivel mas abou.
+**** Si bo kuminsa skibi riba un
+liña nobo, esei ta nifika ku e lista a kaba.
+
+* Un liña nobo ta kuminsa un lista nobo.
+|
+<pre><nowiki>
+* Ta fasil pa traha un lista:
+** Kuminsa tur liña nobo ku un strea.
+*** Mas strea ta nifika un nivel mas abou.
+**** Si bo kuminsa skibi riba un
+liña nobo, esei ta nifika ku e lista a kaba.
+
+* Un liña nobo ta kuminsa un lista nobo.
+</nowiki></pre>
+|- valign="top"
+|
+# Lista numera tambe ta bon
+## organisá
+## fasil pa lesa
+### hopi fasil
+|
+<pre><nowiki>
+# Lista numera tambe ta bon
+## organisá
+## fasil pa lesa
+### hopi fasil
+</nowiki></pre>
+|- valign="top" id="definition"
+|
+; Lista di definishon : lista ku definishon
+; opheto : definishon di e opheto
+; un otro opheto
+: un otro definishon di e otro opheto
+
+* Kuminsa ku un punto i kòma.  Siguintemente bo ta skibi e opheto i despues dos punto sigui pa e definishon
+|
+<pre><nowiki>
+; Lista di definishon : lista ku definishon
+; opheto : definishon di e opheto
+; un otro opheto
+: un otro definishon di e otro opheto
+</nowiki></pre>
+|- valign="top"
+|
+* Bo por traha un lista mesklá tambe
+*# i hinke den otro
+*#* asina'ki
+*#*; mi por meskla e lista di definishon tambe?
+*#*: si!
+*#*; kon?
+*#*: mesun fasil ku bo por konta
+*#*:* 1 
+*#*:* 2
+*#*:* 3
+|
+<pre><nowiki>
+* Bo por traha un lista mesklá tambe
+*# i hinke den otro
+*#* asina'ki
+*#*; mi por meskla e lista di definishon tambe?
+*#*: si!
+*#*; kon?
+*#*: mesun fasil ku bo por konta
+*#*:* 1
+*#*:* 2
+*#*:* 3
+</nowiki></pre>
+|- valign="top"
+|
+: Dos punto ta buta e liña bai aden.
+Un liña nobo ta kuminsa un paragraf nobo.
+
+* Sa uzé primeramente pa diskushon den [[Wikipedia:Talk page|Talk page]]s.
+|
+<pre><nowiki>
+: Dos punto ta buta e liña bai aden.
+Un liña nobo ta kuminsa un paragraf nobo.
+</nowiki></pre>
+|- valign=top
+|
+Ora mester separa un pida teksto
+<blockquote>
+E komando di '''blockquote''' ta manda e 
+teksto mei mei, tambe e ta laga e margin rèks 
+i e margin links bai aden.  
+</blockquote> 
+Esaki ta útil ora bo ke sita bida teksto. 
+|
+<pre><nowiki>
+<blockquote>
+E komando di '''blockquote''' ta manda e 
+teksto mei mei, tambe e ta laga e margin rèks 
+i e margin links bai aden.  
+</blockquote>
+</nowiki></pre>
+|- valign=top
+|
+(Wak e fórmula na rèks):
+
+*Eskaki ta útil pa:
+** buta teksto areglá kaba; 
+** deskripshonnan algoritmiko;
+** kódigo fuente di programa;
+** [[arte di ASCII]];
+** strukturanan di kímiko;
+* '''ATVERTENSIA''': Si bo hasié hanchu, bo ta forsa henter e página pa bira hanchu anto hasié mas difísil pa lesa. Espesialmente pa hende ku resolushon abou. Nunka no kuminsá un liña normal ku un espasio dilanti.
+|
+<pre><nowiki>
+ SI un liña ta kuminsá ku un espasio ANTO
+        e ora ei e ta 
+    wòrdu areglá
+                 mané ba tek e.
+
+</nowiki></pre>
+|- valign="top"
+|
+<center>Teksto mei mei</center>
+|
+<pre><nowiki>
+<center>Teksto mei mei</center>
+</nowiki></pre>
+
+[[am:Help:Editing]]
+[[ang:Wikipedia:How to edit a page]]
+[[ar:ويكيبيديا:مساعدة التحرير]]
+[[bg:Уикипедия:Как се редактират страници]]
+[[br:Skoazell:Penaos kemmañ ur bajenn]]
+[[ca:Viquipèdia:Com s'edita una pàgina]]
+[[cs:Wikipedie:Jak editovat stránku]]
+[[de:Wikipedia:Seite bearbeiten]]
+[[el:Wikipedia:Πώς να επεξεργαστείτε μια σελίδα]]
+[[en:Wikipedia:How to edit a page]]
+[[es:Wikipedia:Cómo se edita una página]]
+[[eu:Wikipedia:Editatzeko laguntza]]
+[[fi:Wikipedia:Kuinka sivuja muokataan]]
+[[fr:Wikipédia:Syntaxe wikipédia]]
+[[ga:Vicipéid:Conas alt a chur in eagar]]
+[[he:ויקיפדיה:איך לערוך דף]]
+[[hu:Wikipédia:Hogyan szerkessz egy lapot]]
+[[id:Wikipedia:Menyunting sebuah halaman]]
+[[ia:Wikipedia:Como formatar texto]]
+[[it:Wikipedia:Guida essenziale]]
+[[ja:Wikipedia:編集の仕方]]
+[[ms:Wikipedia:Menyunting]]
+[[nl:Help:Uitleg]]
+[[nn:Hjelp:Redigering]]
+[[no:Wikipedia:Hvordan man redigerer en side]]
+[[pl:Wikipedia:Formatowanie tekstu na Wikipedii]]
+[[pt:Wikipedia:Como editar uma página]]
+[[ro:Wikipedia:Cum să editezi o pagină]]
+[[simple:Wikipedia:How to edit]]
+[[sl:Wikipedija:Urejevanje slovenskih strani]]
+[[sr:Википедија:Како се мења страна]]
+[[sv:Wikipedia:Hur man redigerar en sida]]
+[[vi:Trợ giúp:Sửa đổi]]
+[[zh-min-nan:Help:Pian-chi̍p]]
+[[zh:Wikipedia:如何编辑页面]]
