@@ -1,0 +1,57 @@
+{| class="toccolours" style="float:right; width:270px; margin-left: 1em; font-size: 85%;"
+|+ style="font-size: larger;" | '''{{{nomberdihungado}}}'''
+|-
+|colspan="3" align="center"|{{{potret}}}
+|-
+|- class="hiddenStructure{{{foto|}}}"
+|'''Nomber'''||colspan="2"|{{{nomber}}}
+|-
+|- class="hiddenStructure{{{Alias|}}}"
+|style="padding-right:1em;"|'''Alias'''||colspan="2"|{{{Alias}}}
+|-
+|'''Fecha di nasemientu'''||colspan="2"|{{{Fecha di nasemientu}}}
+|-
+|'''Luga di nasemientu'''||colspan="2"|{{{cuidad di nasemientu}}}, {{{pais di nasemientu}}}
+|-
+|- class="hiddenStructure{{{club|}}}"
+|'''Hungando na'''||colspan="2"|{{{club}}}
+|-
+|'''Position'''||colspan="2"|{{{position}}}
+|-
+|}<noinclude>
+[[Category:Wikipedia templates]]
+
+[[an:Plantilla:Futbolista]]
+[[ar:قالب:صندوق معلومات سيرة ذاتية للاعب كرة قدم]]
+[[az:Şablon:Futbolçu]]
+[[be-x-old:Шаблён:Футбаліст]]
+[[bg:Шаблон:Футболист]]
+[[cs:Šablona:Infobox Fotbalista]]
+[[da:Skabelon:Infoboks fodboldbiografi]]
+[[de:Vorlage:Infobox Fußballspieler]]
+[[en:Template:Infobox football biography]]
+[[eo:Ŝablono:Informkesto futbalisto]]
+[[es:Plantilla:Ficha de futbolista]]
+[[et:Mall:Jalgpallur]]
+[[eu:Txantiloi:Futbolari biografia infotaula]]
+[[fr:Modèle:Infobox Footballeur]]
+[[hr:Predložak:Infookvir nogometaš/trener/izbornik]]
+[[hu:Sablon:Focista infobox]]
+[[hy:Կաղապար:Տեղեկաքարտ Ֆուտբոլիստ]]
+[[ja:Template:サッカー選手]]
+[[ka:თარგი:ინფოდაფა ფეხბურთელი]]
+[[ko:틀:축구 선수 및 감독 정보]]
+[[lv:Veidne:Infokaste futbolists]]
+[[mk:Шаблон:Инфокутија за фудбалер]]
+[[nl:Sjabloon:Infobox voetballer]]
+[[pl:Szablon:Piłkarz infobox]]
+[[pt:Predefinição:Info/Futebolista]]
+[[ru:Шаблон:Футболист]]
+[[sv:Mall:Infobox fotbollsspelare]]
+[[th:แม่แบบ:กล่องข้อมูล นักฟุตบอล]]
+[[tr:Şablon:Futbolcu bilgi kutusu]]
+[[uk:Шаблон:Футболіст]]
+[[vi:Bản mẫu:Thông tin tiểu sử bóng đá]]
+[[zh:Template:Infobox football biography]]
+[[zh-yue:Template:足球員明細]]
+</noinclude>
