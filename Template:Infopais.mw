@@ -1,0 +1,130 @@
+{| cellpadding="4" style="width: 20em; font-size: 95%; float: right; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; border-collapse: collapse; clear: right;"
+|+ style="margin-left: inherit;" | <big>'''{{{nomber_nativo}}}'''</big>{{#if:{{{nomber_propio|}}}|<br />'''{{{nomber_propio|}}}'''}}
+|-
+| colspan="2" |
+    {| style="text-align: center; margin: 0 auto; background: none;"
+    |-
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[{{ns:6}}:{{{imagen_bandera}}}|125px|Bandera di {{{nomber_komun}}}]]</span>
+    | style="border: 0; vertical-align: middle;" | [[{{ns:6}}:{{{imagen_wapen}}}|110px|Wapen di {{{nomber_komun}}}]]
+    |- style="font-size: 95%;"
+    | style="border: 0;" | [[Bandera di {{{nomber_komun}}}|Bandera]]
+    | style="border: 0;" | [[Wapen di {{{nomber_komun}}}|Wapen]]
+    |}
+|-
+| colspan="2" style="font-size: 95%; text-align: center;" | [[Himno nashonal|Himno]]: {{{himno_nashonal}}}
+|-
+| colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Lokashon di {{{nomber_komun}}}]]
+|-
+| '''[[Kapital]]'''
+|{{{kapital}}}
+|-
+| '''[[Demografia di {{{nomber_komun}}}|Stat mas grandi]]'''
+| {{{stat_mas_grandi}}}
+|-
+| '''[[Idioma|Idioma(nan) ofisial]]'''
+| {{{idiomanan_ofisial}}}
+|-
+| style="white-space: nowrap;" | '''[[Lista di país segun forma di gobernashon|Forma di gobernashon]]''' <div style="text-align: left;">{{{titulonan_kabesantenan}}}</div>
+| style="white-space: nowrap;" | {{{forma_di_gobernashon}}}<br />{{{nombernan_kabesantenan}}}
+|-
+| style="white-space: nowrap;" | '''{{{tipo_di_soberania}}}'''<br />{{{eventonan_di_fundashon}}}
+| style="white-space: nowrap;" | {{{fechanan_di_fundashon}}}
+|-
+| '''[[Lista di país i teritorio segun area|Area]]'''<br />&nbsp;- Total<br>&nbsp;- Awa (%)
+| &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;([[Lista di país i teritorio segun area|{{{rango_area}}}]])<br />{{{persentahe_awa}}}
+|-
+| style="white-space: nowrap;" | '''[[Lista di país segun populashon|Populashon]]'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- [[Densidat di populashon|Densidat]]
+| &nbsp;<br />{{{pop_aproksima}}} ([[Lista di país segun populashon|{{{rango_populashon}}}]]){{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2; ([[Lista di país segun densidat di populashon|{{{rango_densidat_pop}}}]])
+|-
+| '''[[Moneda]]'''
+| style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{kodigo_moneda}}}]]</code>)
+|-
+| '''[[Zona di tempu]]'''
+| {{{zona_di_tempu}}} ([[Tempu Universal Koordiná|UTC]]{{{utc_offset}}})
+|-
+| '''[[Top-level domain|TLD di internet]]'''
+| {{{kodigo_tld}}}
+|-
+| '''[[Lista di kódigo pa yama|Kódigo pa yama]]'''
+| <code>+{{{kodigo_pa_yama}}}</code>
+{{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
+|}
+<noinclude>
+__NOTOC__
+===Kon ta uza===
+E predefinishon '''Infopais''' ta uzá pa duna varios pida informashon di un pais na un manera organisá.
+
+{| style="background: none; border: none;"
+|<pre>{{Infopais
+|nomber_nativo = 
+|nomber_propio = 
+|nomber_komun = 
+|nomber_comun = 
+|imagen_bandera = 
+|imagen_mapa = 
+|imagen_wapen = 
+|himno_nashonal = 
+|himno_nacional = 
+|kapital = 
+|capital = 
+|stat_mas_grandi = 
+|idiomanan_ofisial = 
+|idiomanan_oficial = 
+|forma_di_gobernashon = 
+|titulonan_kabesantenan = 
+|nombernan_kabesantenan = 
+|tipo_di_soberania = 
+|eventonan_di_fundashon = 
+|fechanan_di_fundashon = 
+|area = 
+|rango_area = 
+|persentahe_awa = 
+|pop_aproksima = 
+|pop_segun_senso =
+|rango_populashon = 
+|ana_kalkulashon_di_pop = 
+|ana_di_senso =
+|densidat_pop = 
+|rango_densidat_pop = 
+|moneda = 
+|kodigo_moneda = 
+|zona_di_tempu =
+|utc_offset = 
+|kodigo_tld = 
+|kodigo_pa_yama = 
+|nota = 
+}}</pre>
+|}
+<br style="clear:both" />
+
+===Tipo di soberania===
+
+E variabel aki ta depende riba e pais i por varia hopi. E ta uzá pa indiká ta kon e pais a yega na su fundashon. Ku mayoria pais, esaki por ta "Independensia". Lokual ta sigui den '''eventonan_di_fundashon''' ta ki evento òf eventonan a pone ku e pais a haña su independensia. Ku otro manera Kòrsou, e ta "Eilandgebied den Antias Hulandes" i ku Aruba e ta "Pais den Reino Hulandes". Eventonan ku a yega na esaki ta e Statuut di 1954 i status aparte na aña 1986, respektivamente.
+
+
+'''Nota:''' Pa algun hende, e predefinishon aki por ta un poko kompliká. Si mester di ayudo, wak [http://pap.wikipedia.org/w/index.php?title=Special:Whatlinkshere&target=Template%3AInfopais kua página ta link aki], i wak kon e predefinishon tabata uzá den un di e artíkulonan.
+
+[[af:Sjabloon:Infobox Country]]
+[[be-x-old:Шаблён:Краіна]]
+[[eo:Ŝablono:Landtabelo]]
+[[fy:Berjocht:Lântabel]]
+[[ga:Teimpléad:Bosca Sonraí Tíre]]
+[[gd:Template:Dùthaich]]
+[[ku:Şablon:Welat]]
+[[hy:Կաղապար:Տեղեկաքարտ Երկիր]]
+[[ia:Patrono:Infobox Country]]
+[[hi:साँचा:इंफ़ोबॉक्स देश]]
+[[lad:Template:Infobox Pais]]
+[[ln:Template:Infobox Esé]]
+[[ms:Templat:Infobox Country]]
+[[mk:Шаблон:Инфокутија држава]]
+[[mt:Mudell:Infobox Pajjiż]]
+[[mr:साचा:माहितीचौकट देश]]
+[[nn:Mal:Infoboks land2]]
+[[tpi:Template:Infobokis Kantri]]
+[[pt:Predefinição:Info/País]]
+[[rmy:Sikavno:MoxtonThema]]
+[[ro:Format:Casetă ţară]]
+[[tl:Suleras:Infobox Country]]
+[[vi:Tiêu bản:Tóm tắt về quốc gia]]
+</noinclude>
