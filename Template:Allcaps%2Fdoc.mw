@@ -1,0 +1,29 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+__NOTOC__
+'''{{tn|Allcaps}}''' will display text in all [[capital letter]]s.
+
+==Usage==
+<code><nowiki>{{Allcaps|your text}}</nowiki></code> will display your text in full upper case. Your source text is not altered (a copy-paste will give it in its original form), only the way it is displayed. You can use this template to control the display of the variable output of magic words and of other templates.
+
+: '''In:''' <code><nowiki>{{Allcaps|The ''Name'' of the Game}}</nowiki></code>
+: '''Out:''' {{Allcaps|The ''Name'' of the Game}}
+
+'''Preferably do not subst: it''' because the result will NOT be an uppercase source text but the original text wrapped in HTML code making it appear uppercase, so it is more efficient for this purpose to simply rewrite the text in uppercase once and for all.
+
+==See also==
+Templates that change the display (copy-paste will get the original text):
+
+* {{tl|Nocaps}}    – lower case display
+* {{tl|Smallcaps}} – small caps display
+* {{tl|Allcaps}}   – upper case display
+
+[[Help:Magic words#Formatting|Magic words]] that rewrite the output (copy-paste will get the text as displayed):
+
+* <nowiki>{{</nowiki>lc:}}      – lower case output of the full text
+* <nowiki>{{</nowiki>uc:}}      – upper case output of the full text
+* <nowiki>{{</nowiki>lcfirst:}} – lower case output of the first character only
+* <nowiki>{{</nowiki>ucfirst:}} – upper case output of the first character only
+<includeonly><!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Wikipedia formatting and function templates]]
+</includeonly>
