@@ -1,0 +1,134 @@
+__NOTOC__
+{{Documentation subpage}}
+{{high-use| 20,000+ }}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This is the {{tl|px}} meta-template.
+
+It helps other templates, such as infoboxes, to take image size parameters in both of the forms "40" or "40px". It takes up to three parameters and returns the first one that has any content. That is, the first one that is defined (not null) and not empty. Thus a default value for the width of the image can be fed as the second or third parameter.
+
+=== Usage ===
+
+Here is what this template does. Code to the left, actual rendering to the right:
+
+:{{tlc|px|40}} = {{px|40}}
+:{{tlc|px|40px}} = {{px|40px}}
+
+And with an optional second or even third parameter to be used as a default value if the first or second parameter is empty or undefined:
+
+:{{tlc|px||50}} = {{px||50}}
+:{{tlc|px||50px}} = {{px||50px}}
+
+:{{tlc|px|||60}} = {{px|||60}}
+:{{tlc|px|||60px}} = {{px|||60px}}
+
+And here is how it can be used inside another template:
+
+:<code><nowiki>[[Image:{{{image}}} | {{px|{{{size|}}}}} | {{{caption|}}} ]]</nowiki></code>
+:<code><nowiki>[[Image:{{{image}}} | {{px|{{{size|}}}|250}} | {{{caption|}}} ]]</nowiki></code>
+:<code><nowiki>[[Image:{{{image}}} | {{px| {{{size|}}} | {{{width|}}} | 250 }} | {{{caption|}}} ]]</nowiki></code>
+
+'''Note!''' The parameters to {{tlf|px}} must use the pipe "|", like this: <code><nowiki>{{{width|}}}</nowiki></code>. Or else {{tlf|px}} will be fed and return the string "<code><nowiki>{{{width}}}</nowiki></code>" if '''width''' was not defined.
+
+=== Background ===
+
+It used to be a bit tricky to handle empty but defined image size values in a template, since the MediaWiki pipetrick doesn't return the default value for empty parameters. That is, <code><nowiki>{{{width|250px}}}</nowiki></code> does not return "250px" if the template was called like this: <code><nowiki>{{template|width=}}</nowiki></code>
+
+The usual workaround was to do like this: 
+:<code><nowiki>{{#if:{{{width|}}}|{{{width}}}|250px}}</nowiki></code>
+
+When at the same time handling the "pxpx" bug this became even more messy code:
+:<code><nowiki>[[Image:{{{image}}} | {{#if:{{{width|}}}|{{px|{{{width}}}}}|250px}} ]]</nowiki></code>
+
+To simplify the coding, {{tl|px}} now allows for an optional default value to be defined allowing for the following:
+
+:<code><nowiki>[[Image:{{{image}}} | {{px|{{{width|}}}|250}} ]]</nowiki></code>
+
+==== The pxpx bug ====
+
+Old usage was to always pad on "px" since MediaWiki used to understand "40px" and "40pxpx", but not "40":
+
+:<code><nowiki>[[Image:{{{image}}} | {{{size}}}px | {{{caption|}}} ]]</nowiki></code>
+
+But after 25 March 2008 that did not work anymore. That is, image sizes on Wikipedia needed to be given in the form "40px", not "40" or "40pxpx". This template helps doing that. Note that the bug has since been fixed, so MediaWiki now understands "40px" and "40pxpx" again. But MediaWiki still does not understand "40".
+
+But feel free to continue using this template since it is more convenient to use than the old methods.
+
+=== Alternative approach ===
+
+Instead of letting your template take say the parameters '''image''' and '''size''', you can build your template so it takes an image with full wiki notation. Like this:
+<pre>
+{{your template
+| image = [[File:Example.png|40px]]
+}}
+</pre>
+
+This approach is used with many templates, for instance the {{tl|ambox}} and {{tl|dmbox}}. This gives the users much more freedom in what they feed as the image parameter, and even allows such things as feeding two images at the same time. And it makes your template code much simpler.
+
+=== See also ===
+
+* {{tl|ifempty}} – Helps detect empty parameters and fall back to default values. For instance for handling multiple image name parameters.
+* [[Wikipedia:ClickFix]] – About the old "pxpx" bug.
+
+=== Test examples ===
+
+* {{tlc|px|40}} = {{px | 40 }}
+* {{tlc|px|40px}} = {{px | 40px }}
+* {{tlc|px|40pxpx}} = {{px | 40pxpx }}
+* {{tlc|px|junk}} = {{px | junk }}
+* {{tlc|px}} = {{px }}
+* {{tlc|px|}} = {{px |  }}
+* {{tlc|px||}} = {{px| |  }}
+* {{tlc|px|||}} = {{px| |  |  }}
+* {{tlc|px|40|50}} = {{px| 40 | 50 }}
+* {{tlc|px||50}} = {{px| | 50 }}
+* {{tlc|px||50px}} = {{px| | 50px }}
+* {{tlc|px||50|60}} = {{px| | 50 | 60 }}
+* {{tlc|px|||60}} = {{px| |  | 60 }}
+* {{tlc|px|||60px}} = {{px| |  | 60px }}
+* {{tlc|px|frameless}} = {{px | frameless }}
+* {{tlc|px||frameless}} = {{px| | frameless }}
+* {{tlc|px|40|frameless}} = {{px| 40 | frameless }}
+* {{tlc|px|frameless|40px}} = {{px| frameless | 40px }}
+
+* <code><nowiki>[[Image:Example.png | thumb ]]</nowiki></code> = [[Image:Example.png| thumb ]]
+<br clear=all>
+
+* <code><nowiki>[[Image:Example.png | 50 | thumb ]]</nowiki></code> = [[Image:Example.png| 50 | thumb ]]
+::Fails, MediaWiki does not understand "50" and just thinks it is an image caption.
+<br clear=all>
+
+* <code><nowiki>[[Image:Example.png | 50pxpx | thumb ]]</nowiki></code> = [[Image:Example.png | 50pxpx | thumb ]]
+::Used to fail. But the devs added back parsing of "pxpx". So you should see a small image to the right without any image caption, since Wikipedia again accepts "pxpx".
+<br clear=all>
+
+* <code><nowiki>[[Image:Example.png | 50px | thumb ]]</nowiki></code> = [[Image:Example.png | 50px | thumb ]]
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| 50 }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| 50 }} | thumb ]]
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| 50px }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| 50px }} | thumb ]]
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| junk }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| junk }} | thumb ]]
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| }} | thumb ]]
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px}} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px}} | thumb ]]
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| | 50 }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| | 50 }} | thumb ]]
+::Giving the default width if the 1st parameter is empty 
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| {{{width|}}} | 50 }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| {{{width|}}} | 50 }} | thumb ]]
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| {{{width}}} | 50 }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| {{{width}}} | 50 }} | thumb ]]
+::Fails to use the default value of 50. Note the missing "|" in <nowiki>{{{width}}}</nowiki>.
+<br clear=all>
+* <code><nowiki>[[Image:Example.png | {{px| {{{width|}}} | {{{size|}}} | 50 }} | thumb ]]</nowiki></code> = [[Image:Example.png | {{px| {{{width|}}} | {{{size|}}} | 50 }} | thumb ]]
+<br clear=all>
+
+<includeonly>
+<!-- ADD CATEGORIES AND INTERWIKIS BELOW THIS LINE -->
+[[Category:Wikipedia metatemplates|{{PAGENAME}}]]
+
+[[ka:თარგი:Px]]
+[[zh-yue:Template:Px]]
+</includeonly>
