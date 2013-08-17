@@ -1,0 +1,88 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This template can be used to create a formatted external link.
+
+== Usage ==
+:* <code><nowiki>{{URL|</nowiki>1=''url name''<nowiki>|</nowiki>2=''optional display text''<nowiki>}}</nowiki></code>
+:** The first parameter is parsed to see if it takes the form of a complete URL. If it doesn't start with an known URI scheme and a slash ("http:/" or "https:/" or "ftp:/", possibly others in the future, by editing its code), an "http://" prefix will be prepended to the specified generated target URL of the link.
+:** If no display text is specified or is empty, a default display text will be inferred by trying to reduce the specified URL without its recognized URI scheme (and without the common "www." hostname prefix which is assigned in almost all domains as the default one for this domain, and without the default "/" path of HTTP and FTP resources), and the domain name part will be forced to lowercase (for shorter and canonical display, but also to limit the occurrences of easily confusable characters, for example between letters and digits). The rest of the URL (including the rest of its path, the optional query string or the specified anchor) will be displayed unchanged.
+:* <code><nowiki>{{URL|</nowiki>2=''display text''<nowiki>}}</nowiki></code>
+:** The url or domain name is optional : if it is not specified in the first parameter or this parameter is empty, the display text becomes mandatory, and will be displayed without any change.
+:** If both parameters are missing or empty, a default message referencing a correct usage of this template will be generated (including a link to this page), to help editors.
+
+: '''Warning:'''
+:* It is strongly advised to number the parameters explicitly (notably when the value of the URL is unknown, for example when this template is used in another template specifying the effective URL as a variable value), because many URLs contain an equal sign (in their query string). In that case, the second parameter for the displayed text, if present, '''must''' also be explicitly numbered ; otherwise it will override the value of the explicitly numbered first parameter.
+:* If you specify a query string (starting by "?", up to the end of the string or up to the first "#" character) or an anchor (starting by '"#" up to the end of the string) in the first parameter then you '''must''' specify at least the default path "/" immediately after the domain name ; otherwise the resulting link target will be unpredictable, as the query string and/or the anchor may be unexpectedly converted to all lowercase ; it is strongly recommended to use full and canonical URLs in the first parameter, (without depending on the tentative detection of a missing URI scheme or path). Don't worry, this default "/" path won't be visible in the default display text.
+
+=== Examples ===
+{|class="wikitable"
+|-
+! Code !! Result
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki> }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} }} 
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | }} 
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| EXAMPLE.com }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | EXAMPLE.com }} 
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| example.com }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | example.com }} 
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| https://www.example.com }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | https://www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| ftp://www.example.com }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | ftp://www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| ftp://ftp.example.com }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | ftp://ftp.example.com }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/ }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/ }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/path }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/path }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/foo | link }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo | link }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo | link }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo | link}}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/path/ }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/path/ }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo/ }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo/ }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/foo/ | link }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo/ | link }}
+|-
+| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo/ | link }}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo/ | link}}
+|}
+
+== Microformat==
+The template wraps the displayed URL with a <code>class="url"</code> so that it is included in any parent [[microformat]] which takes a URL parameter - see [[WP:UF|our microformats project]].
+
+== See also ==
+* {{tl|official website}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:External link templates]]
+
+</includeonly>
