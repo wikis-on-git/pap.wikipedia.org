@@ -1,0 +1,244 @@
+{| class="infobox bordered" style="width:270px;"
+! colspan="3" style="text-align: center; font-size:110%; color: {{
+ #if:{{{kreador|}}}{{{lokaluzo|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|black|1}}
+ |white
+ |{{{fontcolor|black}}}}}; background-color: {{
+ #if:{{{kreador|}}}{{{lokaluzo|}}}
+ |black
+ |{{
+  #if:{{{señadonan|}}}
+  |silver
+  |{{Infoidioma/kolo-famia|{{{kolofamia|Default}}}}}}}
+}};" |{{{nomber|Instrukshonnan na [[{{ns:11}}:Infoidioma]]}}} {{
+ #if:{{{nombernativo|}}}
+ |<br />{{{nombernativo|}}}}}{{
+  #if:{{{imagen|}}}
+  |{{Infoidioma/imagen|{{{suptitulo|}}}|{{{imagen|}}}}}
+}}{{
+   #if:{{{pronunsiashon|}}}
+   |{{Infoidioma/pronunsiashon|{{{pronunsiashon|}}}}}}}
+|-
+| style="padding-left: 0.5em;" |{{
+ #if:{{{kreador|}}}{{{lokaluzo|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|black|1}}
+ |Kreashon&nbsp;di
+ |{{
+  #if:{{{señadonan|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|silver|1}}
+  |Uzá
+  |Papiá}}&nbsp;na}}:
+| colspan="{{
+ #if:{{{fecha|}}}
+ |1
+ |2}}" style="padding-left: 0.5em;" |{{
+ #if:{{{kreador|}}}{{{lokaluzo|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|black|1}}
+ |{{{kreador|—}}}{{
+  #if:{{{fecha|}}}
+  |{{Infoidioma/fechakreashon|{{{fecha}}}}}
+}}
+ |{{{estadonan|{{{region|—}}}}}}}}{{
+  #ifexpr:{{#if:{{{estadonan|}}}|1|0}}+{{#if:{{{region|}}}|1|0}}!=1
+  |{{Infoidioma/estadonanregion
+   |{{{kreador|}}}
+   |{{{lokaluzo|}}}
+   |{{{kolofamia|}}}
+   |{{{region|—}}}}}}}
+|-
+| style="padding-left: 0.5em;" |{{
+ #if:{{{ekstinto|}}}
+ |[[Idioma ekstinto|Ekstinshon di idioma]]
+ |Total&nbsp;{{
+  #if:{{{signers|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|silver|1}}
+  |señadonan
+  |papiadonan}}}}:
+| colspan="2" style="padding-left: 0.5em;" |{{
+ #if:{{{ekstinto|}}}
+ |{{{ekstinto}}}
+ |{{
+  #if:{{{señadonan|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|silver|1}}
+  |{{{señadonan|—}}}
+  |{{{papiadonan|—}}}}}}}{{
+   #if:{{{rango|}}}
+   |{{Infoidioma/rango|{{{rango|}}}}}}}
+|-
+| style="padding-left: 0.5em;" |{{
+ #if:{{{kreador|}}}{{{lokal|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|black|1}}
+ |Kategoria (propósito)
+ |[[Famia di idioma]]}}:
+| colspan="2" style="padding-left: 0.5em; text-align: left;" | {{{famia|{{{fam1|{{
+ #if:{{{señadonan|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|silver|1}}
+ |''no konosí''
+ |{{
+  #if:{{{kreador|}}}{{{lokal|}}}
+  |[[idioma konstruí]]
+  |{{Infoidioma/genetiko2|{{{kolofamia|Default}}}}}}}}}}}}{{
+ #if:{{{fam2|}}}
+  |<br /><span style="font-size:66%;">&nbsp;</span>{{{fam2|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;</span>{{
+ #if:{{{fam3|}}}
+  |{{{fam3|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam4|}}}
+  |{{{fam4|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam5|}}}
+  |{{{fam5|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam6|}}}
+  |{{{fam6|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam7|}}}
+  |{{{fam7|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam8|}}}
+  |{{{fam8|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam9|}}}
+  |{{{fam9|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam10|}}}
+  |{{{fam10|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam11|}}}
+  |{{{fam11|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam12|}}}
+  |{{{fam12|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam13|}}}
+  |{{{fam13|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam14|}}}
+  |{{{fam14|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+ #if:{{{fam15|}}}
+  |{{{fam15|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>'''{{{nomber|}}}'''
+|'''{{{nomber| }}}'''}}<!--sera 15-->
+|'''{{{nomber| }}}'''}}<!--sera 14-->
+|'''{{{nomber| }}}'''}}<!--sera 13-->
+|'''{{{nomber| }}}'''}}<!--sera 12-->
+|'''{{{nomber| }}}'''}}<!--sera 11-->
+|'''{{{nomber| }}}'''}}<!--sera 10-->
+|'''{{{nomber| }}}'''}}<!--sera 9-->
+|'''{{{nomber| }}}'''}}<!--sera 8-->
+|'''{{{nomber| }}}'''}}<!--sera 7-->
+|'''{{{nomber| }}}'''}}<!--sera 6-->
+|'''{{{nomber| }}}'''}}<!--sera 5-->
+|'''{{{nomber| }}}'''}}<!--sera 4-->
+|'''{{{nomber| }}}'''}}<!--sera 3-->
+|{{
+ #ifexpr:{{#if:{{{nomber|}}}|1|0}} and {{#if:{{{señadonan|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|Default}}}}}|silver|1}}|0|1}}
+ |'''<br />&nbsp;{{{nomber|}}}}}'''}}<!--sera 2-->}}}{{
+ #if:{{{maneradiskibi|}}}
+ |{{Infoidioma/maneradiskibi|{{{maneradiskibi}}}}}}}{{
+ #if:{{{posteriori|}}}
+ |{{Infoidioma/aposteriori|{{{posteriori}}}}}}}{{
+#ifexpr:{{#if:{{{agensia|}}}|1|0}} and {{#if:{{{kreador|}}}{{{lokaluzo|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|Default}}}}}|black|1}}|1|0}}
+|{{Infoidioma/agensia|{{{agensia}}}}}
+|{{
+ #if:{{{nashon|}}}{{{agensia|}}}
+ |{{Infoidioma/ofisial
+  |1={{
+   #if:{{{kreador|}}}{{{lokaluzo|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|black|1}}
+   |white
+   |{{{fontcolor|black}}}}}
+  |2={{
+   #if:{{{señadonan|}}}
+   |silver
+   |{{
+    #if:{{{kreador|}}}{{{lokaluzo|}}}
+    |black
+    |{{Infoidioma/kolo-famia|{{{kolofamia|Default}}}}}}}}}
+  |3={{{nashon|''none''}}}
+  |4={{{agensia|''no tin regulashon ofisial''}}}}}}}}}
+|-
+! colspan="3" style="text-align: center; color: {{
+ #if:{{{kreador|}}}{{{lokaluzo|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|black|1}}
+ |white
+ |{{{fontcolor|black}}}}}; background-color: {{
+  #if:{{{kreador|}}}{{{lokaluzo|}}}
+  |black
+  |{{
+   #if:{{{señadonan|}}}
+   |silver
+   |{{Infoidioma/kolo-famia|{{{kolofamia|Default}}}}}}}}};" |Kódigonan di idioma
+|-
+| style="padding-left: 0.5em;" |[[ISO 639-1]]:
+| colspan="2" style="padding-left: 0.5em;" |{{
+ #if:{{{iso1|}}}
+ |<tt>{{{iso1}}}</tt>
+ |''no tin''}}
+|-
+| style="padding-left: 0.5em;" |[[ISO 639-2]]:
+| colspan="{{
+ #if:{{{iso2b|}}}{{{iso2t|}}}
+ |1
+ |2}}" style="padding-left: 0.5em;" |<tt>{{
+  #if:{{{iso2b|}}}{{{iso2t|}}}
+  |{{{iso2b|{{{iso2|—}}}}}}&nbsp;(B)
+  |{{
+   #if:{{{señadonan|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|silver|1}}
+   |{{{iso2|sgn}}}
+   |{{
+    #if:{{{kreador|}}}{{{lokaluzo|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|black|1}}
+    |{{{iso2|art}}}
+    |{{{iso2|—}}}}}}}}}</tt>{{
+     #if:{{{iso2b|}}}{{{iso2t|}}}
+     |{{Infoidioma/terminologiko|{{{iso2t|{{{iso2|}}}}}}}}}}
+|-
+| style="padding-left: 0.5em;" |[[ISO 639-3|ISO/DIS&nbsp;639-3]]:
+| colspan="2" style="padding-left: 0.5em;" |{{
+ #ifexpr:{{#if:{{{lc1|}}}|1|0}} and {{#if:{{{lc2|}}}|1|0}}
+ |{{
+  #if:{{{lc3|}}}
+  |variously
+  |either}}:{{Infoidioma/listadikodigo
+|{{{lc1|}}}|{{{ld1|}}}|{{{ll1|}}}}}{{Infoidioma/listadikodigo
+|{{{lc2|}}}|{{{ld2|}}}|{{{ll2|}}}}}{{Infoidioma/listadikodigo
+|{{{lc3|}}}|{{{ld3|}}}|{{{ll3|}}}}}{{Infoidioma/listadikodigo
+|{{{lc4|}}}|{{{ld4|}}}|{{{ll4|}}}}}{{Infoidioma/listadikodigo
+|{{{lc5|}}}|{{{ld5|}}}|{{{ll5|}}}}}{{Infoidioma/listadikodigo
+|{{{lc6|}}}|{{{ld6|}}}|{{{ll6|}}}}}{{Infoidioma/listadikodigo
+|{{{lc7|}}}|{{{ld7|}}}|{{{ll7|}}}}}{{Infoidioma/listadikodigo
+|{{{lc8|}}}|{{{ld8|}}}|{{{ll8|}}}}}{{Infoidioma/listadikodigo
+|{{{lc9|}}}|{{{ld9|}}}|{{{ll9|}}}}}{{Infoidioma/listadikodigo
+|{{{lc10|}}}|{{{ld10|}}}|{{{ll10|}}}}}{{Infoidioma/listadikodigo
+|{{{lc11|}}}|{{{ld11|}}}|{{{ll11|}}}}}{{Infoidioma/listadikodigo
+|{{{lc12|}}}|{{{ld12|}}}|{{{ll12|}}}}}{{Infoidioma/listadikodigo
+|{{{lc13|}}}|{{{ld13|}}}|{{{ll13|}}}}}{{Infoidioma/listadikodigo
+|{{{lc14|}}}|{{{ld14|}}}|{{{ll14|}}}}}{{Infoidioma/listadikodigo
+|{{{lc15|}}}|{{{ld15|}}}|{{{ll15|}}}}}{{Infoidioma/listadikodigo
+|{{{lc16|}}}|{{{ld16|}}}|{{{ll16|}}}}}{{Infoidioma/listadikodigo
+|{{{lc17|}}}|{{{ld17|}}}|{{{ll17|}}}}}{{Infoidioma/listadikodigo
+|{{{lc18|}}}|{{{ld18|}}}|{{{ll18|}}}}}{{Infoidioma/listadikodigo
+|{{{lc19|}}}|{{{ld19|}}}|{{{ll19|}}}}}{{Infoidioma/listadikodigo
+|{{{lc20|}}}|{{{ld20|}}}|{{{ll20|}}}}}{{Infoidioma/listadikodigo
+|{{{lc21|}}}|{{{ld21|}}}|{{{ll21|}}}}}{{Infoidioma/listadikodigo
+|{{{lc22|}}}|{{{ld22|}}}|{{{ll22|}}}}}{{Infoidioma/listadikodigo
+|{{{lc23|}}}|{{{ld23|}}}|{{{ll23|}}}}}{{Infoidioma/listadikodigo
+|{{{lc24|}}}|{{{ld24|}}}|{{{ll24|}}}}}{{Infoidioma/listadikodigo
+|{{{lc25|}}}|{{{ld25|}}}|{{{ll25|}}}}}{{Infoidioma/listadikodigo
+|{{{lc26|}}}|{{{ld26|}}}|{{{ll26|}}}}}{{Infoidioma/listadikodigo
+|{{{lc27|}}}|{{{ld27|}}}|{{{ll27|}}}}}{{Infoidioma/listadikodigo
+|{{{lc28|}}}|{{{ld28|}}}|{{{ll28|}}}}}{{Infoidioma/listadikodigo
+|{{{lc29|}}}|{{{ld29|}}}|{{{ll29|}}}}}{{Infoidioma/listadikodigo
+|{{{lc30|}}}|{{{ld30|}}}|{{{ll30|}}}}}
+ |{{
+  #if:{{{lc1|}}}
+  |<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{lc1}}} {{{lc1}}}]</tt>&nbsp;&mdash;&nbsp;{{
+   #if:{{{ll1|}}}
+   |{{#ifeq:{{{ll1|}}}|ningun
+    |{{{ld1|}}}
+    |[[{{{ll1}}}|{{{ld1|}}}]]}}
+   |[[{{{ld1|}}}]]}}
+  |{{#if:{{{iso3|}}}
+   |{{#ifeq:{{{iso3|}}}|ningun
+    |''ningun''
+    |<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{iso3}}} {{{iso3}}}]</tt>}}
+   |—}}}}}}{{#if:
+ {{{mapa|}}}
+ |{{Infoidioma/mapa|{{{mapa|}}}}}}}{{Infoidioma/{{
+  #if:{{{señadonan|}}}{{#ifeq:{{Infoidioma/kolo-famia|{{{kolofamia|}}}}}|silver|1}}
+  |avisoseña
+  |{{{aviso|avisoIPA}}}}}}}
+|}<noinclude>
+[[Category:Wikipedia templates]]
+
+[[en:Template:Infobox Language]]
+[[es:Plantilla:Idioma]]
+[[fr:Modèle:Langue]]
+[[hu:Sablon:Nyelv]]
+[[it:Template:lingua]]
+[[ja:Template:言語]]
+[[la:Formula:Lingua]]
+[[pl:Szablon:Język]]
+[[pt:Predefinição:Língua]]
+[[sl:Template:Language]]
+[[sv:Mall:språk]]
+[[tr:Şablon:Dil]]
+</noinclude>
