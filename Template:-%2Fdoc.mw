@@ -1,0 +1,64 @@
+{{documentation subpage}}
+
+Use {{tl|{{BASEPAGENAME}}}} after any floating elements and before elements you do not wish to float together with the first set. This uses a line break, which may introduce an ugly extra blank line. If you want to avoid that, use {{tl|clear}} instead. Do not use this template to deliberately add whitespace and blank lines between non-floating elements.
+
+== Details ==
+{{tl|-}} contains the markup: 
+<pre>
+<br style="clear:both" />
+</pre>
+This causes any previously-established float to clear. 
+
+The unusual name of this template is a [[mnemonic]] for an imaginary horizontal line, which separates floating elements above from those below. Some editors prefer the mnemonic {{tl|clr}} ("clear"), which simply redirects here. However, don't confuse {{tl|clr}} with {{tl|clear}}, which is a different template that uses <code><nowiki><div /></nowiki></code> instead of <code><nowiki><br /></nowiki></code> and so does not introduce an extra line break.
+
+== Examples==
+{{Wrapper}} border=1
+| align="center" | {{Lts|Wrapper}} 
+|-
+| starts a table floating right e.g. for an<br />infobox next to the ToC. For better<br />examples check out the links. Please<br />add missing <tt><nowiki>{{-}}</nowiki></tt> where necessary.<br />&#160;<br />This ugly table is only a quick example.
+|}
+=== First ===
+In the first example <tt><nowiki>{{-}}</nowiki></tt> after the word ''browser'' guarantees that the table doesn't float into the second example.
+* Cute, but less funny if it ''overlaps'' the next table or section, causing horizontal scrolling or worse depending on the browser.{{-}}
+{{Wrapper}} border=1
+| align="center" | {{Lts|Wrapper}} 
+|-
+| starts a table floating right e.g. for an<br />infobox next to the ToC. For better<br />examples check out the links. Please<br />add missing <tt><nowiki>{{-}}</nowiki></tt> where necessary.<br />&#160;<br />This ugly table is only a quick example.
+|}
+----
+=== Second ===
+In the second example the position of <tt><nowiki>{{-}}</nowiki></tt> is after the word ''but''. Note that it doesn't affect the 
+left margin of the bullet '''*''' list, because it's used inside of it.
+* Cute, but{{-}}less funny if it ''overlaps'' the next table or section, causing horizontal scrolling or worse depending on the browser.
+{{Wrapper}} border=1
+| align="center" | {{Lts|Wrapper}} 
+|-
+| starts a table floating right e.g. for an<br />infobox next to the ToC. For better<br />examples check out the links. Please<br />add missing <tt><nowiki>{{-}}</nowiki></tt> where necessary.<br />&#160;<br />This ugly table is only a quick example.
+|}
+----
+=== Third ===
+The third example has a new line after the word ''but'' and <tt><nowiki>{{-}}</nowiki></tt> after the word ''browser''.
+* Cute, but
+less funny if it ''overlaps'' the next table or section, causing horizontal scrolling or worse depending on the browser.{{-}}
+{{Wrapper}} border=1
+| align="center" | {{Lts|Wrapper}} 
+|-
+| starts a table floating right e.g. for an<br />infobox next to the ToC. For better<br />examples check out the links. Please<br />add missing <tt><nowiki>{{-}}</nowiki></tt> where necessary.<br />&#160;<br />This ugly table is only a quick example.
+|}
+----
+=== Fourth ===
+The fourth example has <tt><nowiki>{{-}}</nowiki></tt> and a new line after the word ''but''.
+* Cute, but{{-}}
+less funny if it ''overlaps'' the next table or section, causing horizontal scrolling or worse depending on the browser.
+
+== See also ==
+
+* {{tl|clearleft}}: Delays content until left column is complete.
+* {{tl|clearright}}: Delays content until right column is complete.
+* {{tl|-}} 
+* {{tl|clear}}
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Wikipedia formatting and function templates|{{PAGENAME}}]]
+</includeonly>
