@@ -887,3 +887,21 @@ For more information:
 -- [[m:User:Steven (WMF)|Steven Walling]] (Product Manager) on behalf of the Wikimedia Foundation's [[mw:Design|User Experience Design]] team
 </div>
 <!-- Message sent by User:Steven (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=7990801 -->
+
+== Using only [[commons:Special:MyLanguage/Commons:Upload Wizard|UploadWizard]] for uploads ==
+
+[[Image:Commons-logo.svg|right|220px|alt=Wikimedia Commons logo]]
+<div lang="en" dir="ltr" class="mw-content-ltr">
+Hello! It was noted that on this wiki you have [[Special:Statistics|less than 10 local files]]. Presumably, you therefore don't have interest nor energies to have [[commons:Category:Licensing templates|hundreds templates]] with the [[mw:Multimedia/Media Viewer/Template compatibility|now required HTML]], even less a local [[m:EDP|EDP]]. However, this means that users here will experience a mostly broken and/or [[wmf:Resolution:Licensing policy|illegal]] uploading.
+I propose to
+* '''have [[Special:Upload|local upload]] [[commons:Commons:Turning off local uploads|restricted]]''' to the "{{int:group-sysop}}" group (for emergency uploads) and
+* the '''sidebar point to [[commons:Special:UploadWizard]]''',
+so that you can avoid local maintenance and all users can have a functioning, easy upload interface [[translatewiki:Special:Translate/ext-uploadwizard|in their own language]]. All registered users can upload on Commons and [[Special:ListFiles|existing files]] will not be affected.
+
+I'll get this done in one week from now.
+# If you disagree with the proposal, just [[m:User:Nemo bis/Unused local uploads|remove your wiki from the list]].
+# To make the UploadWizard even better, please tell your experience and ideas on [[commons:Commons:Upload Wizard feedback]].
+
+[[m:User:Nemo_bis|Nemo]] 20:38, 19 mei 2014 (UTC)
+</div>
+<!-- Message sent by User:Nemo bis@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=User_talk:Nemo_bis/Unused_local_uploads&oldid=8578536 -->
