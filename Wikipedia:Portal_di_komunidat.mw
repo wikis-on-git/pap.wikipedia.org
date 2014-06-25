@@ -942,3 +942,56 @@ We hope you enjoy Media Viewer. Many thanks to all the community members who hel
 <small>--This message was sent using [[m:MassMessage|MassMessage]]. Was there an error? [[m:Talk:MassMessage|Report it!]]</small>
 </div>
 <!-- Message sent by User:Keegan (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=User:Keegan_(WMF)/MassMessage/Multimedia/Media_Viewer&oldid=8631315 -->
+
+== VisualEditor global newsletter—June 2014 ==
+
+<div class="mw-content-ltr" lang="en" dir="ltr">
+This is a <u>one-time mailing</u> to projects that may need this information.  Future newsletters will be available as '''opt-in only'''. To receive future newsletters (about one per month), please '''add your page to the subscribers' list at [[:m:VisualEditor/Newsletter]]. You're welcome to translate to your language.''' 
+<div style="width:25%; float:left;height:4px; background:#666666;"></div>
+<div style="width:25%; float:left;height:4px; background:#A7D7F9;"></div>
+<div style="width:25%; float:left;height:4px; background:#339966;"></div>
+<div style="width:25%; float:left;height:4px; background:#990000;"></div>
+<br />
+<div style="float:right;width:230px;margin-left:1em;border-style:solid;border-width:1px;padding:1em;">
+[[File:VisualEditor-logo.svg|200px|center]][[File:VisualEditor - Toolbar - Formatting.png|alt=The character formatting menu|centre|frameless|316x316px]]
+'''Did you know?'''  
+<div class="thumbcaption" style="font-size: 90%;">
+The character formatting menu, or "{{int:visualeditor-toolbar-style-tooltip}}" menu lets you set bold, italic, and other text styles.  "Clear formatting" removes all text styles and removes links to other pages.
+
+Do you think that clear formatting should remove links?  Are there changes you would like to see for this menu?  [[:mw:Thread:VisualEditor/Feedback/Clearing formatting_and_links|Share your opinion at MediaWiki.org]].
+
+[[:mw:VisualEditor/User guide|The user guide]] has information about how to use VisualEditor.
+</div></div>
+''The [[:mw:VisualEditor|VisualEditor]] team is mostly working to fix bugs, improve performance, reduce technical debt, and other infrastructure needs.  You can find [[:mw:VisualEditor/status|on Mediawiki.org]] weekly updates detailing recent work.''
+
+* They have moved the "{{int:visualeditor-dialog-command-help-title}}" link out of the "{{int:visualeditor-pagemenu-tooltip}}" menu, into the "{{int:visualeditor-help-tool}}" menu.  Within dialog boxes, buttons are now more accessible (via the Tab key) from the keyboard.
+* You can now '''see the target of the link''' when you click on it, without having to open the inspector.
+* The team also expanded '''[[:mw:VisualEditor/Portal/TemplateData|TemplateData]]''': You can now add a parameter type  "<code>date"</code> for dates and times in the [[w:ISO 8601|ISO 8601]] format, and  "<code>boolean"</code> for values which are true or false.  Also, templates that redirect to other templates (like <code><nowiki>{{citeweb}}</nowiki></code> → <code><nowiki>{{cite web}}</nowiki></code>) now get the TemplateData of their target ([[bugzilla:50964|bug 50964]]).  You can test TemplateData by editing [[:mw:Template:Sandbox/doc]].
+* Category: and File: pages now display their contents correctly after saving an edit ([[bugzilla:65349|bug 65349]], [[bugzilla:64239|bug 64239]])
+* They have also improved '''reference editing''':  You should no longer be able to add empty citations with VisualEditor (bug 64715), as with references.  When you edit a reference, you can now empty it and click the "use an existing reference" button to replace it with another reference instead. 
+* It is now possible to edit '''inline images''' with VisualEditor.  Remember that inline images cannot display captions, so existing captions get removed.  Many other bugs related to images were also fixed.
+*  You can now add and edit <code><nowiki>{{DISPLAYTITLE}}</nowiki></code> and <code><nowiki>__DISAMBIG__</nowiki></code> in  the "{{int:visualeditor-pagemenu-tooltip}}" menu, rounding out the full set of page options currently planned. 
+* The tool to insert '''special characters''' is now wider and simpler.</div>
+
+=== Looking ahead ===
+<div class="mw-content-ltr" lang="en" dir="ltr">
+
+The VisualEditor team has posted a draft of their goals for the next fiscal year.  You can read them and suggest changes [[:mw:Wikimedia Engineering/2014-15 Goals#Editing|on MediaWiki.org]].  
+
+The team posts details about planned work on [[:mw:VisualEditor/Roadmap|VisualEditor's roadmap]].  You will soon be able to '''drag-and-drop text''' as well as images.  If you drag an image to a new place, it won't let you place it in the middle of a paragraph.  All dialog boxes and windows will be simplified based on user testing and feedback.  The VisualEditor team [[:mw:Cite-from-id|plans to add '''autofill features''']]''' for citations'''.  <mark>Your [[:mw:VisualEditor/Design/Reference Dialog|ideas about making referencing quick and easy]] are still wanted.</mark>  Support for '''upright image sizes''' is being developed.  The designers are also working on support for '''viewing and editing hidden HTML comments''' and '''adding rows and columns to tables'''.  
+</div>
+
+=== Supporting your wiki ===
+<div class="mw-content-ltr" lang="en" dir="ltr">
+
+Please read [[:mw:VisualEditor/Citation tool|VisualEditor/Citation tool]] for information on configuring the new '''citation template menu''', labeled "{{int:visualeditor-toolbar-cite-label}}".  This menu will not appear unless it has been configured on your wiki.   
+
+If you speak a language other than English, '''we need your help with translating [[:mw:VisualEditor/User guide|the user guide]]'''.  The guide is out of date or incomplete for many languages, and what's on your wiki may not be the most recent translation.  Please [[:mw:Talk:VisualEditor/TranslationCentral#Getting_started_with_translations|contact us]] if you need help getting started with translation work on MediaWiki.org.   
+
+VisualEditor can be made available to most non-Wikipedia projects.  If your community would like to test VisualEditor, please contact product manager [[:m:User:Jdforrester (WMF)|James Forrester]] or file an enhancement request in Bugzilla.   
+
+Please share your questions, suggestions, or problems by posting a note at [[:mw:VisualEditor/Feedback]] or by joining the [[:m:IRC office hours|office hours]] on '''Saturday, 19 July 2014 at [http://www.timeanddate.com/worldclock/fixedtime.html?hour=21&min=00&sec=0&day=19&month=07&year=2014 21:00 UTC]''' (daytime for the Americas and Pacific Islands) or on '''Thursday, 14 August 2014 at [http://www.timeanddate.com/worldclock/fixedtime.html?hour=9&min=00&sec=0&day=14&month=08&year=2014 9:00 UTC]''' (daytime for Europe, Middle East, Asia).
+
+If you'd like to get this newsletter on your own page (about once a month), please subscribe at [[:m:VisualEditor/Newsletter|Meta]] (or at [[:w:en:Wikipedia:VisualEditor/Newsletter]] for English Wikipedia only). Thank you! --[[:m:User:Elitre (WMF)|Elitre (WMF)]], 22:33, 25 yüni 2014 (UTC)
+</div>
+<!-- Message sent by User:Elitre (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=User:Elitre_(WMF)/MassMessage/VE_Global_Newsletter_2&oldid=9006419 -->
