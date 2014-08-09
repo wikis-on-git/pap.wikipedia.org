@@ -1011,3 +1011,41 @@ Most of the VisualEditor team will be at '''[https://wikimania2014.wikimedia.org
 WMF community liaisons will share a booth with community advocates at the Community Village and look forward to talking to you there. Thanks for your attention! --[[User:Elitre (WMF)]] 16:02, 31 yüli 2014 (UTC)
 </div>
 <!-- Message sent by User:Elitre (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=User:Elitre_(WMF)/MassMessage/VE_Global_Newsletter&oldid=9365654 -->
+
+== VisualEditor global newsletter—July and August 2014 ==
+
+<div class="mw-content-ltr" lang="en" dir="ltr">
+[[File:VisualEditor-logo.svg|right|200px]]
+''The [[:mw:VisualEditor|VisualEditor]] team is currently working mostly to fix bugs, improve performance, reduce technical debt, and other infrastructure needs. You can find [[:mw:VisualEditor/status|on Mediawiki.org]] weekly updates detailing recent work.''
+[[File:VisualEditor - Link editing inline box.png|thumb|Dialog boxes in VisualEditor have been re-designed to use action words instead of icons.  This has increased the number of [[:mw:VisualEditor/TranslationCentral#Translate the VisualEditor interface|items that need to be translated]].
+
+[[:mw:VisualEditor/User guide|The user guide]] is also being updated.
+|alt=Screenshot of VisualEditor's link tool|240px]]
+
+The biggest visible change since the last newsletter was to the dialog boxes.  '''The design for each dialog box and window was simplified.'''  The most commonly needed buttons are now at the top.  Based on user feedback, the buttons are now labeled with simple words (like "Cancel" or "Done") instead of potentially confusing icons (like "<" or "X").  Many of the buttons to edit links, images, and other items now also show the linked page, image name, or other useful information when you click on them.
+* '''Hidden HTML comments''' (notes visible to editors, but not to readers) can now be read, edited, inserted, and removed.  A small icon (a white exclamation mark on a dot) marks the location of each comments.  You can click on the icon to see the comment.
+* You can now '''drag and drop text''' and templates as well as images.  A new placement line makes it much easier to see where you are dropping the item.  Images can no longer be dropped into the middle of paragraphs.
+* '''All references and footnotes ('''<code><nowiki><ref></nowiki></code>''' tags) are now made through the "{{int:visualeditor-toolbar-cite-label}}" menu''', including the "{{int:visualeditor-dialogbutton-reference-tooltip}}" (manual formatting) footnotes and the ability to re-use an existing citation, both of which were previously accessible only through the "{{int:visualeditor-toolbar-insert}}" menu.  The "{{int:visualeditor-dialogbutton-referencelist-tooltip}}" is still added via the "{{int:visualeditor-toolbar-insert}}" menu.
+* When you add an image or other media file, you are now prompted to add an '''image caption''' immediately. You can also replace an image whilst keeping the original caption and other settings.
+* All tablet users visiting the '''mobile web''' version of Wikipedias will be able to opt-in to a version of VisualEditor from 14 August.  You can test the new tool by choosing the beta version of the mobile view in the Settings menu.
+* The '''link tool''' has a new "Open" button that will open a linked page in another tab so you can make sure a link is the right one. 
+* The '''"Cancel" button''' in the toolbar has been removed based on user testing.  To cancel any edit, you can leave the page by clicking the Read tab, the back button in your browser, or closing the browser window without saving your changes.
+</div>
+
+=== Looking ahead ===
+<div class="mw-content-ltr" lang="en" dir="ltr">
+
+The team posts details about planned work on the [[:mw:VisualEditor/Roadmap|VisualEditor roadmap]].  The VisualEditor team [[:mw:Cite-from-id|plans to add '''auto-fill features''']]''' for citations''' soon.  <mark>Your [[:mw:VisualEditor/Design/Reference Dialog|ideas about making referencing quick and easy]] are still wanted.</mark>  Support for '''upright image sizes''' is being developed.  The designers are also working on support for '''adding rows and columns to tables'''.  Work to support '''Internet Explorer''' is ongoing.
+</div>
+
+=== Feedback opportunities ===
+<div class="mw-content-ltr" lang="en" dir="ltr">
+
+The Editing team will be making two presentations this weekend at '''Wikimania''' in London.  The first is with product manager James Forrester and developer Trevor Parscal on [[wm2014:Submissions/VisualEditor_—_helping_users_edit_more_easily|Saturday at 16:30]].  The second is with developers Roan Kattouw and Trevor Parscal on [[wm2014:Submissions/VisualEditor_—_engineering_against_the_odds|Sunday at 12:30]]. There is a '''[[:mw:VisualEditor/Translathon|VisualEditor Translation Sprint]]''' going on during Wikimania; whether you're in London or not, any contributions are welcome!   
+
+Please share your questions, suggestions, or problems by posting a note at the [[:mw:VisualEditor/Feedback|'''VisualEditor feedback page''']] or by joining the [[:m:IRC office hours|'''office hours discussion''']] on Thursday, 14 August 2014 at [http://www.timeanddate.com/worldclock/fixedtime.html?hour=9&min=00&sec=0&day=14&month=08&year=2014 09:00 UTC] (daytime for Europe, Middle East and Asia) or on Thursday, 18 September 2014 at [http://www.timeanddate.com/worldclock/fixedtime.html?hour=9&min=00&sec=0&day=14&month=08&year=2014http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&min=00&sec=0&day=18&month=09&year=2014 16:00 UTC] (daytime for the Americas; evening for Europe).   
+
+If you'd like to get this newsletter on your own page (about once a month), please subscribe at [[:w:en:Wikipedia:VisualEditor/Newsletter]] for English Wikipedia only or at [[:m:VisualEditor/Newsletter|Meta]] for any project. Thank you! --[[:m:User:Elitre (WMF)|Elitre (WMF)]], 14:40, 9 ougùstùs 2014 (UTC)
+
+</div>
+<!-- Message sent by User:Elitre (WMF)@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=User:Elitre_(WMF)/MassMessage/VE_Global_Newsletter&oldid=9366342 -->
