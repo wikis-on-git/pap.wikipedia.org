@@ -192,7 +192,7 @@ UN estimate
 |-
 |86 || align=left|'''[[Serbia]]''' || 9,850,000 ||  || {{#expr: 9850000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|87 || align=left|'''[[Belarus]]''' || 9,473,600 || April 1, 2010 || {{#expr: 9473600  / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://belstat.gov.by/homep/en/indicators/press/demogr.php Official statistics of Belarus]
+|87 || align=left|'''[[Belarus]]''' || 9,473,600 || April 1, 2010 || {{#expr: 9473600  / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://web.archive.org/web/20100210021311/http://belstat.gov.by/homep/en/indicators/press/demogr.php Official statistics of Belarus]
 |-
 |88 || align=left|'''[[Zweden]]''' ||9,359,742
  ||April 30, 2010|| {{#expr: 9336487 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.scb.se/Pages/Product____25799.aspx Statistics Sweden]
