@@ -1,0 +1,300 @@
+{{Documentation subpage}}
+{{Uses Infobox person}}
+{{Generic template demo |honorific_prefix |name |honorific_suffix |image |image_size={{{image_size}}}<br/> |alt |caption |native_name |native_name_lang |birth_name |birth_date |birth_place |death_date |death_place |resting_place |resting_place_coordinates |nationality |education |alma_mater |known_for |notable_works |style |movement |spouse |awards |elected |patrons |memorials |website}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+{{tl|Infobox artist}} may be used to summarise information about a person who is an artist.
+
+== Usage ==
+
+The infobox may be added by pasting the template as shown below into an article. Only the ''name'' parameter is required. For an example, see [[Salvador Dalí]].
+
+<pre style="overflow: auto">
+{{Infobox artist
+| honorific_prefix = 
+| name             = <!-- include middle initial, if not specified in birth_name -->
+| honorific_suffix = 
+| image            = <!-- just the pagename, without the File:/Image: prefix or [[brackets]] -->
+| image_size       = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| birth_name       = <!--only use if different from name-->
+| birth_date       = <!-- {{Birth date and age|YYYY|MM|DD}} for living artists, {{Birth date|YYYY|MM|DD}} for dead -->
+| birth_place      = 
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} --> 
+| death_place      =
+| resting_place    = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality      = 
+| education        = 
+| alma_mater       = 
+| known_for        = 
+| notable_works    = 
+| style            = 
+| movement         = 
+| spouse           = 
+| awards           = <!-- {{awd|award|year|title|role|name}} (optional) -->
+| elected          = 
+| patrons          = 
+| memorials        = 
+| website          = <!-- {{URL|Example.com}} -->
+}}
+</pre>
+
+== Parameters ==
+{| class="wikitable"
+
+|-
+|width="110px"| ''honorific_prefix'' || Title, e.g. "Sir", "Lord"
+|-
+| ''name'' || artist's name; usually the article's page name (i.e. the artist's common name)
+|-
+| ''honorific_suffix'' || initials like "OBE", "FRSA"
+|-
+| ''image'' || an image of (or, if not available, by) the artist, in the form: "Example.jpg"
+|-
+| ''image_size''&nbsp;* || in the form "''N''px", resizes the image to a width of ''N'' pixels; default is 220px
+|-
+| ''alt''&nbsp;* || alt text for the image, for visually impaired readers (see [[WP:ALT]])
+|-
+| ''caption''&nbsp;* || caption for the image
+|-
+| ''native_name'' || name in local language. If more than one, separate using {{tl|Plain list}}
+|-
+| ''native_name_lang'' || ISO 639-2 code e.g. "fr" for French. If more than one, use {{tl|lang}} instead
+|-
+| ''birth_name'' || artist's name at birth, <!--or christening?--> if different than ''name''
+|-
+| ''birth_date'' || artist's date of birth, use {{tl|birth date and age}} (for living artists) or {{tl|birth date}} for the deceased. Use plain text for partial dates.
+|-
+| ''birth_place'' || artist's place of birth
+|-
+| ''death_date'' || artist's date of death, use {{tl|death date and age}}. Use {{tl|death date}} if birth date unknown or incomplete. Use plain text for partial dates.
+|-
+| ''death_place'' || artist's place of death
+|-
+| ''resting_place'' || place of burial, ash-scattering, etc.
+|-
+| ''resting_place_coordinates'' || precise coordinates for place of burial, ash-scattering etc. Use {{tl|coord}} template.
+|-
+| ''nationality'' || artist's nationality
+|-
+| ''education'' || where or with whom the artist trained
+|-
+| ''alma_mater'' || The linked name of attended higher education institution(s). See ''[[Alma mater]]''
+|-
+| ''known_for'' || main fields in which the artist works (i.e. photography, painting, sculpture, drawing, ceramics, graphic design)
+|-
+| ''notable_works'' || artist's famous/significant/representative works. Works with their own articles should take priority (please limit to 5 at most)
+|-
+| ''style'' || artistic style which the artist employs
+|-
+| ''movement'' || artistic movement or school with which artist is associated.
+|-
+| ''spouse'' || artist's spouse, if notable
+|-
+| ''awards'' || any awards the artist has won. Consider using the template: {{tlx|awd|award|year|title|role|name}}
+|-
+| ''elected'' || bodies to which the artist has been elected member
+|-
+| ''patrons'' || patrons of the artist
+|-
+| ''memorials'' || Monuments, plaques, entities named after the subject, etc.
+|-
+| ''website'' || artist's ''official'' website, if any. Consider using the template: {{tlx|URL|Example.com}}
+|-
+|colspan=2 style="font-size:90%"| * Only used if the {{{image}}} parameter used.
+|}
+
+== Microformat ==
+{{UF-hcard-person}}
+
+== TemplateData==
+{{TemplateDataHeader}}
+<templatedata>{
+  "description": "An infobox for artists.",
+  "params": {
+    "honorific_prefix": {
+      "label": "Honorific prefix",
+      "description": "title such as 'Sir', 'Lord'",
+      "type": "string/wiki-page-name",
+      "required": false
+    },
+    "name": {
+      "label": "Name",
+      "description": "Name of the artist. If not specified, the PAGENAME is used.",
+      "type": "string/line",
+      "default": "PAGENAME",
+      "required": false
+    },
+    "honorific_suffix": {
+      "label": "Honorific suffix",
+      "description": "initials such as 'OBE', 'FRSA'",
+      "type": "string/wiki-page-name",
+      "required": false
+    },
+    "image": {
+      "label": "Image",
+      "description": "Filename for the image (e.g. 'Example.jpg').",
+      "type": "string/wiki-page-name",
+      "required": false
+    },
+    "image_size": {
+      "label": "Image size",
+      "description": "Size of the image (e.g. '220px').",
+      "type": "string/line",
+      "default": "varies",
+      "required": false,
+      "aliases": [ "imagesize" ]
+    },
+    "alt": {
+      "label": "Alternative text",
+      "description": "Alternative text for the image.",
+      "type": "string/line",
+      "required": false
+    },
+    "caption": {
+      "label": "Caption",
+      "description": "Caption for the image.",
+      "type": "string",
+      "required": false
+    },
+    "birth_name": {
+      "label": "Birth name",
+      "description": "Artist's name at birth, if different from 'name'.",
+      "type": "string",
+      "required": false,
+      "aliases": [ "birthname" ]
+    },
+    "birth_date": {
+      "label": "Birth date",
+      "description": "Artist's date of birth. Use {{birth date and age}} (for living artists) or {{birth date}} for the deceased.",
+      "type": "string/line",
+      "required": false
+    },
+    "birth_place": {
+      "label": "Birth place",
+      "description": "Artist's place of birth.",
+      "type": "string/line",
+      "required": false
+    },
+    "death_date": {
+      "label": "Death date",
+      "description": "Artist's date of death. Use {{death date and age}}. Use {{death date}} if birth date unknown or incomplete.",
+      "type": "string/line",
+      "required": false
+    },
+    "death_place": {
+      "label": "Death place",
+      "description": "Artist's place of death.",
+      "type": "string/line",
+      "required": false
+    },
+    "resting_place": {
+      "label": "Resting place",
+      "description": "Artist's grave, etc.",
+      "type": "string/line",
+      "required": false
+    },
+    "resting_place_coordinates": {
+      "label": "Resting place",
+      "description": "Coordinates of artist's grave, etc. Use {{Coord|LAT|LONG|type:landmark|display=inline}}",
+      "type": "string/line",
+      "required": false
+    },
+    "nationality": {
+      "label": "Nationality",
+      "description": "Artist's nationality.",
+      "type": "string/line",
+      "required": false
+    },
+    "education": {
+      "label": "Education",
+      "description": "Where or with whom the artist trained.",
+      "type": "string/line",
+      "required": false
+    },
+    "alma_mater": {
+      "label": "Alma mater",
+      "description": "The linked name of attended higher education institution(s).",
+      "type": "string/line",
+      "required": false
+    },
+    "known_for": {
+      "label": "Known for",
+      "description": "Main field(s) in which the artist works or worked (e.g. photography, painting, drawing, etc.).",
+      "type": "string/line",
+      "required": false
+    },
+    "notable_works": {
+      "label": "Notable work(s)",
+      "description": "Artist's famous/significant/representative works. Please limit to five works.",
+      "type": "string/line",
+      "required": false
+    },
+    "style": {
+      "label": "Style",
+      "description": "Artistic style which the artist employs.",
+      "type": "string/line",
+      "required": false
+    },
+    "movement": {
+      "label": "Movement",
+      "description": "Artistic movement or school with which artist is associated.",
+      "type": "string/line",
+      "required": false
+    },
+    "spouse": {
+      "label": "Spouse(s)",
+      "description": "Artist's spouse(s), if notable.",
+      "type": "string/line",
+      "required": false
+    },
+    "awards": {
+      "label": "Awards",
+      "description": "Awards won by the artist. Consider using {{awd}}.",
+      "type": "string/line",
+      "required": false
+    },
+    "elected": {
+      "label": "Elected bodies",
+      "description": "Bodies to which the artist has been elected.",
+      "type": "string/line",
+      "required": false
+    },
+    "patrons": {
+      "label": "Patron(s)",
+      "description": "Patrons of the artist.",
+      "type": "string/line",
+      "required": false
+    },
+    "memorials": {
+      "label": "Memorial(s)",
+      "description": "Monuments, plaques, entities named after the subject, etc.",
+      "type": "string/line",
+      "required": false
+    },
+    "website": {
+      "label": "Official website",
+      "description": "Artist's official website. Consider using {{URL}}.",
+      "type": "string/line",
+      "required": false
+    }
+  }
+}</templatedata>
+
+== See also ==
+* {{tl|Infobox musical artist}}
+* {{tl|Infobox artwork}}
+* {{tl|Image information art}} - for image pages
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+{{Basepage subpage|
+[[Category:People infobox templates|Artist]]
+[[Category:Embeddable templates|Artist]]
+[[Category:Arts and culture infobox templates|Artist]]
+}}
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+</includeonly>
