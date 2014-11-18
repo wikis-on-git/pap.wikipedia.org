@@ -1,0 +1,61 @@
+{{infobox
+| bodyclass  = vcard
+
+| abovestyle = background-color:{{{bgcolour|#6495ED}}};
+| aboveclass = fn
+| above      = {{{nòmber|<includeonly>{{PAGENAME}}</includeonly>}}}
+
+| labelstyle = line-height: 1.3em
+| datastyle  = line-height: 1.3em
+
+| image      = {{#if:{{{image|}}}|[[File:{{{image}}}|{{#if:{{{imagesize|}}}|{{{imagesize}}}|frameless}}|alt={{{alt|}}}]]}}
+| imageclass = {{image class|{{{image|}}} }}
+| caption    = {{{caption|}}}
+
+| label1     = Nòmber i Fam
+| class1     = Nòmber di kariño
+| data1      = {{{birthname|}}}
+
+| label2     = A nase
+| data2      = {{{birthdate|}}}{{#if:{{{location|}}}|{{#if:{{{birthdate|}}}|<br />}}{{{location}}}}}
+
+| label3     = A muri
+| data3      = {{{deathdate|}}}{{#if:{{{deathplace|}}}|{{#if:{{{deathdate|}}}|<br />}}{{{deathplace}}}}}
+
+| label5     = Nashonalidat
+| data5      = {{{nationality|}}} 
+| class5     = category
+
+| label7     = Tereno
+| data7      = {{{field|}}}
+| class7     = category
+
+| label8     = Estudio
+| data8      = {{{training|}}}
+
+| label9     = Movementu
+| data9      = {{{movement|}}}
+| class9     = category
+
+| rowclass10    = note
+| label10    = Trabounan
+| data10     = {{{works|}}}
+
+| label11    = Konosí pa
+| data11     = {{{known_for|}}}
+
+| label12    = Influensha
+| data12     = {{{influenced by|}}}
+
+| label13    = Influenced
+| data13     = {{{influenced|}}}
+
+| label14    = Awards
+| data14     = {{{awards|}}}
+
+| label17    = Wèpsite
+| data17     = {{{website|}}}
+
+}}{{ns0|{{#ifeq:{{{box_width|x}}}|x||[[Category:Infobox artist using deprecated parameters]]}}}}<noinclude>
+{{documentation}}<!-- PLEASE ADD CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>
