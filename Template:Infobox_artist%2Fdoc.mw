@@ -1,5 +1,4 @@
 {{Documentation subpage}}
-{{Uses Infobox person}}
 {{Generic template demo |honorific_prefix |name |honorific_suffix |image |image_size={{{image_size}}}<br/> |alt |caption |native_name |native_name_lang |birth_name |birth_date |birth_place |death_date |death_place |resting_place |resting_place_coordinates |nationality |education |alma_mater |known_for |notable_works |style |movement |spouse |awards |elected |patrons |memorials |website}}
 <!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
 {{tl|Infobox artist}} may be used to summarise information about a person who is an artist.
