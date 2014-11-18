@@ -1,0 +1,47 @@
+{{Documentation subpage}}
+{{Lua|Module:Parameter names example{{!}}{{nowrap|Module:Parameter names example}}}}
+<!----Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])---->
+
+{{tl|Parameter names example}}&nbsp;– or, alternatively, {{tl|Generic template demo}}&nbsp;– is intended to assist [[Wikipedia:Template documentation|template documentation]] by producing a generic instance of the template that uses [[Help:Templates#Parameters|parameters' names]] as those parameters' values.
+{{clear}}
+
+==Example==
+The example opposite for {{tl|Infobox}}, for instance, was produced by:
+
+{{Parameter names example |_template=Infobox |title |above |subheader |subheader2 |image |caption |header1 |label2 |data2 |label3 |data3 |header4 |data5 |data6 |below}}
+
+<pre style="overflow:auto;">
+{{Parameter names example
+|_template=Infobox
+|title |above |subheader |subheader2 |image |caption 
+|header1 |label2 |data2 |label3 |data3 |header4 
+|data5 |data6 |below
+}}
+</pre>
+
+==Usage notes==
+When {{tnf|Parameter names example}} is used on an immediate subpage of its target template&nbsp;– e.g. on the target template's /doc page&nbsp;– its own {{para|_template}} parameter identifying the target template may be omitted. In other words, the code above, if used on Template:Infobox/''page'' (where ''page'' could be "doc", "testcases", etc), would become:
+
+<pre style="overflow:auto;">
+{{Parameter names example
+|title |above |subheader |subheader2 |image |caption 
+|header1 |label2 |data2 |label3 |data3 |header4 
+|data5 |data6 |below
+}}
+</pre>
+
+One exception to this is the "sandbox" subpage. If the module is called from a page ending in "/sandbox", it uses that page to generate the template output, not the base page. To override this behaviour you can specify the {{para|_template}} parameter explicitly.
+
+The formatting of the parameter names can be changed with the {{para|_display}} parameter. By default, the parameter names are shown in triple braces (the [[m:Help:Templates#Parameters|parameter standard]], e.g. {{{name}}}{{thinsp}}), but if {{para|_display|italics}} or {{para|_display|italic}} is set, they are shown in italics.
+
+A custom value for a parameter may be supplied by using {{para|[parameter name]|[value]}} in place of <code>|[parameter name]</code>. Any formatting for such a value&nbsp;– including, for instance, italics&nbsp;– must be supplied as part of the value (e.g. {{para|parameter|<nowiki>''value''<br/></nowiki>}}). Custom values cannot be used for parameters whose names begin with an underscore ("_").
+
+== See also ==
+* [[Wikipedia:Template documentation]]
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!----Categories below this line, please; interwikis at Wikidata---->
+[[Category:Wikipedia utility templates]]
+[[Category:Template namespace templates]]
+[[Category:Template documentation]]
+}}</includeonly>
