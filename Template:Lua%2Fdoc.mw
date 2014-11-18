@@ -1,5 +1,4 @@
 {{Documentation subpage}}
-{{Lua{{\sandbox}}|Module:Lua banner}}
 <!-- Categories go at the bottom of this page, and interwikis go on Wikidata. -->
 
 This template is used to show that templates have been converted to [[Lua (programming language)|Lua]]. It is placed at the top of the template's /doc page. It automatically adds the template to [[:Category:Lua-based templates]], or to one of its subcategories.
