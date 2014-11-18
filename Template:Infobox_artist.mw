@@ -1,29 +1,29 @@
 {{Infobox person
-| honorific_prefix          = {{{honorific_prefix|}}}
-| name                      = {{{name|{{PAGENAME}}}}}
-| honorific_suffix          = {{{honorific_suffix|}}}
-| native_name               = {{{native_name|}}}
-| native_name_lang          = {{{native_name_lang|}}}
+| nomber_honorifiko_dilanti          = {{{honorific_prefix|}}}
+| nomber                      = {{{name|{{PAGENAME}}}}}
+| nomber_honorifiko_patras          = {{{honorific_suffix|}}}
+| nomber_nativo               = {{{native_name|}}}
+| idioma_nomber_nativo          = {{{native_name_lang|}}}
 | image                     = {{{image|}}}
 | image_size                = {{{image_size|}}}
 | alt                       = {{{alt|}}}
 | caption                   = {{{caption|}}}
-| birth_name                = {{{birth_name|}}}
-| birth_date                = {{{birth_date|}}}  <!-- {{Birth date and age|YYYY|MM|DD}} for living philosophers, {{Birth date|YYYY|MM|DD}} for dead -->
-| birth_place               = {{{birth_place|}}}
-| death_date                = {{{death_date|}}}  <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
-| death_place               = {{{death_place|}}}
-| resting_place             = {{{resting_place|}}}
-| resting_place_coordinates = {{{resting_place_coordinates|}}}  <!-- {{Coord|LAT|LON|type:landmark|display=inline,title}} -->
-| nationality               = {{{nationality|}}}
-| spouse                    = {{{spouse|}}}
-| movement                  = {{{movement|}}}
-| style                     = {{{style|}}}
-| known_for                 = {{{known_for|{{{field|}}}}}}  <!-- 'field' is deprecated, but supported -->
-| education                 = {{{education|{{{training|}}}}}}  <!-- 'training' is deprecated, but supported -->
+| nomber_nansementu                = {{{birth_name|}}}
+| dia_nanse                = {{{birth_date|}}}  <!-- {{Birth date and age|YYYY|MM|DD}} for living philosophers, {{Birth date|YYYY|MM|DD}} for dead -->
+| lugar_nanse               = {{{birth_place|}}}
+| dia_muri                = {{{death_date|}}}  <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| lugar_muri               = {{{death_place|}}}
+| lugar_dera             = {{{resting_place|}}}
+| coordinato_lugar_dera = {{{resting_place_coordinates|}}}  <!-- {{Coord|LAT|LON|type:landmark|display=inline,title}} -->
+| nashonalidad               = {{{nationality|}}}
+| kasa                    = {{{spouse|}}}
+| movementu                  = {{{movement|}}}
+| estilo                     = {{{style|}}}
+| konosi_pa                 = {{{known_for|{{{field|}}}}}}  <!-- 'field' is deprecated, but supported -->
+| edukashon                 = {{{education|{{{training|}}}}}}  <!-- 'training' is deprecated, but supported -->
 | alma_mater                = {{{alma_mater|}}}
-| notable_works             = {{{notable_works|{{{works|}}}}}}  <!-- 'works' is deprecated, but supported -->
-| awards                    = {{{awards|}}}  <!-- {{awd|award|year|title|role|name}} (optional) -->
+| trabounan_konosi             = {{{notable_works|{{{works|}}}}}}  <!-- 'works' is deprecated, but supported -->
+| premionan                    = {{{awards|}}}  <!-- {{awd|award|year|title|role|name}} (optional) -->
 | website                   = {{{website|}}}
 | module                    = {{#if:{{{patrons|}}}{{{memorials|}}}{{{elected|}}}|
                                 {{ infobox
