@@ -9,31 +9,31 @@ The infobox may be added by pasting the template as shown below into an article.
 
 <pre style="overflow: auto">
 {{Infobox artist
-| nomber_honorifiko_dilanti = 
-| nomber           = <!-- include middle initial, if not specified in birth_name -->
-| nomber_honorifiko_patras = 
+| honorific_prefix = 
+| name             = <!-- include middle initial, if not specified in birth_name -->
+| honorific_suffix = 
 | image            = <!-- just the pagename, without the File:/Image: prefix or [[brackets]] -->
 | image_size       = 
 | alt              = 
 | caption          = 
-| nomber_nativo      = 
-| idioma_nomber_nativo = 
-| nomber_nansementu       = <!--only use if different from name-->
-| dia_nanse       = <!-- {{Birth date and age|YYYY|MM|DD}} for living artists, {{Birth date|YYYY|MM|DD}} for dead -->
-| lugar_nanse      = 
-| dia_muri       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} --> 
-| lugar_muri      =
-| lugar_dera    = 
-| coordinato_lugar_dera = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
-| nashonalidad      = 
-| edukashon        = 
+| native_name      = 
+| native_name_lang = 
+| birth_name       = <!--only use if different from name-->
+| birth_date       = <!-- {{Birth date and age|YYYY|MM|DD}} for living artists, {{Birth date|YYYY|MM|DD}} for dead -->
+| birth_place      = 
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} --> 
+| death_place      =
+| resting_place    = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality      = 
+| education        = 
 | alma_mater       = 
-| konosi_pa        = 
-| trabounan_konosi    = 
-| estilo            = 
-| movementu         = 
-| kasa           = 
-| premionan           = <!-- {{awd|award|year|title|role|name}} (optional) -->
+| known_for        = 
+| notable_works    = 
+| style            = 
+| movement         = 
+| spouse           = 
+| awards           = <!-- {{awd|award|year|title|role|name}} (optional) -->
 | elected          = 
 | patrons          = 
 | memorials        = 
