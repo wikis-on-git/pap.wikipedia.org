@@ -1,0 +1,45 @@
+{{Infobox person
+| honorific_prefix          = {{{honorific_prefix|}}}
+| name                      = {{{name|{{PAGENAME}}}}}
+| honorific_suffix          = {{{honorific_suffix|}}}
+| native_name               = {{{native_name|}}}
+| native_name_lang          = {{{native_name_lang|}}}
+| image                     = {{{image|}}}
+| image_size                = {{{image_size|}}}
+| alt                       = {{{alt|}}}
+| caption                   = {{{caption|}}}
+| birth_name                = {{{birth_name|}}}
+| birth_date                = {{{birth_date|}}}  <!-- {{Birth date and age|YYYY|MM|DD}} for living philosophers, {{Birth date|YYYY|MM|DD}} for dead -->
+| birth_place               = {{{birth_place|}}}
+| death_date                = {{{death_date|}}}  <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place               = {{{death_place|}}}
+| resting_place             = {{{resting_place|}}}
+| resting_place_coordinates = {{{resting_place_coordinates|}}}  <!-- {{Coord|LAT|LON|type:landmark|display=inline,title}} -->
+| nationality               = {{{nationality|}}}
+| spouse                    = {{{spouse|}}}
+| movement                  = {{{movement|}}}
+| style                     = {{{style|}}}
+| known_for                 = {{{known_for|{{{field|}}}}}}  <!-- 'field' is deprecated, but supported -->
+| education                 = {{{education|{{{training|}}}}}}  <!-- 'training' is deprecated, but supported -->
+| alma_mater                = {{{alma_mater|}}}
+| notable_works             = {{{notable_works|{{{works|}}}}}}  <!-- 'works' is deprecated, but supported -->
+| awards                    = {{{awards|}}}  <!-- {{awd|award|year|title|role|name}} (optional) -->
+| website                   = {{{website|}}}
+| module                    = {{#if:{{{patrons|}}}{{{memorials|}}}{{{elected|}}}|
+                                {{ infobox
+                                | child     = yes
+                                | decat     = yes <!-- remove from template:infobox tracking categories -->
+                                | title     = 
+                                | label1    = Elected
+                                | data1     = {{{elected|}}}
+                                | class1    = org
+                                | label2    = <span style="white-space:nowrap;">Patron(s)</span>
+                                | data2     = {{{patron|{{{patrons|}}}}}}
+                                | label3    = <span style="white-space:nowrap;">Memorial(s)</span>
+                                | data3     = {{{memorial|{{{memorials|}}}}}}
+                                | rowclass3 = note
+                                }}
+                              }}
+}}{{#if:{{{pronunciation|}}}|[[Category:Biography template using pronunciation]]}}<noinclude>
+{{documentation}}<!-- PLEASE ADD CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>
