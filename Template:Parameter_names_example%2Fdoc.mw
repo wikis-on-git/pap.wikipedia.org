@@ -1,4 +1,6 @@
 {{Documentation subpage}}
+{{Lua|Module:Parameter names example{{!}}{{nowrap|Module:Parameter names example}}}}
+
 <!----Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])---->
 
 {{tl|Parameter names example}}&nbsp;– or, alternatively, {{tl|Generic template demo}}&nbsp;– is intended to assist [[Wikipedia:Template documentation|template documentation]] by producing a generic instance of the template that uses [[Help:Templates#Parameters|parameters' names]] as those parameters' values.
