@@ -9,40 +9,23 @@
 E lista akibou por wòrdu uzá pa krea un infobox pa huza riba un pagina. E regelnan ku no ta na nodi, por wòrdu lagá afó.
 
 <pre>{{Infobox stadion
-| naam stadion      = 
-| afbeelding        = 
-| onderschrift      = 
-| UEFA-sterren      = 
-| bijnaam           = 
-| plaats            = 
-| capaciteit        = 
-| bouwjaar          = 
-| geopend           = 
-| kosten            = 
-| architect         = 
-| eigenaar          = 
-| beheerder         = 
-| bespelers         = 
-| eerste wedstrijd  = 
-| laatste wedstrijd = 
-| gerenoveerd       = 
-| gesloten          = 
-| afgebroken        = 
-| vorigenamen       = 
-| naamtribunes      = 
-| veldafmetingen    = 
-| oppervlak         = 
-| mapname           = 
-| lat_deg           = 
-| lat_min           = 
-| lat_sec           = 
-| lat_dir           = N
-| lon_deg           = 
-| lon_min           = 
-| lon_sec           = 
-| lon_dir           = E
-| afbeelding2       = 
-| onderschrift2     = 
+| nòmber stadion         = 
+| imágen                 = 
+| beinaam                = 
+| plokalidat             = 
+| kapasidat              = 
+| fecha di konstrukshon  = 
+| apertura               = 
+| kosto                  = 
+| arkitekto              = 
+| propietario            = 
+| operadó                = 
+| ekipo lokal            = 
+| renobashon             = 
+| klousura               = 
+| desmantelashon         = 
+| nòmber anterior        = 
+| dimenshon              = 
 }}</pre>
 
 </noinclude>
