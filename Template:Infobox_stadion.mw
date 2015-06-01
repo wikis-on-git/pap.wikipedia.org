@@ -4,12 +4,15 @@
 		"nòmber stadion": {
 			"label": "Nòmber stadion",
 			"description": "Nòmber di e stadion",
-			"type": "string"
+			"type": "string",
+			"required": true,
+			"suggested": true
 		},
 		"imágen": {
 			"label": "Imágen",
 			"description": "Imágen di e stadion",
-			"type": "wiki-file-name"
+			"type": "wiki-file-name",
+			"suggested": true
 		},
 		"beinaam": {
 			"label": "Beinaam",
@@ -19,16 +22,92 @@
 		"lokalidat": {
 			"label": "Lokalidat",
 			"description": "Unda e stadion ta situá",
-			"type": "string"
+			"type": "string",
+			"suggested": true
 		},
 		"kapasidat": {
 			"label": "Kapasidat",
 			"description": "Kapasidat di hende ku por bishitá e stadion",
-			"type": "string"
+			"type": "string",
+			"suggested": true
 		},
 		"superfisio": {
 			"label": "Superfisio",
 			"description": "Superfisio di e vèlt",
+			"type": "string"
+		},
+		"fecha di konstrukshon ": {
+			"label": "Fecha di konstrukshon ",
+			"description": "Fecha di konstrukshon di e stadion",
+			"type": "string",
+			"suggested": true
+		},
+		"apertura": {
+			"label": "Apertura",
+			"description": "Fecha di apertura/inougurashón di e stadion",
+			"type": "string",
+			"suggested": true
+		},
+		"kosto": {
+			"label": "Kosto",
+			"description": "Kosto pa a kontruí e stadion",
+			"type": "string"
+		},
+		"arkitekto": {
+			"label": "Arkitekto",
+			"description": "Arkitekto di e stadion",
+			"type": "string"
+		},
+		"propietario": {
+			"label": "Propietario",
+			"description": "Doño di e stadion",
+			"suggested": true,
+			"type": "string"
+		},
+		"administradó ": {
+			"label": "Administradó ",
+			"description": "Toezichthouder di e stadion",
+			"type": "string"
+		},
+		"ekipo lokal": {
+			"label": "Ekipo lokal",
+			"description": "Ekipo(nan) ku ta hasi uzo e stadion",
+			"type": "string",
+			"suggested": true
+		},
+		"renobashon": {
+			"label": "Renobashon",
+			"description": "Fecha di renobashon di e stadion",
+			"type": "string"
+		},
+		"klousura": {
+			"label": "Klousura",
+			"description": "Fecha ku a sera e stadion",
+			"type": "string"
+		},
+		"desmantelashon": {
+			"label": "Desmantelashon",
+			"description": "Fecha ku a desmantelá/ basha e stadion abou ",
+			"type": "string"
+		},
+		"nòmber anterior": {
+			"label": "Nòmber anterior",
+			"description": "Nòmber(nan) ku e stadion tabatin anterior",
+			"type": "string"
+		},
+		"dimenshon": {
+			"label": "Dimenshon",
+			"description": "Dimenshon di e vèlt/stadion",
+			"type": "string"
+		},
+		"kontratista general": {
+			"label": "Kontratista general",
+			"description": "Kontratista mayó ku a konstruí e stadion",
+			"type": "string"
+		},
+		"kontratista adishonal": {
+			"label": "Kontratista adishonal",
+			"description": "Kontratista(nan) adishonal ku a konstruí e stadion",
 			"type": "string"
 		}
 	},
@@ -36,7 +115,7 @@
 }
 </templatedata>
 
-== Gebruik ==
+==Uzo==
 E lista akibou por wòrdu uzá pa krea un infobox pa huza riba un pagina. E regelnan ku no ta na nodi, por wòrdu lagá afó.
 
 <pre>{{Infobox stadion
