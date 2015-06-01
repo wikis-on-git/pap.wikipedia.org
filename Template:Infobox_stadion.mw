@@ -1,6 +1,37 @@
 <templatedata>
 {
-	"params": {},
+	"params": {
+		"nòmber stadion": {
+			"label": "Nòmber stadion",
+			"description": "Nòmber di e stadion",
+			"type": "string"
+		},
+		"imágen": {
+			"label": "Imágen",
+			"description": "Imágen di e stadion",
+			"type": "wiki-file-name"
+		},
+		"beinaam": {
+			"label": "Beinaam",
+			"description": "Beinaam di e stadion",
+			"type": "string"
+		},
+		"lokalidat": {
+			"label": "Lokalidat",
+			"description": "Unda e stadion ta situá",
+			"type": "string"
+		},
+		"kapasidat": {
+			"label": "Kapasidat",
+			"description": "Kapasidat di hende ku por bishitá e stadion",
+			"type": "string"
+		},
+		"superfisio": {
+			"label": "Superfisio",
+			"description": "Superfisio di e vèlt",
+			"type": "string"
+		}
+	},
 	"description": "Pa hinka informashon di stadion\n"
 }
 </templatedata>
