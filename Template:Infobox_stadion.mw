@@ -1,3 +1,25 @@
+==Uzo==
+E lista akibou por wòrdu uzá pa krea un infobox pa huza riba un pagina. E regelnan ku no ta na nodi, por wòrdu lagá afó.
+
+<pre>{{Infobox stadion
+| nòmber stadion         = 
+| imágen                 = 
+| beinaam                = 
+| lokalidat              = 
+| kapasidat              = 
+| fecha di konstrukshon  = 
+| apertura               = 
+| kosto                  = 
+| arkitekto              = 
+| propietario            = 
+| operadó                = 
+| ekipo lokal            = 
+| renobashon             = 
+| klousura               = 
+| desmantelashon         = 
+| nòmber anterior        = 
+| dimenshon              = 
+}}</pre><noinclude>
 <templatedata>
 {
 	"params": {
@@ -114,28 +136,4 @@
 	"description": "Pa hinka informashon di stadion\n"
 }
 </templatedata>
-
-==Uzo==
-E lista akibou por wòrdu uzá pa krea un infobox pa huza riba un pagina. E regelnan ku no ta na nodi, por wòrdu lagá afó.
-
-<pre>{{Infobox stadion
-| nòmber stadion         = 
-| imágen                 = 
-| beinaam                = 
-| lokalidat              = 
-| kapasidat              = 
-| fecha di konstrukshon  = 
-| apertura               = 
-| kosto                  = 
-| arkitekto              = 
-| propietario            = 
-| operadó                = 
-| ekipo lokal            = 
-| renobashon             = 
-| klousura               = 
-| desmantelashon         = 
-| nòmber anterior        = 
-| dimenshon              = 
-}}</pre>
-
 </noinclude>
