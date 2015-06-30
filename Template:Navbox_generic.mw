@@ -1,0 +1,201 @@
+<includeonly><table class="navbox collapsible {{{state|autocollapse}}} nowraplinks noprint" style="margin:auto; width:100%; clear:both; border: 1px solid #aaa; padding: 2px; {{{style|}}}{{{bodystyle|}}}"><!--
+----------------------------------------------------------------------------------------------------------------------------
+--><tr><!--
+----------------------------------------------------- Barra del titolo -----------------------------------------------------
+--><th colspan="{{#if:{{{image|}}}<!--
+--------------->| 3<!--
+--------------->| 2<!--
+--------------->}}" style="text-align:center; width:100%; background:#ccf; font-size:90%; {{{titlestyle|}}}"><!--
+---------------------------------------------------------- V.D.M. ----------------------------------------------------------
+--><div class="noprint plainlinks" style="float:left; font-size:xx-small; width:6em; text-align:left; padding:0 10px;">{{#switch:{{{navbar|}}}
+| plain=
+| #default=[[Template:{{{name}}}|<span title="Vai alla pagina del template.">v</span>]]&nbsp;·&nbsp;[[Discussioni template:{{{name}}}|<span style="color:#002bb8;" title="Discuti del template.">d</span>]]&nbsp;·&nbsp;[{{fullurl:Template:{{{name}}}|action=edit}} <span style="color:#002bb8;" title="Per modificare il template. Usa l'anteprima prima di salvare.">m</span>]}}</div><span style="font-size:110%;"><!--
+---------------------------------------------------------- V.D.M. ----------------------------------------------------------
+---------------------------------------------------------- Titolo ----------------------------------------------------------
+-------------------------------------------->{{#if:{{{title|}}}|{{{title}}}|}}<!--------------------------------------------
+--></span></th><!--
+---------------------------------------------------------- Titolo ----------------------------------------------------------
+----------------------------------------------------- Barra del titolo -----------------------------------------------------
+-->
+</tr><!--
+----------------------------------------------------- Above (opzionale) ----------------------------------------------------
+-->{{#if:{{{above|}}}<!--
+-->| <tr><td style="background:#ddf; text-align:center; font-size:90%; {{{abovestyle|}}}" colspan="{{#if:{{{image|}}}<!--
+-------------------------------------------------------------------------------------------------->| 3<!--
+-------------------------------------------------------------------------------------------------->| 2<!--
+-------------------------------------------------------------------------------------------------->}}"><!--
+------------------------------------------------------>{{{above|}}}<!-------------------------------------------------------
+----></td></tr><!--
+-->}}<!--
+----------------------------------------------------- Above (opzionale) ----------------------------------------------------
+---------------------------------------------------------- Gruppi ----------------------------------------------------------
+---------------------------------------------------------- Lista1 ----------------------------------------------------------
+-->{{#if:{{{list1|}}}
+| <tr>{{#if:{{{group1|}}}
+      | <th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group1style|}}}"><!--
+------------------------------------------------------>{{{group1}}}<!-------------------------------------------------------
+-------></th><!--
+----->}}<td style="width:100%; font-size:90%; text-align:{{#if:{{{group1|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list1style|}}}" colspan="<!--
+-->{{#if:{{{group1|}}}<!--
+-->| 1<!--
+-->| 2<!--
+-->}}">{{{list1}}}</td><!--
+--------------------------------------------------------- Immagine ---------------------------------------------------------
+---->{{#if:{{{image|}}}
+|<td rowspan="{{#expr:
+{{#if:{{{list1|}}}|1|0}}
++{{#if:{{{list2|}}}|1|0}}
++{{#if:{{{list3|}}}|1|0}}
++{{#if:{{{list4|}}}|1|0}}
++{{#if:{{{list5|}}}|1|0}}
++{{#if:{{{list6|}}}|1|0}}
++{{#if:{{{list7|}}}|1|0}}
++{{#if:{{{list8|}}}|1|0}}
++{{#if:{{{list9|}}}|1|0}}
++{{#if:{{{list10|}}}|1|0}}
++{{#if:{{{list11|}}}|1|0}}
++{{#if:{{{list12|}}}|1|0}}
++{{#if:{{{list13|}}}|1|0}}
++{{#if:{{{list14|}}}|1|0}}
++{{#if:{{{list15|}}}|1|0}}
++{{#if:{{{list16|}}}|1|0}}
++{{#if:{{{list17|}}}|1|0}}
++{{#if:{{{list18|}}}|1|0}}
++{{#if:{{{list19|}}}|1|0}}
++{{#if:{{{list20|}}}|1|0}}
++{{#if:{{{list21|}}}|1|0}}
++{{#if:{{{list22|}}}|1|0}}
++{{#if:{{{list23|}}}|1|0}}
++{{#if:{{{list24|}}}|1|0}}
++{{#if:{{{list25|}}}|1|0}}
++{{#if:{{{list26|}}}|1|0}}
++{{#if:{{{list27|}}}|1|0}}
++{{#if:{{{list28|}}}|1|0}}
++{{#if:{{{list29|}}}|1|0}}
++{{#if:{{{list30|}}}|1|0}}<!--
+------------->}}" style="vertical-align:middle; padding-left:7px; width:0%; {{{imagestyle|}}}">{{{image}}}</td><!--
+---->}}</tr><!--
+-->}}<!--
+---------------------------------------------------------- Lista1 ----------------------------------------------------------
+----------------------------------------------------- Liste successive -----------------------------------------------------
+-->{{#if:{{{list2|}}}|<tr>{{#if:{{{group2|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group2style|}}}">{{{group2}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group2|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list2style|}}}" colspan="{{#if:{{{group2|}}}|1|2}}">{{{list2}}}</td></tr>}}<!--
+
+-->{{#if:{{{list3|}}}|<tr>{{#if:{{{group3|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group3style|}}}">{{{group3}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group3|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list3style|}}}" colspan="{{#if:{{{group3|}}}|1|2}}">{{{list3}}}</td></tr>}}<!--
+
+-->{{#if:{{{list4|}}}|<tr>{{#if:{{{group4|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group4style|}}}">{{{group4}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group4|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list4style|}}}" colspan="{{#if:{{{group4|}}}|1|2}}">{{{list4}}}</td></tr>}}<!--
+
+-->{{#if:{{{list5|}}}|<tr>{{#if:{{{group5|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group5style|}}}">{{{group5}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group5|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list5style|}}}" colspan="{{#if:{{{group5|}}}|1|2}}">{{{list5}}}</td></tr>}}<!--
+
+-->{{#if:{{{list6|}}}|<tr>{{#if:{{{group6|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group6style|}}}">{{{group6}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group6|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list6style|}}}" colspan="{{#if:{{{group6|}}}|1|2}}">{{{list6}}}</td></tr>}}<!--
+
+-->{{#if:{{{list7|}}}|<tr>{{#if:{{{group7|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group7style|}}}">{{{group7}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group7|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list7style|}}}" colspan="{{#if:{{{group7|}}}|1|2}}">{{{list7}}}</td></tr>}}<!--
+
+-->{{#if:{{{list8|}}}|<tr>{{#if:{{{group8|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group8style|}}}">{{{group8}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group8|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list8style|}}}" colspan="{{#if:{{{group8|}}}|1|2}}">{{{list8}}}</td></tr>}}<!--
+
+-->{{#if:{{{list9|}}}|<tr>{{#if:{{{group9|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group9style|}}}">{{{group9}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group9|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list9style|}}}" colspan="{{#if:{{{group9|}}}|1|2}}">{{{list9}}}</td></tr>}}<!--
+
+-->{{#if:{{{list10|}}}|<tr>{{#if:{{{group10|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group10style|}}}">{{{group10}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group10|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list10style|}}}" colspan="{{#if:{{{group10|}}}|1|2}}">{{{list10}}}</td></tr>}}<!--
+
+-->{{#if:{{{list11|}}}|<tr>{{#if:{{{group11|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group11style|}}}">{{{group11}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group11|}}}|left|center}}; {{{liststyle|}}};{{{oddstyle|}}}; {{{list11style|}}}" colspan="{{#if:{{{group11|}}}|1|2}}">{{{list11}}}</td></tr>}}<!--
+
+-->{{#if:{{{list12|}}}|<tr>{{#if:{{{group12|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group12style|}}}">{{{group12}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group12|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list12style|}}}" colspan="{{#if:{{{group12|}}}|1|2}}">{{{list12}}}</td></tr>}}<!--
+
+-->{{#if:{{{list13|}}}|<tr>{{#if:{{{group13|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group13style|}}}">{{{group13}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group13|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list13style|}}}" colspan="{{#if:{{{group13|}}}|1|2}}">{{{list13}}}</td></tr>}}<!--
+
+-->{{#if:{{{list14|}}}|<tr>{{#if:{{{group14|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group14style|}}}">{{{group14}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group14|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list14style|}}}" colspan="{{#if:{{{group14|}}}|1|2}}">{{{list14}}}</td></tr>}}<!--
+
+-->{{#if:{{{list15|}}}|<tr>{{#if:{{{group15|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group15style|}}}">{{{group15}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group15|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list15style|}}}" colspan="{{#if:{{{group15|}}}|1|2}}">{{{list15}}}</td></tr>}}<!--
+
+-->{{#if:{{{list16|}}}|<tr>{{#if:{{{group16|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group16style|}}}">{{{group16}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group16|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}};{{{evenstyle|}}}; {{{list16style|}}}" colspan="{{#if:{{{group16|}}}|1|2}}">{{{list16}}}</td></tr>}}<!--
+
+-->{{#if:{{{list17|}}}|<tr>{{#if:{{{group17|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group17style|}}}">{{{group17}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group17|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list17style|}}}" colspan="{{#if:{{{group17|}}}|1|2}}">{{{list17}}}</td></tr>}}<!--
+
+-->{{#if:{{{list18|}}}|<tr>{{#if:{{{group18|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group18style|}}}">{{{group18}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group18|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list18style|}}}" colspan="{{#if:{{{group18|}}}|1|2}}">{{{list18}}}</td></tr>}}<!--
+
+-->{{#if:{{{list19|}}}|<tr>{{#if:{{{group19|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group19style|}}}">{{{group19}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group19|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list19style|}}}" colspan="{{#if:{{{group19|}}}|1|2}}">{{{list19}}}</td></tr>}}<!--
+
+-->{{#if:{{{list20|}}}|<tr>{{#if:{{{group20|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group20style|}}}">{{{group20}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group20|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list20style|}}}" colspan="{{#if:{{{group20|}}}|1|2}}">{{{list20}}}</td></tr>}}<!--
+
+-->{{#if:{{{list21|}}}|<tr>{{#if:{{{group21|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group21style|}}}">{{{group21}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group21|}}}|left|center}}; {{{liststyle|}}};{{{oddstyle|}}}; {{{list21style|}}}" colspan="{{#if:{{{group21|}}}|1|2}}">{{{list21}}}</td></tr>}}<!--
+
+-->{{#if:{{{list22|}}}|<tr>{{#if:{{{group22|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group22style|}}}">{{{group22}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group22|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list22style|}}}" colspan="{{#if:{{{group22|}}}|1|2}}">{{{list22}}}</td></tr>}}<!--
+
+-->{{#if:{{{list23|}}}|<tr>{{#if:{{{group23|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group23style|}}}">{{{group23}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group23|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list23style|}}}" colspan="{{#if:{{{group23|}}}|1|2}}">{{{list23}}}</td></tr>}}<!--
+
+-->{{#if:{{{list24|}}}|<tr>{{#if:{{{group24|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group24style|}}}">{{{group24}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group24|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{evenstyle|}}}; {{{list24style|}}}" colspan="{{#if:{{{group24|}}}|1|2}}">{{{list24}}}</td></tr>}}<!--
+
+-->{{#if:{{{list25|}}}|<tr>{{#if:{{{group25|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group25style|}}}">{{{group25}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group25|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list25style|}}}" colspan="{{#if:{{{group25|}}}|1|2}}">{{{list25}}}</td></tr>}}<!--
+
+-->{{#if:{{{list26|}}}|<tr>{{#if:{{{group26|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group26style|}}}">{{{group26}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group26|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}};{{{evenstyle|}}}; {{{list26style|}}}" colspan="{{#if:{{{group26|}}}|1|2}}">{{{list26}}}</td></tr>}}<!--
+
+-->{{#if:{{{list27|}}}|<tr>{{#if:{{{group27|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group27style|}}}">{{{group27}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group27|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list27style|}}}" colspan="{{#if:{{{group27|}}}|1|2}}">{{{list27}}}</td></tr>}}<!--
+
+-->{{#if:{{{list28|}}}|<tr>{{#if:{{{group28|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group28style|}}}">{{{group28}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group28|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list28style|}}}" colspan="{{#if:{{{group28|}}}|1|2}}">{{{list28}}}</td></tr>}}<!--
+
+-->{{#if:{{{list29|}}}|<tr>{{#if:{{{group29|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group29style|}}}">{{{group29}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group29|}}}|left|center}}; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list29style|}}}" colspan="{{#if:{{{group29|}}}|1|2}}">{{{list29}}}</td></tr>}}<!--
+
+-->{{#if:{{{list30|}}}|<tr>{{#if:{{{group30|}}}|<th style="background:#ddf; white-space:nowrap; padding:0 10px; font-size:90%; {{{groupstyle|}}}; {{{group30style|}}}">{{{group30}}}</th>}}
+<td style="width:100%; font-size:90%; text-align:{{#if:{{{group30|}}}|left|center}};background:#f7f7f7; {{{liststyle|}}}; {{{oddstyle|}}}; {{{list30style|}}}" colspan="{{#if:{{{group30|}}}|1|2}}">{{{list30}}}</td></tr>}}<!--
+-------------------------------------------------------- Fine liste --------------------------------------------------------
+----------------------------------------------------- Below (opzionale) ----------------------------------------------------
+-->{{#if:{{{below|}}}<!--
+-->| <tr><td style="background:#ddf; text-align:center; font-size:90%; {{{belowstyle|}}}" colspan="{{#if:{{{image|}}}<!--
+-------------------------------------------------------------------------------------------------->| 3<!--
+-------------------------------------------------------------------------------------------------->| 2<!--
+-------------------------------------------------------------------------------------------------->}}"><!--
+------------------------------------------------------>{{{below|}}}<!-------------------------------------------------------
+----></td></tr><!--
+-->}}<!--
+----------------------------------------------------------------------------------------------------------------------------
+--></table></includeonly><noinclude>
+
+
+[[cy:Nodyn:Blwch llywio generig]]
+[[en:Template:Navbox generic]]
+[[eo:Ŝablono:Navigilo2]]
+[[fi:Malline:Navbox generic]]
+[[fr:Modèle:Méta palette de navigation]]
+[[gl:Modelo:Navbox]]
+[[id:Templat:Navbox]]
+[[ja:Template:Navbox generic]]
+[[lv:Veidne:Navbox generic]]
+[[ms:Templat:Navbox generic]]
+[[no:Mal:Navbox generic]]
+[[pt:Predefinição:Navbox generic]]
+[[ro:Format:Casetă de navigare de bază]]
+[[ru:Шаблон:Навигационная таблица]]
+[[simple:Template:Navbox generic]]
+[[su:Citakan:Navbox generic]]
+[[sv:Mall:Navbox generic]]
+[[uk:Шаблон:Навігаційна таблиця]]
+[[vi:Tiêu bản:Navbox generic]]
+[[zh:Template:Navbox generic]]
+</noinclude>
