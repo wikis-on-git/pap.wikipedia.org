@@ -1,3 +1,12 @@
 {| cellpadding="4" style="width: 20em; font-size: 95%; float: right; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; border-collapse: collapse; clear: right;"
 |+ style="margin-left: inherit;" | <big>'''{{{nomber_nativo}}}'''</big>{{#if:{{{nomber_propio|}}}|<br />'''{{{nomber_propio|}}}'''}}
+|-
+| colspan="2" |
+    {| style="text-align: center; margin: 0 auto; background: none;"
+    |-
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[{{ns:6}}:{{{imagen_bandera}}}|125px|Bandera di {{{nomber_komun}}}]]</span>
+    | style="border: 0; vertical-align: middle;" | [[{{ns:6}}:{{{imagen_wapen}}}|110px|Wapen di {{{nomber_komun}}}]]
+    |- style="font-size: 95%;"
+    | style="border: 0;" | [[Bandera di {{{nomber_komun}}}|Bandera]]
+    | style="border: 0;" | [[Wapen di {{{nomber_komun}}}|Wapen]]
 |}
