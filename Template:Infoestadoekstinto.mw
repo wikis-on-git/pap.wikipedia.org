@@ -44,7 +44,7 @@
 | '''[[Moneda]]'''
 | style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{kodigo_moneda}}}]]</code>)
 |-
-| '''Atualmente parti di'''
+| '''Awe parti di'''
 | {{{paisnan_awe}}}
 |-
 {{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
