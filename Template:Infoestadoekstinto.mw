@@ -42,7 +42,7 @@
 | &nbsp;<br />{{{pop_aproksima}}}{{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
 |-
 | '''[[Moneda]]'''
-| style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{kodigo_moneda}}}]]</code>)
+| style="white-space: nowrap;" | {{{moneda}}}
 |-
 | '''Awe parti di'''
 | {{{paisnan_awe}}}
