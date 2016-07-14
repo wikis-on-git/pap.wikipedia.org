@@ -1,8 +1,8 @@
 {| border=0 cellpadding=2 cellspacing=0 class="toccolours" style="font-family:Microsoft Sans Serif; font-weight:normal; margin:0 0 1.5em 1.5em; float:right; clear:right; border:1px solid #aaa;background-color:#f9f9f9; font-size: 95%;"
 |-
-! colspan=10 style="background:#CECFFF"| <big>{{{Nomber}}}</big>
+! colspan=10 style="background:#CECFFF"| <big>{{{nomber}}}</big>
 |-
-| colspan=10 style="background:white; text-align:center; padding:0;" | {{{Image}}}
+| colspan=10 style="background:white; text-align:center; padding:0;" | {{{image}}}
 |-
 ! colspan=10 style="background:#E0E0FF" | [[Alfabet siriliko]]
 |- align=center class="nounderlines" style="background:#fcfcfc;"
