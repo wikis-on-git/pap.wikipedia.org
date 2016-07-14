@@ -1,3 +1,24 @@
 [[File:A cir.svg|900px]]
 "A" (А, а) ta e prome letra di [[alfabet siriliko]].<br>
 E ta origina diretamente di e letra griego [[Α (alfa)|alfa]]. Na [[alfabet siriliko arkaiko]] tabata yama "azǔ" y tabatin e valor numériko di 1.
+
+== Kodifikashon ==
+{| border=1 cellpadding=2 cellspacing=0 style="border-collapse:collapse;"
+|[[Kodifikashon di karakternan|Kodifikashon]]||[[Caha (ortografia)|Caha]]||[[Desimal]]||[[Heksadesimal|Heksa]]||[[Oktal]]||[[Kódigo binario|Binario]]
+|-
+|rowspan=2|[[Unicode]]||[[Caha haltu|Haltu]]||1040||0410||002020||0000010000010000
+|-
+| |[[Caha baho|Baho]] ||1072||0430||002060||0000010000110000
+|-
+|rowspan=2|[[ISO 8859-5|ISO&nbsp;8859-5]]||Haltu||176||b0||260||0010110000
+|-
+| |Baho||208||d0||320||0011010000
+|-
+|rowspan=2|[[KOI 8|KOI&nbsp;8]]||Haltu||225||e1||341||0011100001
+|-
+| |Baho||193||c1||301||0011000001
+|-
+|rowspan=2|[[Windows 1251]]||Haltu||192||c0||300||0011000000
+|-
+| |Baho||224||e0||340||0011100000
+|}
