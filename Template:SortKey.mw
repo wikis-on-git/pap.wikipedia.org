@@ -1,1 +1,12 @@
-<span class="sortkey">{{{1|}}}</span><span class="sorttext">{{{2|[[{{{1}}}]]}}}</span>
+<span class="sortkey">{{{1|}}}</span><span class="sorttext">{{{2|[[{{{1}}}]]}}}</span><noinclude>
+{{Documentação|conteúdo=
+Para indicar uma chave de ordenação diferente do texto.
+
+'''Uso:''' {{tlx|sort|chave de ordenação|texto}}
+
+== Ver também ==
+*{{tl|Ord}}
+
+[[Categoria:!Predefinições para tabelas]]
+}}
+</noinclude>
