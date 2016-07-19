@@ -3,10 +3,11 @@
 {| cellpadding="4" style="width: 20em; font-size: 95%; float: right; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; border-collapse: collapse; clear: right;"
 !Num.<br>atomiko
 !Nomber
+!Símbolo
 |-
-| 1||[[Hidrogeno]]
+| 1||[[Hidrogeno]]||H
 |-
-| 2||[[Helium]]
+| 2||[[Helium]]||He
 |-
 | 3
 |-
@@ -18,7 +19,7 @@
 |-
 | 7
 |-
-| 8||[[Oksigeno]]
+| 8||[[Oksigeno]]||O
 |-
-| 79||[[Oro]]
+| 79||[[Oro]]||Au
 |}
