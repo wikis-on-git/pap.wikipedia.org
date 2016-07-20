@@ -1,0 +1,11 @@
+{| cellpadding="4" style="width: 20em; font-size: 95%; float: right; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; border-collapse: collapse; clear: right;"
+|+ style="margin-left: inherit;" | <big>'''{{{nomber_nativo}}}'''</big>{{#if:{{{nomber_propio|}}}|<br />'''{{{nomber_propio|}}}'''}}
+|-
+|[[{{ns:6}}:{{{imagen_mapa}}}|900px]]
+|-
+| '''[[Pais]]'''
+|{{{pais}}}
+|-
+| style="white-space: nowrap;" | '''[[Lista di país segun populashon|Populashon]]'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- [[Densidat di populashon|Densidat]]
+| &nbsp;<br />{{{pop_aproksima}}} {{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
+|}
