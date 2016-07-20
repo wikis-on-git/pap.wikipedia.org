@@ -3,15 +3,18 @@
 |-
 |[[{{ns:6}}:{{{imagen_mapa}}}|900px]]
 |-
-| '''[[Pais]]'''
-|{{{pais}}}
+| '''Pais'''
+|[[{{{pais}}}]]
 |-
 |'''Prefeito'''
-|{{{prefeito}}}
+|[[{{{prefeito}}}]]
 |-
 | '''Fecha di fundashon'''
 |{{{fecha_di_fundashon}}}
 |-
-| style="white-space: nowrap;" | '''[[Lista di país segun populashon|Populashon]]'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- [[Densidat di populashon|Densidat]]
+|'''Area'''
+|{{{area}}}&nbsp;km&sup2;&nbsp;
+|-
+| style="white-space: nowrap;" | '''Populashon'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- Densidat
 | &nbsp;<br />{{{pop_aproksima}}} {{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
 |}
