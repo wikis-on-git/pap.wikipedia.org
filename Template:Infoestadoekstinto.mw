@@ -24,10 +24,8 @@
 | '''[[Idioma|Idioma(nan) ofisial]]'''
 | {{{idiomanan_ofisial}}}
 |-
-|{{
- #if: '''[[Religion|Religion(an) ofisial]]'''}}
-|{{
- #if: {{{Religionan_ofisial}}}}}
+|'''[[Religion|Religion(an) ofisial]]'''
+|{{{Religionan_ofisial}}}
 |-
 | style="white-space: nowrap;" | '''[[Forma di gobernashon]]''' <div style="text-align: left;">{{{titulonan_kabesantenan}}}</div>
 | style="white-space: nowrap;" | {{{forma_di_gobernashon}}}<br />{{{nombernan_kabesantenan}}}
