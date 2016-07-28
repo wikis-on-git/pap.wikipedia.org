@@ -41,7 +41,17 @@ Stato dell'Eritrea ([[italiano]])
 '''Eritrea''' ta un pais na continente [[Afrika]].
 
 {{bar box
-|title
+|title    = Bar Box
+|width    = 287px
+|titlebar = #ddd
+|left1    = Religião
+|right1   = Porcentagem
+|float    = right
+|bars=
+{{bar percent|[[Religião 1]]|#9955BB|25.9}}
+{{bar percent|[[Religião 2]]|#009000|25.2}}
+{{bar percent|[[Sem religião]]|blue|25.0}}
+{{bar percent|Outras|black|23.9}}
 }}
 
 {{Template:Afrika}}
