@@ -40,18 +40,24 @@ Stato dell'Eritrea ([[italiano]])
 }}
 '''Eritrea''' ta un pais na continente [[Afrika]].
 
+==Demografikonan==
+===Lenganan===
+
 {{bar box
-|title    = Lenganan
+|title    = Lenganan<ref>Simeone-Senelle [2000], paragraphes 10 à 21.</ref>
 |width    = 287px
 |titlebar = #ddd
 |left1    = Lenga
 |right1   = Persentahe
 |float    = right
 |bars=
-{{bar percent|[[Tigrinya]]|#9955BB|25.9}}
-{{bar percent|[[Religião 2]]|#009000|25.2}}
-{{bar percent|[[Sem religião]]|blue|25.0}}
-{{bar percent|Outras|black|23.9}}
+{{bar percent|[[Tigrinya]]|red|50}}
+{{bar percent|[[Tigré (lenga)|Tigré]]|green|31}}
+{{bar percent|[[afar]] y [[saho]]|blue|5}}
+{{bar percent|[[bedja]]|black|2.5}}
+{{bar percent|[[bilen]] y [[kunama]]|grey|2}}
+{{bar percent|[[nara]]|orange|1.5}}
+{{bar percent|[[arabiko]]|lightgreen|1}}
 }}
 
 {{Template:Afrika}}
