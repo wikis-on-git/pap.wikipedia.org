@@ -25,7 +25,7 @@
 |-
 !scope="col" colspan="2"| Posishon
 ! scope="col" rowspan="2" style="width:250px;"| Pais
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -82,12 +82,11 @@
 |-
 | 25 || {{steady}} ||style="text-align:left"| {{SVN}} || 0.874 || {{steady}}
 |}
-{{col-break}}
 {|class="wikitable" style="text-align:center"
 |-
 !scope="col" colspan="2"| Posishon
 ! scope="col" rowspan="2" style="width:250px;"| Pais
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -148,7 +147,7 @@
 |-
 !scope="col" colspan="2"| Posishon
 ! scope="col" rowspan="2" style="width:250px;"| Pais
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -209,12 +208,11 @@
 |-
 | 76 || {{decrease}} (1) ||style="text-align:left"| {{AZE}} || 0,747 || {{increase}} 0,002
 |}
-{{col-break}}
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posizione
-! scope="col" rowspan="2" style="width:250px;"| Paese
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| Posishon
+! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -271,19 +269,17 @@
 |-
 |100 || {{steady}} ||style="text-align:left"| {{TON}} || 0,705 || {{increase}} 0,001
 |-
-|— || — ||style="text-align:left"| ''[[Mondo]]'' || 0,702 || {{increase}} 0,002
+|— || — ||style="text-align:left"| ''[[Mundu]]'' || 0,702 || {{increase}} 0,002
 |-
 |102 || {{steady}} ||style="text-align:left"| {{DOM}} || 0,700 || {{increase}} 0,002
 |}
-{{col-end}}
 
-=== ISU medio ===
-{{colonne}}
+=== HDI medio ===
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posizione
-! scope="col" rowspan="2" style="width:250px;"| Paese
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| Posishon
+! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -332,12 +328,11 @@
 |-
 |123 || {{decrease}} (2) ||style="text-align:left"| {{CPV}} || 0,636 || {{increase}} 0,001
 |}
-{{col-break}}
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posizione
-! scope="col" rowspan="2" style="width:250px;"| Paese
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| Posishon
+! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -386,15 +381,13 @@
 |-
 |144 || {{decrease}} (3) ||style="text-align:left"| {{GNQ}} || 0,556 || {{steady}}
 |}
-{{col-end}}
 
-=== ISU basso ===
-{{colonne}}
+=== HDI baho ===
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posizione
-! scope="col" rowspan="2" style="width:250px;"| Paese
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| Posishon
+! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -445,12 +438,11 @@
 |-
 |166 || {{steady}} ||style="text-align:left"| {{SDN}} || 0,473 || {{increase}} 0,001
 |}
-{{col-break}}
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posizione
-! scope="col" rowspan="2" style="width:250px;"| Paese
-!scope="col" colspan="2"| ISU
+!scope="col" colspan="2"| Posishon
+! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| HDI
 |-
 ! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
 ! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
@@ -499,7 +491,6 @@
 |-
 |187 || {{decrease}} (1) ||style="text-align:left"| {{NER}} || 0,337 || {{increase}} 0,002
 |}
-{{col-end}}
 
 ==Referensianan==
 {{reflist}}
