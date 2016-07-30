@@ -36,6 +36,9 @@
 | style="white-space: nowrap;" | '''[[Lista di país segun populashon|Populashon]]'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- [[Densidat di populashon|Densidat]]
 | &nbsp;<br />{{{pop_aproksima}}} ([[Lista di país segun populashon|{{{rango_populashon}}}]]){{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2; ([[Lista di país segun densidat di populashon|{{{rango_densidat_pop}}}]])
 |-
+| style="white-space: nowrap;" | '''[[Lista di país segun HDI|HDI]]'''<br />&nbsp;- [[{{{ana_hdi}}}]] est.
+| &nbsp;<br />{{{hdi}}} ([[Lista di país segun HDI|{{{rango_hdi}}}]])
+|-
 | '''[[Moneda]]'''
 | style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{kodigo_moneda}}}]]</code>)
 |-
@@ -51,6 +54,7 @@
 |}
 <noinclude>
 __NOTOC__
+
 ===Kon ta uza===
 E predefinishon '''Infopais''' ta uzá pa duna varios pida informashon di un pais na un manera organisá.
 
