@@ -434,37 +434,37 @@ Rusia &quot;Россия&quot; na [[ruso]]. Ta un pais den e [[kontinente]] E
 |-
 |align="center"|70
 |align="center"|TOM
-|[[Ficheiro:TomskOblastFlag.png|70px]]
+|[[File:TomskOblastFlag.png|70px]]
 |[[Oblast de Tomsk|Tomsk]] (Томская)
 |[[Tomsk]] (Томск)
 |-
 |align="center"|71
 |align="center"|TUL
-|[[Ficheiro:Flag of Tula Oblast.svg|70px]]
+|[[File:Flag of Tula Oblast.svg|70px]]
 |[[Oblast de Tula|Tula]] (Тульская)
 |[[Tula (Rússia)|Tula]] (Тула)
 |-
 |align="center"|72
 |align="center"|TYU
-|[[Ficheiro:Flag of Tyumen Oblast.svg|70px]]
+|[[File:Flag of Tyumen Oblast.svg|70px]]
 |[[Oblast de Tiumen|Tiumen]] (Тюменская)
 |[[Tiumen]] (Тюмень)
 |-
 |align="center"|73
 |align="center"|ULY
-|[[Ficheiro:Flag of Ulyanovsk Oblast.png|70px]]
+|[[File:Flag of Ulyanovsk Oblast.png|70px]]
 |[[Oblast de Ulianovsk|Ulianovsk]] (Ульяновская)
 |[[Ulianovsk]] (Ульяновск)
 |-
 |align="center"|74
 |align="center"|CHE
-|[[Ficheiro:Flag of Chelyabinsk Oblast.svg|70px]]
+|[[File:Flag of Chelyabinsk Oblast.svg|70px]]
 |[[Oblast de Cheliabinsk|Cheliabinsk]] (Челябинская)
 |[[Cheliabinsk]] (Челябинск)
 |-
 |align="center"|76
 |align="center"|YAR
-|[[Ficheiro:Flag of Yaroslavl Oblast.png|70px]]
+|[[File:Flag of Yaroslavl Oblast.png|70px]]
 |[[Oblast de Iaroslavl|Iaroslavl]] (Ярославская)
 |[[Iaroslavl]] (Ярославль)
 |-
@@ -472,12 +472,12 @@ Rusia &quot;Россия&quot; na [[ruso]]. Ta un pais den e [[kontinente]] E
 |-
 |align="center"|77
 |align="center"|MOW
-|[[Ficheiro:Flag of Moscow.svg|70px]]
-|colspan="2"|[[Moscovo|Moscou]]/[[Moscovo]] (Москва)
+|[[File:Flag of Moscow.svg|70px]]
+|colspan="2"|[[Moskou]]/[[Moscovo]] (Москва)
 |-
 |align="center"|78
 |align="center"|SPE
-|[[Ficheiro:Flag of Saint Petersburg Russia.svg|70px]]
+|[[File:Flag of Saint Petersburg Russia.svg|70px]]
 |colspan="2"|[[São Petersburgo]] (Санкт-Петербург)
 |-
 
@@ -485,51 +485,51 @@ Rusia &quot;Россия&quot; na [[ruso]]. Ta un pais den e [[kontinente]] E
 |-
 |align="center"|79
 |align="center"|YEV
-|[[Ficheiro:Flag of the Jewish Autonomous Oblast.svg|70px]]
-|[[Oblast Autônomo Judaico|Judaico]] (Еврейская)
+|[[File:Flag of the Jewish Autonomous Oblast.svg|70px]]
+|[[Oblast Autonomo Hudaico|Hudaico]] (Еврейская)
 |[[Birobidjan]] (Биробиджан)
 |-
 !colspan="6" bgcolor="#FFDEAD"|Distritos autónomos — автономные округа — ''avtonomnyye okruga''
 |-
 |align="center"|80
 |align="center"|AGB
-|[[Ficheiro:Flag of Agin-Buryatia.svg|70px]]
+|[[File:Flag of Agin-Buryatia.svg|70px]]
 |[[Aga Buriácia]] (Агинский-Бурятский)
 |[[Aguinskoe]] (Агинское)
 |-
 |align="center"|82
 |align="center"|KOR
-|[[Ficheiro:Flag of Koryakia.svg|70px]]
+|[[File:Flag of Koryakia.svg|70px]]
 |[[Koriakia]] (Корякский)
 |[[Palana]] (Палана)
 |-
 |align="center"|83
 |align="center"|NEN
-|[[Ficheiro:Flag of Nenets Autonomous District.svg|70px]]
+|[[File:Flag of Nenets Autonomous District.svg|70px]]
 |[[Nenétsia]] (Ненецкий)
 |[[Naryan-Mar]] (Нарьян-Мар)
 |-
 |align="center"|85
 |align="center"|UOB
-|[[Ficheiro:Flag of Ust-Orda Buryat Autonomous Okrug.svg|70px]]
+|[[File:Flag of Ust-Orda Buryat Autonomous Okrug.svg|70px]]
 |[[Ust-Orda Buriácia]] (Усть-Ордынский Бурятский)
 |[[Ust-Ordinski]] (Усть-Ордынский)
 |-
 |align="center"|86
 |align="center"|KHM
-|[[Ficheiro:Flag of Yugra.svg|70px]]
+|[[File:Flag of Yugra.svg|70px]]
 |[[Khantia-Mansia]] (Ханты-Мансийский)
 |[[Khanty-Mansiysk]] (Ханты-Мансийск)
 |-
 |align="center"|87
 |align="center"|CHU
-|[[Ficheiro:Flag of Chukotka.svg|70px]]
+|[[File:Flag of Chukotka.svg|70px]]
 |[[Chukotka]] (Чукотский)
 |[[Anadyr]] (Анадырь)
 |-
 |align="center"|89
 |align="center"|YAN
-|[[Ficheiro:Flag of Yamal-Nenets Autonomous District.svg|70px]]
+|[[File:Flag of Yamal-Nenets Autonomous District.svg|70px]]
 |[[Iamália]] (Ямало-Ненецкий)
 |[[Salekhard]] (Салехард)
 |-
@@ -537,7 +537,7 @@ Rusia &quot;Россия&quot; na [[ruso]]. Ta un pais den e [[kontinente]] E
 |-
 |align="center"|-
 |align="center"|-
-|[[Ficheiro:Flag of Crimea.svg|70px]]
+|[[File:Flag of Crimea.svg|70px]]
 |[[Crimeia|República Autônoma da Crimeia]] (Республика Крым) '''*'''
 |[[Simferopol]] (Симферополь)
 |-
@@ -548,8 +548,6 @@ Rusia &quot;Россия&quot; na [[ruso]]. Ta un pais den e [[kontinente]] E
 |align="center"|-
 |}
 
-
-Rusia tabata forma parti di e [[Imperio Ruso]] y di e [[Union Sovietico]].
 [[Category:Asia]]
 [[Category:Oropa]]
 [[Category:Paisnan]]
