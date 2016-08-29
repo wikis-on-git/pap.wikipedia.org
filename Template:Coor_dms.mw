@@ -1,1 +1,1 @@
-[https://tools.wmflabs.org/geohack/geohack.php?params={{{latG|}}}_{{{latM|}}}_{{{latS|}}}_{{{latP|}}}_{{{lonG|}}}_{{{lonM|}}}_{{{lonS|}}}_{{{lonP|}}}_{{{9}}} {{{1}}}°{{{2}}}&prime;{{{3}}}&Prime;&nbsp;{{{4}}} {{{5}}}°{{{6}}}&prime;{{{7}}}&Prime;&nbsp;{{{8}}}]
+[https://tools.wmflabs.org/geohack/geohack.php?params={{{latG|}}}_{{{latM|}}}_{{{latS|}}}_{{{latP|}}}_{{{lonG|}}}_{{{lonM|}}}_{{{lonS|}}}_{{{lonP|}}}_{{{9}}} {{{latG|}}}°{{{latM|}}}&prime;{{{latS|}}}&Prime;&nbsp;{{{latP|}}} {{{lonG|}}}°{{{lonM|}}}&prime;{{{lonS|}}}&Prime;&nbsp;{{{lonP|}}}]
