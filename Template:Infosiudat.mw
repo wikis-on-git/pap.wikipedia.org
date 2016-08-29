@@ -1,7 +1,17 @@
 {| cellpadding="4" style="width: 20em; font-size: 95%; float: right; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; border-collapse: collapse; clear: right;"
 |+ style="margin-left: inherit;" | <big>'''{{{nomber_nativo}}}'''</big>{{#if:{{{nomber_propio}}}|<br />'''{{{nomber_propio}}}'''}}
 |-
-| colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Lokashon di {{{nomber_komun}}}]]
+| {{Location map
+ |mapa             = {{{mapa}}}
+ |latP             =  {{{latP}}}
+|latG = {{{latG}}}
+|latM = {{{latM}}}
+|latS = {{{latS}}}
+ |lonP             =  {{{lonP}}}
+|lonG = lonG 
+|lonM = lonM 
+|lonS = lonS
+}}
 |-
 | '''Pais'''
 |{{{pais}}}
