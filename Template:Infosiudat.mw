@@ -18,3 +18,19 @@
 | style="white-space: nowrap;" | '''Populashon'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- Densidat
 | &nbsp;<br />{{{pop_aproksima}}} {{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
 |}
+<noinclude>
+<poem>
+{{infosiudat
+|nomber_nativo = 
+|nomber_propio = 
+|imagen_mapa = 
+|pais = 
+|prefeito = 
+|fecha_di_fundashon = 
+|area = 
+|ana_kalkulashon_di_pop = 
+|pop_aproksima = 
+|densidat_pop = 
+}}
+</poem>
+</noinclude>
