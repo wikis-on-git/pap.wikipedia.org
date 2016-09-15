@@ -10,29 +10,24 @@
 |valign="top" style="font-size:90%" | '''Nacionalitat:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{nashonalidat}}}
 |- style="display:{{#if:{{{profeshon|}}}|normal|none}};"
-|valign="top" style="font-size:90%" | '''Ocupació:'''
+|valign="top" style="font-size:90%" | '''Profeshon:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{profeshon}}}
 |- style="display:{{#if:{{{afspraak di nasemento|}}}|normal|none}};"
-|valign="top" style="font-size:90%" | '''Naiximent:'''
+|valign="top" style="font-size:90%" | '''Afspraak di nasemento:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{afspraak di nasemento}}}
 |- style="display:{{#if:{{{lugá di nasemento|}}}|normal|none}};"
-|valign="top" style="font-size:90%" | '''Lloc de naiximent:'''
+|valign="top" style="font-size:90%" | '''Lugá di nasemento:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{lugá di nasemento}}}
 |- style="display:{{#if:{{{afspraak di morto|}}}|normal|none}};"
-|valign="top" style="font-size:90%" | '''Defunció:'''
+|valign="top" style="font-size:90%" | '''Afspraak di morto:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{afspraak di morto}}}
 |- style="display:{{#if:{{{lugá di morto|}}}|normal|none}};"
-|valign="top" style="font-size:90%" | '''Lloc de defunció:'''
+|valign="top" style="font-size:90%" | '''Lugá di morto:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{lugá di morto}}}
 |}
 <noinclude>
 <br>
 <br>
-
-
-
-
-   
 
 
 ==Informi==
