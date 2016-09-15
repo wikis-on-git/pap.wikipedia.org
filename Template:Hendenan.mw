@@ -1,0 +1,79 @@
+{| style="background-color:#F8F8F8; border:2px solid #006699;  padding:5px;" cellpadding="2" cellspacing="0" align="right" width=300
+|-
+!align="center" bgcolor="#006699" colspan="4" style="color:white;"| '''{{{nomber}}}'''
+|- style="display:{{#if:{{{image|}}}|normal|none}};"
+| style="font-size:90%" colspan="3" align="center"|{{{figura}}}
+|- style="display:{{#if:{{{deskripshon|}}}|normal|none}};"
+| style="font-size:90%" colspan="3" align="center"|{{{deskripshon}}}
+|-
+|- style="display:{{#if:{{{nashonalidat|}}}|normal|none}};"
+|valign="top" style="font-size:90%" | '''Nacionalitat:'''
+|valign="top" style="font-size:90%" colspan="2" | {{{nashonalidat}}}
+|- style="display:{{#if:{{{ocupació|}}}|normal|none}};"
+|valign="top" style="font-size:90%" | '''Ocupació:'''
+|valign="top" style="font-size:90%" colspan="2" | {{{ocupació}}}
+|- style="display:{{#if:{{{data_naix|}}}|normal|none}};"
+|valign="top" style="font-size:90%" | '''Naiximent:'''
+|valign="top" style="font-size:90%" colspan="2" | {{{afspraak di nasemento}}}
+|- style="display:{{#if:{{{lloc_naix|}}}|normal|none}};"
+|valign="top" style="font-size:90%" | '''Lloc de naiximent:'''
+|valign="top" style="font-size:90%" colspan="2" | {{{lugá di nasemento}}}
+|- style="display:{{#if:{{{data_mort|}}}|normal|none}};"
+|valign="top" style="font-size:90%" | '''Defunció:'''
+|valign="top" style="font-size:90%" colspan="2" | {{{data_mort}}}
+|- style="display:{{#if:{{{lloc_mort|}}}|normal|none}};"
+|valign="top" style="font-size:90%" | '''Lloc de defunció:'''
+|valign="top" style="font-size:90%" colspan="2" | {{{lugá di morto}}}
+|}
+<noinclude>
+<br>
+<br>
+
+
+
+
+   
+
+
+==Informi==
+{{Biografia|
+| nomber = Louis de Beaufront
+| figura = [[Archivo:Beaufront-juna.jpg|180px|Yuna Louis de Beaufront.]]
+| deskripshon = Yuna Louis de Beaufront.
+| nashonalidat =  {{FRA}}
+| profeshon = [[linguaro|linguisto]], pioniro di [[Ido]]
+| afspraak di nasemento = [[3 di oktobro]] [[1855]]
+| lugá di nasemento = [[Paris]], [[Francia]]
+| afspraak di morto = [[8 di januaro]] [[1935]]
+| lugá di morto = Thézy-Glimont, [[Francia]]
+}}
+<pre style="overflow:auto; margin-left:0">
+
+{{Biografia|
+| nomber = Louis de Beaufront
+| figura = [[Arkivo:Beaufront-juna.jpg|180px|Yuna Louis de Beaufront.]]
+| deskripshon = Yuna Louis de Beaufront.
+| nashonalidat =  {{FRA}}
+| profeshon = [[linguaro|linguisto]], pioniro di [[Ido]]
+| afspraak di nasemento = [[3 di oktobro]] [[1855]]
+| lugá di nasemento = [[Paris]], [[Francia]]
+| afspraak di morto = [[8 di januaro]] [[1935]]
+| lugá di morto = Thézy-Glimont, [[Francia]]
+}}
+
+(Vakua)
+
+{{Biografia|
+| nomber = 
+| figura = 
+| deskripshon = 
+| nashonalidat = 
+| profeshon = 
+| afspraak di nasemento = 
+| lugá di nasemento = 
+| afspraak di morto = 
+| lugá di morto = 
+}}
+</pre>
+[[Kategorio:Shabloni|{{PAGENAME}}]]
+</noinclude>
