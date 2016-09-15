@@ -3,52 +3,53 @@
 {| cellpadding="4" style="width: 20em; font-size: 95%; float: center; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: center; border-collapse: collapse; clear: center;"
 !Pais
 !Kapital
+!Kontinente
 |-
-| {{AFG}}||[[Kabul]]
+| {{AFG}}||[[Kabul]]||[[Asia]]
 |-
-| {{ALB}}||[[Tirana]]
+| {{ALB}}||[[Tirana]]||[[Oropa]]
 |-
-| {{DEU}}||[[Berlin]]
+| {{DEU}}||[[Berlin]]||[[Oropa]]
 |-
-| {{ARG}}||[[Buenos Aires]]
+| {{ARG}}||[[Buenos Aires]]||[[Amérika]]
 |-
-| {{ARM}}||[[Yerevan]]
+| {{ARM}}||[[Yerevan]]||[[Asia]]
 |-
-| {{ABW}}||[[Oranjestad]]
+| {{ABW}}||[[Oranjestad]]||[[Amérika]]
 |-
 | {{AUS}}||[[Canberra]]
 |-
-| {{AZE}}||[[Baku]]
+| {{AZE}}||[[Baku]]||[[Asia]]
 |-
-| {{BLR}}||[[Minsk]]
+| {{BLR}}||[[Minsk]]||[[Oropa]]
 |-
-| {{BEL}}||[[Brusela]]
+| {{BEL}}||[[Brusela]]||[[Oropa]]
 |-
-| {{BOL}}||[[La Paz]]
+| {{BOL}}||[[La Paz]]||[[Amérika]]
 |-
-| {{BIH}}||[[Sarajevo]]
+| {{BIH}}||[[Sarajevo]]||[[Oropa]]
 |-
-| {{BRA}}||[[Brasília]]
+| {{BRA}}||[[Brasília]]||[[Amérika]]
 |-
-| {{BGR}}||[[Sofia]]
+| {{BGR}}||[[Sofia]]||[[Oropa]]
 |-
-| {{CAN}}||[[Ottawa]]
+| {{CAN}}||[[Ottawa]]||[[Amérika]]
 |-
-| {{CHL}}||[[Santiago]]
+| {{CHL}}||[[Santiago]]||[[Amérika]]
 |-
-| {{COL}}||[[Bogotá]]
+| {{COL}}||[[Bogotá]]||[[Amérika]]
 |-
-| {{CHN}}||[[Bejing]]
+| {{CHN}}||[[Bejing]]||[[Asia]]
 |-
 | {{CIV}}||[[Abidjan]]
 |-
-| {{CUB}}||[[Havana]]
+| {{CUB}}||[[Havana]]||[[Amérika]]
 |-
-| {{CZE}}||[[Praga]]
+| {{CZE}}||[[Praga]]||[[Oropa]]
 |-
-| {{DNK}}||[[Kopenhagen]]
+| {{DNK}}||[[Kopenhagen]]||[[Oropa]]
 |-
-| {{ECU}}||[[Quito]]
+| {{ECU}}||[[Quito]]||[[Amérika]]
 |-
 | {{EGY}}||[[Kairo]]
 |-
@@ -56,117 +57,117 @@
 |-
 | {{USA}}||[[Washington D.C.]]
 |-
-| {{ESP}}||[[Madrid]]
+| {{ESP}}||[[Madrid]]||[[Oropa]]
 |-
-| {{EST}}||[[Talin]]
+| {{EST}}||[[Talin]]||[[Oropa]]
 |-
-| {{FIN}}||[[Helsinki]]
+| {{FIN}}||[[Helsinki]]||[[Oropa]]
 |-
-| {{FRA}}||[[Paris]]
+| {{FRA}}||[[Paris]]||[[Oropa]]
 |-
-| {{GEO}}||[[Tblisi]]
+| {{GEO}}||[[Tblisi]]||[[Asia]]
 |-
 | {{GHA}}||[[Accra]]
 |-
-| {{GRL}}||[[Nuuk]]
+| {{GRL}}||[[Nuuk]]||[[Amérika]]
 |-
-| {{GTM}}||[[Ciudad di Guatemala]]
+| {{GTM}}||[[Ciudad di Guatemala]]||[[Amérika]]
 |-
-| {{HTI}}||[[Port-au-Prince]]
+| {{HTI}}||[[Port-au-Prince]]||[[Amérika]]
 |-
-| {{JPN}}||[[Tokyo]]
+| {{JPN}}||[[Tokyo]]||[[Asia]]
 |-
-| {{HON}}||[[Tegucigalpa]]
+| {{HON}}||[[Tegucigalpa]]||[[Amérika]]
 |-
-| {{HUN}}||[[Budapest]]
+| {{HUN}}||[[Budapest]]||[[Oropa]]
 |-
-| {{HKG}}||[[Hong Kong]]
+| {{HKG}}||[[Hong Kong]]||[[Asia]]
 |-
-| {{NLD}}||[[Amsterdam]]
+| {{NLD}}||[[Amsterdam]]||[[Oropa]]
 |-
-| {{IND}}||[[New Dehli]]
+| {{IND}}||[[New Dehli]]||[[Asia]]
 |- 
-| {{IRN}}||[[Teheran]]
+| {{IRN}}||[[Teheran]]||[[Asia]]
 |-
-| {{IRQ}}||[[Bagdad]]
+| {{IRQ}}||[[Bagdad]]||[[Asia]]
 |-
-| {{IRL}}||[[Dublin]]
+| {{IRL}}||[[Dublin]]||[[Oropa]]
 |-
-| {{ISL}}||[[Reykjavík]]
+| {{ISL}}||[[Reykjavík]]||[[Oropa]]
 |-
-| {{ISR}}||[[Tel Aviv]]
+| {{ISR}}||[[Tel Aviv]]||[[Asia]]
 |-
-| {{ITA}}||[[Roma]]
+| {{ITA}}||[[Roma]]||[[Oropa]]
 |-
-| {{KAZ}}||[[Astana]]
+| {{KAZ}}||[[Astana]]||[[Asia]]
 |-
 | {{KEN}}||[[Nairobi]]
 |-
-| {{HRV}}||[[Zagreb]]
+| {{HRV}}||[[Zagreb]]||[[Oropa]]
 |-
-| {{KYR}}||[[Bishkek]]
+| {{KYR}}||[[Bishkek]]||[[Asia]]
 |-
-| {{LVA}}||[[Riga]]
+| {{LVA}}||[[Riga]]||[[Oropa]]
 |-
-| {{LIE}}||[[Vaduz]]
+| {{LIE}}||[[Vaduz]]||[[Oropa]]
 |-
-| {{LTU}}||[[Vilnius]]
+| {{LTU}}||[[Vilnius]]||[[Oropa]]
 |-
-| {{MKD}}||[[Skopje]]
+| {{MKD}}||[[Skopje]]||[[Oropa]]
 |-
 | {{MDG}}||[[Antananarivo]]
 |-
-| {{MEX}}||[[Ciudad di Mexico]]
+| {{MEX}}||[[Ciudad di Mexico]]||[[Amérika]]
 |-
-| {{MCO}}||[[Monaco-Ville]]
+| {{MCO}}||[[Monaco-Ville]]||[[Oropa]]
 |-
 | {{NAM}}||[[Windhoek]]
 |-
 | {{NGA}}||[[Lagos]]
 |-
-| {{NOR}}||[[Oslo]]
+| {{NOR}}||[[Oslo]]||[[Oropa]]
 |-
-| {{AUT}}||[[Viena]]
+| {{AUT}}||[[Viena]]||[[Oropa]]
 |-
-| {{PAK}}||[[Islamabad]]
+| {{PAK}}||[[Islamabad]]||[[Asia]]
 |-
-| {{POL}}||[[Varsovia]]
+| {{POL}}||[[Varsovia]]||[[Oropa]]
 |-
-| {{QAT}}||[[Doha]]
+| {{QAT}}||[[Doha]]||[[Asia]]
 |-
-| {{GBR}}||[[London]]
+| {{GBR}}||[[London]]||[[Oropa]]
 |-
-| {{ROU}}||[[Bucuresti]]
+| {{ROU}}||[[Bucuresti]]||[[Oropa]]
 |-
-| {{RUS}}||[[Moskou]]
+| {{RUS}}||[[Moskou]]||[[Asia]] y [[Oropa]]
 |-
-| {{SRB}}||[[Belgrado]]
+| {{SRB}}||[[Belgrado]]||[[Oropa]]
 |-
-| {{SIN}}||[[Singapura]]
+| {{SIN}}||[[Singapura]]||[[Asia]]
 |-
-| {{SVK}}||[[Bratislava]]
+| {{SVK}}||[[Bratislava]]||[[Oropa]]
 |-
-| {{SVN}}||[[Ljubljana]]
+| {{SVN}}||[[Ljubljana]]||[[Oropa]]
 |-
 | {{SOM}}||[[Mogadixo]]
 |-
-| {{SWE}}||[[Stockholm]]
+| {{SWE}}||[[Stockholm]]||[[Oropa]]
 |-
-| {{CHE}}||[[Berna]]
+| {{CHE}}||[[Berna]]||[[Oropa]]
 |-
 | {{ZAF}}||[[Pretoria]], [[Cape Town]] y [[Bloemfontein]]
 |-
-| {{SYR}}||[[Damasco]]
+| {{SYR}}||[[Damasco]]||[[Asia]]
 |-
-| {{TJK}}||[[Dushambe]]
+| {{TJK}}||[[Dushambe]]||[[Asia]]
 |-
 | {{TUN}}||[[Tunis]]
 |-
-| {{TUR}}||[[Ankara]]
+| {{TUR}}||[[Ankara]]||[[Asia]] y [[Oropa]]
 |-
-| {{UKR}}||[[Kiev]]
+| {{UKR}}||[[Kiev]]||[[Oropa]]
 |-
-| {{UZB}}||[[Tashkent]]
+| {{UZB}}||[[Tashkent]]||[[Asia]]
 |-
-| {{VAT}}||[[Vaticano]]
+| {{VAT}}||[[Vaticano]]||[[Oropa]]
 |}
