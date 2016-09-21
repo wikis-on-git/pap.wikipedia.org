@@ -2,7 +2,7 @@
 
 '''Asia''' ta un di e [[kontinente]]nan di nos mundu. Na aña [[2011]] Asia tabata tin alrededor di 4164 mion habitantes.
 
-<!-- {| class="wikitable sortable" style="font-size:85%"
+{| class="wikitable sortable" style="font-size:85%"
 ! class="unsortable" | Bandera
 ! class="unsortable" | Karchi (Mapa)
 ! Nomber
@@ -13,14 +13,15 @@
 |-
 | [[File:Flag of Afghanistan.svg|centre|100px|border]]
 | [[File:LocationAfghanistan.svg|150px]]
-| [[Afeganistão]]<br><br>República Islâmica do Afeganistão
+| [[Afeganistão]]
 | جمهوری اسلامی افغانستان    -    افغانستان
-| [[Cabul]]<br><br>| {{fmtn|31822848}}
-| {{fmtn|652230}}
+| [[Cabul]]
+| 31.822.848
+| 652.230
 |-
 | [[File:Flag of Saudi Arabia.svg|centre|100px|border]]
 | [[File:LocationSaudiArabia.svg|150px]]
-| [[Arábia Saudita]]<br><br>Reino da Arábia Saudita
+| [[Arábia Saudita]]
 |السعودية — المملكة العربية السعودية 
 | [[Riade]]<br><br>الرياض
 | 27345986
@@ -28,9 +29,10 @@
 |-
 | [[File:Flag of Armenia.svg|centre|100px|border]]
 | [[File:LocationArmenia.svg|150px]]
-| [[Arménia]]<br><br>República da Arménia
+| [[Arménia]]
 | Հայաստան — Հայաստանի Հանրապետությու ''Hayastan — Hayastani Hanrapetut'yun'' ''Yerevan''
-| 3060631
+| [[Erevã]]
+| 3.060.631
 | 29.743
 |-
 | [[File:Flag of Azerbaijan.svg|centre|100px|border]]
@@ -51,39 +53,39 @@
 |-
 | [[File:Flag of Bahrain.svg‎|centre|100px|border]]
 | [[File:Map of Bahrain.svg|150px]]
-| [[Barém]]<br><br>Reino do Barém
-| {{lang-ar|مملكة البحرين — البحرين}} <small>({{transl|zxx|''Al Baḩrayn — Mamlakat al Baḩrayn''}})</small>
-| [[Manama]]<br><br>{{lang-ar|المنامة}} <small>({{transl|zxx|''Al Manāmah''}})</small>
+| [[Barém]]
+| مملكة البحرين  البحرين <small>''Al Baḩrayn — Mamlakat al Baḩrayn''</small>
+| [[Manama]] <small>''Al Manāmah''</small>
 | 1314089
 | 760
 |-
 | [[File:Flag of Brunei.svg|centre|100px|border]]
 | [[File:LocationBrunei.png|150px]]
-| [[Brunei]]<br><br>Estado do Brunei Morada da Paz
-| {{lang-en|''Brunei Darussalam''}}<br><br>em [[Língua malaia|malaio]]: ''Brunei — Negara Brunei Darussalam''
-| [[Bandar Seri Begauã]]<br><br>{{lang-en|''Bandar Seri Begawan''}}<br><br>em [[Língua malaia|malaio]]: ''Bandar Seri Begawan''
+| [[Brunei]]
+| ''Brunei — Negara Brunei Darussalam''
+| [[Bandar Seri Begauã]]<br><br>''Bandar Seri Begawan''
 | 422675
 | 5765
 |-
 | [[File:Flag of Bhutan.svg|centre|100px|border]]
 | [[File:LocationBhutan.svg|150px]]
 | [[Butão]]<br><br>Reino do Butão
-| em [[Língua butanesa|butanês]]: འྲག་ཡ ఉ ལ —  འྲག་གྷལ་ཁ <small>({{transl|zxx|''Druk Yul — Druk Gyalkhapb''}})</small>
-| [[Timbu]]<br><br>em [[Língua butanesa|butanês]]: ཐིམ་ཕུ <small>({{transl|zxx|''Thimphu''}})</small>
-| 733643
-| 38394
+| འྲག་ཡ ఉ ལ —  འྲག་གྷལ་ཁ 
+| [[Timbu]]
+| 733.643
+| 38.394
 |-
 | [[File:Flag of Cambodia.svg|centre|100px|border]]
 | [[File:LocationCambodia.svg|150px]]
-| [[Camboja]]<br><br>Reino do Camboja
-| em [[Língua khmer|cambojano]]: កមុពា — រពះាាាចរក កមុពា <small>({{transl|zxx|''Kâmpŭchéa — Preăhréachéanachâkr Kâmpŭchéa''}})</small>
-| [[Pnom Pene]]<br><br>em [[Língua khmer|cambojano]]: ភ្នំពេញ <small>({{transl|zxx|''Phnum Pénh''}})</small>
+| [[Camboja]]
+|''Kâmpŭchéa — Preăhréachéanachâkr Kâmpŭchéa''
+| [[Pnom Pene]]: ភ្នំពេញ 
 | 15.458.332
 | 181.035
 |-
 | [[File:Flag of Qatar.svg|centre|100px|border]]
 | [[File:LocationQatar.png|150px]]
-| [[Catar]]<br><br>Estado do Catar
+| [[Catar]]
 | قطر — دولة قطر ''Qaţar — Dawlat Qaţar''
 | [[Doa]]
 | 2.123.160
@@ -92,114 +94,114 @@
 | [[File:Flag of Kazakhstan.svg|centre|100px|border]]
 | [[File:LocationKazakhstan.png|150px]]
 | [[Cazaquistão]]
-| Қазақстан — Қазақстан Республикасы <small>({{Transl|kk|''Qazaqstan — Qazaqstan Respūblīkasy''
+| Қазақстан — Қазақстан Республикасы 
 | [[Astana]]
-| 17948816
-| 2724900
+| 17.948.816
+| 2.724.900
 |-
 | [[File:Flag of the People's Republic of China.svg|centre|100px|border]]
 | [[File:LocationPRChina.svg|150px]]
-| [[República Popular da China|China]]
+| [[China]]
 | 中国 — 中华人民共和国
 | [[Pequim]]
-| 1355692576
-| 9596961
+| 1.355.692.576
+| 9.596.961
 |-
 | [[File:Flag of Cyprus.svg|centre|100px|border]]
 | [[File:LocationCyprus.svg|150px]]
 | [[Chipre]]
-|Κύπρος — Κυπριακή Δημοκρατία}}
+|Κύπρος — Κυπριακή Δημοκρατία
 | [[Nicósia]]
-| 1172458
-| 9251
+| 1.172.458
+| 9.251
 |-
 | [[File:Flag of North Korea.svg|centre|100px|border]]
 | [[File:Locator map of North Korea.svg|150px]]
-| [[Coreia do Norte]]<br><br>República Popular Democrática da Coreia
-| {{lang-ko|조선 — 조선 민주주의 인민 공화국}} <small>({{transl|zxx|''Chosŏn — Chosŏn-minjujuŭi-inmin-konghwaguk''}})</small>
-| [[Pionguiangue]]<br><br>{{lang-ko|평양}} <small>({{transl|zxx|''Phyŏngyang''}})</small>
-| {{fmtn|24851627}}
-| {{fmtn|120538}}
+| [[Coreia do Norte]]
+| 조선 — 조선 민주주의 인민 공화국
+| [[Pionguiangue]]<br><br> <small>''Phyŏngyang''</small>
+| 24851627
+| 120538
 |-
 | [[File:Flag of South Korea.svg|centre|100px|border]]
 | [[File:Locator map of South Korea.svg|150px]]
-| [[Coreia do Sul]]<br><br>República da Coreia
-| {{lang-ko|한국 — 대한 민국}} <small>({{transl|zxx|''Han’guk — Taehan Min’guk''}})</small>
-| [[Seul]]<br><br>{{lang-ko|서울}} <small>({{transl|zxx|''Seoul''}})</small>
-| {{fmtn|49039986}}
-| {{fmtn|99720}}
+| [[Coreia do Sul]]
+| 한국 — 대한 민국 
+| [[Seul]] - ''Seoul''
+| 49.039.986
+| 99.720
 |-
 | [[File:Flag of Kuwait.svg|centre|100px|border]]
 | [[File:LocationKuwait.png|150px]]
-| [[Cuaite]]<br><br>Estado do Cuaite
-| {{lang-ar|دولة الكويت — اﻟﻜﻮﻳ}} <small>({{transl|zxx|''Al Kuwayt — Dawlat al Kuwayt''}})</small>
-| [[Cuaite (cidade)|Cuaite]]<br><br>{{lang-ar|الكويت}} <small>({{transl|zxx|''Al Kuwayt''}})</small>
-| {{fmtn|2742711}}
-| {{fmtn|17818}}
+| Cuaite (Kuwait)
+| دولة الكويت — اﻟﻜﻮﻳ 
+| Cuaite (Kuwait)
+| 2742711
+| 17818
 |-
 | [[File:Flag of the United Arab Emirates.svg|centre|100px|border]]
 | [[File:LocationUnitedArabEmirates.png|150px]]
-| [[Emirados Árabes Unidos]]
-| {{lang-ar|اﻹﻣﺎرا — دولة الإمارات العربية المتحدة}} <small>({{transl|zxx|''Al Imārāt — Al Imārāt al ‘Arabīyah al Muttaḩidah''}})</small>
-| [[Abu Dabi]]<br><br>{{lang-ar|أبوظبي}} <small>({{transl|zxx|''Abu Dhabi''}})</small>
-| {{fmtn|5628805}}
-| {{fmtn|83600}}
+| Emirados Árabes Unidos
+| اﻹﻣﺎرا — دولة الإمارات العربية المتحدة}} <small>''Al Imārāt — Al Imārāt al ‘Arabīyah al Muttaḩidah''</small>
+| [[Abu Dabi]]<br><br>{{lang-ar|أبوظبي}} <small>''Abu Dhabi''</small>
+| 5.628.805
+| 83600
 |-
 | [[File:Flag of the Philippines.svg|centre|100px|border]]
 | [[File:LocationPhilippines.png|150px]]
 | [[Filipinas]]<br><br>República das Filipinas
-| {{lang-en|''Philippines — Republic of the Philippines''}}<br><br>em [[Língua tagalo|tagalo]]: ''Pilipinas — Republika ng Pilipinas''
-| [[Manila]]<br><br>{{lang-en|''Manila''}}<br><br>em [[Língua tagalo|tagalo]]: ''Maynila''
-| {{fmtn|107668231}}
-| {{fmtn|300000}}
+| ''Philippines — Republic of the Philippines''
+| [[Manila]]
+| 107.668.231
+| 300000
 |-
 | [[File:Flag of Georgia.svg|centre|100px|border]]
 | [[File:LocationGeorgia.svg|150px]]
-| [[Geórgia]]<ref name="População-Área" group=nota/><ref name="Separatistas" group=nota/>
-| {{lang-ka|საქართველო}} <small>({{Transl|ka|''Sak'art'velo''}})</small>
-| [[Tbilíssi]]<br><br>[[Cutaisi]]<br><br>{{lang-ka|თბილისი}} <small>({{Transl|ka|''Ṭbilisi''}})</small><br><br>{{lang-ka|ქუთაისი}} <small>({{Transl|ka|''Ḳuṭaisi''}})
-| {{fmtn|4935880}}
-| {{fmtn|69700}}
+| [[Geórgia]]
+| საქართველო <small>''Sak'art'velo''</small>
+| [[Tbilíssi]]
+| 4.935.880
+| 69700
 |-
 | [[File:Flag of Yemen.svg|centre|100px|border]]
 | [[File:LocationYemen.png|150px]]
-| [[Iémen]]<br><br>República do Iémen
-| {{lang-ar|اليمن — الجمهورية اليمنية}} <small>(''{{transl|zxx|''Al Yaman —  Al Jumhūrīyah al Yamanīyah''}})</small>
-| [[Saná]]<br><br>{{lang-ar|صنعاء}} <small>({{transl|zxx|''Şan‘ā’''}})</small>
-| {{fmtn|26052966}}
-| {{fmtn|527968}}
+| [[Iémen]]
+| اليمن — الجمهورية اليمنية}} <small> ''Al Yaman </small>
+| [[Saná]]
+| 26.052.966
+| 527.968
 |-
 | [[File:Flag of India.svg|centre|100px|border]]
 | [[File:LocationIndia.svg|150px]]
-| [[Índia]]<br><br>República da Índia
-| {{lang-en|''India — Republic of India''}}<br><br>em [[Língua hindi|híndi]]: भार — भारत गणरा᭔य <small>({{transl|zxx|''Bhārat — Bhāratīya Gaṇarājya''}})</small>
-| [[Nova Deli]]<br><br>{{lang-en|''New Delhi''}}<br><br>em [[Língua hindi|híndi]]: नई दिल्ली <small>({{transl|zxx|''Naī Dillī''}})</small>
-| {{fmtn|1236344631}}
-| {{fmtn|3287263}}
+| [[Índia]]
+| ''India — Republic of India''
+| [[Nova Deli]]
+| 1.236.344.631
+| 3.287.263
 |-
 | [[File:Flag of Indonesia.svg|centre|100px|border]]
 | [[File:LocationIndonesia.svg|150px]]
-| [[Indonésia]]<ref name="População-Área" group=nota/><br><br>República da Indonésia
-| {{lang-id|''Indonesia — Republik Indonesia''}}
-| [[Jacarta]]<br><br>{{lang-id|''Jakarta''}}
-| {{fmtn|253609643}}
-| {{fmtn|1904569}}
+| [[Indonésia]]
+| ''Indonesia — Republik Indonesia''
+| Jacarta - ''Jakarta''
+| 253609643
+| 1904569
 |-
 | [[File:Flag of Iran.svg|centre|100px|border]]
 | [[File:LocationIran.svg|150px]]
-| [[Irão]]<br><br>República Islâmica do Irão
-| {{lang-fa|ایران — جمهوری اسلامی ایران}} <small>({{transl|zxx|''Īrān — Jomhūrī-ye Eslāmī-ye Īrān''}})</small>
-| [[Teerão]]<br><br>{{lang-fa|تهران}} <small>({{transl|zxx|''Tehrān''}})</small>
-| {{fmtn|80840713}}
-| {{fmtn|1648195}}
+| [[Irão]]
+|ایران — جمهوری اسلامی ایران}}
+| [[Teerão]]
+| 80840713
+| 1648195
 |-
 | [[File:Flag of Iraq.svg|centre|100px|border]]
 | [[File:LocationIraq.svg|150px]]
-| [[Iraque]]<br><br>República do Iraque
-| {{lang-ar|العراق — جمهورية العراق}} <small>({{transl|zxx|''Al ‘Irāq — Jumhūrīyat al ‘Irāq''}})</small>
-| [[Bagdade]]<br><br>{{lang-ar|بغداد}} <small>({{transl|zxx|''Baghdād''}})</small>
-| {{fmtn|32585692}}
-| {{fmtn|438317}}
+| [[Iraque]]
+| العراق — جمهورية العراق <small>''Al ‘Irāq — Jumhūrīyat al ‘Irāq''</small>
+| Bagdade - ''Baghdād''
+| 32585692
+| 438317
 |-
 | [[File:Flag of Israel.svg|centre|100px|border]]
 | [[File:LocationIsrael.svg|150px]]
@@ -245,7 +247,7 @@
 | [[File:LocationMalaysia.png|150px]]
 | [[Malásia]]
 | em [[Língua malaia|malaio]]: ''Malaysia''
-| [[Cuala Lumpur]]<ref group=nota>Apesar de Cuala Lumpur ser a capital oficial da Malásia, [[Putrajaya]] é a sede de governo.</ref><ref>{{cite web|url=http://www.malaysia.gov.my/EN/Main/MsianGov/PutrajayaFederalAdminCapital/Pages/PutrajayaFederalAdminCapital.aspx |title=Putrajaya - Federal Administrative Capital |publisher=Malaysian Government |accessdate=15 August 2011}}</ref><br><br>[[Putrajaia]]<br><br>em [[Língua malaia|malaio]]: ''Kuala Lumpur''<br><br>em [[Língua malaia|malaio]]: ''Putrajaya''
+| [[Cuala Lumpur]]<ref group=nota>Apesar de Cuala Lumpur ser a capital oficial da Malásia, [[Putrajaya]] é a sede de governo.</ref><ref>{{cite web|url=http://www.malaysia.gov.my/EN/Main/MsianGov/PutrajayaFederalAdminCapital/Pages/PutrajayaFederalAdminCapital.aspx |title=Putrajaya  |publisher=Malaysian Government |accessdate=15 August 2011}}</ref><br><br>[[Putrajaia]]<br><br>em [[Língua malaia|malaio]]: ''Kuala Lumpur''<br><br>em [[Língua malaia|malaio]]: ''Putrajaya''
 | {{fmtn|30073353}}
 | {{fmtn|329847}}
 |-
@@ -394,6 +396,5 @@
 | {{fmtn|93421835}}
 | {{fmtn|331210}}
 |}
--->
 
 [[Category:Asia| ]]
