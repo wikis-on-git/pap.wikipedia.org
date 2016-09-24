@@ -19,14 +19,6 @@
 | 32.564.342<small>(2015)</small>
 | 652.230
 |-
-| [[File:Flag of Saudi Arabia.svg|centre|100px|border]]
-| [[File:LocationSaudiArabia.svg|150px]]
-| [[Saudi Arabia]]
-|السعودية — المملكة العربية السعودية 
-| [[Riade]]<br><br>الرياض
-| 27.345.986 <small>()</small>
-| 2.149.690
-|-
 | [[File:Flag of Armenia.svg|centre|100px|border]]
 | [[File:LocationArmenia.svg|150px]]
 | [[Armenia]]
@@ -47,7 +39,7 @@
 | [[File:LocationBangladesh.svg|150px]]
 | [[Bangladesh]]
 |  বাংলােদ — গণপ্রজাতন্ত্রী বাংলাদেশ 
-| [[Dhaka]]<br><br> ঢাকা ''Ḍhākā''
+| [[Dhaka]]
 | 166.280.712 <small>()</small>
 | 143.998
 |-
@@ -59,11 +51,19 @@
 | 1.378.000 <small>(2016)</small>
 | 760
 |-
+| [[File:Flag of Myanmar.svg|centre|100px|border]]
+| [[File:LocationMyanmar.svg|150px]]
+| [[Birma]]
+| ''Myanma 
+| [[Nepiedó]] - ''[[Nay Pyi Taw]]''
+| 55.746.253 <small>()</small>
+| 676.578
+|-
 | [[File:Flag of Brunei.svg|centre|100px|border]]
 | [[File:LocationBrunei.png|150px]]
 | [[Brunei]]
 | ''Brunei — Negara Brunei Darussalam''
-| [[Bandar Seri Begauã]]<br><br>''Bandar Seri Begawan''
+| [[Bandar Seri Begaua]]<br><br>''[[Bandar Seri Begawan]]''
 | 415.717 <small>(2013)</small>
 | 5.765
 |-
@@ -79,7 +79,7 @@
 | [[File:LocationCambodia.svg|150px]]
 | [[Camboja]]
 |''Kâmpŭchéa''
-| [[Phnom Penh]]: ភ្នំពេញ  
+| [[Phnom Penh]]  
 | 15.458.332 <small>(2014)</small>
 | 181.035
 |-
@@ -90,14 +90,6 @@
 | [[Doa]] - [[Doha]]
 | 2.545.603 <small>(2016)</small>
 | 11.586
-|-
-| [[File:Flag of Kazakhstan.svg|centre|100px|border]]
-| [[File:LocationKazakhstan.png|150px]]
-| [[Kazachstan]]
-| Қазақстан — Қазақстан Республикасы 
-| [[Astana]]
-| 17.948.816 <small>()</small>
-| 2.724.900
 |-
 | [[File:Flag of the People's Republic of China.svg|centre|100px|border]]
 | [[File:LocationPRChina.svg|150px]]
@@ -115,35 +107,11 @@
 | 1.172.458 <small>(2016)</small>
 | 9.251
 |-
-| [[File:Flag of North Korea.svg|centre|100px|border]]
-| [[File:Locator map of North Korea.svg|150px]]
-| [[Nort Korea]]
-| 조선 — 조선 민주주의 인민 공화국
-| [[Pyongyang]]
-| 24.895.000 <small>(2013)</small>
-| 120,538
-|-
-| [[File:Flag of South Korea.svg|centre|100px|border]]
-| [[File:Locator map of South Korea.svg|150px]]
-| [[Sur Korea]]
-| 한국 — 대한 민국 
-| [[Seoul]]
-| 50.801.405 <small>(2016)</small>
-| 99.720
-|-
-| [[File:Flag of Kuwait.svg|centre|100px|border]]
-| [[File:LocationKuwait.png|150px]]
-| [[Kuwait]]
-| دولة الكويت — اﻟﻜﻮﻳ 
-| Kuwait
-|  4.348.395 <small>(2016)</small>
-| 17.820
-|-
 | [[File:Flag of the United Arab Emirates.svg|centre|100px|border]]
 | [[File:LocationUnitedArabEmirates.png|150px]]
 | [[Emiratenan Arabe Uni]]
 | ''Al Imārāt — Al Imārāt al ‘Arabīyah al Muttaḩidah''
-| Abu Dabi - ''Abu Dhabi''
+| [[Abu Dabi]] - ''[[Abu Dhabi]]''
 | 5.628.805 <small>()</small>
 | 83.600
 |-
@@ -163,13 +131,13 @@
 | 3.720.400 <small>(2016)</small>
 | 69.700
 |-
-| [[File:Flag of Yemen.svg|centre|100px|border]]
-| [[File:LocationYemen.png|150px]]
-| [[Yemen]]
-| اليمن — الجمهورية اليمنية <small> ''Al Yaman </small>
-| [[San'a]]
-| 26.052.966 <small>()</small>
-| 527.968
+| [[File:Flag of Japan.svg|centre|100px|border]]
+| [[File:LocationJapan.png|150px]]
+| [[Hapon]]
+| 日本 — 日本国
+| [[Tokyo]]
+| 127.103.388 <small>()</small>
+| 377.915
 |-
 | [[File:Flag of India.svg|centre|100px|border]]
 | [[File:LocationIndia.svg|150px]]
@@ -199,7 +167,7 @@
 | [[File:LocationIraq.svg|150px]]
 | [[Irak]]
 | العراق — جمهورية العراق <small>''Al ‘Irāq — Jumhūrīyat al ‘Irāq''</small>
-| [[Bagdad]] - ''Baghdād''
+| [[Bagdad]]
 | 37.056.169 <small>(2015)</small>
 | 438.317
 |-
@@ -211,14 +179,6 @@
 | 8.541.000 <small>(2016)</small>
 | 20.770
 |-
-| [[File:Flag of Japan.svg|centre|100px|border]]
-| [[File:LocationJapan.png|150px]]
-| [[Hapon]]
-| 日本 — 日本国
-| [[Tokyo]]
-| 127.103.388 <small>()</small>
-| 377.915
-|-
 | [[File:Flag of Jordan.svg|centre|100px|border]]
 | [[File:LocationJordan.svg|150px]]
 | [[Jordan]]
@@ -226,6 +186,22 @@
 | [[Aman]]
 | 793.0491 <small>()</small>
 | 89.342
+|-
+| [[File:Flag of Kazakhstan.svg|centre|100px|border]]
+| [[File:LocationKazakhstan.png|150px]]
+| [[Kazachstan]]
+| Қазақстан — Қазақстан Республикасы 
+| [[Astana]]
+| 17.948.816 <small>()</small>
+| 2.724.900
+|-
+| [[File:Flag of Kuwait.svg|centre|100px|border]]
+| [[File:LocationKuwait.png|150px]]
+| [[Kuwait]]
+| دولة الكويت — اﻟﻜﻮﻳ 
+| Kuwait
+|  4.348.395 <small>(2016)</small>
+| 17.820
 |-
 | [[File:Flag of Laos.svg|centre|100px|border]]
 | [[File:LocationLaos.svg|150px]]
@@ -255,23 +231,15 @@
 | [[File:LocationMaldives.png|150px]]
 | [[Maldivas]]
 | ''Dhivehi Raajje''
-| Malé - ''Maale''
+| [[Malé]] - ''Maale''
 | 393.595 <small>()</small>
 | 298
-|-
-| [[File:Flag of Myanmar.svg|centre|100px|border]]
-| [[File:LocationMyanmar.svg|150px]]
-| [[Birma]]
-| ''Myanma 
-| Nepiedó - ''Nay Pyi Taw''
-| 55.746.253 <small>()</small>
-| 676.578
 |-
 | [[File:Flag of Mongolia.svg|centre|100px|border]]
 | [[File:LocationMongolia.png|150px]]
 | [[Mongolia]]
 | ''Mongol — Mongol uls''
-| [[Ulan Bator]] - ''Ulaanbaatar''
+| [[Ulan Bator]] 
 | 2.953.190 <small>()</small>
 | 1.564.116
 |-
@@ -283,13 +251,29 @@
 | 30.986.975 <small>()</small>
 | 147.181
 |-
+| [[File:Flag of North Korea.svg|centre|100px|border]]
+| [[File:Locator map of North Korea.svg|150px]]
+| [[Nort Korea]]
+| 조선 — 조선 민주주의 인민 공화국
+| [[Pyongyang]]
+| 24.895.000 <small>(2013)</small>
+| 120,538
+|-
 | [[File:Flag of Oman.svg|centre|100px|border]]
 | [[File:LocationOman.png|150px]]
-| [[Omã]]
+| [[Oman]]
 | عُمان — سلطنة عُمان - ''Salţanat Umān''
-| Mascate - ''Masqaţ''
+| [[Mascate]]
 | 3.219.775 <small>()</small>
 | 309.500
+|-
+| [[File:Flag of East Timor.svg|centre|100px|border]]
+| [[File:LocationEastTimor.svg|150px]]
+| [[Ost-Timor]]
+| República Democrática de Timor-Leste
+| [[Dili]]
+| 1.201.542 <small>()</small>
+| 14.874
 |-
 | [[File:Flag of Pakistan.svg|centre|100px|border]]
 | [[File:LocationPakistan.svg|150px]]
@@ -301,9 +285,9 @@
 |-
 | [[File:Flag of Kyrgyzstan.svg|centre|100px|border]]
 | [[File:LocationKyrgyzstan.svg|150px]]
-| Quirguistão - ''Kyrgyzstan''
-| Bisqueque - ''Bishkek''
-|
+| [[Quirguistan]] - ''[[Kyrgyzstan]]''
+| Кыргыз Республикасы
+| [[Bisqueque]] - ''[[Bishkek]]''
 | 5.604.212 <small>()</small>
 | 199.951
 |-
@@ -315,6 +299,14 @@
 | 142.470.272 <small>()</small>
 | 17.098.242
 |-
+| [[File:Flag of Saudi Arabia.svg|centre|100px|border]]
+| [[File:LocationSaudiArabia.svg|150px]]
+| [[Saudi Arabia]]
+|السعودية — المملكة العربية السعودية 
+| [[Riade]]
+| 27.345.986 <small>()</small>
+| 2.149.690
+|-
 | [[File:Flag of Singapore.svg|centre|100px|border]]
 | [[File:LocationSingapore.png|150px]]
 | Singapura - Singapore
@@ -323,14 +315,6 @@
 | 5.567.301 <small>()</small>
 | 697
 |-
-| [[File:Flag of Syria.svg|centre|100px|border]]
-| [[File:LocationSyria.svg|150px]]
-| [[Syria]]
-| ''Sūrīyah / Sūriyā 
-| [[Damasco]]<br><br> <small>''Dimashq''</small>
-| 17.951.639 <small>()</small>
-| 185.180
-|-
 | [[File:Flag of Sri Lanka.svg|centre|100px|border]]
 | [[File:LocationSriLanka.png|150px]]
 | [[Sri Lanka]]
@@ -338,6 +322,22 @@
 | [[Colombo]]
 | 20.277.597 <small>(2012)</small>
 | 65.610
+|-
+| [[File:Flag of South Korea.svg|centre|100px|border]]
+| [[File:Locator map of South Korea.svg|150px]]
+| [[Sur Korea]]
+| 한국 — 대한 민국 
+| [[Seoul]]
+| 50.801.405 <small>(2016)</small>
+| 99.720
+|-
+| [[File:Flag of Syria.svg|centre|100px|border]]
+| [[File:LocationSyria.svg|150px]]
+| [[Syria]]
+| ''Sūrīyah / Sūriyā 
+| [[Damasco]]
+| 17.951.639 <small>()</small>
+| 185.180
 |-
 | [[File:Flag of Thailand.svg|centre|100px|border]]
 | [[File:LocationThailand.svg|150px]]
@@ -350,17 +350,10 @@
 | [[File:Flag of Tajikistan.svg|centre|100px|border]]
 | [[File:LocationTajikistan.svg|150px]]
 | [[Tajikistan]]
+| ''Çumhuriji Toçikiston''
 | [[Dusjanbe]]
 | 8.610.000 <small>(2015)</small>
 | 143.100
-|-
-| [[File:Flag of East Timor.svg|centre|100px|border]]
-| [[File:LocationEastTimor.svg|150px]]
-| [[Ost-Timor]]
-| República Democrática de Timor-Leste
-| [[Dili]]
-| 1.201.542 <small>()</small>
-| 14.874
 |-
 | [[File:Flag of Turkmenistan.svg|centre|100px|border]]
 | [[File:LocationTurkmenistan.svg|150px]]
@@ -393,6 +386,15 @@
 | [[Hanoi]]
 | 93.421.835 <small>()</small>
 | 331.210
-|}
+|-
+| [[File:Flag of Yemen.svg|centre|100px|border]]
+| [[File:LocationYemen.png|150px]]
+| [[Yemen]]
+| اليمن — الجمهورية اليمنية <small> ''Al Yaman </small>
+| [[San'a]]
+| 26.052.966 <small>()</small>
+| 527.968
+|
+}
 
 [[Category:Asia| ]]
