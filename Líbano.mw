@@ -38,21 +38,20 @@
 
 |persentahe_awa = 1,6
 
-|pop_aproksima =4.224.000<ref>[http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf ''World Population Prospects'' - United Nations Department of Economic and Social Affairs</ref>
+|pop_aproksima =6,184,701
+|ana_kalkulashon_di_pop = 2015
 
-|ana_kalkulashon_di_pop = 2009
+|rango_populashon = 112
 
-|rango_populashon = 124
+|densidat_pop = 560
 
-|densidat_pop = 404
+|rango_densidat_pop = 21
 
-|rango_densidat_pop = 25
+|moneda = Lebanese pound
 
-|moneda = 
+|kodigo_moneda = LBP
 
-|kodigo_moneda =
-
-|zona_di_tempu = 
+|zona_di_tempu = UTC+2
 
 |utc_offset = 
 
@@ -66,5 +65,7 @@
 
 == Referensia ==
 <references/>
+
+{{Template:Asia}}
 
 [[Category:Asia]]
