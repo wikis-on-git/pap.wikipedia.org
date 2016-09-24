@@ -6,6 +6,10 @@
 | '''Pais'''
 |{{{pais}}}
 |-
+{{#if:{{{Provinsia}}}| '''Provinsia/Estado'''}}
+{{#if:{{{Provinsia}}}
+| {{{Provinsia}}}}}
+|-
 |'''Prefeito'''
 |[[{{{prefeito}}}]]
 |-
