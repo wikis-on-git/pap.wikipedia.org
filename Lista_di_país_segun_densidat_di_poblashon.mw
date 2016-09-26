@@ -1,1921 +1,484 @@
 [[File:Countries by Population Density in 2015.svg|thumb|Mapa di paisnan segun densiat di populashon e 2015]]
 
 ==Lista==
-{|class="sortable wikitable" style="text-align:right"
-!Pos.!!Country (or dependent territory)!!Area (km²)!!Area (mi²)!!Population!!Density<br>(pop./km²)!!Density<br>(pop./mi²)!!Date!!class="unsortable"| Population source
-|-
-|||align=left|{{noflag}}'''[[Population density#Human population density|World]]''' (land only, excluding [[Antarctica]])
-|{{convert|134940000|km2|disp=table}}
-|{{formatnum:{{worldpop}}}}
-|{{convert|{{#expr: {{worldpop}}/134940000 round 0}}|/km2|0|disp=table}}
-|{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}
-|align=left|[http://www.census.gov/popclock/ USCB's world population clock]
-|-
-||| align=left|{{noflag}}'''[[Population density#Human population density|World]]''' (land only)
-|{{convert|148940000|km2|disp=table}}
-|{{formatnum:{{worldpop}}}}
-|{{convert|{{#expr: {{worldpop}}/148940000 round 0 }}|/km2|0|disp=table}}
-|{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}
-|align=left|[http://www.census.gov/popclock/ USCB's World population clock]
-|-
-|||align=left|{{noflag}}'''[[Population density#Human population density|World]]''' (with water)
-|{{convert|510072000|km2|disp=table}}
-|{{formatnum:{{worldpop}}}}
-|{{convert|{{#expr: {{worldpop}}/510072000 round 0 }}|/km2|0|disp=table}}
-|{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}
-|align=left|[http://www.census.gov/popclock/ USCB's World population clock]
-|-
-|1
-|align=left|''{{MAC}}'' ([[China]])<ref>Current [[Special Administrative Region]] (SAR) of the [[China|People's Republic of China]] (PRC). Former [[Portugal|Portuguese]] colony, it definitively reverted to Chinese sovereignty on December 20, 1999.</ref>
-|{{convert|30.4|km2|0|disp=table}}
-|649,100
-|{{convert|{{#expr: 649100/30.4 round 0}}|/km2|0|disp=table}}
-|March 31, 2016
-|align=left|[http://www.dsec.gov.mo/TimeSeriesDatabase.aspx?KeyIndicatorID=12 Official quarterly estimate]
-|-
-|2
-|align=left|{{MCO}}
-|{{convert|2.02|km2|2|disp=table}}
-|38,400
-|{{convert|{{#expr: 38400/2.02 round 0}}|/km2|0|disp=table}}
-|December 31, 2015
-|align=left|[http://www.imsee.mc/Population-et-emploi Official estimate]
-|-
-|3
-|align=left|{{SIN}}
-|{{convert|719|km2|0|disp=table}}
-|5,535,000
-|{{convert|{{#expr: 5535000/719.1 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://www.singstat.gov.sg/statistics/latest-data#14 Official estimate]
-|-
-|4
-|align=left|''{{HKG}}'' ([[China]])<ref>Current [[Special Administrative Region]] (SAR) of the [[China|People's Republic of China]] (PRC). Former [[United Kingdom|British]] colony, it definitively returned to Chinese sovereignty on July 1, 1997.</ref>
-|{{convert|1,106|km2|0|disp=table}}
-|7,324,300
-|{{convert|{{#expr: 7324300/1105.7 round 0}}|/km2|0|disp=table}}
-|December 31, 2015
-|align=left|[http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=2&displayMode=T Official estimate]
-|-
-|5
-|align=left|''{{GIB}}'' ([[United Kingdom|UK]])<ref>Territory claimed by [[Spain]].</ref>
-|{{convert|6.8|km2|1|disp=table}}
-|29,873
-|{{convert|{{#expr: 29873/7 round 0}}|/km2|0|disp=table}}
-|March 21, 2016
-|align=left|[http://www.gibraltar.gov.gi/images/stories/PDF/statistics/Key_Indicators_Website.pdf Official estimate]
-|-
-|6
-|align=left|{{VAT}}
-|{{convert|0.44|km2|2|disp=table}}
-|800
-|{{convert|{{#expr: 800/0.44 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.vaticanstate.va/content/vaticanstate/es/stato-e-governo/note-generali/popolazione.html Official estimate]
-|-
-|7
-|align=left|{{BHR}}
-|{{convert|757|km2|0|disp=table}}
-|1,472,483
-|{{convert|{{#expr: 1472483/757 round 0}}|/km2|0|disp=table}}
-|March 21, 2016
-|align=left|[http://www.cio.gov.bh/CIO_ARA/English/Publications/Census/2011%2009%2018%20Final%20English%20Census%202010%20Summary%20%20Results%20-%20Review%201.pdf Final 2010 census result]
-|-
-|8
-|align=left|{{MLT}}
-|{{convert|315|km2|0|disp=table}}
-|426,149
-|{{convert|{{#expr: 426149/315 round 0}}|/km2|0|disp=table}}
-|March 21, 2016
-|align=left|[http://www.nso.gov.mt/statdoc/document_file.aspx?id=3424 Preliminary 2011 census result]
-|-
-|9
-|align=left|''{{BER}}'' ([[United Kingdom|UK]])
-|{{convert|53|km2|0|disp=table}}
-|66,449
-|{{convert|{{#expr: 66449/53 round 0}}|/km2|0|disp=table}}
-|March 21, 2016
-|align=left|[http://www.gov.bm/portal/server.pt/gateway/PTARGS_0_2_980_227_1014_43/http%3B/ptpublisher.gov.bm%3B7087/publishedcontent/publish/cabinet_office/statistics/dept___statistics___additonal_files/2012_facts___figures_0.pdf Final 2010 census result]
-|-
-|10
-|{{data Bangladesh|popdens}}
-|align=left|[http://www.bbs.gov.bd/Home.aspx Official population clock]
-|-
-|11
-|align=left|''{{SXM}}'' ([[Kingdom of the Netherlands]])
-|{{convert|34|km2|0|disp=table}}
-|37,429
-|{{convert|{{#expr: 37429/34 round 0}}|/km2|0|disp=table}}
-|January 1, 2010
-|align=left|[http://www.citypopulation.de/SintMaarten.html Official estimate]
-|-
-|12
-|align=left|{{MDV}}
-|{{convert|298|km2|0|disp=table}}
-|317,280
-|{{convert|{{#expr: 317280/298 round 0}}|/km2|0|disp=table}}
-|2010
-|align=left|[http://planning.gov.mv/en/images/stories/publications/analysiscd/pdf/13.pdf Official estimate]
-|-
-|13
-|align=left|''{{JEY}}'' ([[United Kingdom|UK]])
-|{{convert|116|km2|0|disp=table}}
-|97,857
-|{{convert|{{#expr: 97857/116 round 0}}|/km2|0|disp=table}}
-|March 27, 2011
-|align=left|[http://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20CensusBulletin1%2020111208%20SU.pdf 2011 census result]
-|-
-|14
-|align=left|''{{GGY}}'' ([[United Kingdom|UK]])
-|{{convert|78|km2|0|disp=table}}
-|62,431
-|{{convert|{{#expr: 62431/78 round 0}}|/km2|0|disp=table}}
-|March 31, 2010
-|align=left|[http://www.gov.gg/CHttpHandler.ashx?id=5506&p=0 Official estimate]
-|-
-|15
-|align=left|''{{flag|Palestinian National Authority|name=Palestinian Territories}}''<ref>Borders and area of Palestinian-administered territories are pending outcome of negotiations with [[Israel]].</ref>
-|{{convert|6,020|km2|0|disp=table}}
-|4,550,368
-|{{convert|{{#expr: 4550368/6020 round 0}}|/km2|0|disp=table}}
-|2014
-|align=left|[http://www.pcbs.gov.ps/site/881/default.aspx#Population Official estimate]
-|-
-|16
-|align=left|''{{MAF}}'' ([[France]])
-|{{convert|54|km2|0|disp=table}}
-|36,979
-|{{convert|{{#expr: 36979/54 round 0}}|/km2|0|disp=table}}
-|January 1, 2010
-|align=left|[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/france-departements.asp?annee=2010 Official estimate]
-|-
-|17
-|align=left|{{TWN}} ([[Republic of China|ROC]])<ref>[[Political status of Taiwan|Partially recognized state]], claimed by the [[People's Republic of China]] as one of its [[Provinces of China|provinces]].</ref>
-|{{convert|36,191|km2|0|disp=table}}
-|23,410,280
-|{{convert|{{#expr: 23410280/36191 round 0}}|/km2|0|disp=table}}
-|September 30, 2014
-|align=left|[http://eng.stat.gov.tw/point.asp?index=9 Monthly official estimate]
-|-
-|18
-|align=left|{{BRB}}
-|{{convert|430|km2|0|disp=table}}
-|274,200
-|{{convert|{{#expr: 274200/430 round 0}}|/km2|0|disp=table}}
-|July 1, 2010
-|align=left|[http://www.citypopulation.de/Barbados.html Official estimate]
-|-
-|19
-|align=left|{{MRI}}
-|{{convert|2,040|km2|0|disp=table}}
-|1,259,838
-|{{convert|{{#expr: 1259838/2040 round 0}}|/km2|0|disp=table}}
-|December 31, 2013
-|align=left|[http://statsmauritius.gov.mu/English/StatsbySubj/Documents/ei1092/population.pdf Official estimate]
-|-
-|20
-|align=left|''{{MYT}}'' ([[France]])
-|{{convert|374|km2|0|disp=table}}
-|212,600
-|{{convert|{{#expr: 212600/374 round 0}}|/km2|0|disp=table}}
-|August 21, 2012
-|align=left|[http://www.insee.fr/fr/themes/document.asp?ref_id=19214&reg_id=27 2012 census result]
-|-
-|21
-|align=left|{{SMR}}
-|{{convert|61|km2|0|disp=table}}
-|33,028
-|{{convert|{{#expr: 33028/61 round 0}}|/km2|0|disp=table}}
-|May 31, 2016
-|align=left|[http://www.statistica.sm/on-line/home/dati-statistici/popolazione.html# Monthly official estimate]
-|-
-|22
-|align=left|''{{ABW}}'' ([[Kingdom of the Netherlands]])
-|{{convert|193|km2|0|disp=table}}
-|101,484
-|{{convert|{{#expr: 101484/193 round 0}}|/km2|0|disp=table}}
-|September 29, 2010
-|align=left|[http://www.cbs.aw/cbs/readBlob.do?id=4199 2010 census result]
-|-
-|23
-|align=left|{{KOR}}
-|{{convert|100,210|km2|0|disp=table}}
-|50,801,405
-|{{convert|{{#expr: 50801405/100210 round 0}}|/km2|0|disp=table}}
-|July 1, 2016
-|align=left|[http://kosis.kr/nsportalStats/nsportalStats_0102Body.jsp?menuId=1&NUM=1 Annual official estimate]
-|-
-|24
-|align=left|{{LBN}}
-|{{convert|10,452|km2|0|disp=table}}
-|4,966,000
-|{{convert|{{#expr: 4966000/10201 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|UN projection
-|-
-|25
-|align=left|{{NRU}}
-|{{convert|21|km2|0|disp=table}}
-|10,084
-|{{convert|{{#expr: 10084/21 round 0}}|/km2|0|disp=table}}
-|October 30, 2011
-|align=left|[http://www.citypopulation.de/Nauru.html 2011 census result]
-|-
-|26
-|align=left|{{RWA}}
-|{{convert|25,314|km2|0|disp=table}}
-|11,262,564
-|{{convert|{{#expr: 11262564/25314 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://statistics.gov.rw/ Annual official estimate]
-|-
-|27
-|align=left|{{TUV}}
-|{{convert|26|km2|0|disp=table}}
-|11,323
-|{{convert|{{#expr: 11323/26 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|28
-|align=left|''{{BLM}}'' ([[France]])
-|{{convert|21|km2|0|disp=table}}
-|8,938
-|{{convert|{{#expr: 8938/21 round 0}}|/km2|0|disp=table}}
-|January 1, 2010
-|align=left|[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/france-departements.asp?annee=2010 Official estimate]
-|-
-|29
-|align=left|{{COM}}
-|{{convert|1,861|km2|0|disp=table}}
-|784,745
-|{{convert|{{#expr: 784745/1861 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://comoros.africadata.org/fr/DataAnalysis Official estimate]
-|-
-|30
-|{{data Netherlands|popdens}}
-|align=left|[http://www.cbs.nl/en-GB/menu/themas/bevolking/cijfers/extra/bevolkingsteller.htm Official population clock]
-|-
-|31
-|align=left|{{HAI}}
-|{{convert|27,065|km2|0|disp=table}}
-|10,911,819
-|{{convert|{{#expr: 10911819/27065 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://www.ihsi.ht/pdf/projection/ProjectionsPopulation_Haiti_2007.pdf Official projection]
-|-
-|32
-|{{data India|popdens}}
-|align=left|[http://censusindia.gov.in/2011-prov-results/data_files/india/Final_PPT_2011_chapter3.pdf Population clock based on 2011 census]
-|-
-|33
-|align=left|''{{PRI}}'' ([[United States|US]])<ref>Commonwealth of the [[United States]].</ref>
-|{{convert|8,868|km2|0|disp=table}}
-|3,474,182
-|{{convert|{{#expr: 3474182/8868 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://www.census.gov/popest/data/index.html Official estimate]
-|-
-|34
-|{{data Israel|popdens}}
-|align=left|[http://cbs.gov.il/reader/?MIval=cw_usr_view_Folder&ID=141 Official population clock]<ref>Calculated based on average growth since last census</ref>
-|-
-|35
-|align=left|{{BEL}}
-|{{convert|30,528|km2|0|disp=table}}
-|11,316,587
-|{{convert|{{#expr: 11316587/30528 round 0}}|/km2|0|disp=table}}
-|May 1, 2016
-|align=left|[http://www.ibz.rrn.fgov.be/fileadmin/user_upload/nl/bev/statistieken/stat-1-1_n.pdf Monthly official estimate]
-|-
-|36
-|align=left|{{BDI}}
-|{{convert|27,816|km2|0|disp=table}}
-|10,114,505
-|{{convert|{{#expr: 10114505/27816 round 0}}|/km2|0|disp=table}}
-|July 1, 2016
-|align=left|[http://www.isteebu.bi/images/rapports/projection%20de%20la%20population%20bdi%202008-2030.pdf Official annual projection]
-|-
-|37
-|align=left|''{{MTQ}}'' ([[France]])
-|{{convert|1,128|km2|0|disp=table}}
-|394,173
-|{{convert|{{#expr: 394173/1128 round 0}}|/km2|0|disp=table}}
-|January 1, 2010
-|align=left|[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/france-regions.asp Official estimate]
-|-
-|38
-|{{Data Philippines|Popdens}}
-|align=left|[http://www.popcom.gov.ph Official population clock]
-|-
-|39
-|align=left|''{{CUR}}'' ([[Kingdom of the Netherlands]])
-|{{convert|444|km2|0|disp=table}}
-|150,563
-|{{convert|{{#expr: 150563/444 round 0}}|/km2|0|disp=table}}
-|March 26, 2011
-|align=left|[http://www.citypopulation.de/Curacao.html 2011 census result]
-|-
-|40
-|align=left|{{JPN}}
-|{{convert|377,944|km2|0|disp=table}}
-|126,960,000
-|{{convert|{{#expr: 126960000/377944 round 2}}|/km2|0|disp=table}}
-|June 1, 2016
-|align=left|[http://www.stat.go.jp/english/data/jinsui/tsuki/index.htm Monthly official estimate]
-|-
-|41
-|align=left|''{{REU}}'' ([[France]])
-|{{convert|2,512|km2|0|disp=table}}
-|821,136
-|{{convert|{{#expr: 821136/2512 round 0}}|/km2|0|disp=table}}
-|January 1, 2010
-|align=left|[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/france-regions.asp Official estimate]
-|-
-|42
-|align=left|{{MHL}}
-|{{convert|181|km2|0|disp=table}}
-|56,086
-|{{convert|{{#expr: 56086/181 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|43
-|align=left|{{SRI}}
-|{{convert|65,610|km2|0|disp=table}}
-|20,277,597
-|{{convert|{{#expr: 20277597/65610 round 0}}|/km2|0|disp=table}}
-|March 21, 2012
-|align=left|[http://www.statistics.gov.lk/PopHouSat/CPH2011/Pages/sm/CPH%202011_R1.pdf Preliminary 2012 census result]
-|-
-|44
-|align=left|''{{VIR}}'' ([[United States|US]])
-|{{convert|352|km2|0|disp=table}}
-|106,405
-|{{convert|{{#expr: 106405/352 round 0}}|/km2|0|disp=table}}
-|April 1, 2010
-|align=left|[http://www.census.gov/newsroom/releases/archives/2010_census/cb11-cn180.html Final 2010 census result]
-|-
-|45
-|align=left|{{SLV}}
-|{{convert|21,040|km2|0|disp=table}}
-|6,340,000
-|{{convert|{{#expr: 6340000/21040 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|46
-|align=left|{{GRD}}
-|{{convert|344|km2|0|disp=table}}
-|103,328
-|{{convert|{{#expr: 103328/344 round 0}}|/km2|0|disp=table}}
-|May 12, 2011
-|align=left|[http://www.geohive.com/cntry/grenada.aspx 2011 census result]
-|-
-|47
-|align=left|''{{GUM}}'' ([[United States|US]])
-|{{convert|541|km2|0|disp=table}}
-|159,358
-|{{convert|{{#expr: 159358/541 round 0}}|/km2|0|disp=table}}
-|April 1, 2010
-|align=left|[http://www.census.gov/newsroom/releases/archives/2010_census/cb11-cn179.html Final 2010 census result]
-|-
-|48
-|align=left|''{{ASM}}'' ([[United States|US]])
-|{{convert|197|km2|0|disp=table}}
-|55,519
-|{{convert|{{#expr: 55519/197 round 0}}|/km2|0|disp=table}}
-|April 1, 2010
-|align=left|[http://www.census.gov/newsroom/releases/archives/2010_census/cb11-cn177.html Final 2010 census result]
-|-
-|49
-|align=left|{{LCA}}
-|{{convert|617|km2|0|disp=table}}
-|166,526
-|{{convert|{{#expr: 166526/617 round 0}}|/km2|0|disp=table}}
-|May 10, 2010
-|align=left|[http://www.stats.gov.lc/StLuciaPreliminaryCensusReport2010.pdf Preliminary 2010 census result]
-|-
-|50
-|align=left|{{VNM}}
-|{{convert|331,212|km2|0|disp=table}}
-|88,780,000
-|{{convert|{{#expr: 88780000/331212 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.gso.gov.vn/default_en.aspx?tabid=508&ItemID=13500 Official estimate]
-|-
-|51
-|align=left|{{GBR}}
-|{{convert|242,910|km2|0|disp=table}}
-|64,105,700
-|{{convert|{{#expr: 63705000/242910 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.ons.gov.uk/ons/dcp171778_367167.pdf Annual official estimate]
-|-
-|52
-|align=left|{{VCT}}
-|{{convert|389|km2|0|disp=table}}
-|100,892
-|{{convert|{{#expr: 100892/389 round 0}}|/km2|0|disp=table}}
-|July 1, 2009
-|align=left|[http://www.caricomstats.org/Files/Databases/Population/MP.htm Official estimate]
-|-
-|53
-|align=left|{{TRI}}
-|{{convert|5,155|km2|0|disp=table}}
-|1,328,019
-|{{convert|{{#expr: 1328019/5155 round 0}}|/km2|0|disp=table}}
-|January 9, 2011
-|align=left|[http://www.cso.gov.tt/sites/default/files/content/images/census/TRINIDAD%20AND%20TOBAGO%202011%20Demographic%20Report.pdf 2011 census result]
-|-
-|54
-|align=left|''{{GLP}}'' ([[France]])
-|{{convert|1,630|km2|0|disp=table}}
-|403,355
-|{{convert|{{#expr: 403355/1630 round 0}}|/km2|0|disp=table}}
-|January 1, 2010
-|align=left|[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/france-regions.asp Official estimate]
-|-
-|55
-|align=left|{{JAM}}
-|{{convert|10,991|km2|0|disp=table}}
-|2,711,476
-|{{convert|{{#expr: 2711476/10991 round 0}}|/km2|0|disp=table}}
-|December 31, 2012
-|align=left|[http://statinja.gov.jm/Demo_SocialStats/population.aspx Official estimate]
-|-
-|56
-|{{data Pakistan|popdens}}
-|align=left|[http://www.census.gov.pk Official population clock]
-|-
-|57
-|align=left|{{LIE}}
-|{{convert|160|km2|0|disp=table}}
-|36,842
-|{{convert|{{#expr: 36842/160 round 0}}|/km2|0|disp=table}}
-|December 31, 2012
-|align=left|[http://www.llv.li/amtsstellen/llv-as-bevoelkerung/llv-as-bevoelkerung-bevoelkerungsstatistik_per_31_dezember-vorlaeufig.htm Official estimate]
-|-
-|58
-|align=left|{{GER}}
-|{{convert|357,168|km2|0|disp=table}}
-|81,459,000
-|{{convert|{{#expr: 81459000/357168 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://www.statistik-portal.de/Statistik-Portal/en/en_zs01_bund.asp Monthly official estimate]
-|-
-|59
-|align=left|{{KWT}}
-|{{convert|17,818|km2|0|disp=table}}
-|4,007,000
-|{{convert|{{#expr: 4007000/17818 round 0}}|/km2|0|disp=table}}
-|July 1, 2016
-|align=left|[http://esa.un.org/unpd/wpp/DataQuery/ Official estimate]
-|-
-|60
-|align=left|{{DOM}}
-|{{convert|47,875|km2|0|disp=table}}
-|10,528,000
-|{{convert|{{#expr: 10528000/47875 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://esa.un.org/unpd/wpp/Publications/Files/Key_Findings_WPP_2015.pdf UN Projection]
-|-
-|61
-|align=left|''{{CAY}}'' ([[United Kingdom|UK]])
-|{{convert|259|km2|0|disp=table}}
-|55,456
-|{{convert|{{#expr: 55456/259 round 0}}|/km2|0|disp=table}}
-|October 10, 2010
-|align=left|[http://www.eso.ky/pages.php?page=2010censusofpopulationandhousingfinalreport Final 2010 census result]
-|-
-|62
-|align=left|{{LUX}}
-|{{convert|2,586|km2|0|disp=table}}
-|537,000
-|{{convert|{{#expr: 537000/2586 round 0}}|/km2|0|disp=table}}
-|December 31, 2012
-|align=left|[http://www.statistiques.public.lu/stat/TableViewer/tableViewHTML.aspx?ReportId=383&IF_Language=fra&MainTheme=2&FldrName=1 Official estimate]
-|-
-|63
-|align=left|{{PRK}}
-|{{convert|122,762|km2|0|disp=table}}
-|25,155,000
-|{{convert|{{#expr: 25155000/122762 round 0}}|/km2|0|disp=table}}
-|July 1, 2015
-|align=left|[http://esa.un.org/unpd/wpp/Publications/Files/Key_Findings_WPP_2015.pdf UN Projection]
-|-
-|64
-|align=left|{{SUI}}
-|{{convert|41,285|km2|0|disp=table}}
-|8,341,600
-|{{convert|{{#expr: 8341600/41285 round 0}}|/km2|0|disp=table}}
-|March 31, 2016
-|align=left|[http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/02/blank/key/bevoelkerungsstand/01.html Quarterly provisional figure]
-|-
-|65
-|align=left|{{ITA}}
-|{{convert|301,308|km2|0|disp=table}}
-|60,665,551
-|{{convert|{{#expr: 60665551/301308 round 0}}|/km2|0|disp=table}}
-|December 31, 2015
-|align=left|[http://demo.istat.it/bilmens2015gen/index.html Monthly official estimate]
-|-
-|66
-|align=left|{{SEY}}
-|{{convert|455|km2|0|disp=table}}
-|90,945
-|{{convert|{{#expr: 90945/455 round 0}}|/km2|0|disp=table}}
-|August 26, 2010
-|align=left|[http://www.nbs.gov.sc/archives/82 Final 2010 census result]
-|-
-|67
-|align=left|''{{VGB}}'' ([[United Kingdom|UK]])
-|{{convert|151|km2|0|disp=table}}
-|29,537
-|{{convert|{{#expr: 29537/151 round 0}}|/km2|0|disp=table}}
-|2010
-|align=left|[http://www.dpu.gov.vg Official estimate]
-|-
-|68
-|align=left|{{ATG}}
-|{{convert|442|km2|0|disp=table}}
-|86,295
-|{{convert|{{#expr: 86295/442 round 0}}|/km2|0|disp=table}}
-|May 27, 2011
-|align=left|[http://www.citypopulation.de/Antigua.html Preliminary 2011 census result]
-|-
-|69
-|align=left|{{NGA}}
-|{{convert|923,768|km2|0|disp=table}}
-|178,517,000
-|{{convert|{{#expr: 178517000/923768 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|UN projection
-|-
-|70
-|align=left|{{SKN}}
-|{{convert|270|km2|0|disp=table}}
-|51,970
-|{{convert|{{#expr: 51970/270 round 0}}|/km2|0|disp=table}}
-|July 1, 2009
-|align=left|[http://www.caricomstats.org/Files/Databases/Population/MP.htm Official estimate]
-|-
-|71
-|align=left|{{STP}}
-|{{convert|1,001|km2|0|disp=table}}
-|187,356
-|{{convert|{{#expr: 187356/1001 round 0}}|/km2|0|disp=table}}
-|May 13, 2012
-|align=left|[http://www.citypopulation.de/SaoTome.html 2012 census result]
-|-
-|72
-|align=left|{{NPL}}
-|{{convert|147,181|km2|0|disp=table}}
-|26,494,504
-|{{convert|{{#expr: 26494504/147181 round 0}}|/km2|0|disp=table}}
-|June 22, 2011
-|align=left|[http://cbs.gov.np/wp-content/uploads/2012/11/Major-Finding.pdf Final 2011 census result]
-|-
-|73
-|align=left|{{QAT}}
-|{{convert|11,571|km2|0|disp=table}}
-|2,024,707
-|{{convert|{{#expr: 2024707/11571 round 0}}|/km2|0|disp=table}}
-|October 31, 2013
-|align=left|[http://www.qsa.gov.qa/eng/PopulationStructure.htm Monthly official estimate]
-|-
-|74
-|align=left|{{GAM}}
-|{{convert|10,690|km2|0|disp=table}}
-|1,849,000
-|{{convert|{{#expr: 1849000/10690 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|75
-|align=left|{{flag|Kosovo}}<ref>{{Kosovo-note}}</ref>
-|{{convert|10,910|km2|0|disp=table}}
-|1,815,606
-|{{convert|{{#expr: 1815606/10910 round 0}}|/km2|0|disp=table}}
-|December 31, 2012
-|align=left|[http://www.citypopulation.de/Kosovo-Cities.html Official estimate]
-|-
-|76
-|align=left|{{AND}}
-|{{convert|464|km2|0|disp=table}}
-|76,246
-|{{convert|{{#expr: 76246/464 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?tipus_grafic=&bGrafic=&formules=inici&any1=01/01/2000&any2=01/01/2012&codi_divisio=8&lang=1&codi_subtemes=8&codi_tema=2&chkseries= Official estimate]
-|-
-|77
-|align=left|{{UGA}}
-|{{convert|241,551|km2|0|disp=table}}
-|36,600,000
-|{{convert|{{#expr: 36600000/241551 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|[http://www.ubos.org/onlinefiles/uploads/ubos/statistical_abstracts/Statistical_Abstract_2014.pdf Annual official estimate]
-|-
-|78
-|align=left|''{{IMN}}
-|{{convert|572|km2|0|disp=table}}
-|84,497
-|{{convert|{{#expr: 84497/572 round 0}}|/km2|0|disp=table}}
-|March 27, 2011
-|align=left|[http://www.citypopulation.de/IsleOfMan.html 2011 census result]
-|-
-|79
-|align=left|{{KIR}}
-|{{convert|726|km2|0|disp=table}}
-|106,461
-|{{convert|{{#expr: 106461/726 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|80
-|align=left|{{CYP}}
-|{{convert|5,896|km2|0|disp=table}}
-|862,000
-|{{convert|{{#expr: 862000/5896 round 0}}|/km2|0|disp=table}}
-|December 31, 2011
-|align=left|[http://www.mof.gov.cy/mof/cystat/statistics.nsf/All/C6ECE5795EAC1ED8C2257AB70038FCD4?OpenDocument&sub=1&sel=1&e=&print Official estimate]
-|-
-|81
-|align=left|{{TON}}
-|{{convert|720|km2|0|disp=table}}
-|104,270
-|{{convert|{{#expr: 104270/720 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|82
-|align=left|{{FSM}}
-|{{convert|701|km2|0|disp=table}}
-|101,351
-|{{convert|{{#expr: 101351/701 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|83
-|align=left|{{GUA}}
-|{{convert|108,889|km2|0|disp=table}}
-|15,806,675
-|{{convert|{{#expr: 15806675/108889 round 0}}|/km2|0|disp=table}}
-|June 30, 2014
-|align=left|[http://www.ine.gob.gt/index.php/estadisticas/tema-indicadores Annual Official estimate]
-|-
-|84
-|{{data China|popdens}}
-|align=left|[http://data.stats.gov.cn/ Official population clock]
-|-
-|85
-|align=left|''{{TKL}}'' ([[New Zealand|NZ]])
-|{{convert|10|km2|0|disp=table}}
-|1,411
-|{{convert|{{#expr: 1411/10 round 0}}|/km2|0|disp=table}}
-|October 18, 2011
-|align=left|[http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/Tokelau/report.pdf Final 2011 census result]
-|-
-|86
-|align=left|''{{AIA}}'' ([[United Kingdom|UK]])
-|{{convert|96|km2|0|disp=table}}
-|13,452
-|{{convert|{{#expr: 13452/96 round 0}}|/km2|0|disp=table}}
-|May 11, 2011
-|align=left|[http://www.citypopulation.de/Anguilla.html Preliminary 2011 census result]
-|-
-|87
-|align=left|{{CZE}}
-|{{convert|78,867|km2|0|disp=table}}
-|10,517,400
-|{{convert|{{#expr: 10517400/78867 round 0}}|/km2|0|disp=table}}
-|April 1, 2014
-|align=left|[http://www.czso.cz/csu/csu.nsf/enginformace/coby061214.docx Quarterly official estimate]
-|-
-|88
-|align=left|{{DNK}}
-|{{convert|43,098|km2|0|disp=table}}
-|5,639,719
-|{{convert|{{#expr: 5639719/43098 round 0}}|/km2|0|disp=table}}
-|October 1, 2014
-|align=left|[http://www.statistikbanken.dk/FOLK1 Quarterly official estimate]
-|-
-|89
-|align=left|{{THA}}
-|{{convert|513,120|km2|0|disp=table}}
-|65,926,261
-|{{convert|{{#expr: 5634437/43098 round 0}}|/km2|0|disp=table}}
-|April 1, 2014
-|align=left|[http://web.nso.go.th/index.htm 2010 census result]
-|-
-|90
-|align=left|{{IDN}}
-|{{convert|1,904,569|km2|0|disp=table}}
-| 257,080,000
-|{{convert|{{#expr: 257080000/1904569 round 0}}|/km2|0|disp=table}}
-|October 11, 2015
-|align=left|[http://www.bi.go.id/sdds/series/pop/index_pop.asp Official projection]
-|-
-|91
-|align=left|{{POL}}
-|{{convert|312,685|km2|0|disp=table}}
-|38,496,000
-|{{convert|{{#expr: 38496000/312685 round 0}}|/km2|0|disp=table}}
-|December 31, 2013
-|align=left|[http://stat.gov.pl/en/basic-data Official estimate]
-|-
-|92
-|align=left|{{CPV}}
-|{{convert|4,033|km2|0|disp=table}}
-|491,875
-|{{convert|{{#expr: 491875/4033 round 0}}|/km2|0|disp=table}}
-|June 16, 2010
-|align=left|[http://www.ine.cv/actualise/dadostat/files/7ba5fbd5-bf0a-4faf-a734-0495ba9f80f0evolução%20da%20população%20residente%20em%20cabo%20verde,%201900%20-2010.pdf Final 2010 census result]
-|-
-|93
-|align=left|{{MWI}}
-|{{convert|118,484|km2|0|disp=table}}
-|14,388,600
-|{{convert|{{#expr: 14388600/118484 round 0}}|/km2|0|disp=table}}
-|July 1, 2011
-|align=left|[http://www.citypopulation.de/Malawi.html Official estimate]
-|-
-|94
-|align=left|''{{MNP}}'' ([[United States|US]])
-|{{convert|457|km2|0|disp=table}}
-|53,883
-|{{convert|{{#expr: 53883/457 round 0}}|/km2|0|disp=table}}
-|April 1, 2010
-|align=left|[http://www.census.gov/newsroom/releases/archives/2010_census/cb11-cn178.html Final 2010 census result]
-|-
-|95
-|align=left|{{FRA}}
-|{{convert|543,965|km2|0|disp=table}}
-|66,644,000
-|{{convert|{{#expr: 64149000/543965 round 0}}|/km2|0|disp=table}}
-|February, 2016
-|align=left|[http://www.insee.fr/fr/bases-de-donnees/bsweb/serie.asp?idbank=001641607 Monthly official estimate]
-|-
-|96
-|align=left|{{SYR}}
-|{{convert|185,180|km2|0|disp=table}}
-|21,377,000
-|{{convert|{{#expr: 21377000/185180 round 0}}|/km2|0|disp=table}}
-|December 31, 2011
-|align=left|[http://www.citypopulation.de/Syria.html Official estimate]
-|-
-|97
-|align=left|{{PRT}}
-|{{convert|92,090|km2|0|disp=table}}
-|10,562,178
-|{{convert|{{#expr: 10562178/92090 round 0}}|/km2|0|disp=table}}
-|March 21, 2011
-|align=left|[http://www.ine.pt/scripts/flex_definitivos/Main.html Final 2011 census result]
-|-
-|98
-|align=left|{{SVK}}
-|{{convert|49,036|km2|0|disp=table}}
-|5,410,728
-|{{convert|{{#expr: 5410728/49036 round 0}}|/km2|0|disp=table}}
-|March 31, 2013
-|align=left|[http://portal.statistics.sk/showdoc.do?docid=68588 Official estimate]
-|-
-|99
-|align=left|{{TOG}}
-|{{convert|56,600|km2|0|disp=table}}
-|6,191,155
-|{{convert|{{#expr: 6191155/56600 round 0}}|/km2|0|disp=table}}
-|November 6, 2010
-|align=left|[http://www.stat-togo.org/index.php?option=com_docman&task=doc_download&gid=14&&Itemid=56 Final 2010 census result]
-|-
-|100
-|align=left|{{AZE}}
-|{{convert|86,600|km2|0|disp=table}}
-|9,477,100
-|{{convert|{{#expr: 9477100/86600 round 0}}|/km2|0|disp=table}}
-|December 31, 2013
-|align=left|[http://stat.gov.az/news/?id=2122 Official estimate]
-|-
-|101
-|align=left|{{HUN}}
-|{{convert|93,029|km2|0|disp=table}}
-|9,877,365
-|{{convert|{{#expr: 9877365/93029 round 0}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://www.ksh.hu/docs/eng/xstadat/xstadat_annual/i_wnt001b.html Annual official estimate]
-|-
-|102
-|align=left|{{MDA}}
-|{{convert|33,843|km2|0|disp=table}}
-|3,559,500
-|{{convert|{{#expr: 3559500/33843 round 0}}|/km2|0|disp=table}}
-|January 1, 2012
-|align=left|[http://www.statistica.md/category.php?l=ro&idc=103& Official estimate]
-|-
-|103
-|align=left|{{GHA}}
-|{{convert|238,533|km2|0|disp=table}}
-|24,658,823
-|{{convert|{{#expr: 24658823/238533 round 0}}|/km2|0|disp=table}}
-|September 26, 2010
-|align=left|[http://www.statsghana.gov.gh/docfiles/2010phc/2010_population_and_housing_census%28view_summary_of_final_results%29.pdf Final 2010 census result]
-|-
-|104
-|align=left|{{CUB}}
-|{{convert|109,886|km2|0|disp=table}}
-|11,163,934
-|{{convert|{{#expr: 11163934/109886 round 0}}|/km2|0|disp=table}}
-|September 15, 2012
-|align=left|[http://www.one.cu/publicaciones/cepde/cpv2012/20121212cifraspreliminares/resultados%20preliminares.pdf Preliminary 2012 census result]
-|-
-|105
-|align=left|{{ARM}}
-|{{convert|29,743|km2|0|disp=table}}
-|3,024,100
-|{{convert|{{#expr: 3024100/29743 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.armstat.am/en/?nid=126&id=11001 Official estimate]
-|-
-|106
-|align=left|{{SVN}}
-|{{convert|20,273|km2|0|disp=table}}
-|{{formatnum: {{#expr: 2058821+8*{{Age in days|2013|1|1}} round 0}}}}
-|{{formatnum: {{#expr: (2058821+8*{{Age in days|2013|1|1}})/20273 round 0}}}}
-|{{formatnum: {{#expr: (2058821+8*{{Age in days|2013|1|1}})/7827 round 0}}}}
-|{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}
-|align=left|[http://www.stat.si/eng/tema_demografsko_prebivalstvo.asp Official population clock]
-|-
-|107
-|align=left|{{AUT}}
-|{{convert|83,879|km2|0|disp=table}}
-|8,572,895
-|{{convert|{{#expr: 8572895/83879 round 0}}|/km2|0|disp=table}}
-|October 1, 2014
-|align=left|[http://www.statistik.at/web_de/presse/075280 Official quarterly estimate]
-|-
-|108
-|align=left|{{TUR}}
-|{{convert|783,562|km2|0|disp=table}}
-|78,741,053
-|{{convert|{{#expr: 78741053/769604 round 0}}|/km2|0|disp=table}}
-|December 31, 2015
-|align=left|[http://www.turkstat.gov.tr/Start.do Official estimate]
-|-
-|109
-|align=left|{{UAE}}
-|{{convert|83,600|km2|0|disp=table}}
-|8,264,070
-|{{convert|{{#expr: 8264070/83600 round 0}}|/km2|0|disp=table}}
-|2010
-|align=left|[http://www.uaestatistics.gov.ae/ReportPDF/Population%20Estimates%202006%20-%202010.pdf Official estimate]
-|-
-|110
-|align=left|{{ALB}}
-|{{convert|28,703|km2|0|disp=table}}
-|2,821,977
-|{{convert|{{#expr: 2821977/28703 round 0}}|/km2|0|disp=table}}
-|October 1, 2011
-|align=left|[http://www.instat.gov.al/media/177354/main_results__population_and_housing_census_2011.pdf 2011 census result]
-|-
-|111
-|align=left|{{DMA}}
-|{{convert|739|km2|0|disp=table}}
-|71,293
-|{{convert|{{#expr: 71293/739 round 0}}|/km2|0|disp=table}}
-|May 14, 2011
-|align=left|[http://www.dominica.gov.dm/cms/files/2011_census_report.pdf Preliminary 2011 census result]
-|-
-|112
-|align=left|{{ESP}}
-|{{convert|505,990|km2|0|disp=table}}
-|46,439,864
-|{{convert|{{#expr: 46439864/505990 round 0}}|/km2|0|disp=table}}
-|January 1, 2015
-|align=left|[http://www.ine.es/en/welcome.shtml Official estimate]
-|-
-|113
-|align=left|{{SRB}}
-|{{convert|77,474|km2|0|disp=table}}
-|7,146,759
-|{{convert|{{#expr: 7146759/77474 round 0}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://webrzs.stat.gov.rs/WebSite/Public/PageView.aspx?pKey=2 Official estimate]
-|-
-|114
-|align=left|{{BEN}}
-|{{convert|112,622|km2|0|disp=table}}
-|10,323,000
-|{{convert|{{#expr: 10323000/112622 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|115
-|align=left|{{CRI}}
-|{{convert|51,100|km2|0|disp=table}}
-|4,667,096
-|{{convert|{{#expr: 4667096/51100 round 0}}|/km2|0|disp=table}}
-|2013
-|align=left|[http://www.inec.go.cr/Web/Home/pagPrincipal.aspx Official estimate]
-|-
-|116
-|align=left|{{MAS}}
-|{{convert|330,803|km2|0|disp=table}}
-|{{formatnum: {{#expr: 28334.135+1.321*{{Age in days|2010|7|6}} round 0}}000}}
-|{{formatnum: {{#expr: (28334135+1321*{{Age in days|2010|7|6}})/330803 round 0}}}}
-|{{formatnum: {{#expr: (28334135+1321*{{Age in days|2010|7|6}})/127724 round 0}}}}
-|{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}
-|align=left|[http://www.statistics.gov.my/portal/index.php?option=com_content&view=article&id=213&lang=en Official population clock]
-|-
-|117
-|align=left|{{TRNC}}
-|{{convert|3355|km2|0|disp=table}}
-|313,626
-|{{convert|{{#expr: 313626/3355 round 0}}|/km2|0|disp=table}}
-|2014
-|align=left|[http://www.devplan.org/Ecosos/BOOK/SEG-2014.pdf Official estimate]
-|-
-|118
-|{{data Egypt|popdens}}
-|align=left|[http://www.capmas.gov.eg Official population clock]
-|-
-|119
-|align=left|{{SLE}}
-|{{convert|71,740|km2|0|disp=table}}
-|6,092,000
-|{{convert|{{#expr: 6092000/71740 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|120
-|align=left|{{ROM}}
-|{{convert|238,391|km2|0|disp=table}}
-|20,121,641
-|{{convert|{{#expr: 20121641/238391 round 0}}|/km2|0|disp=table}}
-|October 20, 2011
-|align=left|[http://www.recensamantromania.ro/wp-content/uploads/2013/07/REZULTATE-DEFINITIVE-RPL_2011.pdf Final 2011 census result]
-|-
-|121
-|align=left|{{KHM}}
-|{{convert|181,035|km2|0|disp=table}}
-|15,184,116
-|{{convert|{{#expr: 15184116/181035 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|[http://www.stat.go.jp/info/meetings/cambodia/pdf/rp12_ch10.pdf Official annual projection]
-|-
-|122
-|align=left|{{GRE}}
-|{{convert|131,957|km2|0|disp=table}}
-|11,123,034
-|{{convert|{{#expr: 11123034/131957 round 0}}|/km2|0|disp=table}}
-|December 31, 2012
-|align=left|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&init=1&language=en&pcode=tps00001&plugin=1 Official estimate]
-|-
-|123
-|align=left|{{ETH}}
-|{{convert|1,063,652|km2|0|disp=table}}
-|87,952,991
-|{{convert|{{#expr: 87952991/1063652 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|[http://www.csa.gov.et/images/general/news/pop_pro_wer_2014-2017 Official projection]
-|-
-|124
-|align=left|{{IRQ}}
-|{{convert|434,128|km2|0|disp=table}}
-|36,004,552
-|{{convert|{{#expr: 36004552/434128 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|[http://www.mofamission.gov.iq/nld/ab/articledisplay.aspx?gid=1&id=14075 Annual official projection]
-|-
-|125
-|align=left|{{MKD}}
-|{{convert|25,713|km2|0|disp=table}}
-|2,062,294
-|{{convert|{{#expr: 2062294/25713 round 0}}|/km2|0|disp=table}}
-|December 31, 2012
-|align=left|[http://www.stat.gov.mk/OblastOpsto_en.aspx?id=2 Official estimate]
-|-
-|126
-|align=left|{{KEN}}
-|{{convert|581,834|km2|0|disp=table}}
-|45,546,000
-|{{convert|{{#expr: 45546000/581834 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|UN projection
-|-
-|127
-|align=left|{{MYA}}
-|{{convert|676,577|km2|0|disp=table}}
-|51,419,420
-|{{convert|{{#expr: 51419420/676577 round 0}}|/km2|0|disp=table}}
-|March 29, 2014
-|align=left|[http://www.straitstimes.com/news/asia/east-asia/story/myanmar-census-shows-population-9-million-fewer-estimated-20140830 Preliminary 2014 census result]
-|-
-|128
-|align=left|{{CRO}}
-|{{convert|56,542|km2|0|disp=table}}
-|4,290,612
-|{{convert|{{#expr: 4290612/56542 round 0}}|/km2|0|disp=table}}
-|March 31, 2011
-|align=left|[http://www.dzs.hr/default_e.htm 2011 census result]
-|-
-|129
-|align=left|''{{PYF}}'' ([[France]])
-|{{convert|3,521|km2|0|disp=table}}
-|268,270
-|{{convert|{{#expr: 268270/3521 round 0}}|/km2|0|disp=table}}
-|August 22, 2012
-|align=left|[http://www.ispf.pf/Libraries/RP2012/Premiers_résultats_population_légale.sflb.ashx Preliminary 2012 census result]
-|-
-|130
-|align=left|{{HON}}
-|{{convert|112,492|km2|0|disp=table}}
-|8,385,072
-|{{convert|{{#expr: 8385072/112492 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.ine.gob.hn/drupal/node/205 Official estimate]
-|-
-|131
-|align=left|{{UKR}}<ref>Includes [[Crimea]] and [[Sevastopol]].</ref>
-|{{convert|603,628|km2|0|disp=table}}
-|45,377,581
-|{{convert|{{#expr: 45377581/603628 round 0}}|/km2|0|disp=table}}
-|April 1, 2014
-|align=left|[http://www.ukrstat.gov.ua/operativ/operativ2014/ds/kn/kn_e/kn0414_e.html Monthly official estimate]
-|-
-|132
-|align=left|{{BIH}}
-|{{convert|51,209|km2|0|disp=table}}
-|3,531,159
-|{{convert|{{#expr: 3531159/51209 round 0}}|/km2|0|disp=table}}
-|September 30, 2013
-|align=left|[http://www.popis2013.ba/popis2013/doc/Popis2013prvoIzdanje.pdf Official estimate]
-|-
-|133
-|{{data Morocco|popdens}}
-|align=left|[http://www.hcp.ma Official population clock]
-|-
-|134
-|{{data Jordan|popdens}}
-|align=left|[http://www.dos.gov.jo/dos_home_e/main/index.htm Official population clock]
-|-
-|135
-|align=left|{{CIV}}
-|{{convert|322,921|km2|0|disp=table}}
-|23,202,000
-|{{convert|{{#expr: 23202000/322921 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.ins.ci/n Official estimate]
-|-
-|136
-|align=left|{{SWZ}}
-|{{convert|17,364|km2|0|disp=table}}
-|1,250,000
-|{{convert|{{#expr: 1250000/17364 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|137
-|align=left|{{TLS}}
-|{{convert|14,919|km2|0|disp=table}}
-|1,066,409
-|{{convert|{{#expr: 1066409/14919 round 0}}|/km2|0|disp=table}}
-|July 11, 2010
-|align=left|[http://dne.mof.gov.tl Final 2010 census result]
-|-
-|138
-|align=left|{{SEN}}
-|{{convert|196,722|km2|0|disp=table}}
-|14,799,859
-|{{convert|{{#expr: 14799859/196722 round 0}}|/km2|0|disp=table}}
-|2016
-|align=left|[http://www.ansd.sn/senegal_indicateurs.html Official estimate]
-|-
-|139
-|align=left|{{UZB}}
-|{{convert|444,103|km2|0|disp=table}}
-|30,492,800
-|{{convert|{{#expr: 30492800/444103 round 0}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://www.stat.uz/demographic Official estimate]
-|-
-|140
-|align=left|{{LES}}
-|{{convert|30,355|km2|0|disp=table}}
-|2,074,000
-|{{convert|{{#expr: 2074000/30355 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|141
-|align=left|{{BRU}}
-|{{convert|5,765|km2|0|disp=table}}
-|393,162
-|{{convert|{{#expr: 393162/5765 round 0}}|/km2|0|disp=table}}
-|June 20, 2011
-|align=left|[http://www.depd.gov.bn/projects/BPP/Preliminary%20Report%20of%20BPP%202011_updated_20Feb2012.pdf Preliminary 2011 census result]
-|-
-|142
-|align=left|{{IRL}}
-|{{convert|70,273|km2|0|disp=table}}
-|4,757,976
-|{{convert|{{#expr: 4757976/70273 round 0}}|/km2|0|disp=table}}
-|April 2016
-|align=left|[http://www.cso.ie/en/releasesandpublications/ep/p-cpr/censusofpopulation2016-preliminaryresults/ Official census figures]
-|-
-|143
-|align=left|{{SAM}}
-|{{convert|2,831|km2|0|disp=table}}
-|187,820
-|{{convert|{{#expr: 187820/2831 round 0}}|/km2|0|disp=table}}
-|November 7, 2011
-|align=left|[http://www.sbs.gov.ws Final 2011 census result]
-|-
-|144
-|align=left|{{TUN}}
-|{{convert|163,610|km2|0|disp=table}}
-|10,777,500
-|{{convert|{{#expr: 10777500/163610 round 0}}|/km2|0|disp=table}}
-|July 1, 2012
-|align=left|[http://www.ins.nat.tn/indexfr.php Official estimate]
-|-
-|145
-|align=left|{{BUL}}
-|{{convert|111,002|km2|0|disp=table}}
-|7,153,784
-|{{convert|{{#expr: 7153784/111002 round 0}}|/km2|0|disp=table}}
-|December 31, 2015
-|align=left|[http://www.nsi.bg/bg/node/14154]
-|-
-|146
-|align=left|''{{BES}}'' ([[Netherlands]])
-|{{convert|322|km2|0|disp=table}}
-|21,133
-|{{convert|{{#expr: 21133/322 round 0}}|/km2|0|disp=table}}
-|January 1, 2011
-|align=left|[http://www.citypopulation.de/NedAntillen.html Official estimate]
-|-
-|147
-|align=left|''{{NFK}}'' ([[Australia]])
-|{{convert|35|km2|0|disp=table}}
-|2,302
-|{{convert|{{#expr: 2302/35 round 0}}|/km2|0|disp=table}}
-|August 9, 2011
-|align=left|[http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/Norfolk_Island/report.pdf 2011 census result]
-|-
-|148
-|align=left|{{GEO}}
-|{{convert|69,700|km2|0|disp=table}}
-|4,490,500
-|{{convert|{{#expr: 4490500/69700 round 0}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://www.geostat.ge/index.php?action=page&p_id=152&lang=eng Official estimate]
-|-
-|149
-|align=left|{{BFA}}
-|{{convert|270,764|km2|0|disp=table}}
-|17,322,796
-|{{convert|{{#expr: 17322796/270764 round 0}}|/km2|0|disp=table}}
-|2013
-|align=left|[http://www.insd.bf/fr Official estimate]
-|-
-|150
-|align=left|''{{TCA}}'' ([[United Kingdom|UK]])
-|{{convert|497|km2|0|disp=table}}
-|31,458
-|{{convert|{{#expr: 31458/497 round 0}}|/km2|0|disp=table}}
-|January 25, 2012
-|align=left|[http://www.citypopulation.de/TurksCaicos.html 2012 census result]
-|-
-|151
-|align=left|''{{COK}}'' ([[New Zealand|NZ]])
-|{{convert|237|km2|0|disp=table}}
-|14,974
-|{{convert|{{#expr: 14974/237 round 0}}|/km2|0|disp=table}}
-|December 1, 2011
-|align=left|[http://www.mfem.gov.ck/docs/Stats/2012/Census/2011%20Cook%20Islands%20Population%20Census%20Report.pdf Final 2011 census result]
-|-
-|152
-|align=left|{{ECU}}
-|{{convert|255,595|km2|0|disp=table}}
-|{{formatnum: {{#expr: 150000+6.95*{{Age in days|2011|6|15}} round 0}}00}}
-|{{formatnum: {{#expr: (15000000+695*{{Age in days|2011|6|15}})/255595 round 0}}}}
-|{{formatnum: {{#expr: (15000000+695*{{Age in days|2011|6|15}})/98686 round 0}}}}
-|{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}
-|align=left|[http://www.inec.gob.ec/proyecciones_poblacionales/relojnew.swf Official population clock]
-|-
-|153
-|align=left|{{MEX}}
-|{{convert|1,967,138|km2|0|disp=table}}
-|119,713,203
-|{{convert|{{#expr: 119713203/1967138 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|[http://www.conapo.gob.mx/es/CONAPO/Proyecciones Official estimate]
-|-
-|154
-|align=left|{{GNQ}}
-|{{convert|28,051|km2|0|disp=table}}
-|1,622,000
-|{{convert|{{#expr: 1622000/28051 round 0}}|/km2|0|disp=table}}
-|2010
-|align=left|[http://www.guineaecuatorialpress.com/estadistica.php Official estimate]
-|-
-|155
-|align=left|{{TJK}}
-|{{convert|143,100|km2|0|disp=table}}
-|8,160,000
-|{{convert|{{#expr: 8160000/143100 round 0}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://www.stat.tj/en Official estimate]
-|-
-|156
-|align=left|{{YEM}}
-|{{convert|455,000|km2|0|disp=table}}
-|24,527,000
-|{{convert|{{#expr: 24527000/455000 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.cso-yemen.org/content.php?lng=arabic&id=553 Official estimate]
-|-
-|157
-|align=left|{{ERI}}
-|{{convert|121,100|km2|0|disp=table}}
-|6,333,000
-|{{convert|{{#expr: 6333000/121100 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|158
-|align=left|{{TAN}}
-|{{convert|883,749|km2|0|disp=table}}
-|44,928,923
-|{{convert|{{#expr: 44928923/883749 round 0}}|/km2|0|disp=table}}
-|August 26, 2012
-|align=left|[http://www.nbs.go.tz/sensa/PDF/Census%20General%20Report%20-%2029%20March%202013_Combined_Final%20for%20Printing.pdf 2012 census result]
-|-
-|159
-|align=left|{{NIC}}
-|{{convert|121,428|km2|0|disp=table}}
-|6,071,045
-|{{convert|{{#expr: 6071045/121428 round 0}}|/km2|0|disp=table}}
-|June 30, 2012
-|align=left|[http://www.inide.gob.ni/estadisticas/Cifras%20municipales%20año%202012%20INIDE.pdf Official estimate]
-|-
-|160
-|align=left|''{{MSR}}'' ([[United Kingdom|UK]])
-|{{convert|102|km2|0|disp=table}}
-|4,922
-|{{convert|{{#expr: 4922/102 round 0}}|/km2|0|disp=table}}
-|May 12, 2011
-|align=left|[http://www.gov.ms/wp-content/uploads/2011/02/Montserrat-At-A-Glance.pdf 2011 census result]
-|-
-|161
-|align=left|''{{WLF}}'' ([[France]])
-|{{convert|274|km2|0|disp=table}}
-|13,135
-|{{convert|{{#expr: 13135/274 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|162
-|{{data Iran|popdens}}
-|align=left|[http://www.amar.org.ir/Default.aspx?tabid=133 Official population clock]
-|-
-|163
-|align=left|{{FIJ}}
-|{{convert|18,333|km2|0|disp=table}}
-|858,038
-|{{convert|{{#expr: 858038/18333 round 0}}|/km2|0|disp=table}}
-|July 1, 2012
-|align=left|[http://www.statsfiji.gov.fj/Key%20Stats/Population/1.2%20pop%20by%20ethnicity.pdf Official estimate]
-|-
-|164
-|align=left|{{PAN}}
-|{{convert|74,177|km2|0|disp=table}}
-|3,405,813
-|{{convert|{{#expr: 3405813/74177 round 0}}|/km2|0|disp=table}}
-|May 16, 2010
-|align=left|[http://www.censos2010.gob.pa/Resultados/cuadros.aspx Final 2010 census result]
-|-
-|165
-|align=left|{{BLR}}
-|{{convert|207,600|km2|0|disp=table}}
-|9,469,200
-|{{convert|{{#expr: 9469200/207600 round 0}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|[http://belstat.gov.by/en/ofitsialnaya-statistika/otrasli-statistiki/naselenie/demografiya_2/current-data/demographic-situation-in-Half-Year-2014 Quarterly official estimate]
-|-
-|166
-|align=left|{{LIT}}
-|{{convert|65,300|km2|0|disp=table}}
-|2,944,459
-|{{convert|{{#expr: 2944459/65300 round 0}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://db1.stat.gov.lt/statbank/selectvarval/saveselections.asp?MainTable=M3010101&PLanguage=1&TableStyle=&Buttons=&PXSId=7743&IQY=&TC=&ST=ST&rvar0=&rvar1=&rvar2=&rvar3=&rvar4=&rvar5=&rvar6=&rvar7=&rvar8=&rvar9=&rvar10=&rvar11=&rvar12=&rvar13=&rvar14= Monthly official estimate]
-|-
-|167
-|align=left|{{MNE}}
-|{{convert|13,812|km2|0|disp=table}}
-|620,029
-|{{convert|{{#expr: 620029/13812 round 0}}|/km2|0|disp=table}}
-|April 1, 2011
-|align=left|[http://www.monstat.org/userfiles/file/popis2011/saopstenje/saopstenje%281%29.pdf Final 2011 census result]
-|-
-|168
-|align=left|{{CMR}}
-|{{convert|466,050|km2|0|disp=table}}
-|20,386,799
-|{{convert|{{#expr: 20386799/466050 round 0}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.stat.cm/downloads/annuaire/2012/Annuaire-2012-chapitre-4.pdf Official estimate]
-|-
-|169
-|align=left|{{GUI}}
-|{{convert|245,857|km2|0|disp=table}}
-|10,628,972
-|{{convert|{{#expr: 10628972/245857 round 0}}|/km2|0|disp=table}}
-|2015
-|align=left|[http://www.stat-guinee.org Official estimate]
-|-
-|170
-|align=left|{{RSA}}
-|{{convert|1,220,813|km2|0|disp=table}}
-|52,981,991
-|{{convert|{{#expr: 52981991/1220813 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.statssa.gov.za/publications/P0302/P03022013.pdf Official estimate]
-|-
-|171
-|align=left|{{PLW}}
-|{{convert|488|km2|0|disp=table}}
-|20,901
-|{{convert|{{#expr: 20901/488 round 0}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|172
-|align=left|{{GNB}}
-|{{convert|36,125|km2|0|disp=table}}
-|1,520,830
-|{{convert|{{#expr: 1520830/36125 round 0}}|/km2|0|disp=table}}
-|March 1, 2009
-|align=left|[http://www.stat-guinebissau.com Final 2009 census result]
-|-
-|173
-|{{data Colombia|popdens}}
-|align=left|[http://www.dane.gov.co/reloj/reloj_animado.php Official population clock]
-|-
-|174
-|align=left|{{AFG}}
-|{{convert|645,807|km2|0|disp=table}}
-|25,500,100
-|{{convert|{{#expr: 25500100/645807 round 0}}|/km2|0|disp=table}}
-|January 1, 2013
-|align=left|[http://cso.gov.af/Content/files/Settled%20Population%20by%20Civil%20Division,.pdf Official estimate]
-|-
-|175
-|align=left|''{{CCK}}'' ([[Australia]])
-|{{convert|14|km2|0|disp=table}}
-|550
-|{{convert|{{#expr: 550/14 round 0}}|/km2|0|disp=table}}
-|August 9, 2011
-|align=left|[http://www.citypopulation.de/Australia-Agglo.html 2011 census result]
-|-
-|176
-|align=left|{{DJI}}
-|{{convert|23,000|km2|0|disp=table}}
-|864,618
-|{{convert|{{#expr: 864618/23000 round 0}}|/km2|0|disp=table}}
-|July 1, 2011
-|align=left|[http://www.ministere-finances.dj/Annuaire2012Ver02102012-Correct3.pdf Official estimate]
-|-
-|177
-|align=left|{{LBR}}
-|{{convert|97,036|km2|0|disp=table}}
-|3,476,608
-|{{convert|{{#expr: 3476608/97036 round 0}}|/km2|0|disp=table}}
-|March 21, 2008
-|align=left|[http://www.citypopulation.de/Liberia.html Final 2008 census result]
-|-
-|178
-|align=left|{{MDG}}
-|{{convert|587,041|km2|0|disp=table}}
-|20,696,070
-|{{convert|{{#expr: 20696070/587041 round 0}}|/km2|0|disp=table}}
-|2011
-|align=left|[http://www.instat.mg/index.php?option=com_content&view=article&id=33&Itemid=56 Official estimate]
-|-
-|179
-|align=left|''{{SHN}}'' ([[United Kingdom|UK]])
-|{{convert|122|km2|0|disp=table}}
-|4,255
-|{{convert|{{#expr: 4255/122 round 0}}|/km2|0|disp=table}}
-|February 10, 2008
-|align=left|[http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/Saint_Helena/Saint_Helena.pdf Preliminary 2008 census result]
-|-
-|180
-|align=left|''{{FRO}}'' ([[Denmark]])
-|{{convert|1,399|km2|0|disp=table}}
-|48,244
-|{{convert|{{#expr: 48244/1399 round 0}}|/km2|0|disp=table}}
-|April 1, 2013
-|align=left|[http://www.hagstova.fo/portal/page/portal/HAGSTOVAN/Statistics_%20Faroe_Islands Monthly official estimate]
-|-
-|181
-|align=left|{{ZIM}}
-|{{convert|390,757|km2|0|disp=table}}
-|12,973,808
-|{{convert|{{#expr: 12973808/390757 round 0}}|/km2|0|disp=table}}
-|August 17, 2012
-|align=left|[http://www.zimstat.co.zw/dmdocuments/CensusPreliminary2012.pdf Preliminary 2012 census result]
-|-
-|182
-|{{data United States|Popdens}}
-|align=left|[http://www.census.gov/popclock Official population clock]
-|-
-|183
-|align=left|{{VEN}}
-|{{convert|916,445|km2|0|disp=table}}
-|28,946,101
-|{{convert|{{#expr: 28946101/916445 round 0}}|/km2|0|disp=table}}
-|October 30, 2011
-|align=left|[http://www.ine.gob.ve/index.php?option=com_content&view=article&id=473:para-el-30102011-28946101-total-preliminar-de-personas-en-venezuela&catid=121:censo-2011 Preliminary 2011 census result]
-|-
-|184
-|align=left|{{LAT}}
-|{{convert|64,562|km2|0|disp=table}}
-|2,005,200
-|{{convert|{{#expr: 2005200/64562 round 0}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://www.csb.gov.lv/en/statistikas-temas/population-key-indicators-30624.html Monthly official estimate]
-|-
-|185
-|align=left|{{MOZ}}
-|{{convert|799,380|km2|0|disp=table}}
-|23,700,715
-|{{convert|{{#expr: 23700715/799380 round 1}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.ine.gov.mz/Dashboards.aspx Official estimate]
-|-
-|186
-|align=left|{{COD}}
-|{{convert|2,345,095|km2|0|disp=table}}
-|69,360,000
-|{{convert|{{#expr: 69360000/2345095 round 1}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|UN projection
-|-
-|187
-|align=left|{{KGZ}}
-|{{convert|199,945|km2|0|disp=table}}
-|5,895,100
-|{{convert|{{#expr: 5895100/199945 round 1}}|/km2|0|disp=table}}
-|2015
-|align=left|[http://www.stat.kg/media/statisticsoperational/8095e2a8-5228-4645-90e5-4ee025605225.xls Official estimate]
-|-
-|188
-|align=left|{{EST}}
-|{{convert|45,339|km2|0|disp=table}}
-|1,313,271
-|{{convert|{{#expr: 1313271/45339 round 1}}|/km2|0|disp=table}}
-|January 1, 2015
-|align=left|[http://www.stat.ee/main-indicators Official estimate]
-|-
-|189
-|align=left|{{LAO}}
-|{{convert|236,800|km2|0|disp=table}}
-|6,580,800
-|{{convert|{{#expr: 6580800/236800 round 1}}|/km2|0|disp=table}}
-|2013
-|align=left|[http://www.nsc.gov.la/Statistics/Selected%20Statistics/Population.htm Official estimate]
-|-
-|190
-|align=left|{{BHS}}
-|{{convert|13,940|km2|0|disp=table}}
-|351,461
-|{{convert|{{#expr: 351461/13940 round 1}}|/km2|0|disp=table}}
-|May 3, 2010
-|align=left|[http://statistics.bahamas.gov.bs/download/056411800.pdf Final 2010 census result]
-|-
-|191
-|align=left|''{{SPM}}'' ([[France]])
-|{{convert|242|km2|0|disp=table}}
-|6,081
-|{{convert|{{#expr: 6081/242 round 1}}|/km2|0|disp=table}}
-|January 1, 2010
-|align=left|[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/france-departements.asp?annee=2010 Official estimate]
-|-
-|192
-|align=left|{{BRA}}
-|{{convert|8,515,767|km2|0|disp=table}}
-|202,768,562
-|{{convert|{{#expr: 202768562/8515767 round 1}}|/km2|0|disp=table}}
-|July 1, 2014
-|align=left|[ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2014/estimativa_dou_2014.pdf Official estimate]
-|-
-|193
-|align=left|{{PER}}
-|{{convert|1,285,216|km2|0|disp=table}}
-|30,475,144
-|{{convert|{{#expr: 30475144/1285216 round 1}}|/km2|0|disp=table}}
-|June 30, 2013
-|align=left|[http://www.inei.gob.pe/biblioineipub/bancopub/Est/Lib0842/cap03.htm Official estimate]
-|-
-|194
-|align=left|{{CHL}}
-|{{convert|756,096|km2|0|disp=table}}
-|16,634,603
-|{{convert|{{#expr: 16634603/756096 round 1}}|/km2|0|disp=table}}
-|April 9, 2012
-|align=left|[http://www.censo.cl/contenido/sintesis_resultados_censo_2012.pdf Final 2012 census result]
-|-
-|195
-|align=left|{{VAN}}
-|{{convert|12,190|km2|0|disp=table}}
-|264,652
-|{{convert|{{#expr: 264652/12190 round 1}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|196
-|align=left|{{SWE}}
-|{{convert|449,964|km2|0|disp=table}}
-|9,884,285
-|{{convert|{{#expr: 9884285/449964 round 1}}|/km2|0|disp=table}}
-|April 30, 2016
-|align=left|[http://www.scb.se/en_/Finding-statistics/Statistics-by-subject-area/Population/Population-composition/Population-statistics Monthly official estimate]
-|-
-|197
-|align=left|{{BTN}}
-|{{convert|38,394|km2|0|disp=table}}
-|{{formatnum: {{#expr: 720000+36*{{Age in days|2012|4|16}} round 0}}}}
-|{{formatnum: {{#expr: (720000+36*{{Age in days|2012|4|16}})/38394 round 1}}}}
-|{{formatnum: {{#expr: (720000+36*{{Age in days|2012|4|16}})/14824 round 0}}}}
-|{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}
-|align=left|[http://www.nsb.gov.bt/main/main.php#&slider1=1 Official population clock]
-|-
-|198
-|align=left|{{URU}}
-|{{convert|176,215|km2|0|disp=table}}
-|3,286,314
-|{{convert|{{#expr: 3286314/176215 round 1}}|/km2|0|disp=table}}
-|September 30, 2011
-|align=left|[http://www.ine.gub.uy/censos2011/index.html Final 2011 census result]
-|-
-|199
-|align=left|''{{ALA}}'' ([[Finland]])
-|{{convert|1,552|km2|0|disp=table}}
-|28,502
-|{{convert|{{#expr: 28502/1552 round 1}}|/km2|0|disp=table}}
-|December 31, 2012
-|align=left|[http://www.asub.ax/start.con?iLan=2 Official estimate]
-|-
-|200
-|align=left|{{SOL}}
-|{{convert|28,370|km2|0|disp=table}}
-|515,870
-|{{convert|{{#expr: 515870/28370 round 1}}|/km2|0|disp=table}}
-|November 23, 2009
-|align=left|[http://www.spc.int/prism/solomons 2009 census result]
-|-
-|201
-|align=left|{{FIN}}
-|{{convert|338,424|km2|0|disp=table}}
-|5,489,057
-|{{convert|{{#expr: 5489057/338424 round 1}}|/km2|0|disp=table}}
-|October 13, 2015
-|align=left|[http://vrk.fi/default.aspx?site=4&docid=85 Official population clock]
-|-
-|202
-|align=left|{{SSD}}
-|{{convert|644,329|km2|0|disp=table}}
-|11,296,000
-|{{convert|{{#expr: 11296000/644329 round 1}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|203
-|align=left|{{ZAM}}
-|{{convert|752,612|km2|0|disp=table}}
-|13,092,666
-|{{convert|{{#expr: 13092666/752612 round 1}}|/km2|0|disp=table}}
-|October 16, 2010
-|align=left|[http://www.citypopulation.de/Zambia.html Final 2010 census result]
-|-
-|204
-|align=left|{{SDN}}
-|{{convert|1,839,542|km2|0|disp=table}}
-|30,894,000
-|{{convert|{{#expr: 30894000/1839542 round 1}}|/km2|0|disp=table}}
-|April 22, 2008
-|align=left|[http://southsudaninfo.net/wp-content/uploads/reference_library/reports/5th_sudan_census26_april_2009.pdf 2008 census result]
-|-
-|205
-|{{data New Zealand|popdens}}
-|align=left|[http://www.stats.govt.nz/methods_and_services/population_clock.aspx Official population clock]
-|-
-|206
-|align=left|{{ANG}}
-|{{convert|1,246,700|km2|0|disp=table}}
-|20,609,294
-|{{convert|{{#expr: 20609294/1246700 round 1}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.ine.gov.ao Official estimate]
-|-
-|207
-|align=left|{{PAR}}
-|{{convert|406,752|km2|0|disp=table}}
-|6,672,631
-|{{convert|{{#expr: 6672631/406752 round 1}}|/km2|0|disp=table}}
-|2012
-|align=left|[http://www.dgeec.gov.py/sub_index/Pobreza/Paraguay%20Evolucion%20de%20la%20Poblacion%20Total%20Periodo%201950-2002%20Proyeccion%202012.pdf Official estimate]
-|-
-|208
-|align=left|{{ALG}}
-|{{convert|2,381,741|km2|0|disp=table}}
-|38,700,000
-|{{convert|{{#expr: 38700000/2381741 round 1}}|/km2|0|disp=table}}
-|January 1, 2014
-|align=left|[http://www.ons.dz/-Demographie-.html Official estimate]
-|-
-|209
-|align=left|{{NOR}}
-|{{convert|323,782|km2|0|disp=table}}
-|5,063,709
-|{{convert|{{#expr: 5063709/323782 round 1}}|/km2|0|disp=table}}
-|March 31, 2013
-|align=left|[http://www.ssb.no/en/befolkning/statistikker/folkendrkv/kvartal Quarterly official estimate]
-|-
-|210
-|align=left|{{PNG}}
-|{{convert|462,840|km2|0|disp=table}}
-|7,398,500
-|{{convert|{{#expr: 7398500/462840 round 1}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdd/index.php/en/downloads/doc_download/736-population-datasheet-jan-2014 Annual official estimate]
-|-
-|211
-|align=left|''{{CXR}}'' ([[Australia]])
-|{{convert|137|km2|0|disp=table}}
-|2,072
-|{{convert|{{#expr: 2072/137 round 1}}|/km2|0|disp=table}}
-|August 9, 2011
-|align=left|[http://www.citypopulation.de/Australia-Agglo.html 2011 census result]
-|-
-|212
-|align=left|{{SOM}}
-|{{convert|637,657|km2|0|disp=table}}
-|9,331,000
-|{{convert|{{#expr: 9331000/637657 round 1}}|/km2|0|disp=table}}
-|July 1, 2010
-|align=left|[http://www.citypopulation.de/Somalia.html Official estimate]
-|-
-|213
-|align=left|{{NER}}
-|{{convert|1,186,408|km2|0|disp=table}}
-|17,129,076
-|{{convert|{{#expr: 17129076/1186408 round 1}}|/km2|0|disp=table}}
-|December 10, 2012
-|align=left|[http://www.stat-niger.org/statistique/file/rgph2012.pdf Preliminary 2012 census result]
-|-
-|214
-|align=left|{{ARG}}
-|{{convert|2,780,400|km2|0|disp=table}}
-|40,117,096
-|{{convert|{{#expr: 40117096/2780400 round 1}}|/km2|0|disp=table}}
-|October 27, 2010
-|align=left|[http://www.indec.gov.ar/nuevaweb/cuadros/novedades/gacetilla_01_09_11.pdf Final 2010 census result]
-|-
-|215
-|align=left|{{BLZ}}
-|{{convert|22,965|km2|0|disp=table}}
-|324,528
-|{{convert|{{#expr: 324528/22965 round 1}}|/km2|0|disp=table}}
-|May 12, 2010
-|align=left|[http://www.sib.org.bz/Portals/0/docs/publications/census/2010_Census_Report.pdf Final 2010 census result]
-|-
-|216
-|align=left|{{SAU}}
-|{{convert|2,149,690|km2|0|disp=table}}
-|29,994,272
-|{{convert|{{#expr: 29994272/2149690 round 1}}|/km2|0|disp=table}}
-|2013
-|align=left|[http://www.cdsi.gov.sa/english Annual official estimate]
-|-
-|217
-|align=left|''{{NCL}}'' ([[France]])
-|{{convert|18,575|km2|0|disp=table}}
-|258,958
-|{{convert|{{#expr: 258958/18575 round 1}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|[http://www.spc.int/sdp/index.php?option=com_docman&task=doc_download&gid=158&Itemid=42&lang=en Official estimate]
-|-
-|218
-|align=left|{{OMN}}
-|{{convert|309,500|km2|0|disp=table}}
-|4,183,841
-|{{convert|{{#expr: 4183841/309500 round 1}}|/km2|0|disp=table}}
-|June 9, 2015
-|align=left|[http://www.ncsi.gov.om/NCSI_website Weekly official estimate]
-|-
-|219
-|align=left|{{COG}}
-|{{convert|342,000|km2|0|disp=table}}
-|4,448,000
-|{{convert|{{#expr: 4448000/342000 round 1}}|/km2|0|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|220
-|align=left|{{MLI}}
-|{{convert|1,248,574|km2|0|disp=table}}
-|14,528,662
-|{{convert|{{#expr: 14528662/1248574 round 1}}|/km2|0|disp=table}}
-|April 1, 2009
-|align=left|[http://instat.gov.ml Final 2009 census result]
-|-
-|221
-|align=left|{{TKM}}
-|{{convert|491,210|km2|0|disp=table}}
-|5,240,000
-|{{convert|{{#expr: 5240000/491210 round 1}}|/km2|1|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|222
-|align=left|{{BOL}}
-|{{convert|1,098,581|km2|0|disp=table}}
-|10,389,913
-|{{convert|{{#expr: 10389913/1098581 round 2}}|/km2|1|disp=table}}
-|November 21, 2012
-|align=left|[http://www.ine.gob.bo/pdf/boletin/NP_2013_2.pdf Preliminary 2012 census result]
-|-
-|223
-|align=left|{{CHA}}
-|{{convert|1,284,000|km2|0|disp=table}}
-|11,274,106
-|{{convert|{{#expr: 11274106/1284000 round 2}}|/km2|1|disp=table}}
-|May 20, 2009
-|align=left|[http://www.citypopulation.de/Chad.html Preliminary 2009 census result]
-|-
-|224
-|align=left|{{RUS}}
-|{{convert|17,098,242|km2|0|disp=table}}
-|143,975,923
-|{{convert|{{#expr: 143975923/17098242 round 2}}|/km2|1|disp=table}}
-|January 1, 2015
-|align=left|[http://www.gks.ru/bgd/free/B13_00/IssWWW.exe/Stg/dk11/8-0.htm Official estimate]
-|-
-|225
-|align=left|{{CAF}}
-|{{convert|622,436|km2|0|disp=table}}
-|4,616,000
-|{{convert|{{#expr: 4616000/622436 round 2}}|/km2|1|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|226
-|align=left|{{GAB}}
-|{{convert|267,667|km2|0|disp=table}}
-|1,672,000
-|{{convert|{{#expr: 1672000/267667 round 2}}|/km2|1|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|227
-|align=left|{{KAZ}}
-|{{convert|2,724,900|km2|0|disp=table}}
-|17,186,000
-|{{convert|{{#expr: 17186000/2724900 round 2}}|/km2|0|disp=table}}
-|February 1, 2014
-|align=left|[http://www.eng.stat.kz/Pages/default.aspx Monthly official estimate]
-|-
-|228
-|align=left|''{{NIU}}'' ([[New Zealand|NZ]])
-|{{convert|261|km2|0|disp=table}}
-|1,613
-|{{convert|{{#expr: 1613/261 round 2}}|/km2|1|disp=table}}
-|September 10, 2011
-|align=left|[http://www.citypopulation.de/Niue.html Final 2011 census result]
-|-
-|229
-|align=left|{{GUY}}
-|{{convert|214,999|km2|0|disp=table}}
-|784,894
-|{{convert|{{#expr: 784894/214999 round 2}}|/km2|2|disp=table}}
-|2010
-|align=left|[http://www.statisticsguyana.gov.gy/pubs/Guyana_Population_Projections_2005-2025.pdf Official estimate]
-|-
-|230
-|{{data Canada|popdens}}
-|align=left|[http://www.statcan.gc.ca/start-debut-eng.html Official estimate]
-|-
-|231
-|align=left|{{LBY}}
-|{{convert|1,770,060|km2|0|disp=table}}
-|6,244,174
-|{{convert|{{#expr: 6202000/1770060 round 2}}|/km2|2|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|232
-|align=left|{{BOT}}
-|{{convert|581,730|km2|0|disp=table}}
-|2,024,904
-|{{convert|{{#expr: 2024904/581730 round 2}}|/km2|2|disp=table}}
-|August 22, 2011
-|align=left|[http://www.cso.gov.bw/media/2011%20Census%20_Alphabetical%20Index%20of%20Districts.pdf Final 2011 census result]
-|-
-|233
-|align=left|{{MTN}}
-|{{convert|1,030,700|km2|0|disp=table}}
-|3,461,041
-|{{convert|{{#expr: 3461041/1030700 round 2}}|/km2|2|disp=table}}
-|2013
-|align=left|[http://www.ons.mr/doc/publication/Projectionpopulation.pdf Official estimate]
-|-
-|234
-|align=left|{{SUR}}
-|{{convert|163,820|km2|0|disp=table}}
-|534,189
-|{{convert|{{#expr: 534189/163820 round 2}}|/km2|2|disp=table}}
-|August 13, 2012
-|align=left|[http://www.citypopulation.de/Suriname.html Preliminary 2012 census result]
-|-
-|235
-|align=left|{{ISL}}
-|{{convert|102,775|km2|0|disp=table}}
-|332,529
-|{{convert|{{#expr: 332529/102775 round 2}}|/km2|2|disp=table}}
-|January 1, 2016
-|align=left|[http://www.statice.is Official estimate]
-|-
-|236
-|{{data Australia|popdens}}
-|align=left|[http://www.abs.gov.au/ausstats/abs%40.nsf/94713ad445ff1425ca25682000192af2/1647509ef7e25faaca2568a900154b63?OpenDocument Official estimate]
-|-
-|237
-|align=left|''{{GUF}}'' ([[France]])
-|{{convert|86,504|km2|0|disp=table}}
-|229,040
-|{{convert|{{#expr: 229040/86504 round 2}}|/km2|2|disp=table}}
-|January 1, 2010
-|align=left|[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/france-regions.asp Official estimate]
-|-
-|238
-|align=left|{{NAM}}
-|{{convert|825,118|km2|0|disp=table}}
-|2,113,077
-|{{convert|{{#expr: 2113077/825118 round 2}}|/km2|2|disp=table}}
-|August 28, 2011
-|align=left|[http://www.citypopulation.de/Namibia.html Final 2011 census result]
-|-
-|239
-|align=left|[[Western Sahara]]<ref>Administration is split between [[Morocco]] and the [[Sahrawi Arab Democratic Republic]], both of which claim the entire territory.</ref>
-|{{convert|252,120|km2|0|disp=table}}
-|567,000
-|{{convert|{{#expr: 567000/252120 round 2}}|/km2|2|disp=table}}
-|July 1, 2013
-|align=left|UN estimate
-|-
-|240
-|align=left|{{MNG}}
-|{{convert|1,564,100|km2|0|disp=table}}
-|3,000,000
-|{{convert|{{#expr: 3000000/1564100 round 2}}|/km2|2|disp=table}}
-|January 24, 2015
-|align=left|[http://www.infomongolia.com/ct/ci/6068 Official estimate]
-|-
-|241
-|align=left|''{{PCN}}'' ([[United Kingdom|UK]])
-|{{convert|47|km2|0|disp=table}}
-|56
-|{{convert|{{#expr: 56/47 round 2}}|/km2|2|disp=table}}
-|2013
-|align=left|[http://www.citypopulation.de/Pitcairn.html 2013 census result]
-|-
-|242
-|align=left|''{{FLK}}'' ([[United Kingdom|UK]])<ref>Islands claimed by [[Argentina]].</ref>
-|{{convert|12,173|km2|0|disp=table}}
-|2,563
-|{{convert|{{#expr: 2563/12173 round 2}}|/km2|2|disp=table}}
-|April 15, 2012
-|align=left|[http://www.falklands.gov.fk/our-people 2012 census result]
-|-
-|243
-|align=left|''{{SJM}}'' ([[Norway]])
-|{{convert|61,399|km2|0|disp=table}}
-|2,655
-|{{convert|{{#expr: 2655/61399 round 2}}|/km2|2|disp=table}}
-|September 1, 2012
-|align=left|[http://www.citypopulation.de/Svalbard.html Official estimate]
-|-
-|244
-|align=left|''{{GRL}}'' ([[Denmark]])
-|{{convert|2,166,000|km2|0|disp=table}}
-|55,984
-|{{convert|{{#expr: 55984/2166000 round 2}}|/km2|2|disp=table}}
-|January 1, 2015
-|align=left|[http://www.stat.gl/default.asp?lang=en Official estimate]
-|-
-!Pos.!!Country (or dependent territory)!!Area (km²)!!Area (mi²)!!Population!!Density<br>(pop./km²)!!Density<br>(pop./mi²)!!Date!!Population source
+
+{| class="wikitable sortable" style="text-align: left;"
+|- bgcolor="#ececec"
+| '''Rank''' || '''País''' || '''Populashon''' || '''Area''' (km²) || '''Densidat''' (indbyggere/km²)
+|-
+| — || '''[[Mundu]]''' || '''7.000.000.000''' || '''148.940.000''' || '''47'''
+|-
+| — || [[Macau]] || 449.198 || 25,4 || 17.685,0
+|-
+| 1 || [[Monaco]] || 32.409 || 1,95 || 16.620,0
+|-
+| 2 || [[Singapore]] || 4.425.720 || 692,7 || 6.389,1
+|-
+| — || [[Hong Kong]] || 6.898.686 || 1.092 || 6.317,5
+|-
+| — || [[Gibraltar]] || 27.884 || 6,5 || 4.289,8
+|-
+| — || [[Gaza]] || 1.376.289 || 360 || 3.823,0
+|-
+| 3 || [[Vatikanstaten]] || 921 || 0,44 || 2.093,2
+|-
+| 4 || [[Malta]] || 398.534 || 316 || 1.261,2
+|-
+| — || [[Bermuda]] || 65.365 || 53,3 || 1.226,4
+|-
+| 5 || [[Maldiverne]] || 349.106 || 300 || 1.163,7
+|-
+| 6 || [[Bahrain]] || 688.345 || 665 || 1.035,1
+|-
+| 7 || [[Bangladesh]] || 144.319.628 || 144.000 || 1.002,2
+|-
+| — || [[Guernsey]] || 65.228 || 78 || 836,3
+|-
+| — || [[Jersey]] || 90.812 || 116 || 782,9
+|-
+| 8 || [[Barbados]] || 279.254 || 431 || 647,9
+|-
+| 9 || [[Republikken Kina]] (Taiwan) || 22.894.384 || 35.980 || 636,3
+|-
+| 10 || [[Nauru]] || 13.048 || 21 || 621,3
+|-
+| 11 || [[Mauritius]] || 1.230.602 || 2.040 || 603,2
+|-
+| — || [[Mayotte]] || 193.633 || 374 || 517,7
+|-
+| 12 || [[Sydkorea]] || 48.422.644 || 98.480 || 491,7
+|-
+| 13 || [[San Marino]] || 28.880 || 61,2 || 471,9
+|-
+| 14 || [[Tuvalu]] || 11.636 || 26 || 447,5
+|-
+| — || [[Puerto Rico]] || 3.916.632 || 9.104 || 430,2
+|-
+| — || [[Vestbredden]] || 2.385.615 || 5.860 || 407,1
+|-
+| 15 || [[Holland]] || 16.407.491 || 41.526 || 395,1
+|-
+| — || [[Martinique]] || 432.900 || 1.100 || 393,5
+|-
+| — || [[Aruba]] || 71.566 || 193 || 370,8
+|-
+| 16 || [[Libanon]] || 3.826.018 || 10.400 || 367,9
+|-
+| 17 || [[Belgien]] || 10.364.388 || 30.528 || 339,5
+|-
+| 18 || [[Japan]] || 127.417.244 || 377.835 || 337,2
+|-
+| 19 || [[Indien]] || 1.080.264.388 || 3.287.590 || 328,6
+|-
+| 20 || [[Marshalløerne]] || 59.071 || 181,3 || 325,8
+|-
+| 21 || [[Rwanda]] || 8.440.820 || 26.338 || 320,5
+|-
+| 22 || [[El Salvador]] || 6.704.932 || 21.040 || 318,7
+|-
+| 23 || [[Comorerne]] || 671.247 || 2.170 || 309,3
+|-
+| — || [[US Virgin Islands]] || 108.708 || 352 || 308,8
+|-
+| — || [[Réunion]] || 776.948 || 2.517 || 308,7
+|-
+| — || [[Guam]] || 168.564 || 549 || 307,0
+|-
+| 24 || [[Sri Lanka]] || 20.064.776 || 65.610 || 305,8
+|-
+| 25 || [[Israel]] || 6.276.883 || 20.770 || 302,2
+|-
+| 26 || [[Saint Vincent og Grenadinerne]] || 117.534 || 389 || 302,1
+|-
+| 27 || [[Filippinerne]] || 87.857.473 || 300.000 || 292,9
+|-
+| 28 || [[Haiti]] || 8.121.622 || 27.750 || 292,7
+|-
+| — || [[Amerikansk Samoa]] || 57.881 || 199 || 290,9
+|-
+| 29 || [[Saint Lucia]] || 166.312 || 616 || 270,0
+|-
+| 30 || [[Grenada]] || 89.502 || 344 || 260,2
+|-
+| 31 || [[Vietnam]] || 83.535.576 || 329.560 || 253,5
+|-
+| — || [[Guadeloupe]] || 448.713 || 1.780 || 252,1
+|-
+| 32 || [[Jamaica]] || 2.731.832 || 10.991 || 248,6
+|-
+| 33 || [[Storbritannien]] || 59.553.800 || 244.820 || 243,3
+|-
+| 34 || [[Tyskland]] || 82.431.390 || 357.021 || 230,9
+|-
+| — || [[Nederlandske Antiller]] || 219.958 || 960 || 229,1
+|-
+| 35 || [[Burundi]] || 6.370.609 || 27.830 || 228,9
+|-
+| 36 || [[Trinidad og Tobago]] || 1.088.644 || 5.128 || 212,3
+|-
+| 37 || [[Liechtenstein]] || 33.717 || 160 || 210,7
+|-
+| 38 || [[Pakistan]] || 162.419.946 || 803.940 || 202,0
+|-
+| 39 || [[Nepal]] || 27.676.547 || 140.800 || 196,6
+|-
+| 40 || [[Italien]] || 58.103.033 || 301.230 || 192,9
+|-
+| 41 || [[Nordkorea]] || 22.912.177 || 120.540 || 190,1
+|-
+| 42 || [[Sao Tome og Principe]] || 187.410 || 1.001 || 187,2
+|-
+| 43 || [[Dominikanske Republik]] || 8.950.034 || 48.730 || 183,7
+|-
+| 44 || [[Schweiz]] || 7.489.370 || 41.290 || 181,4
+|-
+| 45 || [[Luxembourg]] || 468.571 || 2.586 || 181,2
+|-
+| 46 || [[Seychellerne]] || 81.188 || 455 || 178,4
+|-
+| — || [[Cayman-øerne]] || 44.270 || 262 || 169,0
+|-
+| — || [[Nordmarianerne]] || 80.362 || 477 || 168,5
+|-
+| 47 || [[Antigua og Barbuda]] || 68.722 || 443 || 155,1
+|-
+| 48 || [[Mikronesien]] || 108.105 || 702 || 154,0
+|-
+| 49 || [[Andorra]] || 70.549 || 468 || 150,7
+|-
+| 50 || [[Tonga]] || 112.422 || 748 || 150,3
+|-
+| 51 || [[Saint Kitts og Nevis]] || 38.958 || 261 || 149,3
+|-
+| — || [[Britiske Jomfruøer]] || 22.643 || 153 || 148,0
+|-
+| — || [[Johnston-atollen]] || 396 || 2,8 || 141,3
+|-
+| 52 || [[Gambia]] || 1.593.256 || 11.300 || 141,0
+|-
+| — || [[Tokelau]] || 1.405 || 10 || 140,5
+|-
+| 53 || [[Nigeria]] || 128.771.988 || 923.768 || 139,4
+|-
+| 54 || [[Folkerepublikken Kina]] || 1.306.313.812 || 9.596.960 || 136,1
+|-
+| 55 || [[Guatemala]] || 14.655.189 || 108.890 || 134,6
+|-
+| 56 || [[Moldova]] || 4.455.421 || 33.843 || 131,7
+|-
+| — || [[Isle of Man]] || 75.049 || 572 || 131,2
+|-
+| 57 || [[Kuwait]] || 2.335.648 || 17.820 || 131,1
+|-
+| 58 || [[Tjekkiet]] || 10.241.138 || 78.866 || 129,9
+|-
+| — || [[Anguilla (land)|Anguilla]] || 13.254 || 102 || 129,9
+|-
+| 59 || [[Thailand]] || 65.444.371 || 514.000 || 127,3
+|-
+| 60 || [[Kiribati]] || 103.092 || 811 || 127,1
+|-
+| 61 || [[Indonesien]] || 241.973.879 || 1.919.440 || 126,1
+|-
+| 62 || [[Danmark]] || 5.432.335 || 43.094 || 126,1
+|-
+| 63 || [[Albanien]] || 3.563.112 || 28.748 || 123,9
+|-
+| 64 || [[Polen]] || 38.635.144 || 312.685 || 123,6
+|-
+| 65 || [[Uganda]] || 27.269.482 || 236.040 || 115,5
+|-
+| — || [[EU]] || 456.285.839 || 3.976.372 || 114,7
+|-
+| 66 || [[Portugal]] || 10.566.212 || 92.391 || 114,4
+|-
+| 67 || [[Slovakiet]] || 5.431.363 || 48.845 || 111,2
+|-
+| 68 || [[Frankrig]] || 60.656.178 || 547.030 || 110,9
+|-
+| 69 || [[Ungarn]] || 10.084.000 || 93.030 || 108,4
+|-
+| 70 || [[Serbien og Montenegro]] || 10.829.175 || 102.350 || 105,8
+|-
+| 71 || [[Kap Verde]] || 418.224 || 4.033 || 103,7
+|-
+| 72 || [[Malawi]] || 12.158.924 || 118.480 || 102,6
+|-
+| 73 || [[Cuba]] || 11.346.670 || 110.860 || 102,4
+|-
+| 74 || [[Armenien]] || 2.982.904 || 29.800 || 100,1
+|-
+| 75 || [[Togo]] || 5.681.519 || 56.785 || 100,1
+|-
+| 76 || [[Syrien]] || 18.448.752 || 185.180 || 99,6
+|-
+| 77 || [[Slovenien]] || 2.011.070 || 20.273 || 99,2
+|-
+| 78 || [[Østrig]] || 8.184.691 || 83.870 || 97,6
+|-
+| 79 || [[Rumænien]] || 22.329.977 || 237.500 || 94,0
+|-
+| 80 || [[Dominica]] || 69.029 || 754 || 91,6
+|-
+| — || [[Montserrat]] || 9.341 || 102 || 91,5
+|-
+| 81 || [[Aserbajdsjan]] || 7.911.974 || 86.600 || 91,4
+|-
+| 82 || [[Tyrkiet]] || 69.660.559 || 780.580 || 89,2
+|-
+| — || [[Cook-øerne]] || 21.388 || 240 || 89,1
+|-
+| 83 || [[Ghana]] || 21.029.853 || 239.460 || 87,8
+|-
+| 84 || [[Spanien]] || 43.209.511 || 504.782 || 85,6
+|-
+| 85 || [[Cypern]] || 780.133 || 9.250 || 84,3
+|-
+| 86 || [[Sierra Leone]] || 6.017.643 || 71.740 || 83,9
+|-
+| 87 || [[Grækenland]] || 10.668.354 || 131.940 || 80,9
+|-
+| 88 || [[Tidligere Jugoslaviske Republik Makedonien|Makedonien]] || 2.045.262 || 25.333 || 80,7
+|-
+| 89 || [[Kroatien]] || 4.495.904 || 56.542 || 79,5
+|-
+| 90 || [[Bosnien og Hercegovina]] || 4.025.476 || 51.129 || 78,7
+|-
+| 91 || [[Costa Rica]] || 4.016.173 || 51.100 || 78,6
+|-
+| 92 || [[Ukraine]] || 47.425.336 || 603.700 || 78,6
+|-
+| 93 || [[Egypten]] || 77.505.756 || 1.001.450 || 77,4
+|-
+| 94 || [[Qatar]] || 863.051 || 11.437 || 75,4
+|-
+| 95 || [[Cambodja]] || 13.607.069 || 181.040 || 75,2
+|-
+| 96 || [[Marokko]] || 32.725.847 || 446.550 || 73,3
+|-
+| 97 || [[Malaysia]] || 23.953.136 || 329.750 || 72,6
+|-
+| 98 || [[Østtimor]] || 1.040.880 || 15.007 || 69,4
+|-
+| 99 || [[Swaziland]] || 1.173.900 || 17.363 || 67,6
+|-
+| 100 || [[Bulgarien]] || 7.450.349 || 110.910 || 67,2
+|-
+| 101 || [[Georgien]] || 4.677.401 || 69.700 || 67,1
+|-
+| 102 || [[Benin]] || 7.460.025 || 112.620 || 66,2
+|-
+| — || [[Fransk Polynesien]] || 270.485 || 4.167 || 64,9
+|-
+| 103 || [[Etiopien]] || 73.053.286 || 1.127.127 || 64,8
+|-
+| 104 || [[Brunei]] || 372.361 || 5.770 || 64,5
+|-
+| 105 || [[Burma]] || 42.909.464 || 678.500 || 63,2
+|-
+| 106 || [[Jordan]] || 5.759.732 || 92.300 || 62,4
+|-
+| 107 || [[Honduras]] || 6.975.204 || 112.090 || 62,2
+|-
+| 108 || [[Tunesien]] || 10.074.951 || 163.610 || 61,6
+|-
+| 109 || [[Lesotho]] || 1.867.035 || 30.355 || 61,5
+|-
+| 110 || [[Samoa]] || 177.287 || 2.944 || 60,2
+|-
+| 111 || [[Usbekistan]] || 26.851.195 || 447.400 || 60,0
+|-
+| 112 || [[Irak]] || 26.074.906 || 437.072 || 59,7
+|-
+| — || [[Wallis-og-Futuna|Wallis og Futuna]] || 16.025 || 274 || 58,5
+|-
+| 113 || [[Kenya]] || 33.829.590 || 582.650 || 58,1
+|-
+| 114 || [[Irland (land)|Irland]] || 4.015.676 || 70.280 || 57,1
+|-
+| 115 || [[Senegal]] || 11.126.832 || 196.190 || 56,7
+|-
+| 116 || [[Litauen]] || 3.596.617 || 65.200 || 55,2
+|-
+| 117 || [[Mexico]] || 106.202.903 || 1.972.550 || 53,8
+|-
+| 118 || [[Elfenbenskysten]] || 17.298.040 || 322.460 || 53,6
+|-
+| — || [[Norfolk (ø)|Norfolk Island]] || 1.841 || 35 || 52,6
+|-
+| 119 || [[Burkina Faso]] || 13.925.313 || 274.200 || 50,8
+|-
+| 120 || [[Tadsjikistan]] || 7.163.506 || 143.100 || 50,1
+|-
+| 121 || [[Hviderusland]] || 10.300.483 || 207.600 || 49,6
+|-
+| 122 || [[Fiji]] || 893.354 || 18.270 || 48,9
+|-
+| — || [[Turks- og Caicosøerne]] || 20.556 || 430 || 47,8
+|-
+| 123 || [[Bhutan]] || 2.232.291 || 47.000 || 47,5
+|-
+| 124 || [[Ecuador]] || 13.363.593 || 283.560 || 47,1
+|-
+| 125 || [[Afghanistan]] || 29.928.987 || 647.500 || 46,2
+|-
+| — || [[Cocosøerne]] || 629 || 14 || 44,9
+|-
+| 126 || [[Palau]] || 20.303 || 458 || 44,3
+|-
+| 127 || [[Nicaragua]] || 5.465.100 || 129.494 || 42,2
+|-
+| 128 || [[Iran]] || 68.017.860 || 1.648.000 || 41,3
+|-
+| 129 || [[Yemen]] || 20.727.063 || 527.970 || 39,3
+|-
+| 130 || [[Guinea-Bissau]] || 1.416.027 || 36.120 || 39,2
+|-
+| 131 || [[Tanzania]] || 36.766.356 || 945.087 || 38,9
+|-
+| 132 || [[Panama]] || 3.039.150 || 78.200 || 38,9
+|-
+| 133 || [[Guinea]] || 9.467.866 || 245.857 || 38,5
+|-
+| 134 || [[Colombia]] || 42.954.279 || 1.138.910 || 37,7
+|-
+| 135 || [[Eritrea]] || 4.561.599 || 121.320 || 37,6
+|-
+| 136 || [[Sydafrika]] || 44.344.136 || 1.219.912 || 36,4
+|-
+| 137 || [[Letland]] || 2.290.237 || 64.589 || 35,5
+|-
+| 138 || [[Cameroun]] || 16.380.005 || 475.440 || 34,5
+|-
+| — || [[Færøerne]] || 46.962 || 1.399 || 33,6
+|-
+| 139 || [[Zimbabwe]] || 12.746.990 || 390.580 || 32,6
+|-
+| 140 || [[Liberia]] || 3.482.211 || 111.370 || 31,3
+|-
+| 141 || [[Forenede Arabiske Emirater]] || 2.563.212 || 82.880 || 30,9
+|-
+| 142 || [[Madagaskar]] || 18.040.341 || 587.040 || 30,7
+|-
+| 143 || [[USA]] || 295.734.134 || 9.631.418 || 30,7
+|-
+| 144 || [[Estland]] || 1.332.893 || 45.226 || 29,5
+|-
+| — || [[Saint Pierre og Miquelon]] || 7.012 || 242 || 29,0
+|-
+| 145 || [[Venezuela]] || 25.375.281 || 912.050 || 27,9
+|-
+| 146 || [[Laos]] || 6.217.141 || 236.800 || 26,3
+|-
+| 147 || [[Kirgisistan]] || 5.146.281 || 198.500 || 25,9
+|-
+| 148 || [[Demokratiske Republik Congo]] || 60.085.004 || 2.345.410 || 25,6
+|-
+| 149 || [[Mozambique]] || 19.406.703 || 801.590 || 24,2
+|-
+| 150 || [[Brasilien]] || 186.112.794 || 8.511.965 || 21,9
+|-
+| 151 || [[Peru]] || 27.925.628 || 1.285.220 || 21,7
+|-
+| 152 || [[Bahamas]] || 301.790 || 13.940 || 21,6
+|-
+| 153 || [[Chile]] || 16.136.137 || 756.950 || 21,3
+|-
+| 154 || [[Djibouti]] || 476.703 || 23.000 || 20,7
+|-
+| 155 || [[Sverige]] || 9.001.774 || 449.964 || 20,0
+|-
+| 156 || [[Uruguay]] || 3.415.920 || 176.220 || 19,4
+|-
+| 157 || [[Ækvatorialguinea]] || 535.881 || 28.051 || 19,1
+|-
+| 158 || [[Salomonøerne]] || 538.032 || 28.450 || 18,9
+|-
+| — || [[Sankt Helena]] || 7.460 || 410 || 18,2
+|-
+| 159 || [[Vanuatu]] || 205.754 || 12.200 || 16,9
+|-
+| 160 || [[Sudan]] || 40.187.486 || 2.505.810 || 16,0
+|-
+| 161 || [[Paraguay]] || 6.347.884 || 406.750 || 15,8
+|-
+| 162 || [[Finland]] || 5.223.442 || 338.145 || 15,4
+|-
+| 163 || [[New Zealand]] || 4.035.461 || 268.680 || 15,0
+|-
+| 164 || [[Zambia]] || 11.261.795 || 752.614 || 15,0
+|-
+| 165 || [[Argentina]] || 39.537.943 || 2.766.890 || 14,3
+|-
+| 166 || [[Oman]] || 3.001.583 || 212.460 || 14,1
+|-
+| 167 || [[Algeriet]] || 32.531.853 || 2.381.740 || 13,7
+|-
+| 168 || [[Saudi-Arabien]] || 26.417.599 || 1.960.582 || 13,5
+|-
+| 179 || [[Somalia]] || 8.591.629 || 637.657 || 13,5
+|-
+| 170 || [[Belize]] || 279.457 || 22.966 || 12,2
+|-
+| 171 || [[Norge]] || 4.671.900 || 385.199 || 12,1
+|-
+| 172 || [[Papua Ny Guinea]] || 5.545.268 || 462.840 || 12,0
+|-
+| — || [[Ny Caledonien]] || 216.494 || 19.060 || 11,4
+|-
+| 173 || [[Turkmenistan]] || 4.952.081 || 488.100 || 10,1
+|-
+| 174 || [[Mali]] || 12.291.529 || 1.240.000 || 9,9
+|-
+| 175 || [[Niger]] || 11.665.937 || 1.267.000 || 9,2
+|-
+| 176 || [[Angola]] || 11.190.786 || 1.246.700 || 9,0
+|-
+| 177 || [[Republikken Congo]] || 3.039.126 || 342.000 || 8,9
+|-
+| 178 || [[Rusland]] || 143.420.309 || 17.075.200 || 8,4
+|-
+| 179 || [[Bolivia]] || 8.857.870 || 1.098.580 || 8,0
+|-
+| 180 || [[Tchad]] || 9.826.419 || 1.284.000 || 7,7
+|-
+| 181 || [[Centralafrikanske Republik]] || 3.799.897 || 622.984 || 6,1
+|-
+| 182 || [[Kasakhstan]] || 15.185.844 || 2.717.300 || 5,6
+|-
+| 183 || [[Gabon]] || 1.389.201 || 267.667 || 5,2
+|-
+| 184 || [[Guyana]] || 765.283 || 214.970 || 3,6
+|-
+| 185 || [[Canada]] || 32.805.041 || 9.984.670 || 3,3
+|-
+| 186 || [[Libyen]] || 5.765.563 || 1.759.540 || 3,3
+|-
+| 187 || [[Mauretanien]] || 3.086.859 || 1.030.700 || 3,0
+|-
+| — || [[Christmas Island (Indiske Ocean)|Christmas Island]] || 396 || 135 || 2,9
+|-
+| 188 || [[Island]] || 296.737 || 103.000 || 2,9
+|-
+| 189 || [[Botswana]] || 1.640.115 || 600.370 || 2,7
+|-
+| 190 || [[Surinam]] || 438.144 || 163.270 || 2,7
+|-
+| 191 || [[Australien]] || 20.090.437 || 7.686.850 || 2,6
+|-
+| 192 || [[Namibia]] || 2.030.692 || 825.418 || 2,5
+|-
+| — || [[Fransk Guiana]] || 195.506 || 91.000 || 2,1
+|-
+| 193 || [[Mongoliet]] || 2.791.272 || 1.564.116 || 1,8
+|-
+| — || [[Vestsahara]] || 273.008 || 266.000 || 1,0
+|-
+| — || [[Pitcairn]] || 46 || 47 || 0,98
+|-
+| — || [[Falklandsøerne]] || 2.967 || 12.173 || 0,24
+|-
+| — || [[Svalbard]] || 2.756 || 62.049 || 0,04
+|-
+| — || [[Grønland]] || 56.375 || 2.166.086 || 0,03
 |}
