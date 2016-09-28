@@ -249,7 +249,7 @@ UN estimate
 |-
 |114 || align=left|'''[[Eritrea]]''' || 5,073,000 ||  || {{#expr: 5073000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|115 || align=left|'''[[Singaporo]]''' || 4,987,600 || Mid-2009 || {{#expr: 4987600 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.singstat.gov.sg/stats/keyind.html#popnarea Statistics Singapore]
+|115 || align=left|'''[[Singapura]]''' || 4,987,600 || Mid-2009 || {{#expr: 4987600 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.singstat.gov.sg/stats/keyind.html#popnarea Statistics Singapore]
 |-
 |116 || align=left|'''[[Norwega]]''' || {{formatnum:{{#expr: 48582 + 1.72 * {{Age in days|2010|1|1}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, Norway pop clock adds 172 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (4858200 + 172 * {{Age in days|2010|1|1}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.ssb.no/english/subjects/02/befolkning_en/ Official Norwegian Population clock]
 |-
@@ -372,7 +372,7 @@ UN estimate
 |-
 |175 || align=left|'''[[Eisland]]''' || 317,900 || April 1, 2010 || {{#expr: 317900 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.statice.is/ Statistics Iceland]
 |-
-|176 || align=left|'''[[Maldivonan]]''' || 309,000 ||  || {{#expr: 309000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|176 || align=left|'''[[Maldivas]]''' || 309,000 ||  || {{#expr: 309000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |177 || align=left|'''[[Barbados]]''' || 256,000 ||  || {{#expr: 256000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
