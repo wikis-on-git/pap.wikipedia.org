@@ -358,7 +358,7 @@ UN estimate
 |-
 |168 || align=left|'''''[[West Sahara]]''''' || 513,000 ||  || {{#expr: 513000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|169 || align=left|'''{[[Cape Verde]]''' || 506,000 ||  || {{#expr: 506000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|169 || align=left|'''[[Cape Verde]]''' || 506,000 ||  || {{#expr: 506000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |170 || align=left|'''[[Luxembourg]]''' || 502,207 || January 1, 2010 || {{#expr: 502207 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
