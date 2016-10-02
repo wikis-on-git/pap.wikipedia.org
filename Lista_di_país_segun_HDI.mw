@@ -20,476 +20,489 @@
 |}]]
 
 ==Lista==
+
+* {{increase}} = incremento
+* {{steady}} = stabile
+* {{decrease}} = decremento
+* Valori simili dell'ISU (HDI) non implicano la stessa posizione in quanto il valore e la classifica sono determinati usando fino alla sesta cifra decimale.
+* Questa revisione dell'indice è stata pubblicata nel 2015 e stima il valore dell'ISU per il 2014.
+* Il numero tra parentesi rappresenta il numero di posti che il paese ha guadagnato (o perso) rispetto alle stime riviste.
+
 === HDI hopi halto ===
+<!-- * Similar HDI values in the current list do not lead to ranking ties, since the HDI rank is actually determined using HDI values to the sixth decimal point. (It changed on the 2013 report, and know there are ranking ties) -->
+{{clear}}
+
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+!scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-|  1 || {{steady}} ||style="text-align:left"| {{NOR}} || 0,944 || {{increase}} 0,001
+|  1 || {{steady}} ||style="text-align:left"| {{NOR}} || 0.944 || {{increase}} 0.002
 |-
-|  2 || {{steady}} ||style="text-align:left"| {{AUS}} || 0,933 ||  {{increase}} 0,002
+|  2 || {{steady}} ||style="text-align:left"| {{AUS}} || 0.935 ||  {{increase}} 0.002
 |-
-|  3 || {{steady}} ||style="text-align:left"| {{CHE}} || 0,917 || {{increase}} 0,001
+|  3 || {{steady}} ||style="text-align:left"| {{CHE}} || 0.930 || {{increase}} 0.002
 |-
-|  4 || {{steady}} ||style="text-align:left"| {{NLD}} || 0,915 || {{steady}}
+|  4 || {{steady}} ||style="text-align:left"| {{DNK}} || 0.923 || {{steady}}
 |-
-|  5 || {{steady}} ||style="text-align:left"| {{USA}} || 0,914 || {{increase}} 0,002
+|  5 || {{steady}} ||style="text-align:left"| {{NLD}} || 0.922 || {{increase}} 0.002
 |-
-|  6 || {{steady}} ||style="text-align:left"| {{DEU}} || 0,911 || {{steady}}
+|  6 || {{steady}} ||style="text-align:left"| {{DEU}} || 0.916 || {{increase}} 0.001
 |-
-|  7 || {{steady}} ||style="text-align:left"| {{NZL}} || 0,910 || {{increase}} 0,002
+|  6 || {{increase}} (2) ||style="text-align:left"| {{IRL}} || 0.916 || {{increase}} 0.004
 |-
-|  8 || {{steady}} ||style="text-align:left"| {{CAN}} || 0,902 || {{increase}} 0,001
+|  8 || {{decrease}} (1) ||style="text-align:left"| {{USA}} || 0.915 || {{increase}} 0.002
 |-
-|  9 || {{increase}} (3) ||style="text-align:left"| {{SGP}} || 0,901 || {{increase}} 0,002
+|  9 || {{decrease}} (1) ||style="text-align:left"| {{CAN}} || 0.913 || {{increase}} 0.001
 |-
-| 10 || {{steady}} ||style="text-align:left"| {{DNK}} || 0,900 || {{steady}}
+|  9 || {{increase}} (1) ||style="text-align:left"| {{NZL}} || 0.913 || {{increase}} 0.002
 |-
-| 11 || {{decrease}} (3) ||style="text-align:left"| {{IRL}} || 0,899 || {{decrease}} 0,002
+| 11 || {{steady}} ||style="text-align:left"| {{SGP}} || 0.912 || {{increase}} 0.003
 |-
-| 12 || {{decrease}} (1) ||style="text-align:left"| {{SWE}} || 0,898 || {{increase}} 0,001
+| 12 || {{steady}} ||style="text-align:left"| {{HKG}} || 0.910 || {{increase}} 0.002
 |-
-| 13 || {{steady}} ||style="text-align:left"| {{ISL}} || 0,895 || {{increase}} 0,002
+| 13 || {{steady}} ||style="text-align:left"| {{LIE}} || 0.908 || {{increase}} 0.001
 |-
-| 14 || {{steady}} ||style="text-align:left"| {{GBR}} || 0,892 || {{increase}} 0,002
+| 14 || {{steady}} ||style="text-align:left"| {{SWE}} || 0.907 || {{increase}} 0.002
 |-
-| 15 || {{steady}} ||style="text-align:left"| {{HKG}} || 0,891 || {{increase}} 0,002
+| 14 || {{increase}} (1) ||style="text-align:left"| {{GBR}} || 0.907 || {{increase}} 0.005
 |-
-| 15 || {{increase}} (1) ||style="text-align:left"| {{KOR}} || 0,891 || {{increase}} 0,003
+| 16 || {{steady}} ||style="text-align:left"| {{ISL}} || 0.899 || {{steady}}
 |-
-| 17 || {{decrease}} (1) ||style="text-align:left"| {{JPN}} || 0,890 || {{increase}} 0,002
+| 17 || {{steady}} ||style="text-align:left"| {{KOR}} || 0.898 || {{increase}} 0.003
 |-
-| 18 || {{decrease}} (2) ||style="text-align:left"| {{LIE}} || 0,889 || {{increase}} 0,001
+| 18 || {{steady}} ||style="text-align:left"| {{ISR}} || 0.894 || {{increase}} 0.001
 |-
-| 19 || {{steady}} ||style="text-align:left"| {{ISR}} || 0,888 || {{increase}} 0,002
+| 19 || {{steady}} ||style="text-align:left"| {{LUX}} || 0.892 || {{increase}} 0.002
 |-
-| 20 || {{steady}} ||style="text-align:left"| {{FRA}} || 0,884 || {{steady}}
+| 20 || {{decrease}} (1) ||style="text-align:left"| {{JPN}} || 0.891 || {{increase}} 0.001
 |-
-| 21 || {{steady}} ||style="text-align:left"| {{AUT}} || 0,881 || {{increase}} 0,001
+| 21 || {{steady}} ||style="text-align:left"| {{BEL}} || 0.890 || {{increase}} 0.002
 |-
-| 21 || {{steady}} ||style="text-align:left"| {{BEL}} || 0,881 || {{increase}} 0,001
+| 22 || {{steady}} ||style="text-align:left"| {{FRA}} || 0.888 || {{increase}} 0.001
 |-
-| 21 || {{steady}} ||style="text-align:left"| {{LUX}} || 0,881 || {{increase}} 0,001
+| 23 || {{steady}} ||style="text-align:left"| {{AUT}} || 0.885 || {{increase}} 0.001
 |-
-| 24 || {{steady}} ||style="text-align:left"| {{FIN}} || 0,879 || {{steady}}
+| 24 || {{steady}}  ||style="text-align:left"| {{FIN}} || 0.883 || {{increase}} 0.001
 |-
-| 25 || {{steady}} ||style="text-align:left"| {{SVN}} || 0.874 || {{steady}}
+| 25 || {{steady}} ||style="text-align:left"| {{SVN}} || 0.880 || {{increase}} 0.001
 |}
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+! scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-| 26 || {{steady}} ||style="text-align:left"| {{ITA}} || 0,872 || {{steady}} 
+| 26 || {{steady}} ||style="text-align:left"| {{ESP}} || 0.876 || {{increase}} 0.002
 |-
-| 27 || {{steady}} ||style="text-align:left"| {{ESP}} || 0,869 || {{steady}} 
+| 27 || {{steady}} ||style="text-align:left"| {{ITA}} || 0.873 || {{steady}}
 |-
-| 28 || {{steady}} ||style="text-align:left"| {{CZE}} || 0,861 || {{steady}} 
+| 28 || {{steady}} ||style="text-align:left"| {{CZE}} || 0.870 || {{increase}} 0.002
 |-
-| 29 || {{steady}} ||style="text-align:left"| {{GRC}} || 0,853 || {{decrease}} 0,001
+| 29 || {{steady}} ||style="text-align:left"| {{GRC}} || 0.865 || {{increase}} 0.002
 |-
-| 30 || {{steady}} ||style="text-align:left"| {{BRN}} || 0,852 || {{steady}}
+| 30 || {{steady}} ||style="text-align:left"| {{EST}} || 0.861 || {{increase}} 0.002
 |-
-| 31 || {{steady}} ||style="text-align:left"| {{QAT}} || 0,851 || {{increase}} 0,001
+| 31 || {{steady}} ||style="text-align:left"| {{BRN}} || 0.856 || {{increase}} 0.004
 |-
-| 32 || {{steady}} ||style="text-align:left"| {{CYP}} || 0,845 || {{decrease}} 0,003
+| 32 || {{steady}} ||style="text-align:left"| {{CYP}} || 0.850 || {{steady}}
 |-
-| 33 || {{steady}} ||style="text-align:left"| {{EST}} || 0,840 || {{increase}} 0,001
+| 32 || {{increase}} (1) ||style="text-align:left"| {{QAT}} || 0.850 || {{increase}} 0.001
 |-
-| 34 || {{steady}} ||style="text-align:left"| {{SAU}} || 0,836 || {{increase}} 0,003 
+| 34 || {{steady}} ||style="text-align:left"| {{AND}} || 0.845 || {{increase}} 0.001
 |-
-| 35 || {{increase}} (1) ||style="text-align:left"| {{LTU}} || 0,834 || {{increase}} 0,003
+| 35 || {{increase}} (1) ||style="text-align:left"| {{SVK}} || 0.844 || {{increase}} 0.005
 |-
-| 35 || {{decrease}} (1) ||style="text-align:left"| {{POL}} || 0,834 || {{increase}} 0,001
+| 36 || {{decrease}} (1) ||style="text-align:left"| {{POL}} || 0.843 || {{increase}} 0.003
 |-
-| 37 || {{steady}} ||style="text-align:left"| {{AND}} || 0,830 || {{steady}}
+| 37 || {{steady}} ||style="text-align:left"| {{LTU}} || 0.839 || {{increase}} 0.002
 |-
-| 37 || {{increase}} (1) ||style="text-align:left"| {{SVK}} || 0,830 || {{increase}} 0,001
+| 37 || {{steady}} ||style="text-align:left"| {{MLT}} || 0.839 || {{increase}} 0.002
 |-
-| 39 || {{steady}} ||style="text-align:left"| {{MLT}} || 0,829 || {{increase}} 0,002
+| 39 || {{steady}} ||style="text-align:left"| {{SAU}} || 0.837 || {{increase}} 0.001
 |-
-| 40 || {{steady}} ||style="text-align:left"| {{ARE}} || 0,827 || {{increase}} 0,002
+| 40 || {{steady}} ||style="text-align:left"| {{ARG}} || 0.836 || {{increase}} 0.003
 |-
-| 41 || {{increase}} (1) ||style="text-align:left"| {{CHL}} || 0,822 || {{increase}} 0,003
+| 41 || {{decrease}} (1) ||style="text-align:left"| {{ARE}} || 0.835 || {{increase}} 0.002
 |-
-| 41 || {{steady}} ||style="text-align:left"| {{PRT}} || 0,822 || {{steady}}
+| 42 || {{steady}} ||style="text-align:left"| {{CHL}} || 0.832 || {{increase}} 0.002
 |-
-| 43 || {{steady}} ||style="text-align:left"| {{HUN}} || 0,818 || {{increase}} 0,001
+| 43 || {{steady}} ||style="text-align:left"| {{PRT}} || 0.830 || {{increase}} 0.002
 |-
-| 44 || {{steady}} ||style="text-align:left"| {{BHR}} || 0,815 || {{increase}} 0,002
+| 44 || {{steady}} ||style="text-align:left"| {{HUN}} || 0.828 || {{increase}} 0.003
 |-
-| 44 || {{steady}} ||style="text-align:left"| {{CUB}} || 0,815 || {{increase}} 0,002
+| 45 || {{steady}} ||style="text-align:left"| {{BHR}} || 0.824 || {{increase}} 0.003
 |-
-| 46 || {{decrease}} (2) ||style="text-align:left"| {{KWT}} || 0,814 || {{increase}} 0,001
+| 46 || {{increase}} (1) ||style="text-align:left"| {{LVA}} || 0.819 || {{increase}} 0.003
 |-
-| 47 || {{steady}} ||style="text-align:left"| {{HRV}} || 0,812 || {{steady}}
+| 47 || {{decrease}} (1) ||style="text-align:left"| {{HRV}} || 0.818 || {{increase}} 0.001
 |-
-| 48 || {{steady}} ||style="text-align:left"| {{LVA}} || 0,810 || {{increase}} 0,002
+| 48 || {{decrease}} (1) ||style="text-align:left"| {{KWT}} || 0.816 || {{steady}}
 |-
-| 49 || {{steady}} ||style="text-align:left"| {{ARG}} || 0,808 || {{increase}} 0,002
+| 49 || {{steady}} ||style="text-align:left"| {{MNE}} || 0.802 || {{increase}} 0.001
 |}
 
 === HDI halto ===
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+!scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-| 50 || {{increase}} (2) ||style="text-align:left"| {{URU}} || 0,790 || {{increase}} 0,003
+| 50 || {{increase}} (1) ||style="text-align:left"| {{BLR}} || 0.798 || {{increase}} 0.002
 |-
-| 51 || {{steady}} ||style="text-align:left"| {{BHS}} || 0,789 || {{increase}} 0,001
+| 50 || {{steady}} ||style="text-align:left"| {{RUS}} || 0.798 || {{increase}} 0.001
 |-
-| 51 || {{increase}} (1) ||style="text-align:left"| {{MNE}} || 0,789 || {{increase}} 0,002
+| 52 || {{steady}} ||style="text-align:left"| {{OMN}} || 0.793 || {{increase}} 0.001
 |-
-| 53 || {{increase}} (1) ||style="text-align:left"| {{BLR}} || 0,786 || {{increase}} 0,001
+| 52 || {{increase}} (1) ||style="text-align:left"| {{ROU}} || 0.793 || {{increase}} 0.002
 |-
-| 54 || {{increase}} (1) ||style="text-align:left"| {{ROU}} || 0,785 || {{increase}} 0,003
+| 52 || {{increase}} (2) ||style="text-align:left"| {{URY}} || 0.793 || {{increase}} 0.003
 |-
-| 55 || {{decrease}} (5)  ||style="text-align:left"| {{LBY}} || 0,784 || {{decrease}} 0,005
+| 55 || {{steady}} ||style="text-align:left"| {{BHS}} || 0.790 || {{increase}} 0.004
 |-
-| 56 || {{steady}} ||style="text-align:left"| {{OMN}} || 0,783 || {{increase}} 0,002
+| 56 || {{steady}} ||style="text-align:left"| {{KAZ}} || 0.788 || {{increase}} 0.003
 |-
-| 57 || {{steady}} ||style="text-align:left"| {{RUS}} || 0,778 || {{increase}} 0,001
+| 57 || {{decrease}} (1) ||style="text-align:left"| {{BRB}} || 0.785 || {{steady}}
 |-
-| 58 || {{steady}} ||style="text-align:left"| {{BGR}} || 0,777 || {{increase}} 0,001
+| 58 || {{steady}} ||style="text-align:left"| {{ATG}} || 0.783 || {{increase}} 0.002
 |-
-| 59 || {{decrease}} (1) ||style="text-align:left"| {{BRB}} || 0,776 || {{steady}} 
+| 59 || {{steady}} ||style="text-align:left"| {{BGR}} || 0.782 || {{increase}} 0.003
 |-
-| 60 || {{steady}} ||style="text-align:left"| {{PLW}} || 0,775 || {{increase}} 0,002
+| 60 || {{increase}} (2) ||style="text-align:left"| {{PLW}} || 0.780 || {{increase}} 0.005
 |-
-| 61 || {{decrease}} (1) ||style="text-align:left"| {{ATG}} || 0,774 || {{increase}} 0,001
+| 60 || {{steady}} ||style="text-align:left"| {{PAN}} || 0.780 || {{increase}} 0.003
 |-
-| 62 || {{steady}} ||style="text-align:left"| {{MYS}} || 0,773 || {{increase}} 0,003
+| 62 || {{decrease}} (2) ||style="text-align:left"| {{MYS}} || 0.779 || {{increase}} 0.002
 |-
-| 63 || {{steady}} ||style="text-align:left"| {{MUS}} || 0,771 || {{increase}} 0,002
+| 63 || {{decrease}} (1) ||style="text-align:left"| {{MUS}} || 0.777 || {{increase}} 0.002
 |-
-| 64 || {{steady}} ||style="text-align:left"| {{TTO}} || 0,766 || {{increase}} 0,001
+| 64 || {{increase}} (4) ||style="text-align:left"| {{SYC}} || 0.772 || {{increase}} 0.005
 |-
-| 65 || {{steady}} ||style="text-align:left"| {{LBN}} || 0,765 || {{increase}} 0,001
+| 64 || {{steady}} ||style="text-align:left"| {{TTO}} || 0.772 || {{increase}} 0.001
 |-
-| 65 || {{increase}} (2) ||style="text-align:left"| {{PAN}} || 0,765 || {{increase}} 0,004
+| 66 || {{decrease}} (2) ||style="text-align:left"| {{SRB}} || 0.771 || {{steady}}
 |-
-| 67 || {{decrease}} (1) ||style="text-align:left"| {{VEN}} || 0,764 || {{increase}} 0,001
+| 67 || {{decrease}} (1) ||style="text-align:left"| {{CUB}} || 0.769 || {{increase}} 0.001
 |-
-| 68 || {{decrease}} (1)  ||style="text-align:left"| {{CRI}} || 0,763 || {{increase}} 0,002
+| 67 || {{decrease}} (1)  ||style="text-align:left"| {{LBN}} || 0.769 || {{increase}} 0.001
 |-
-| 69 || {{steady}} ||style="text-align:left"| {{TUR}} || 0,759 || {{increase}} 0,003
+| 69 || {{steady}} ||style="text-align:left"| {{CRI}} || 0.766 || {{increase}} 0.002
 |-
-| 70 || {{steady}} ||style="text-align:left"| {{KAZ}} || 0,757 || {{increase}} 0,002
+| 69 || {{steady}} ||style="text-align:left"| {{IRN}} || 0.766 || {{increase}} 0.002
 |-
-| 71 || {{decrease}} (1) ||style="text-align:left"| {{MEX}} || 0,756 || {{increase}} 0,001
+| 71 || {{decrease}} (2) ||style="text-align:left"| {{VEN}} || 0.762 || {{decrease}} 0.002
 |-
-| 71 || {{decrease}} (1) ||style="text-align:left"| {{SYC}} || 0,756 || {{increase}} 0,001
+| 72 || {{steady}} ||style="text-align:left"| {{TUR}} || 0.761 || {{increase}} 0.002
 |-
-| 73 || {{steady}} ||style="text-align:left"| {{KNA}} || 0,750 || {{increase}} 0,001
+| 73 || {{increase}} (1) ||style="text-align:left"| {{LKA}} || 0.757 || {{increase}} 0.005
 |-
-| 73 || {{increase}} (2) ||style="text-align:left"| {{LKA}} || 0,750 || {{increase}} 0,005
+| 74 || {{decrease}} (1) ||style="text-align:left"| {{MEX}} || 0.756 || {{increase}} 0.001
 |-
-| 75 || {{decrease}} (2) ||style="text-align:left"| {{IRN}} || 0,749 || {{steady}}
+| 75 || {{decrease}} (1) ||style="text-align:left"| {{BRA}} || 0.755 || {{increase}} 0.003
 |-
-| 76 || {{decrease}} (1) ||style="text-align:left"| {{AZE}} || 0,747 || {{increase}} 0,002
+| 76 || {{steady}} ||style="text-align:left"| {{GEO}} || 0.754 || {{increase}} 0.004
+|-
+| 77 || {{increase}} (2) ||style="text-align:left"| {{KNA}} || 0.752 || {{increase}} 0.005
+|-
+| 78 || {{decrease}} (1) ||style="text-align:left"| {{AZE}} || 0.751 || {{increase}} 0.002
 |}
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+! scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-| 77 || {{steady}} ||style="text-align:left"| {{JOR}} || 0,745 || {{increase}} 0,001
+| 79 || {{increase}} (3) ||style="text-align:left"| {{GRD}} || 0.750 || {{increase}} 0.008
 |-
-| 77 || {{increase}} (1) ||style="text-align:left"| {{SRB}} || 0,745 || {{increase}} 0,002
+| 80 || {{decrease}} (2) ||style="text-align:left"| {{JOR}} || 0.748 || {{steady}}
 |-
-| 79 || {{increase}} (1) ||style="text-align:left"| {{BRA}} || 0,744 || {{increase}} 0,002
+| 81 || {{steady}} ||style="text-align:left"| {{MKD}} || 0.747 || {{increase}} 0.003
 |-
-| 79 || {{increase}} (2) ||style="text-align:left"| {{GEO}} || 0,744 || {{increase}} 0,003
+| 81 || {{decrease}} (1) ||style="text-align:left"| {{UKR}} || 0.747 || {{increase}} 0.001
 |-
-| 79 || {{decrease}} (1)  ||style="text-align:left"| {{GRD}} || 0,744 || {{increase}} 0,001
+| 83 || {{increase}} (1) ||style="text-align:left"| {{DZA}} || 0.736 || {{increase}} 0.002
 |-
-| 82 || {{steady}} ||style="text-align:left"| {{PER}} || 0,737 || {{increase}} 0,003
+| 84 || {{increase}} (1) ||style="text-align:left"| {{Bandiera|Peru|nome}} || 0.734 || {{increase}} 0.002
 |-
-| 83 || {{steady}} ||style="text-align:left"| {{UKR}} || 0,734 || {{increase}} 0,001
+| 85 || {{steady}} ||style="text-align:left"| {{ALB}} || 0.733 || {{increase}} 0.001
 |-
-| 84 || {{steady}} ||style="text-align:left"| {{BLZ}} || 0,732 || {{increase}} 0,001
+| 85 || {{increase}} (2) ||style="text-align:left"| {{ARM}} || 0.733 || {{increase}} 0.002
 |-
-| 84 || {{increase}} (1) ||style="text-align:left"| {{MKD}} || 0,732 || {{increase}} 0,002
+| 85 || {{increase}} (4) ||style="text-align:left"| {{BIH}} || 0.733 || {{increase}} 0.004
 |-
-| 86 || {{steady}} ||style="text-align:left"| {{BIH}} || 0,731 || {{increase}} 0,002
+| 88 || {{steady}} ||style="text-align:left"| {{ECU}} || 0.732 || {{increase}} 0.002
 |-
-| 87 || {{steady}} ||style="text-align:left"| {{ARM}} || 0,730 || {{increase}} 0,002
+| 89 || {{steady}} ||style="text-align:left"| {{LCA}} || 0.729 || {{steady}}
 |-
-| 88 || {{steady}} ||style="text-align:left"| {{FJI}} || 0,724 || {{increase}} 0,002
+| 90 || {{increase}} (3) ||style="text-align:left"| {{CHN}} || 0.727 || {{increase}} 0.004
 |-
-| 89 || {{steady}} ||style="text-align:left"| {{THA}} || 0,722 || {{increase}} 0,002
+| 90 || {{increase}} (1) ||style="text-align:left"| {{FJI}} || 0.727 || {{increase}} 0.003
 |-
-| 90 || {{steady}} ||style="text-align:left"| {{TUN}} || 0,721 || {{increase}} 0,002
+| 90 || {{increase}} (5) ||style="text-align:left"| {{MNG}} || 0.727 || {{increase}} 0.005
 |-
-| 91 || {{increase}} (2) ||style="text-align:left"| {{CHN}} || 0,719 || {{increase}} 0,004
+| 93 || {{decrease}} (2) ||style="text-align:left"| {{THA}} || 0.726 || {{increase}} 0.002
 |-
-| 91 || {{steady}} ||style="text-align:left"| {{VCT}} || 0,719 || {{increase}} 0,002
+| 94 || {{decrease}} (1) ||style="text-align:left"| {{DMA}} || 0.724 || {{increase}} 0.001
 |-
-| 93 || {{steady}} ||style="text-align:left"| {{DZA}} || 0,717 || {{increase}} 0,002
+| 94 || {{decrease}} (11) ||style="text-align:left"| {{LBY}} || 0.724 || {{decrease}} 0.014
 |-
-| 93 || {{decrease}} (1) ||style="text-align:left"| {{DMA}} || 0,717 || {{increase}} 0,001
+| 96 || {{steady}} ||style="text-align:left"| {{TUN}} || 0.721 || {{increase}} 0.001
 |-
-| 95 || {{increase}} (2) ||style="text-align:left"| {{ALB}} || 0,716 || {{increase}} 0,002
+| 97 || {{steady}} ||style="text-align:left"| {{COL}} || 0.720 || {{increase}} 0.002
 |-
-| 96 || {{decrease}} (3) ||style="text-align:left"| {{JAM}} || 0,715 || {{steady}}
+| 97 || {{increase}} (1) ||style="text-align:left"| {{VCT}} || 0.720 || {{increase}} 0.003
 |-
-| 97 || {{decrease}} (4) ||style="text-align:left"| {{LCA}} || 0,714 || {{decrease}} 0,001
+| 99 || {{decrease}} (1) ||style="text-align:left"| {{JAM}} || 0.719 || {{increase}} 0.002
 |-
-| 98 || {{steady}} ||style="text-align:left"| {{COL}} || 0,711 || {{increase}} 0,003
+|100 || {{steady}} ||style="text-align:left"| {{TON}} || 0.717 || {{increase}} 0.001
 |-
-| 98 || {{steady}} ||style="text-align:left"| {{ECU}} || 0,711 || {{increase}} 0,003
+|101 || {{steady}} ||style="text-align:left"| {{BLZ}} || 0.715 || {{steady}}
 |-
-|100 || {{increase}} (1) ||style="text-align:left"| {{SUR}} || 0,705 || {{increase}} 0,003
+|101 || {{increase}} (2) ||style="text-align:left"| {{DOM}} || 0.715 || {{increase}} 0.004
 |-
-|100 || {{steady}} ||style="text-align:left"| {{TON}} || 0,705 || {{increase}} 0,001
+|103 || {{increase}} (1) ||style="text-align:left"| {{SUR}} || 0.714 || {{increase}} 0.001
 |-
-|— || — ||style="text-align:left"| ''[[Mundu]]'' || 0,702 || {{increase}} 0,002
+|— || — ||style="text-align:left"| ''[[Mundu]]'' || 0.711 || {{increase}} 0.002
 |-
-|102 || {{steady}} ||style="text-align:left"| {{DOM}} || 0,700 || {{increase}} 0,002
+|104 || {{steady}} ||style="text-align:left"| {{MDV}} || 0.706 || {{increase}} 0.003
+|-
+|105 || {{steady}} ||style="text-align:left"| {{WSM}} || 0.702 || {{increase}} 0.001
 |}
 
 === HDI medio ===
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+! scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-|103 || {{steady}} ||style="text-align:left"| {{MDV}} || 0,698 || {{increase}} 0,003
+|106 || {{steady}} ||style="text-align:left"| {{BWA}} || 0.698 || {{increase}} 0.002
 |-
-|103 || {{increase}} (3) ||style="text-align:left"| {{MNG}} || 0,698 || {{increase}} 0,006
+|107 || {{steady}} ||style="text-align:left"| {{MDA}} || 0.693 || {{increase}} 0.003
 |-
-|103 || {{increase}} (1) ||style="text-align:left"| {{TKM}} || 0,698 || {{increase}} 0,005
+|108 || {{steady}} ||style="text-align:left"| {{EGY}} || 0.690 || {{increase}} 0.001
 |-
-|106 || {{decrease}} (2) ||style="text-align:left"| {{WSM}} || 0,694 || {{increase}} 0,001
+|109 || {{steady}} ||style="text-align:left"| {{TKM}} || 0.688 || {{increase}} 0.006
 |-
-|107 || {{steady}} ||style="text-align:left"| {{PSE}} || 0,686 || {{increase}} 0,003
+|110 || {{increase}} (1) ||style="text-align:left"| {{GAB}} || 0.684 || {{increase}} 0.005
 |-
-|108 || {{steady}} ||style="text-align:left"| {{IDN}} || 0,684 || {{increase}} 0,003
+|110 || {{steady}} ||style="text-align:left"| {{IDN}} || 0.684 || {{increase}} 0.003
 |-
-|109 || {{decrease}} (1) ||style="text-align:left"| {{BWA}} || 0,683 || {{increase}} 0,002
+|112 || {{increase}} (1) ||style="text-align:left"| {{PRY}} ||0.679 || {{increase}} 0.002
 |-
-|110 || {{decrease}} (2) ||style="text-align:left"| {{EGY}} || 0,682 || {{increase}} 0,001
+|113 || {{decrease}} (2) ||style="text-align:left"| {{PSE}} || 0.677 || {{decrease}} 0.002
 |-
-|111 || {{steady}} ||style="text-align:left"| {{PRY}} || 0,676 || {{increase}} 0,006
+|114 || {{steady}} ||style="text-align:left"| {{UZB}} || 0.675 || {{increase}} 0.003
 |-
-|112 || {{decrease}} (1) ||style="text-align:left"| {{GAB}} || 0,674 || {{increase}} 0,004
+|115 || {{steady}} ||style="text-align:left"| {{PHL}} || 0.668 || {{increase}} 0.004
 |-
-|113 || {{steady}} ||style="text-align:left"| {{BOL}} || 0,667 || {{increase}} 0,004
+|116 || {{decrease}} (1) ||style="text-align:left"| {{SLV}} || 0.666 || {{increase}} 0.002
 |-
-|114 || {{increase}} (2) ||style="text-align:left"| {{MDA}} || 0,663 || {{increase}} 0,006
+|116 || {{increase}} (1) ||style="text-align:left"| {{ZAF}} || 0.666 || {{increase}} 0.003
 |-
-|115 || {{steady}} ||style="text-align:left"| {{SLV}} || 0,662 || {{increase}} 0,002
+|116 || {{increase}} (1) ||style="text-align:left"| {{VNM}} || 0.666 || {{increase}} 0.003
 |-
-|116 || {{steady}} ||style="text-align:left"| {{UZB}} || 0,661 || {{increase}} 0,004
+|119 || {{steady}} ||style="text-align:left"| {{BOL}} || 0.662 || {{increase}} 0.004
 |-
-|117 || {{increase}} (1) ||style="text-align:left"| {{PHL}} || 0,660 || {{increase}} 0,004
+|120 || {{increase}} (1) ||style="text-align:left"| {{KGZ}} || 0.655 || {{increase}} 0.003
 |-
-|118 || {{increase}} (1) ||style="text-align:left"| {{ZAF}} || 0,658 || {{increase}} 0,004
+|121 || {{decrease}} (1) ||style="text-align:left"| {{IRQ}} || 0.654 || {{decrease}} 0.003
 |-
-|118 || {{decrease}} (4) ||style="text-align:left"| {{SYR}}|| 0,658 || {{decrease}} 0,004
+|122 || {{steady}} ||style="text-align:left"| {{CPV}}|| 0.646 || {{increase}} 0.003
 |-
-|120 || {{steady}} ||style="text-align:left"| {{IRQ}} || 0,642 || {{increase}} 0,001
+|123 || {{steady}} ||style="text-align:left"| {{FSM}} || 0.640 || {{increase}} 0.001
 |-
-|121 || {{steady}} ||style="text-align:left"| {{GUY}} || 0,638 || {{increase}} 0,003
+|124 || {{steady}} ||style="text-align:left"| {{GUY}} || 0.636 || {{increase}} 0.002
 |-
-|121 || {{steady}} ||style="text-align:left"| {{VNM}} || 0,638 || {{increase}} 0,003
-|-
-|123 || {{decrease}} (2) ||style="text-align:left"| {{CPV}} || 0,636 || {{increase}} 0,001
+|125 || {{steady}} ||style="text-align:left"| {{NIC}} || 0.631 || {{increase}} 0.003
 |}
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+! scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-|124 || {{steady}} ||style="text-align:left"| {{FSM}} || 0,630 || {{increase}} 0,001
+|126 || {{steady}} ||style="text-align:left"| {{MAR}} || 0.628 || {{increase}} 0.002
 |-
-|125 || {{steady}} ||style="text-align:left"| {{GTM}} || 0,628 || {{increase}} 0,002
+|126 || {{increase}} (2) ||style="text-align:left"| {{NAM}} || 0.628 || {{increase}} 0.003
 |-
-|125 || {{increase}} (1) ||style="text-align:left"| {{KGZ}} || 0,628 || {{increase}} 0,007
+|128 || {{decrease}} (2) ||style="text-align:left"| {{GTM}} || 0.627 || {{increase}} 0.001
 |-
-|127 || {{steady}} ||style="text-align:left"| {{NAM}} || 0,624 || {{increase}} 0,004
+|129 || {{steady}} ||style="text-align:left"| {{TJK}} || 0.624 || {{increase}} 0.003
 |-
-|128 || {{increase}} (1) ||style="text-align:left"| {{TLS}} || 0,620 || {{increase}} 0,004
+|130 || {{increase}} (1) ||style="text-align:left"| {{IND}} || 0.609 || {{increase}} 0.005
 |-
-|129 || {{steady}} ||style="text-align:left"| {{HND}} || 0,617 || {{increase}} 0,001
+|131 || {{steady}} ||style="text-align:left"| {{HND}} || 0.606 || {{increase}} 0.002
 |-
-|129 || {{increase}} (2) ||style="text-align:left"| {{MAR}} || 0,617 || {{increase}} 0,003
+|132 || {{increase}} (2) ||style="text-align:left"| {{BTN}} || 0.605 || {{increase}} 0.010
 |-
-|131 || {{decrease}} (3) ||style="text-align:left"| {{VUT}} || 0,616 || {{decrease}} 0,001
+|133 || {{steady}} ||style="text-align:left"| {{TLS}} || 0.595 || {{decrease}} 0.006
 |-
-|132 || {{steady}} ||style="text-align:left"| {{NIC}} || 0,614 || {{increase}} 0,003
+|134 || {{decrease}} (4) ||style="text-align:left"| {{SYR}} || 0.594 || {{decrease}} 0.013
 |-
-|133 || {{steady}} ||style="text-align:left"| {{KIR}} || 0,607 || {{increase}} 0,001
+|134 || {{increase}} (1) ||style="text-align:left"| {{VUT}} || 0.594 || {{increase}} 0.002
 |-
-|133 || {{increase}} (1) ||style="text-align:left"| {{TJK}} || 0,607 || {{increase}} 0,004
+|136 || {{increase}} (2) ||style="text-align:left"| {{COG}} || 0.591 || {{increase}} 0.009
 |-
-|135 || {{steady}} ||style="text-align:left"| {{IND}} || 0,586 || {{increase}} 0,003
+|137 || {{decrease}} (1) ||style="text-align:left"| {{KIR}} || 0.590 || {{increase}} 0.002
 |-
-|136 || {{steady}} ||style="text-align:left"| {{BTN}} || 0,584 || {{increase}} 0,004
+|138 || {{decrease}} (1) ||style="text-align:left"| {{GNQ}} || 0.587 || {{increase}} 0.003
 |-
-|136 || {{increase}} (1) ||style="text-align:left"| {{KHM}} || 0,584 || {{increase}} 0,005
+|139 || {{steady}} ||style="text-align:left"| {{ZMB}} || 0.586 || {{increase}} 0.006
 |-
-|138 || {{steady}} ||style="text-align:left"| {{GHA}} || 0,573 || {{increase}} 0,002
+|140 || {{steady}} ||style="text-align:left"| {{GHA}} || 0.579 || {{increase}} 0.002
 |-
-|139 || {{steady}} ||style="text-align:left"| {{LAO}} || 0,569 || {{increase}} 0,004
+|141 || {{steady}} ||style="text-align:left"| {{LAO}} || 0.575 || {{increase}} 0.005
 |-
-|140 || {{steady}} ||style="text-align:left"| {{COG}} || 0,564 || {{increase}} 0,003
+|142 || {{steady}} ||style="text-align:left"| {{BGD}} || 0.570 || {{increase}} 0.003
 |-
-|141 || {{increase}} (2) ||style="text-align:left"| {{ZMB}} || 0,561 || {{increase}} 0,007
+|143 || {{increase}} (1) ||style="text-align:left"| {{KHM}} || 0.555 || {{increase}} 0.005
 |-
-|142 || {{increase}} (1) ||style="text-align:left"| {{BGD}} || 0,558 || {{increase}} 0,004
-|-
-|142 || {{decrease}} (1) ||style="text-align:left"| {{STP}} || 0,558 || {{increase}} 0,002
-|-
-|144 || {{decrease}} (3) ||style="text-align:left"| {{GNQ}} || 0,556 || {{steady}}
+|143 || {{steady}} ||style="text-align:left"| {{Bandiera|São Tomé and Príncipe|nome}} || 0.555 || {{increase}} 0.002
 |}
 
 === HDI baho ===
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+! scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-|145 || {{steady}} ||style="text-align:left"| {{NPL}} || 0,540 || {{increase}} 0,003
+|145 || {{steady}} ||style="text-align:left"| {{KEN}} || 0.548 || {{increase}} 0.004
 |-
-|146 || {{steady}} ||style="text-align:left"| {{PAK}} || 0,537 || {{increase}} 0,002
+|145 || {{increase}} (1) ||style="text-align:left"| {{NPL}} || 0.548 || {{increase}} 0.005
 |-
-|147 || {{steady}} ||style="text-align:left"| {{KEN}} || 0,535 || {{increase}} 0,004
+|147 || {{steady}} ||style="text-align:left"| {{PAK}} || 0.538 || {{increase}} 0.002
 |-
-|148 || {{steady}} ||style="text-align:left"| {{SWZ}} || 0,530 || {{increase}} 0,001
+|148 || {{steady}} ||style="text-align:left"| {{MMR}} || 0.536 || {{increase}} 0.005
 |-
-|149 || {{steady}} ||style="text-align:left"| {{AGO}} || 0,526 || {{increase}} 0,002
+|149 || {{steady}} ||style="text-align:left"| {{AGO}} || 0.532 || {{increase}} 0.002
 |-
-|150 || {{steady}} ||style="text-align:left"| {{MMR}} || 0,524 || {{increase}} 0,004
+|150 || {{decrease}} (1) ||style="text-align:left"| {{SWZ}} || 0.531 || {{increase}} 0.001
 |-
-|151 || {{steady}} ||style="text-align:left"| {{RWA}} || 0,506 || {{increase}} 0,004
+|151 || {{steady}} ||style="text-align:left"| {{TZA}} || 0.521 || {{increase}} 0.005
 |-
-|152 || {{steady}} ||style="text-align:left"| {{CMR}} || 0,504 || {{increase}} 0,003
+|152 || {{steady}} ||style="text-align:left"| {{NGA}} || 0.514 || {{increase}} 0.004
 |-
-|152 || {{increase}} (1) ||style="text-align:left"| {{NGA}} || 0,504 || {{increase}} 0,004
+|153 || {{increase}} (1) ||style="text-align:left"| {{CMR}} || 0.512 || {{increase}} 0.005
 |-
-|154 || {{steady}} ||style="text-align:left"| {{YEM}} || 0,500 || {{increase}} 0,001
+|154 || {{decrease}} (1) ||style="text-align:left"| {{MDG}} || 0.510 || {{increase}} 0.002
 |-
-|155 || {{steady}} ||style="text-align:left"| {{MDG}} || 0,498 || {{increase}} 0,002
+|155 || {{increase}} (3) ||style="text-align:left"| {{ZWE}} ||0.509 || {{increase}} 0.008
 |-
-|156 || {{increase}} (4) ||style="text-align:left"| {{ZWE}} || 0,492 || {{increase}} 0,008
+|156 || {{steady}} ||style="text-align:left"| {{MRT}} || 0.506 || {{increase}} 0.002
 |-
-|157 || {{decrease}} (1) ||style="text-align:left"| {{PNG}} || 0,491 || {{increase}} 0,001
+|156 || {{decrease}} (1) ||style="text-align:left"| {{SLB}} || 0.506 || {{increase}} 0.001
 |-
-|157 || {{steady}} ||style="text-align:left"| {{SLB}} || 0,491 || {{increase}} 0,002
+|158 || {{decrease}} (1) ||style="text-align:left"| {{PNG}} || 0.505 || {{increase}} 0.002
 |-
-|159 || {{decrease}} (1) ||style="text-align:left"| {{COM}} || 0,488 || {{increase}} 0,002
+|159 || {{decrease}} (1) ||style="text-align:left"| {{COM}} || 0.503 || {{increase}} 0.002
 |-
-|159 || {{increase}} (1) ||style="text-align:left"| {{TZA}} || 0,488 || {{increase}} 0,004
+|160 || {{steady}} ||style="text-align:left"| {{YEM}} || 0.498 || {{steady}}
 |-
-|161 || {{decrease}} (2) ||style="text-align:left"| {{MRT}} || 0,487 || {{increase}} 0,002
+|161 || {{steady}} ||style="text-align:left"| {{LSO}} || 0.497 || {{increase}} 0.003
 |-
-|162 || {{increase}} (1) ||style="text-align:left"| {{LSO}} || 0,486 || {{increase}} 0,005
+|162 || {{increase}} (5) ||style="text-align:left"| {{TGO}} || 0.484 || {{increase}} 0.009
 |-
-|163 || {{decrease}} (3) ||style="text-align:left"| {{SEN}} || 0,485 || {{increase}} 0,001
+|163 || {{decrease}} (1) ||style="text-align:left"| {{HTI}} || 0.483 || {{increase}} 0.002
 |-
-|164 || {{steady}} ||style="text-align:left"| {{UGA}} || 0,484 || {{increase}} 0,004
+|163 || {{steady}} ||style="text-align:left"| {{RWA}} || 0.483 || {{increase}} 0.004
 |-
-|165 || {{steady}} ||style="text-align:left"| {{BEN}} || 0,476 || {{increase}} 0,003
+|163 || {{increase}} (1) ||style="text-align:left"| {{UGA}} || 0.483 || {{increase}} 0.005
 |-
-|166 || {{steady}} ||style="text-align:left"| {{SDN}} || 0,473 || {{increase}} 0,001
+|166 || {{decrease}} (1) ||style="text-align:left"| {{BEN}} || 0.480 || {{increase}} 0.003
 |}
 {|class="wikitable" style="text-align:center"
 |-
-!scope="col" colspan="2"| Posishon
-! scope="col" rowspan="2" style="width:250px;"| Pais
+!scope="col" colspan="2"| Posizione
+! scope="col" rowspan="2" style="width:250px;"| Nazione
 !scope="col" colspan="2"| HDI
 |-
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione nella posizione dall'anno precedente</small><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Stime 2014 per il 2013</small><br /><ref name="UNDP2014"/>
-! scope="col" style="width:75px;"| <small>Variazione del valore dall'anno precedente</small><br /><ref name="UNDP2014"/>
+! scope="col" style="width:75px;"| <small>2015 stime del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>2015 stima del 2014</small><br /><ref name="UNDP2015"/>
+! scope="col" style="width:75px;"| <small>Cambiamento rispetto all'anno precedente</small><br /><ref name="UNDP2015"/>
 |-
-|167 || {{increase}} (1) ||style="text-align:left"| {{TGO}} || 0,473 || {{increase}} 0,003
+|167 || {{decrease}} (2) ||style="text-align:left"| {{SDN}} || 0.479 || {{increase}} 0.002
 |-
-|168 || {{steady}} ||style="text-align:left"| {{HTI}} || 0,471 || {{increase}} 0,002
+|168 || {{steady}} ||style="text-align:left"| {{DJI}} || 0.470 || {{increase}} 0.002
 |-
-|169 || {{steady}} ||style="text-align:left"| {{AFG}} || 0,468 || {{increase}} 0,002
+|169 || {{increase}} (2) ||style="text-align:left"| {{SSD}} || 0.467 || {{increase}} 0.006
 |-
-|170 || {{steady}} ||style="text-align:left"| {{DJI}} || 0,467 || {{increase}} 0,002
+|170 || {{steady}} ||style="text-align:left"| {{SEN}} || 0.466 || {{increase}} 0.003
 |-
-|171 || {{steady}} ||style="text-align:left"| {{CIV}} || 0,452 || {{increase}} 0,004
+|171 || {{decrease}} (2) ||style="text-align:left"| {{AFG}} || 0.465 || {{increase}} 0.001
 |-
-|172 || {{steady}} ||style="text-align:left"| {{GMB}} || 0,441 || {{increase}} 0,003
+|172 || {{steady}} ||style="text-align:left"| {{CIV}} || 0.462 || {{increase}} 0.004
 |-
-|173 || {{steady}} ||style="text-align:left"| {{ETH}} || 0,435 || {{increase}} 0,006
+|173 || {{increase}} (1) ||style="text-align:left"| {{MWI}} || 0.445 || {{increase}} 0.006
 |-
-|174 || {{steady}} ||style="text-align:left"| {{MWI}} || 0,414 || {{increase}} 0,003
+|174 || {{increase}} (1) ||style="text-align:left"| {{ETH}} || 0.442 || {{increase}} 0.006
 |-
-|175 || {{steady}} ||style="text-align:left"| {{LBR}} || 0,412 || {{increase}} 0,005
+|175 || {{decrease}} (2) ||style="text-align:left"| {{GMB}} || 0.441 || {{decrease}} 0.001
 |-
-|176 || {{steady}} ||style="text-align:left"| {{MLI}} || 0,407 || {{increase}} 0,001
+|176 || {{steady}} ||style="text-align:left"| {{COD}} || 0.433 || {{increase}} 0.003
 |-
-|177 || {{steady}} ||style="text-align:left"| {{GNB}} || 0,396 || {{steady}}
+|177 || {{steady}} ||style="text-align:left"| {{LBR}} || 0.430 || {{increase}} 0.006
 |-
-|178 || {{increase}} (1) ||style="text-align:left"| {{MOZ}} || 0,393 || {{increase}} 0,004
+|178 || {{steady}} ||style="text-align:left"| {{GNB}} || 0.420 || {{increase}} 0.002
 |-
-|179 || {{decrease}} (1) ||style="text-align:left"| {{GIN}} || 0,392 || {{increase}} 0,001
+|179 || {{steady}} ||style="text-align:left"| {{MLI}} || 0.419 || {{increase}} 0.003
 |-
-|180 || {{steady}} ||style="text-align:left"| {{BDI}} || 0,389 || {{increase}} 0,003
+|180 || {{steady}} ||style="text-align:left"| {{MOZ}} || 0.416 || {{increase}} 0.003
 |-
-|181 || {{steady}} ||style="text-align:left"| {{BFA}} || 0,388 || {{increase}} 0,003
+|181 || {{increase}} (1) ||style="text-align:left"| {{SLE}} || 0.413 || {{increase}} 0.005
 |-
-|182 || {{steady}} ||style="text-align:left"| {{ERI}} || 0,381 || {{increase}} 0,001
+|182 || {{decrease}} (1) ||style="text-align:left"| {{GIN}} || 0.411 || {{steady}}
 |-
-|183 || {{increase}} (1) ||style="text-align:left"| {{SLE}} || 0,374 || {{increase}} 0,006
+|183 || {{increase}} (1) ||style="text-align:left"| {{BFA}} || 0.402 || {{increase}} 0.006
 |-
-|184 || {{decrease}} (1) ||style="text-align:left"| {{TCD}} || 0,372 || {{increase}} 0,002
+|184 || {{decrease}} (1) ||style="text-align:left"| {{BDI}} || 0.400 || {{increase}} 0.003
 |-
-|185 || {{steady}} ||style="text-align:left"| {{CAF}} || 0,341 || {{decrease}} 0,024
+|185 || {{increase}} (1) ||style="text-align:left"| {{TCD}} || 0.392 || {{increase}} 0.004
 |-
-|186 || {{increase}} (1) ||style="text-align:left"| {{COD}} || 0,338 || {{increase}} 0,005
+|186 || {{decrease}} (1) ||style="text-align:left"| {{ERI}} || 0.391 || {{increase}} 0.001
 |-
-|187 || {{decrease}} (1) ||style="text-align:left"| {{NER}} || 0,337 || {{increase}} 0,002
+|187 || {{steady}} ||style="text-align:left"| {{CAF}} || 0.350 || {{increase}} 0.002
+|-
+|188 || {{steady}} ||style="text-align:left"| {{NER}} || 0.348 || {{increase}} 0.003
 |}
 
 ==Referensianan==
