@@ -2611,3 +2611,17 @@ Hello! I'm writing from the Wikimedia Foundation to invite you to give your feed
 
 ''Apologies that this message is only in English. [[meta:Special:MyLanguage/Terms of use/Creative Commons 4.0/MassMessage|This message can be read and translated in more languages here]].'' [[User:JSutherland (WMF)|Joe Sutherland]] ([[User talk:JSutherland (WMF)|talk]]) 01:34, 6 òktober 2016 (UTC)
 <!-- Message sent by User:JSutherland (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:JSutherland_(WMF)/MassMessage/1&oldid=15962252 -->
+
+== Machine translation support enabled today for Content Translation ==
+
+{{int:Please-translate}}
+<div lang="en" dir="ltr" class="mw-content-ltr"> 
+
+Hello, machine translation support for [[:mw:Content_translation|Content Translation]] (beta feature) has now been extended and enabled for users of [[phab:T147552|Papiamento Wikipedia]] using Yandex. It can be used when translating Wikipedia articles into Papiamento with Content Translation. To start using this service, please choose ‘’Yandex.Translate’’ from the ‘’Automatic Translation’’ dropdown menu that you see on the sidebar after you start translating an article. Please note, machine translation is available from all the languages that are supported by Yandex.Translate, but Content Translation can still be used in the usual manner for translating from all languages, with or without machine translation support. 
+
+Wikimedia Foundation’s Legal team and Yandex had collaborated earlier to work out [[:mw:Content_translation/Machine_Translation/Yandex#Summary_of_terms_of_Yandex_agreement|an agreement]] that allows the use of [https://en.wikipedia.org/wiki/Yandex.Translate Yandex.Translate] without compromising Wikipedia’s policy of attribution of rights, privacy of our users and brand representation. Since November 2015, Yandex machine translation has been used for articles translated for Wikipedias in many languages. For more information, we request you to kindly take a look at the details about [[:mw:Content_translation/Machine_Translation|machine translation services in Content Translation]] and about [[:mw:Content_translation/Machine_Translation/Yandex|Yandex translation services]], including a summary of the legal contract. Please note, translations made using Content Translation are also used to improve machine translation services.
+
+
+We have tested the service for use on the Papiamento Wikipedia, but there could be unknown problems that we are not aware of yet. Please do let us know on our [[:mw:Talk:Content_translation|Project Talk page]] or [[phab:T147552|phabricator]] if you face any problems using Content Translation. This message is only in English and we will be very grateful if it could be translated into Papiamento for other users of this Wikipedia. Thank you. On behalf of WMF Language team: --[[User:Runab WMF|Runab WMF]] ([[User talk:Runab WMF|talk]]) 14:48, 7 òktober 2016 (UTC)
+
+</div>
