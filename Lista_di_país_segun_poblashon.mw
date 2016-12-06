@@ -207,7 +207,7 @@ UN estimate
 |-
 |93 || align=left|'''[[Burundi]]''' || 8,303,000 ||  || {{#expr: 8303000 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|UN estimate
 |-
-|94 || align=left|'''[[Swesia]]''' ||7,782,900||December 31, 2009 || {{#expr: 7739100 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/02/blank/key/bevoelkerungsstand.html Official Switzerland Statistics estimate]
+|94 || align=left|'''[[Suisa]]''' ||7,782,900||December 31, 2009 || {{#expr: 7739100 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/02/blank/key/bevoelkerungsstand.html Official Switzerland Statistics estimate]
 |-
 |95 || align=left|'''[[Israel]]''' || 7,588,400 ||April 30, 2010|| {{#expr: 7579500 / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www1.cbs.gov.il/www/yarhon/b1_e.htm Israeli Central Bureau of Statistics]
 |-
@@ -237,7 +237,7 @@ UN estimate
 |-
 |108 || align=left|'''[[Sierra Leone]]''' || 5,696,000 ||  || {{#expr: 5696000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|109 || align=left|'''[[Denamarka]]''' || 5,540,241||March 31, 2010 || {{#expr: 5519441 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop_quarterly.aspx Statistics Denmark]
+|109 || align=left|'''[[Dinamarka]]''' || 5,540,241||March 31, 2010 || {{#expr: 5519441 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop_quarterly.aspx Statistics Denmark]
 |-
 |110 || align=left|'''[[Kyrgyzstan]]''' || 5,482,000 ||  || {{#expr: 5482000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
