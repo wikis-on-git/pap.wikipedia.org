@@ -142,7 +142,7 @@ UN estimate
 |-
 |61 || align=left|'''[[Hulanda]]''' || 16,617,975 || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || 0.242%% || style="font-size: 75%"|[http://www.cbs.nl/en-GB/menu/themas/bevolking/cijfers/extra/bevolkingsteller.htm Official Netherlands population clock]
 |-
-|62 || align=left|'''[[Kazakhstan]]''' || 15,776,492 || July 1, 2009 || 0.24% || style="font-size: 75%"|[http://www.eng.stat.kz/digital/Population/DocLib/hs0906eks.xls National Statistics Agency estimate]
+|62 || align=left|'''[[Kazachstan]]''' || 15,776,492 || July 1, 2009 || 0.24% || style="font-size: 75%"|[http://www.eng.stat.kz/digital/Population/DocLib/hs0906eks.xls National Statistics Agency estimate]
 |-
 |63 || align=left|'''[[Burkina Faso]]''' || 15,757,000 ||  || 0.23% || style="font-size: 75%"|UN estimate
 |-
@@ -150,7 +150,7 @@ UN estimate
 |-
 |65 || align=left|'''[[Malawi]]''' || 15,263,000 ||  || 0.23% || style="font-size: 75%"|UN estimate
 |-
-|66 || align=left|'''[[Kambodia]]''' || 14,805,000 ||  || 0.22% || style="font-size: 75%"|UN estimate
+|66 || align=left|'''[[Camboja]]''' || 14,805,000 ||  || 0.22% || style="font-size: 75%"|UN estimate
 |-
 |67 || align=left|'''[[Mali]]''' || 14,517,176 || April 1, 2009 || 0.21% || style="font-size: 75%"|[http://instat.gov.ml/voir_actu.aspx?lactu=44 Preliminary 2009 census result]
 |-
@@ -235,7 +235,7 @@ UN estimate
 |-
 |107 || align=left|'''[[Nicaragua]]''' || 5,743,000 ||  || {{#expr: 5743000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|108 || align=left|'''[[Sierra Leone]]''' || 5,696,000 ||  || {{#expr: 5696000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|108 || align=left|'''[[Serra Leoa]]''' || 5,696,000 ||  || {{#expr: 5696000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |109 || align=left|'''[[Dinamarka]]''' || 5,540,241||March 31, 2010 || {{#expr: 5519441 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop_quarterly.aspx Statistics Denmark]
 |-
@@ -271,7 +271,7 @@ UN estimate
 |-
 |125 || align=left|''[[Puerto Rico]]'' || 3,982,000 ||  || {{#expr: 3982000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
-|126 || align=left|'''[[Bosnia and Herzegovina]]''' || 3,767,000 ||  || {{#expr: 3767000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|126 || align=left|'''[[Bosnia Herzogovina]]''' || 3,767,000 ||  || {{#expr: 3767000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |127 || align=left|'''''[[Palestina]]''''' || 3,935,249 || Mid 2009 || {{#expr: 3935249 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.pcbs.gov.ps/Portals/_pcbs/child/demog.htm Palestinian Central Bureau of Statistics]
 |-
