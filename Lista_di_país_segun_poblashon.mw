@@ -239,7 +239,7 @@ UN estimate
 |-
 |109 || align=left|'''[[Dinamarka]]''' || 5,540,241||March 31, 2010 || {{#expr: 5519441 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop_quarterly.aspx Statistics Denmark]
 |-
-|110 || align=left|'''[[Kyrgyzstan]]''' || 5,482,000 ||  || {{#expr: 5482000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|110 || align=left|'''[[Kirguistan]]''' || 5,482,000 ||  || {{#expr: 5482000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |111 || align=left|'''[[Slovakia]]''' || 5,424,925  || December 31, 2009 || {{#expr: 5424925 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://portal.statistics.sk/showdoc.do?docid=5639 Statistics Slovakia]
 |-
@@ -253,7 +253,7 @@ UN estimate
 |-
 |116 || align=left|'''[[Norwega]]''' || {{formatnum:{{#expr: 48582 + 1.72 * {{Age in days|2010|1|1}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, Norway pop clock adds 172 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (4858200 + 172 * {{Age in days|2010|1|1}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.ssb.no/english/subjects/02/befolkning_en/ Official Norwegian Population clock]
 |-
-|117 || align=left|'''[[Emirate Arabiko Uni]]''' || 4,599,000 ||  || {{#expr: 4599000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
+|117 || align=left|'''[[Emiratean Arabe Unit Emirate Arabiko Uni]]''' || 4,599,000 ||  || {{#expr: 4599000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
 |118 || align=left|'''[[Costa Rica]]''' || 4,579,000 ||  || {{#expr: 4579000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
