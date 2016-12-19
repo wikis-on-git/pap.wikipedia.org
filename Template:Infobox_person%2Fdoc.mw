@@ -356,7 +356,7 @@ Do not use all these parameters for any one person. The list is long to cover a 
 == Examples ==
 {{Infobox person{{#ifeq:{{SUBPAGENAME}}|sandbox |/sandbox}}
 | name              = Bill Gates
-| image             = Bill Gates in WEF ,2007.jpg
+| image             = Bill Gates in WEF, 2007.jpg
 | caption           = Bill Gates at the [[World Economic Forum]] in [[Davos]], 2007
 | birth_name        = William Henry Gates III
 | birth_date        = {{birth date and age|1955|10|28}}
@@ -375,7 +375,7 @@ Do not use all these parameters for any one person. The list is long to cover a 
 <pre style="overflow: auto">
 {{Infobox person
 | name              = Bill Gates
-| image             = Bill Gates in WEF ,2007.jpg
+| image             = Bill Gates in WEF, 2007.jpg
 | caption           = Bill Gates at the [[World Economic Forum]] in [[Davos]], 2007
 | birth_name        = William Henry Gates III
 | birth_date        = {{birth date and age|1955|10|28}}
