@@ -1,0 +1,102 @@
+{| cellpadding="4" style="width: 20em; font-size: 95%; float: right; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; border-collapse: collapse; clear: right;"
+|+ style="margin-left: inherit;" | <big>'''{{{nomber_nativo}}}'''</big>{{#if:{{{nomber_propio|}}}|<br />'''{{{nomber_propio|}}}'''}}
+|-
+| colspan="2" |
+    {| style="text-align: center; margin: 0 auto; background: none;"
+    |-
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[{{ns:6}}:{{{imagen_bandera}}}|125px|Bandera di {{{nomber_comun}}}]]</span>
+    | style="border: 0; vertical-align: middle;" | [[{{ns:6}}:{{{imagen_wapen}}}|110px|Wapen di {{{nomber_comun}}}]]
+    |- style="font-size: 95%;"
+    | style="border: 0;" | [[Bandera di {{{nomber_comun}}}|Bandera]]
+    | style="border: 0;" | [[Wapen di {{{nomber_comun}}}|Wapen]]
+    |}
+|-
+| colspan="2" style="font-size: 95%; text-align: center;" | [[Himno nacional|Himno]]: {{{himno_nacional}}}
+|-
+| colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Lokashon di {{{nomber_comun}}}]]
+|-
+| '''[[Capital]]'''
+|{{{capital}}}
+|-
+| '''[[Demografia di {{{nomber_comun}}}|Stad mas grandi]]'''
+| {{{stad_mas_grandi}}}
+|-
+| '''[[Idioma oficial|Idioma(nan) oficial]]'''
+| {{{idiomanan_oficial}}}
+|-
+| style="white-space: nowrap;" | '''[[Lista di país segun forma di gobernacion|Forma di gobernacion]]''' <div style="text-align: left;">{{{titulonan_cabesantenan}}}</div>
+| style="white-space: nowrap;" | {{{forma_di_gobernacion}}}<br />{{{nombernan_cabesantenan}}}
+|-
+| style="white-space: nowrap;" | '''{{{tipo_di_soberania}}}'''<br>{{{eventonan_di_fundacion}}}
+| style="white-space: nowrap;" | <br>{{{fechanan_di_fundacion}}}
+|-
+| '''[[Lista di pais i teritorio segun area|Area]]'''<br>&nbsp;- Total<br>&nbsp;- Awa (%)
+| &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;([[Lista di pais i teritorio segun area|{{{rango_area}}}]])<br />{{{persentahe_awa}}}
+|-
+| style="white-space: nowrap;" | '''[[Lista di pais segun populacion|Populacion]]'''<br />&nbsp;- [[{{{aña_calculacion_di_pop}}}]] est.{{#if:{{{pop_segun_censo|}}}|<br />&nbsp;- Censo di [[{{{aña_di_censo}}}]]}}<br />&nbsp;- [[Densidad di populacion|Densidad]]
+| &nbsp;<br />{{{pop_aproxima}}} ([[Lista di pais segun populashon|{{{rango_populacion}}}]]){{#if:{{{pop_segun_censo|}}}|<br />{{{pop_segun_censo}}}|}}<br />{{{densidad_pop}}}/km&sup2; ([[Lista di país segun densidat di populacion|{{{rango_densidad_pop}}}]])
+|-
+| '''[[Moneda]]'''
+| style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{codigo_moneda}}}]]</code>)
+|-
+| '''[[Zona di tempo]]'''
+| {{{zona_di_tempo}}} ([[Tempo Universal Coordina|UTC]]{{{utc_offset}}})
+|-
+| '''[[Top-level domain|TLD di internet]]'''
+| {{{codigo_tld}}}
+|-
+| '''[[Lista di codigo pa yama|Codigo pa yama]]'''
+| <code>+{{{codigo_pa_yama}}}</code>
+{{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
+|}
+<noinclude>
+__NOTOC__
+===Con ta uza===
+E predefinicion '''Infopais Papaiamento''' ta uza pa duna varios pida informacion di un pais na un manera organisa.
+
+{| style="background: none; border: none;"
+|<pre>{{Infopais
+|nomber_nativo = 
+|nomber_propio = 
+|nomber_comun = 
+|imagen_bandera = 
+|imagen_mapa = 
+|imagen_escudo = 
+|himno_nacional = 
+|capital = 
+|ciudad_mas_grandi = 
+|idiomanan_oficial = 
+|forma_di_gobernacion = 
+|titulonan_cabesantenan = 
+|nombernan_cabesantenan = 
+|tipo_di_soberania = 
+|eventonan_di_fundacion = 
+|fechanan_di_fundacion = 
+|area = 
+|rango_area = 
+|persentahe_awa = 
+|pop_aproxima = 
+|pop_segun_censo =
+|rango_populacion = 
+|aña_calculacion_di_pop = 
+|aña_di_censo =
+|densidad_pop = 
+|rango_densidad_pop = 
+|moneda = 
+|codigo_moneda = 
+|zona_di_tempo =
+|utc_offset = 
+|codigo_tld = 
+|codigo_pa_yama = 
+|nota = 
+}}</pre>
+|}
+<br style="clear:both" />
+
+===Tipo di soberania===
+
+E variabel aki ta depende riba e pais i por varia hopi. E ta uza pa indica ta con e pais a yega na su fundacion. Cu mayoria pais, esaki por ta "Independensia". Lokual ta sigui den '''eventonan_di_fundacion''' ta ki evento of eventonan a pone cu e pais a haña su independencia. Cu otro manera Curaçao, e ta "Eilandgebied den Antias Hulandes" i ku Aruba e ta "Pais den Reino Hulandes". Eventonan ku a yega na esaki ta e Statuut di 1954 i status aparte na aña 1986, respectivamente.
+
+
+'''Nota:''' Pa algun hende, e predefinicion aki por ta un poko complica. Si mester di ayudo, wak [http://pap.wikipedia.org/w/index.php?title=Special:Whatlinkshere&target=Template%3AInfopais_Papiamento cua pagina ta link aki], i wak kon e predefinicion tabata uza den un di e articulonan.
+</noinclude>
