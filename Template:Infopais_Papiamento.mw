@@ -30,7 +30,7 @@
 | style="white-space: nowrap;" | '''{{{tipo_di_soberania}}}'''<br>{{{eventonan_di_fundacion}}}
 | style="white-space: nowrap;" | <br>{{{fechanan_di_fundacion}}}
 |-
-| '''[[Lista di pais i territorio segun area|Area]]'''<br>&nbsp;- Total<br>&nbsp;- Awa (%)
+| '''[[Lista di pais y territorio segun area|Area]]'''<br>&nbsp;- Total<br>&nbsp;- Awa (%)
 | &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;([[Lista di pais y territorio segun area|{{{rango_area}}}]])<br />{{{persentahe_awa}}}
 |-
 | style="white-space: nowrap;" | '''[[Lista di pais segun populacion|Populacion]]'''<br />&nbsp;- [[{{{aña_calculacion_di_pop}}}]] est.{{#if:{{{pop_segun_censo|}}}|<br />&nbsp;- Censo di [[{{{aña_di_censo}}}]]}}<br />&nbsp;- [[Densidad di populacion|Densidad]]
