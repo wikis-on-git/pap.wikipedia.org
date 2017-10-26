@@ -5,7 +5,7 @@
     {| style="text-align: center; margin: 0 auto; background: none;"
     |-
     | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[{{ns:6}}:{{{imagen_bandera}}}|125px|Bandera di {{{nomber_comun}}}]]</span>
-    | style="border: 0; vertical-align: middle;" | [[{{ns:6}}:{{{imagen_wapen}}}|110px|Escudo di {{{nomber_comun}}}]]
+    | style="border: 0; vertical-align: middle;" | [[{{ns:6}}:{{{imagen_escudo}}}|110px|Escudo di {{{nomber_comun}}}]]
     |- style="font-size: 95%;"
     | style="border: 0;" | [[Bandera di {{{nomber_comun}}}|Bandera]]
     | style="border: 0;" | [[Escudo di {{{nomber_comun}}}|Escudo]]
@@ -13,18 +13,18 @@
 |-
 | colspan="2" style="font-size: 95%; text-align: center;" | [[Himno nacional|Himno]]: {{{himno_nacional}}}
 |-
-| colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Lokashon di {{{nomber_comun}}}]]
+| colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Situacion di {{{nomber_comun}}}]]
 |-
 | '''[[Capital]]'''
 |{{{capital}}}
 |-
-| '''[[Demografia di {{{nomber_comun}}}|Ciudad mas grandi]]'''
+| '''[[Ciudad di mas grandi]]'''
 | {{{ciudad_di_mas_grandi}}}
 |-
 | '''[[Idioma oficial|Idioma(nan) oficial]]'''
 | {{{idiomanan_oficial}}}
 |-
-| style="white-space: nowrap;" | '''[[Lista di país segun forma di gobernacion|Forma di gobernacion]]''' <div style="text-align: left;">{{{titulonan_cabesantenan}}}</div>
+| style="white-space: nowrap;" | '''[[Lista di pais segun forma di gobernacion|Forma di gobernacion]]''' <div style="text-align: left;">{{{titulonan_cabesantenan}}}</div>
 | style="white-space: nowrap;" | {{{forma_di_gobernacion}}}<br />{{{nombernan_cabesantenan}}}
 |-
 | style="white-space: nowrap;" | '''{{{tipo_di_soberania}}}'''<br>{{{eventonan_di_fundacion}}}
@@ -46,7 +46,7 @@
 | {{{codigo_tld}}}
 |-
 | '''[[Lista di codigo di telefon |Codigo di telefon]]'''
-| <code>+{{{codigo_telefoon}}}</code>
+| <code>+{{{codigo_telefon}}}</code>
 {{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
 |}
 <noinclude>
