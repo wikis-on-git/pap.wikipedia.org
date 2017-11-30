@@ -29,6 +29,15 @@
 | '''[[Forma di estado]]'''
 | {{{forma_di_estado}}}
 |-
+| '''[[Rey]]'''
+| {{{cabesante_di_estado1}}}
+|-
+| '''[[Gobernador]]'''
+| {{{cabesante_di_estado2}}}
+|-
+| '''[[Prome Minister]]'''
+| {{{cabesante_di_estado3}}}
+|-
 | '''[[Lista di pais y territorio segun area|Area]]'''<br>&nbsp;- Total<br>&nbsp;- Awa (%)
 | &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;([[Lista di pais y territorio segun area|{{{rango_area}}}]])<br />{{{persentahe_awa}}}
 |-
@@ -62,10 +71,12 @@ E predefinicion '''Infopais Papaiamento''' ta uza pa duna varios pida informacio
 |capital = 
 |ciudad_di_mas_grandi = 
 |idiomanan_oficial = 
-|forma_di_gobernacion = 
-|titulonan_cabesantenan = 
-|nombernan_cabesantenan = 
-|forma_di_estado= 
+|forma_di_gobernacion =
+|forma_di_estado = 
+|cabesante_di_estado1 =
+|cabesante_di_estado2 =
+|cabesante_di_estado3 = 
+|nombernan_cabesantenan =  
 |eventonan_di_fundacion = 
 |fechanan_di_fundacion = 
 |area = 
