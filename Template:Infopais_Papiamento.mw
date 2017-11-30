@@ -15,11 +15,10 @@
 |-
 | colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Situacion di {{{nomber_comun}}}]]
 |-
+| colspan="2" style="text-align: center; background: darkgrey;" | '''Informacion basico'''
+|-
 | '''[[Capital]]'''
 |{{{capital}}}
-|-
-| '''[[Ciudad di mas grandi]]'''
-| {{{ciudad_di_mas_grandi}}}
 |-
 | '''[[Idioma oficial|Idioma(nan) oficial]]'''
 | {{{idiomanan_oficial}}}
@@ -42,11 +41,8 @@
 | '''[[Zona di tempo]]'''
 | {{{zona_di_tempo}}} ([[Tempo Universal Coordina|UTC]]{{{utc_offset}}})
 |-
-| '''[[Top-level domain|TLD di internet]]'''
-| {{{codigo_tld}}}
-|-
-| '''[[Lista di codigo di telefon |Codigo di telefon]]'''
-| <code>+{{{codigo_telefon}}}</code>
+| '''[[WWW]] | [[ISO]] | [[Tel]]'''
+| {{{www_iso_tel}}}
 {{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
 |}
 <noinclude>
@@ -88,6 +84,7 @@ E predefinicion '''Infopais Papaiamento''' ta uza pa duna varios pida informacio
 |utc_offset = 
 |codigo_tld = 
 |codigo_telefon = 
+|www_iso_tel =
 |nota = 
 }}</pre>
 |}
