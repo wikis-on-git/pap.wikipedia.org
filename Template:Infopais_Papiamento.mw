@@ -55,6 +55,14 @@
 |-
 | '''[[WWW]] | [[ISO]] | [[Tel]]'''
 | {{{www_iso_tel}}}
+|-
+| colspan="2" style="text-align: center; background: darkgrey;" | '''<big>Informacion extra</big>'''
+|-
+| '''Produccion Nacional Bruto'''
+| {{{produccion_nacional}}}
+|-
+| '''Produccion Nacional Bruto pa capita'''
+| {{{produccion_nacional_capita}}}
 {{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
 |}
 <noinclude>
@@ -92,6 +100,8 @@ E predefinicion '''Infopais Papaiamento''' ta uza pa duna varios pida informacio
 |aña_di_censo =
 |densidad_pop = 
 |rango_densidad_pop = 
+|produccion_nacional =
+|produccio_nacional_capita =
 |moneda = 
 |codigo_moneda = 
 |zona_di_tempo =
