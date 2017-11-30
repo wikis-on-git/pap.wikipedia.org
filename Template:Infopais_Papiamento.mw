@@ -23,11 +23,11 @@
 | '''[[Idioma oficial|Idioma(nan) oficial]]'''
 | {{{idiomanan_oficial}}}
 |-
-| style="white-space: nowrap;" | '''[[Lista di pais segun forma di gobernacion|Forma di gobernacion]]''' <div style="text-align: left;">{{{titulonan_cabesantenan}}}</div>
-| style="white-space: nowrap;" | {{{forma_di_gobernacion}}}<br />{{{nombernan_cabesantenan}}}
+| '''[[Lista di pais segun forma di gobernacion|Forma di gobernacion]]'''
+| {{{forma_di_gobernacion}}}
 |-
-| style="white-space: nowrap;" | '''{{{tipo_di_soberania}}}'''<br>{{{eventonan_di_fundacion}}}
-| style="white-space: nowrap;" | <br>{{{fechanan_di_fundacion}}}
+| '''[[Forma di estado]]'''
+| {{{forma_di_estado}}}
 |-
 | '''[[Lista di pais y territorio segun area|Area]]'''<br>&nbsp;- Total<br>&nbsp;- Awa (%)
 | &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;([[Lista di pais y territorio segun area|{{{rango_area}}}]])<br />{{{persentahe_awa}}}
@@ -65,7 +65,7 @@ E predefinicion '''Infopais Papaiamento''' ta uza pa duna varios pida informacio
 |forma_di_gobernacion = 
 |titulonan_cabesantenan = 
 |nombernan_cabesantenan = 
-|tipo_di_soberania = 
+|forma_di_estado= 
 |eventonan_di_fundacion = 
 |fechanan_di_fundacion = 
 |area = 
