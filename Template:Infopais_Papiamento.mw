@@ -15,7 +15,7 @@
 |-
 | colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Situacion di {{{nomber_comun}}}]]
 |-
-| colspan="2" style="text-align: center; background: darkgrey;" | '''<big>Informacion basico</big>'''
+| colspan="2" style="text-align: center; background: darkgrey;" | '''Informacion basico'''
 |-
 | '''Capital'''
 |{{{capital}}}
@@ -56,7 +56,7 @@
 | '''[[WWW]] | [[ISO]] | [[Tel]]'''
 | {{{www_iso_tel}}}
 |-
-| colspan="2" style="text-align: center; background: darkgrey;" | '''<big>Informacion extra</big>'''
+| colspan="2" style="text-align: center; background: darkgrey;" | '''Informacion extra'''
 |-
 | '''Produccion Nacional Bruto'''
 | {{{produccion_nacional}}}
