@@ -1,0 +1,28 @@
+
+E '''HTTP 404''', '''404''' '''NOT FOUND''', '''404''', '''Page Not Found''', or '''Server Not Found''' mensahe di error ta un [[Hypertext Transfer Protocol]] (HTTP) codigo di respuesta standard, den comuncacion di [[Red Informatica Social]], pa indica cu e web browser tabata por a comunica cu e [[server]], pero no por a haya e infomacion cu a wordo pidi. Ademas, ora cu e infomacion cu a wordo pidi wordo haya, pero no ta concede, tambe e server por debolbe un ''404 error'' si e ta desea pa no releva e infomacion aki.
+
+E server di e pagina web lo normalmente genera un "404 Not Found" ora cu e usuario purba sigui un enlace kibra of morto; door di esey e ''404 error'' ta un di e errors mas encontra riba e [[Red Informatica Social]].
+
+=== Codigo di Fondo ===
+
+* 404.0 – No a wordo haya
+* 404.1 – Pagina no a wordo haya.
+* 404.2 – [[:en:ISAPI|ISAPI]] of [[:en:CGI|CGI]] restricion.
+* 404.3 – [[:en:MIME|MIME]] type resctriction.
+* 404.4 – Niun controlador configura.
+* 404.5 – Nenga door di solicitud filter configura.
+* 404.6 – Verbo nenga.
+* 404.7 – Extension di archivo nenga.
+* 404.8 – Espacio den nomber scondi.
+* 404.9 – Atributo di archivo scondi.
+* 404.10 – Cabes di solicitud mucho largo.
+* 404.11 – Solicitud ta contene dobel sequencia di escape.
+* 404.12 – Solicitud ta contene caracter di bit halto.
+* 404.13 – E largura di contenido ta mucho largo.
+* 404.14 – URL di solicitud ta mucho largo.
+* 404.15 – Cadena di consulta ta mucho largo.
+* 404.16 – Solicitud DAV a wordo manda na controlador archivo statico.
+* 404.17 – Contenido dynamico mapa pa controlador di archivo statico via wildcard [[:en:MIME|MIME]] mapping.
+* 404.18 – Cadena di consulta nenga.
+* 404.19 – Nenga door di regla di filtrado.
+* 404.20 – Mucho hopi segmento di URL.
