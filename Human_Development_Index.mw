@@ -1,24 +1,14 @@
-[[File:UN Human Development Report 2015.svg|thumb|upright=1.6|Mapa di paisnan por Human Development Index por valornan di [[2015]].
-{|width="100%" border="0" cellspacing="0" cellpadding="0" style="background:transparent"
-{{Legend|#003C00|riba 0,900}}
-{{Legend|#007F00|0,850–0,899}}
-{{Legend|#00C400|0,800–0,849}}
-{{Legend|#00F900|0,750–0,799}}
-{{Legend|#D3FF00|0,700–0,749}}
+[[File:2019 UN Human Development Report (inequality-adjusted).svg|thumb|World map representing the inequality-adjusted Human Development Index categories (based on 2018 data, published in 2019).<ref name="UNDP2019">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr_2019_overview_-_english.pdf |title= Human Development Report 2019 – "Human Development Indices and Indicators"|publisher=[[Human Development Report|HDRO (Human Development Report Office)]] [[United Nations Development Programme]]|pages=22–25 |accessdate=9 December 2019}}</ref>
+{| border="0" cellspacing="0" cellpadding="0" style="width:100%; background:none;"
+|-
 |valign="top"|
-{{Legend|#FFFF00|0,650–0,699}}
-{{Legend|#FFD215|0,600–0,649}}
-{{Legend|#FFA83C|0,550–0,599}}
-{{Legend|#FF852F|0,500–0,549}}
-{{Legend|#FF5B00|0,450–0,499}}
+{{Legend|#003135|0.800–1.000 (very high)}}
+{{Legend|#00726a|0.700–0.799 (high)}}
+{{Legend|#00bfac|0.550–0.699 (medium)}}
 |valign="top"|
-{{Legend|#FF0000|0,400–0,449}}
-{{Legend|#A70000|0,350–0,399}}
-{{Legend|#7F0000|0,300–0,349}}
-{{Legend|#210000|abaho 0,300}}
-{{Legend|#B9B9B9|dado no disp.}}
-|}]]
-
+{{Legend|#ace8d4|0.350–0.549 (low)}}
+{{Legend|#a0a0a0|Data unavailable}}
+|}|430px]]
 '''Human Development Index''' (HDI) ta un medida comparativo uza pa clasifica e paisnan por su grau di "desenvolvimento humano" y pa ayuda clasifica e paisnan cu desenvolvido, den desenvolvimento e subdesenvolvido.
 
 ==Mira tambe==
