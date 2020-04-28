@@ -123,10 +123,6 @@ E '''crisis di [[COVID-19]] na [[Aruba]]''' a inicia ora e prome dos caso di [[C
                                         "y": 92
                                 },
                                 {
-                                        "x": 30,
-                                        "y": 92
-                                },
-                                {
                                         "x": 32,
                                         "y": 92
                                 },
@@ -139,13 +135,9 @@ E '''crisis di [[COVID-19]] na [[Aruba]]''' a inicia ora e prome dos caso di [[C
                                         "y": 95
                                 },
                                 {
-                                        "x": 43,
-                                        "y": 96
-                                },
-                                {
                                         "x": 73,
                                         "y": 100
-                                 }
+                                }
 			]
 		}
 	],
@@ -175,12 +167,12 @@ E '''crisis di [[COVID-19]] na [[Aruba]]''' a inicia ora e prome dos caso di [[C
 		{
 			"type": "x",
 			"scale": "x",
-			"title": "days"
+			"title": "dianan"
 		},
 		{
 			"type": "y",
 			"scale": "y",
-			"title": "cases"
+			"title": "casonan"
 		}
 	],
 	"marks": [
