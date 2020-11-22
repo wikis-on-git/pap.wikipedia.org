@@ -3,7 +3,7 @@
 |<div style="font-size: {{{lettergrootte|8}}}pt;">{{#invoke:Broodkruimel|broodkruimel|{{{pagina|{{{1|}}}}}}|lengte={{{lengte|5}}}|startgrootte={{{startgrootte|}}}|forceer={{{forceer|}}}|negeer={{{negeer|}}}|maxbranch={{{maxbranch|}}}}}
 </div>
 |}</includeonly><noinclude>
-{{Sjablooninfo|1=
+{{Documentation|1=
 == Doel ==
 Dit sjabloon produceert een [[broodkruimelnavigatie]] voor categorieën.
 
