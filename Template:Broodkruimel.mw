@@ -1,5 +1,5 @@
 <includeonly>{| style="text-align:center; margin:0px; width:100%;" cellspacing="0" cellpadding="0"
-| width="35px" |[[Bestand:{{{afbeelding|P Computer-science.svg}}}|35px|Icoontje broodkruimel]]
+| width="35px" |[[File:{{{afbeelding|P Computer-science.svg}}}|35px|Icoontje broodkruimel]]
 |<div style="font-size: {{{lettergrootte|8}}}pt;">{{#invoke:Broodkruimel|broodkruimel|{{{pagina|{{{1|}}}}}}|lengte={{{lengte|5}}}|startgrootte={{{startgrootte|}}}|forceer={{{forceer|}}}|negeer={{{negeer|}}}|maxbranch={{{maxbranch|}}}}}
 </div>
 |}</includeonly><noinclude>
