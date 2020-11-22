@@ -3,7 +3,7 @@
 |<div style="font-size: {{{lettergrootte|8}}}pt;">{{#invoke:Broodkruimel|broodkruimel|{{{pagina|{{{1|}}}}}}|lengte={{{lengte|5}}}|startgrootte={{{startgrootte|}}}|forceer={{{forceer|}}}|negeer={{{negeer|}}}|maxbranch={{{maxbranch|}}}}}
 </div>
 |}</includeonly><noinclude>
-{{Documentation|1=
+{{Documentation|1=<!-- Dit sjabloon op pap-wiki is een kopie van het sjabloon op nl-wiki. In de basis werkt het, maar onderstaand is niet vertaald, en soms ook niet van toepassing. -->
 == Doel ==
 Dit sjabloon produceert een [[broodkruimelnavigatie]] voor categorieën.
 
