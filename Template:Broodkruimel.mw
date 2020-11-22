@@ -1,0 +1,161 @@
+<includeonly>{| style="text-align:center; margin:0px; width:100%;" cellspacing="0" cellpadding="0"
+| width="35px" |[[Bestand:{{{afbeelding|P Computer-science.svg}}}|35px|Icoontje broodkruimel]]
+|<div style="font-size: {{{lettergrootte|8}}}pt;">{{#invoke:Broodkruimel|broodkruimel|{{{pagina|{{{1|}}}}}}|lengte={{{lengte|5}}}|startgrootte={{{startgrootte|}}}|forceer={{{forceer|}}}|negeer={{{negeer|}}}|maxbranch={{{maxbranch|}}}}}
+</div>
+|}</includeonly><noinclude>
+{{Sjablooninfo|1=
+== Doel ==
+Dit sjabloon produceert een [[broodkruimelnavigatie]] voor categorieën.
+
+==Gebruik==
+Plaats <nowiki>{{Broodkruimel}}</nowiki> op de plaats waar de broodkruimel moet komen. Hoewel bedoeld voor categoriepagina's kan dit sjabloon op alle soorten pagina's gebruikt worden.
+
+Om een broodkruimel te produceren voor een andere pagina dan die waarop het sjabloon staat:
+:<nowiki>{{Broodkruimel|Hoofdpagina}}</nowiki> of <nowiki>{{Broodkruimel|pagina=Hoofdpagina}}</nowiki>
+
+De boom van bovenliggende categorieën is vaak vrij ingewikkeld. Dit sjabloon produceert daarom niet de hele categorieboom tussen de pagina en [[:Categorie:Alles|Categorie:Alles]], maar slechts het deel ervan dat direct boven de pagina ligt. Gebruik dit sjabloon alleen als het resultaat duidelijk en bruikbaar is! Eventueel kun je de onderstaande opties gebruiken om de broodkruimel bij te stellen.
+
+Wanneer de pagina vaker in dezelfde categorie zit, wordt de dubbele boom niet weergegeven, maar vervangen door <code>(...)</code>. Zie voorbeeld 4.
+
+Verborgen categorieën worden wel weergegeven, maar categorieën die via een sjabloon toegevoegd worden (en dat geldt voor de meeste verborgen categorieën) niet.
+
+===Op een nieuwe categorie (of pagina)===
+Als bij het aanmaken van een nieuwe categorie (of pagina) ook direct een <nowiki>{{Broodkruimel}}</nowiki> geplaatst wordt, geeft de broodkruimel soms aan dat er geen categorieën zijn. Dat is het gevolg een timing-probleem. Oplossingen:
+* Negeren: binnen enkele minuten of uren zal de broodkruimel automatisch vanzelf alsnog verschijnen,
+* <nowiki>{{Broodkruimel}}</nowiki> toevoegen ''na'' het aanmaken van de categorie, of
+* de pagina verversen door middel van een "[[:en:Wikipedia:Purge|purge]]". Onder ''voorkeuren->uitbreidingen'' kun je de optie <code>Extra link in de taakbalk om de paginacache te verversen</code> aanvinken. Er verschijnt dan in het dropdownmenu waar ook de titel gewijzigd kan worden een optie "Verversen" waarmee de pagina ververst kan worden.
+
+==Overige opties==
+Standaard wordt de broodkruimel weergegeven tot deze 4 of meer parallelle vertakkingen heeft of tot deze een lengte van 5 niveau's heeft.
+
+;lengte
+Gebruik <code>lengte=xx</code> om de ''maximale'' lengte van de broodkruimel aan te geven. Met lengte=1 worden alleen de categorieën die direct boven de pagina liggen getoond. Met lengte=2 ook de categorieën die daar weer boven liggen, enzovoort. De default is lengte=5. Zie voorbeeld 8.
+
+;maxbranch
+Gebruik <code>maxbranch=xx</code> om het maximale aantal parallelle takken in de broodkruimel op te geven. De default is 4. Zie voorbeeld 3.
+
+;forceer=ja
+Gebruik <code>forceer=ja</code> om ''alle'' categorieën boven de pagina weer te geven ''tot de opgegeven lengte bereikt is'', ongeacht het aantal parallelle takken. Zie voorbeeld 9.
+
+;lettergrootte
+Gebruik <code>lettergrootte=xx</code> om de lettergrootte aan te geven. De default is lettergrootte=8.
+
+;afbeelding
+Plaats de gespecificeerde afbeelding links voor de broodkruimel. Default: [[Bestand:P Computer-science.svg|35px]].
+
+;startgrootte
+Wanneer deze parameter opgegeven wordt, wordt de opgegeven startgrootte als lettergrootte gebruikt voor de direct bovenliggende categorieën, en wordt de lettergrootte steeds kleiner naarmate de categorieën verder weg liggen (meer naar links in de broodkruimel). Zie voorbeeld 5.
+
+;negeer
+Een door komma's gescheiden lijst van categorieën. Deze categorieën (en de categorieën die daar boven liggen) worden niet in de broodkruimel weergegeven. Zie voorbeeld 10 en 11.
+
+==Voorbeelden==
+1. <nowiki>{{Broodkruimel|lengte=4}}</nowiki>
+{{Broodkruimel|lengte=4}}
+
+2. <nowiki>{{Broodkruimel|Categorie:Compiler}}</nowiki>:
+{{Broodkruimel|Categorie:Compiler}}
+
+3. <nowiki>{{Broodkruimel|Categorie:Compiler | maxbranch=2 }}</nowiki>:
+{{Broodkruimel|Categorie:Compiler | maxbranch=2 }}
+
+4. <nowiki>{{Broodkruimel|pagina=Oliemolen}}</nowiki>:
+{{Broodkruimel|Oliemolen}}
+
+5. <nowiki>{{Broodkruimel|Categorie:Hondentype | startgrootte=10 | afbeelding=Airedale (PSF).png }}</nowiki>:
+{{Broodkruimel|Categorie:Hondentype|startgrootte=10|afbeelding=Airedale (PSF).png}}
+
+6. <nowiki>{{Broodkruimel|Categorie:Hondentype | afbeelding=Airedale (PSF).png}}</nowiki>:
+{{Broodkruimel|Categorie:Hondentype|afbeelding=Airedale (PSF).png}}
+
+7. <nowiki>{{Broodkruimel|Kniptorren}}</nowiki>:
+{{Broodkruimel|Kniptorren}}
+
+8. <nowiki>{{Broodkruimel|Kniptorren | lengte=2}}</nowiki>:
+{{Broodkruimel|Kniptorren|lengte=2}}
+
+9. <nowiki>{{Broodkruimel|Kniptorren | lengte=8 | forceer=ja }}</nowiki>:
+{{Broodkruimel|Kniptorren|lengte=8 | forceer=ja}}
+
+10. <nowiki>{{Broodkruimel|Kniptorren | lengte=8 | forceer=ja | negeer=Dier }}</nowiki>:
+{{Broodkruimel|Kniptorren|lengte=8|forceer=ja|negeer=Dier}}
+
+11. <nowiki>{{Broodkruimel|Kniptorren | lengte=8 | forceer=ja | negeer=Dier,Zoölogie }}</nowiki>:
+{{Broodkruimel|Kniptorren|lengte=8|forceer=ja|negeer=Dier,Zoölogie}}
+
+==Standaardiconen==
+Voor sommige onderwerpen wordt er een sjabloon gebruikt om de afbeelding bij de broodkruimel te specificeren, zodat het gebruikte icoontje eenvoudig voor alle broodkruimels bij dat onderwerp aangepast kunnen worden door het sjabloon aan te passen. 
+
+{{{!}} class="wikitable"
+! Onderwerp
+! Sjabloon
+! Huidig icoontje
+! Voorvertoning
+! Copy/paste voor gebruik
+{{!}}-
+{{!}} Film, televisie
+{{!}} [[Sjabloon:Broodkruimel/filmicoon]]
+{{!}} {{Broodkruimel/filmicoon}}
+{{!}} [[Bestand:{{Broodkruimel/filmicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/filmicoon}}}}</nowiki>
+{{!}}-
+{{!}} Boeken, literatuur, schrijvers, dichtkunst
+{{!}} [[Sjabloon:Broodkruimel/boekicoon]]
+{{!}} {{Broodkruimel/boekicoon}}
+{{!}} [[Bestand:{{Broodkruimel/boekicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/boekicoon}}}}</nowiki>
+{{!}}-
+{{!}} Muziek
+{{!}} [[Sjabloon:Broodkruimel/muziekicoon]]
+{{!}} {{Broodkruimel/muziekicoon}}
+{{!}} [[Bestand:{{Broodkruimel/muziekicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/muziekicoon}}}}</nowiki>
+{{!}}-
+{{!}} Voetbal
+{{!}} [[Sjabloon:Broodkruimel/voetbalicoon]]
+{{!}} {{Broodkruimel/voetbalicoon}}
+{{!}} [[Bestand:{{Broodkruimel/voetbalicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/voetbalicoon}}}}</nowiki>
+{{!}}-
+{{!}} Geografie van het Verenigd Koninkrijk
+{{!}} [[Sjabloon:Broodkruimel/geovkicoon]]
+{{!}} {{Broodkruimel/geovkicoon}}
+{{!}} [[Bestand:{{Broodkruimel/geovkicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/geovkicoon}}}}</nowiki>
+{{!}}-
+{{!}} Heelal, astronomie
+{{!}} [[Sjabloon:Broodkruimel/astroicoon]]
+{{!}} {{Broodkruimel/astroicoon}}
+{{!}} [[Bestand:{{Broodkruimel/astroicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/astroicoon}}}}</nowiki>
+{{!}}-
+{{!}} Computerspellen, computerspelgenres
+{{!}} [[Sjabloon:Broodkruimel/computerspelicoon]]
+{{!}} {{Broodkruimel/computerspelicoon}}
+{{!}} [[Bestand:{{Broodkruimel/computerspelicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/computerspelicoon}}}}</nowiki>
+{{!}}-
+{{!}} Attractieparken, pretparkattracties, attractiebouwers
+{{!}} [[Sjabloon:Broodkruimel/attractieparkicoon]]
+{{!}} {{Broodkruimel/attractieparkicoon}}
+{{!}} [[Bestand:{{Broodkruimel/attractieparkicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/attractieparkicoon}}}}</nowiki>
+{{!}}-
+{{!}} Religie, godsdiensten, geloof
+{{!}} [[Sjabloon:Broodkruimel/religie-icoon]]
+{{!}} {{Broodkruimel/religie-icoon}}
+{{!}} [[Bestand:{{Broodkruimel/religie-icoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/religie-icoon}}}}</nowiki>
+{{!}}-
+{{!}} Wetenschap, chemie<!--, technologie-->
+{{!}} [[Sjabloon:Broodkruimel/wetenschapicoon]]
+{{!}} {{Broodkruimel/wetenschapicoon}}
+{{!}} [[Bestand:{{Broodkruimel/wetenschapicoon}}|35px|center]]
+{{!}} <nowiki>{{Broodkruimel|afbeelding={{Broodkruimel/wetenschapicoon}}}}</nowiki>
+{{!}}}
+==Maakt gebruik van==
+*[[Module:Broodkruimel]]
+}}
+
+[[Categorie:Wikipedia:Sjablonen categorie]]
+</noinclude>
