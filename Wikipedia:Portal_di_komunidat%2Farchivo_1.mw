@@ -1,3 +1,4 @@
+[[Category:Wikipedia]]
 ==Betawiki: better support for your language in MediaWiki==
 Dear community. I am writing to you to promote a special wiki called [[betawiki:|Betawiki]]. This wiki facilitates the localisation (l10n) of the MediaWiki interface. You may have changed many messages here to use your language in the interface, but if you would log in to for example the Japanese language Wiktionary, you would not be able to use the interface as well translated as here. In fact, of 1,736 messages in the core of MediaWiki, 15.04% of the messages have been translated. Betawiki also supports the translation of messages for 126 extensions, with 2,174 messages. Many of them are used in WMF projects and they are vital for understanding the wiki. Currently 0.00% of the WMF extension messages have been translated. Translators for over 90 languages contribute their work to MediaWiki this way every month.
 
