@@ -1,6 +1,8 @@
 == Doel ==
 Dit sjabloon is bedoeld om in de tekst van een artikel, bij het begin van een paragraaf, te verwijzen naar het hoofdartikel over het beschreven onderwerp.
 
+Dit sjabloon is '''niet''' bedoeld om te gebruiken bovenaan de pagina, daarvoor is {{tl|See article}} bedoeld.
+
 == Personaliseer de gehele zin ==
 U kunt de gehele zin aanpassen door gebruik te maken van [[Template:See also]]:
 <code>'''<nowiki>{{See also|</nowiki>'''<nowiki>See also: [[1]]</nowiki>'''<nowiki>}}</nowiki>'''</code> geeft:<br />
