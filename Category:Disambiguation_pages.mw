@@ -1,0 +1,11 @@
+E pagina aki ta un lista di tur pagina di desambiguashon pa artikulonan riba wikipedia.
+
+'''Disambiguation''' in Wikipedia is the process of resolving the conflicts that occur when articles about two or more different topics could have the same "natural" page title. This category contains ''disambiguation pages'': non-article pages containing links to other Wikipedia articles and disambiguation pages.
+
+Disambiguation pages are added to [[:Category:All article disambiguation pages]] by placing the {{tl|Disambig}} template on the page itself. 
+
+==Notes==
+'''Do not include this category manually in articles; the {{tl|Disambig}} template automatically does this.'''
+* Do not add articles to these sub-categories or create additional sub-categories until you read [[:en:Wikipedia:Manual of Style/Disambiguation pages|Manual of Style (disambiguation pages)]]—most of the sub-categories do not comply with the MOS and will be removed.
+
+[[Category:Wikipedia|Disambiguation Pages]]
