@@ -6,25 +6,6 @@ This page contains a syntax error. The first parameter of the template <nowiki>{
 == Doel ==
 Dit sjabloon is bedoeld om in de tekst van een artikel, bij het begin van een paragraaf, te verwijzen naar het hoofdartikel over het beschreven onderwerp.
 
-== Gebruik ==
-Het meest simpele gebruik van dit sjabloon staat hieronder uitgelegd:
-
-;Met een parameter
-<code><nowiki>{{See article|</nowiki><span style="color:green;">Het artikel waarnaar verwezen wordt</span><nowiki>}}</nowiki></code>. Voorbeeld:<br />
-<code>'''<nowiki>{{See article|</nowiki>'''Nederland'''<nowiki>}}</nowiki></code> geeft:<br />
-{{See article|Nederland (hoofdbetekenis){{!}}Nederland}}
-
-
-;Met twee parameters
-<code><nowiki>{{See article|</nowiki><span style="color:green;">Eerste hoofdartikel</span>{{!}}<span style="color:orange;">Tweede hoofdartikel</span><nowiki>}}</nowiki></code>. Voorbeeld:<br />
-<code>'''<nowiki>{{See article|</nowiki>'''Filosofie'''{{!}}'''Religie'''<nowiki>}}</nowiki>'''</code> geeft:<br />
-{{See article|Filosofie|Religie}}
-
-
-;Tot aan 10 parameters
-<code>'''<nowiki>{{See article|</nowiki>'''1'''{{!}}'''2'''{{!}}'''3'''{{!}}'''4'''{{!}}'''5'''{{!}}'''6'''{{!}}'''7'''{{!}}'''8'''{{!}}'''9'''{{!}}'''10'''<nowiki>}}</nowiki>'''</code> geeft:<br />
-{{See article|1|2|3|4|5|6|7|8|9|10}}
-
 == Personaliseer de gehele zin ==
 U kunt de gehele zin aanpassen door gebruik te maken van [[Template:See also]]:
 <code>'''<nowiki>{{See also|</nowiki>'''<nowiki>See also: [[1]]</nowiki>'''<nowiki>}}</nowiki>'''</code> geeft:<br />
