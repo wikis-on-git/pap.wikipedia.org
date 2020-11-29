@@ -7,8 +7,8 @@ E pagina di [[Help:Disambiguashon|desambiguashon]] aki ta mustra un lista di art
 | demospace = {{{demospace|}}}
 | [[Category:Disambiguation pages]]{{disambig/cat|{{{1|}}}}}{{disambig/cat|{{{2|}}}}}{{disambig/cat|{{{3|}}}}}{{disambig/cat|{{{4|}}}}}{{disambig/cat|{{{5|}}}}}{{disambig/cat|{{{6|}}}}}{{disambig/cat|{{{7|}}}}}{{disambig/cat|{{{8|}}}}}{{disambig/cat|{{{9|}}}}}{{disambig/cat|{{{10|}}}}}
 | <!-- Don't categorise when not in main (article) space. -->
-}}<noinclude>
-
+}}
+<noinclude>
 {{documentation}}
 [[Category:Wikipedia templates]]
 <!-- Add categories and interwikis to the /doc subpage, not here! -->
