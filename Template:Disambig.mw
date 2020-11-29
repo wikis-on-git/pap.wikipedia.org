@@ -1,0 +1,15 @@
+{{dmbox
+| type = disambig
+| text = 
+E pagina di [[Help:Disambiguashon|desambiguashon]] aki ta mustra un lista di artikulonan asosiá ku tin (kasi) mesun titulo.<br /> <small>Si bo a jega akinan via di un [{{fullurl:Special:WhatLinksHere/{{{page-title|{{FULLPAGENAME}}}}}|namespace=0}} link interno], lo bo por kambia e link pa konekta direktamente ku e artikulo konserni si esaki ta deseá. </small>
+| nocat = {{{nocat|}}}   <!--So "nocat=true" works-->
+}}{{main other
+| demospace = {{{demospace|}}}
+| [[Category:Disambiguation pages]]{{disambig/cat|{{{1|}}}}}{{disambig/cat|{{{2|}}}}}{{disambig/cat|{{{3|}}}}}{{disambig/cat|{{{4|}}}}}{{disambig/cat|{{{5|}}}}}{{disambig/cat|{{{6|}}}}}{{disambig/cat|{{{7|}}}}}{{disambig/cat|{{{8|}}}}}{{disambig/cat|{{{9|}}}}}{{disambig/cat|{{{10|}}}}}
+| <!-- Don't categorise when not in main (article) space. -->
+}}<noinclude>
+
+{{documentation}}
+[[Category:Wikipedia templates]]
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
