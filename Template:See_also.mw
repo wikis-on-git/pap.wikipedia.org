@@ -36,8 +36,8 @@ De tekst hoeft niet verder opgemaakt worden (zoals italic), daar zorgt het sjabl
 <pre>{{zie ook|Zie ook: [[…]]}}</pre>
 
 == Voorbeeld ==
-<code>'''<nowiki>{{</nowiki>See also<nowiki>|</nowiki>'''<i><nowiki>See also: [[Nederland]]</nowiki></i>'''<nowiki>}}</nowiki>'''</code> geeft:<br />
-{{See also|See alo: [[Nederland]]}}
+<code>'''<nowiki>{{</nowiki>See also<nowiki>|</nowiki>'''<i><nowiki>See also: [[Aruba]]</nowiki></i>'''<nowiki>}}</nowiki>'''</code> geeft:<br />
+{{See also|See also: [[Aruba]]}}
 
 == Zie ook ==
 *[[Help:Disambiguashon]]
