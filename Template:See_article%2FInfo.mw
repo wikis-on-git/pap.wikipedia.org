@@ -13,7 +13,7 @@ Het meest simpele gebruik van dit sjabloon staat hieronder uitgelegd:
 
 ;Met een parameter
 <code><nowiki>{{See article|</nowiki><span style="color:green;">Het artikel waarnaar verwezen wordt</span><nowiki>}}</nowiki></code>. Voorbeeld:<br />
-<code>'''<nowiki>{{See article|</nowiki>'''Nederland'''<nowiki>}}</nowiki></code> geeft:<br />
+<code>'''<nowiki>{{See article|</nowiki>'''Tera'''<nowiki>}}</nowiki></code> geeft:<br />
 {{See article|Tera{{!}}Tera}}
 
 
