@@ -1,0 +1,96 @@
+<includeonly><table style="margin-top:0.1em; margin-bottom:0.1em; margin-left:2em; padding:2px; font-size:95%; text-align:left; background: transparent;" class="noprint"><tr><td>{{#if:{{{eigen|}}}|[[Image:Nuvola single chevron right.svg|15px|class=noviewer]] ''{{{eigen}}}''|{{#if:{{{1|}}}|[[Image:Nuvola single chevron right.svg|15px|class=noviewer]] ''See {{Multiparameters|1={{{1|}}}|2={{{2|}}}|3={{{3|}}}|4={{{4|}}}|5={{{5|}}}|6={{{6|}}}|7={{{7|}}}|8={{{8|}}}|9={{{9|}}}|10={{{10|}}}}} about {{#if:{{{2|}}}|the main article|the main article}} about this subject.''|<div style="background:#FFDDDD">[[Image:Fairytale_waring.png|33px]]
+This page contains a syntax error. The first parameter of the template <nowiki>{{See article}}</nowiki> is absent. Please correct the syntax in the way explained [[Template:See article|here]]. Thank you.</div>
+}}}}</td></tr></table></includeonly><noinclude>
+
+=Template-info=
+== Doel ==
+Dit sjabloon is bedoeld om in de tekst van een artikel, bij het begin van een paragraaf, te verwijzen naar het hoofdartikel over het beschreven onderwerp.
+
+== Gebruik ==
+Het meest simpele gebruik van dit sjabloon staat hieronder uitgelegd:
+
+;Met een parameter
+<code><nowiki>{{See article|</nowiki><span style="color:green;">Het artikel waarnaar verwezen wordt</span><nowiki>}}</nowiki></code>. Voorbeeld:<br />
+<code>'''<nowiki>{{See article|</nowiki>'''Nederland'''<nowiki>}}</nowiki></code> geeft:<br />
+{{See article|Nederland (hoofdbetekenis){{!}}Nederland}}
+
+
+;Met twee parameters
+<code><nowiki>{{See article|</nowiki><span style="color:green;">Eerste hoofdartikel</span>{{!}}<span style="color:orange;">Tweede hoofdartikel</span><nowiki>}}</nowiki></code>. Voorbeeld:<br />
+<code>'''<nowiki>{{See article|</nowiki>'''Filosofie'''{{!}}'''Religie'''<nowiki>}}</nowiki>'''</code> geeft:<br />
+{{See article|Filosofie|Religie}}
+
+
+;Tot aan 10 parameters
+<code>'''<nowiki>{{See article|</nowiki>'''1'''{{!}}'''2'''{{!}}'''3'''{{!}}'''4'''{{!}}'''5'''{{!}}'''6'''{{!}}'''7'''{{!}}'''8'''{{!}}'''9'''{{!}}'''10'''<nowiki>}}</nowiki>'''</code> geeft:<br />
+{{See article|1|2|3|4|5|6|7|8|9|10}}
+
+== Personaliseer de gehele zin ==
+U kunt de gehele zin aanpassen door gebruik te maken van [[Template:See also]]:
+<code>'''<nowiki>{{See also|</nowiki>'''<nowiki>See also: [[1]]</nowiki>'''<nowiki>}}</nowiki>'''</code> geeft:<br />
+{{See also|See also: [[1]]}}
+
+== Zie ook ==
+* [[Help:Disambiguashon]]
+
+== TemplateData ==
+<templatedata>
+{
+	"description": "Verwijzing naar het hoofdartikel behorende bij een bepaalde sectie.",
+	"params": {
+		"1": {
+			"type": "wiki-page-name",
+			"required": true,
+			"description": "paginanaam van artikel waarheen verwezen wordt"
+		},
+		"2": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "2e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"3": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "3e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"4": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "4e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"5": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "5e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"6": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "6e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"7": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "7e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"8": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "8e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"9": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "9e paginanaam van artikel waarheen verwezen wordt"
+		},
+		"10": {
+			"type": "wiki-page-name",
+			"suggested": true,
+			"description": "10e paginanaam van artikel waarheen verwezen wordt"
+		}
+	}
+}
+</templatedata>
+
+
+[[Category:Templates]]</noinclude>
