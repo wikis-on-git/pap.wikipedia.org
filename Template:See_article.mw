@@ -1,3 +1,5 @@
 <includeonly><table style="margin-top:0.1em; margin-bottom:0.1em; margin-left:2em; padding:2px; font-size:95%; text-align:left; background: transparent;" class="noprint"><tr><td>{{#if:{{{eigen|}}}|[[Image:Nuvola single chevron right.svg|15px|class=noviewer]] ''{{{eigen}}}''|{{#if:{{{1|}}}|[[Image:Nuvola single chevron right.svg|15px|class=noviewer]] ''See {{Multiparameters|1={{{1|}}}|2={{{2|}}}|3={{{3|}}}|4={{{4|}}}|5={{{5|}}}|6={{{6|}}}|7={{{7|}}}|8={{{8|}}}|9={{{9|}}}|10={{{10|}}}}} about {{#if:{{{2|}}}|the main article|the main article}} about this subject.''|<div style="background:#FFDDDD">[[Image:Fairytale_waring.png|33px]]
 This page contains a syntax error. The first parameter of the template <nowiki>{{See article}}</nowiki> is absent. Please correct the syntax in the way explained [[Template:See article|here]]. Thank you.</div>
 }}}}</td></tr></table></includeonly><noinclude>
+
+[[Category:Templates]]</noinclude>
