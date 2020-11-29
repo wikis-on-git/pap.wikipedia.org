@@ -1,0 +1,31 @@
+<includeonly>{{#if:{{{vet|}}}|'''[[{{{1}}}]]'''{{#if:{{{2|}}}|{{#if:{{{3|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{2}}}]]'''}}{{#if:{{{3|}}}|{{#if:{{{4|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{3}}}]]'''}}{{#if:{{{4|}}}|{{#if:{{{5|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{4}}}]]'''}}{{#if:{{{5|}}}|{{#if:{{{6|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{5}}}]]'''}}{{#if:{{{6|}}}|{{#if:{{{7|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{6}}}]]'''}}{{#if:{{{7|}}}|{{#if:{{{8|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{7}}}]]'''}}{{#if:{{{8|}}}|{{#if:{{{9|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{8}}}]]'''}}{{#if:{{{9|}}}|{{#if:{{{10|}}}|,|&#32;{{{en|en}}}}}&#32;'''[[{{{9}}}]]'''}}{{#if:{{{10|}}}|&#32;{{{en|en}}}&#32;'''[[{{{10}}}]]'''}}|[[{{{1}}}]]{{#if:{{{2|}}}|{{#if:{{{3|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{2}}}]]}}{{#if:{{{3|}}}|{{#if:{{{4|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{3}}}]]}}{{#if:{{{4|}}}|{{#if:{{{5|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{4}}}]]}}{{#if:{{{5|}}}|{{#if:{{{6|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{5}}}]]}}{{#if:{{{6|}}}|{{#if:{{{7|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{6}}}]]}}{{#if:{{{7|}}}|{{#if:{{{8|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{7}}}]]}}{{#if:{{{8|}}}|{{#if:{{{9|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{8}}}]]}}{{#if:{{{9|}}}|{{#if:{{{10|}}}|,|&#32;{{{en|en}}}}}&#32;[[{{{9}}}]]}}{{#if:{{{10|}}}|&#32;{{{en|en}}}&#32;[[{{{10}}}]]}}}}</includeonly><noinclude>
+;Syntaxis
+
+;Voorbeelden&nbsp;:
+{| class="wikitable"
+!De code!!Geeft
+|-
+|<code><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|abc}}</nowiki></code>
+|{{{{BASEPAGENAME}}|abc}}
+|-
+|<code><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|abc|def}}</nowiki></code>
+|{{{{BASEPAGENAME}}|abc|def}}
+|-
+|<code><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|en=of|abc|def}}</nowiki></code>
+|{{{{BASEPAGENAME}}|en=of|abc|def}}
+|-
+|<code><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|abc|def|ghi|jkl}}</nowiki></code>
+|{{{{BASEPAGENAME}}|abc|def|ghi|jkl}}
+|-
+|<code><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|vet=1|abc|def|ghi|jkl}}</nowiki></code>
+|{{{{BASEPAGENAME}}|vet=1|abc|def|ghi|jkl}}
+|-
+|<code><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|en=en ten slotte|1|2|3|4|5|6|7|8|9|10}}</nowiki></code>
+|{{{{BASEPAGENAME}}|en=en ten slotte|1|2|3|4|5|6|7|8|9|10}}
+|-
+|<code><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|abc|def||||||||}}</nowiki></code>
+|{{{{BASEPAGENAME}}|abc|def||||||||}}
+|}
+
+[[Categorie:Wikipedia:Sjablonen links|{{PAGENAME}}]]
+</noinclude>
