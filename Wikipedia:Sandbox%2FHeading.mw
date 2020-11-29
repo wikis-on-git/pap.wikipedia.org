@@ -2,23 +2,16 @@ __NOTOC__
 {| cellspacing="0" cellpadding="0" style="width:100%; position:relative; border:1px solid #a3b1bf; margin-bottom:0.5em;"
 |-
 |colspan="2" style="background-color:#cee0f2; text-align:left;" |
-<div style="position:absolute; top:0.5em; right:0.5em;"></div>
+<div style="position:absolute; top:0.5em; right:0.5em"></div>
 
-<span style="font-size:150%; font-weight:bold;">Sandbox</span>
-<inputbox>
-type=search
-width=20
-namespaces=Help**,Wikipedia**,Template
-searchbuttonlabel=Zoeken
-bgcolor=#cee0f2
-break=no
-</inputbox>
-Welcome to the Papaimentu Sandbox. This page allows you to carry out experiments.
-* Click [https://pap.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&action=edit this link to edit the sandbox] and make your changes.
-* Click "Show preview" to preview your changes.
-* Click the Publish changes button when finished.
-Please do not place copyrighted, offensive or libellous content in the sandbox. 
+<span style="font-size:150%; font-weight:bold;"><center>Sandbox</center></span>
+<center>Welcome to the Papaimentu Sandbox. This page allows you to carry out experiments.</center>
 
-Remember that if you are not logged in, your IP-adres will be publicly visible in the revision-history of this page. 
+:* Click [https://pap.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&action=edit this link to edit the sandbox] and make your changes.
+:* Click "Show preview" to preview your changes.
+:* Click the Publish changes button when finished.
+:Please do not place copyrighted, offensive or libellous content in the sandbox. 
+
+:Remember that if you are not logged in, your IP-adres will be publicly visible in the revision-history of this page. 
 |}
 [[Category:Wikipedia]]
