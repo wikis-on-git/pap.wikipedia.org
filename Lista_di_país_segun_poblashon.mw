@@ -309,7 +309,7 @@ UN estimate
 |-
 |144 || align=left|'''[[Slovenia]]''' || {{formatnum:{{#expr: 204590 + 5.3 * {{Age in days|2009|9|30}} round 0}}0 }} <!--AUTOUPDATES DAILY at 00:00 UTC, Slovenian pop clock adds 53 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr:(2045901 + 53 * {{Age in days|2009|9|30}} ) / {{worldpop}} * 100 round 2}}% || style="font-size: 75%"|[http://www.stat.si/eng/preb_ura.asp Official Slovenian population clock]
 |-
-|145 || align=left|'''[[Macedonia]]''' || 2,048,620 || January 1, 2009 || {{#expr: 2048620 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
+|145 || align=left|'''[[Nort Macedonia]]''' || 2,048,620 || January 1, 2009 || {{#expr: 2048620 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 Eurostat estimate]
 |-
 |146 || align=left|'''[[Botswana]]''' || 1,950,000 ||  || {{#expr: 1950000 / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|UN estimate
 |-
