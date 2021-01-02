@@ -33,8 +33,8 @@
 | '''[[Lista di país i teritorio segun area|Area]]'''<br />&nbsp;- Total<br>&nbsp;- Awa (%)
 | &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;([[Lista di país i teritorio segun area|{{{rango_area}}}]])<br />{{{persentahe_awa}}}
 |-
-| style="white-space: nowrap;" | '''[[Lista di país segun populashon|Populashon]]'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- [[Densidat di populashon|Densidat]]
-| &nbsp;<br />{{{pop_aproksima}}} ([[Lista di país segun populashon|{{{rango_populashon}}}]]){{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2; ([[Lista di país segun densidat di populashon|{{{rango_densidat_pop}}}]])
+| style="white-space: nowrap;" | '''[[Lista di país segun poblashon|Poblashon]]'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pob}}}]] est.{{#if:{{{pob_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{aña_di_senso}}}]]}}<br />&nbsp;- [[Densidat di poblashon|Densidat]]
+| &nbsp;<br />{{{pob_aproksima}}} ([[Lista di país segun poblashon|{{{rango_poblashon}}}]]){{#if:{{{pob_segun_senso|}}}|<br />{{{pob_segun_senso}}}|}}<br />{{{densidat_pob}}}/km&sup2; ([[Lista di país segun densidat di poblashon|{{{rango_densidat_pob}}}]])
 |-
 | '''[[Moneda]]'''
 | style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{kodigo_moneda}}}]]</code>)
@@ -80,14 +80,14 @@ E predefinishon '''Infopais''' ta uzá pa duna varios pida informashon di un pai
 |area = 
 |rango_area = 
 |persentahe_awa = 
-|pop_aproksima = 
-|pop_segun_senso =
-|rango_populashon = 
-|ana_kalkulashon_di_pop = 
-|ana_di_senso =
-|densidat_pop = 
-|rango_densidat_pop = 
-|ana_hdi =
+|pob_aproksima = 
+|pob_segun_senso =
+|rango_poblashon = 
+|aña_kalkulashon_di_pob = 
+|aña_di_senso =
+|densidat_pob = 
+|rango_densidat_pob = 
+|aña_hdi =
 |hdi =
 |rango_hdi =
 |moneda = 
