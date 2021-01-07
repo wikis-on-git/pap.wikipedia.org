@@ -17,13 +17,13 @@
 |valign="top" style="font-size:90%" colspan="2" | {{{Fecha di nasemento}}}
 |- style="display:{{#if:{{{lugá di nasemento|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Lugá di nasemento:'''
-|valign="top" style="font-size:90%" colspan="2" | {{{lugá di nasemento}}}
+|valign="top" style="font-size:90%" colspan="2" | {{{Lugá di nasemento}}}
 |- style="display:{{#if:{{{fecha di morto|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Fecha di fayesemento:'''
-|valign="top" style="font-size:90%" colspan="2" | {{{fecha di fayesemento}}}
+|valign="top" style="font-size:90%" colspan="2" | {{{Fecha di fayesemento}}}
 |- style="display:{{#if:{{{lugá di fayesemento|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Lugá di fayesemento:'''
-|valign="top" style="font-size:90%" colspan="2" | {{{lugá di fayesemento}}}
+|valign="top" style="font-size:90%" colspan="2" | {{{Lugá di fayesemento}}}
 |}
 <noinclude>
 <br>
