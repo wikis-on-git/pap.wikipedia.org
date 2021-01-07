@@ -19,7 +19,7 @@
 |valign="top" style="font-size:90%" | '''Lugá di nasemento:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{Lugá di nasemento}}}
 |- style="display:{{#if:{{{fecha di morto|}}}|normal|none}};"
-|valign="top" style="font-size:90%" | '''Fecha di fayesemento:'''
+|valign="top" style="font-size:90%" | '''fecha di fayesemento:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{Fecha di fayesemento}}}
 |- style="display:{{#if:{{{lugá di fayesemento|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Lugá di fayesemento:'''
