@@ -12,13 +12,13 @@
 |- style="display:{{#if:{{{profeshon|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Profeshon:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{profeshon}}}
-|- style="display:{{#if:{{{afspraak di nasemento|}}}|normal|none}};"
+|- style="display:{{#if:{{{fecha di nasemento|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Fecha di nasemento:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{Fecha di nasemento}}}
 |- style="display:{{#if:{{{lugá di nasemento|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Lugá di nasemento:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{lugá di nasemento}}}
-|- style="display:{{#if:{{{afspraak di morto|}}}|normal|none}};"
+|- style="display:{{#if:{{{fecha di morto|}}}|normal|none}};"
 |valign="top" style="font-size:90%" | '''Fecha di fayesemento:'''
 |valign="top" style="font-size:90%" colspan="2" | {{{fecha di fayesemento}}}
 |- style="display:{{#if:{{{lugá di fayesemento|}}}|normal|none}};"
@@ -37,7 +37,7 @@
 | deskripshon = Yuna Louis de Beaufront.
 | nashonalidat =  {{FRA}}
 | profeshon = [[linguaro|linguisto]], pioniro di [[Ido]]
-| afspraak di nasemento = [[3 di oktobro]] [[1855]]
+| fecha di nasemento = [[3 di oktobro]] [[1855]]
 | lugá di nasemento = [[Paris]], [[Francia]]
 | fecha di fayesemento = [[8 di januaro]] [[1935]]
 | lugá di fayesemento = Thézy-Glimont, [[Francia]]
