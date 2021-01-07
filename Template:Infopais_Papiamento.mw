@@ -68,7 +68,7 @@
 <noinclude>
 __NOTOC__
 ===Con ta uza===
-E predefinicion '''Infopais Papaiamento''' ta uza pa duna varios pida informacion di un pais na un manera organisa.
+E predefinicion '''Infopais Papiamento''' ta uza pa duna varios pida informacion di un pais na un manera organisa.
 
 {| style="background: none; border: none;"
 |<pre>{{Infopais
@@ -115,7 +115,6 @@ E predefinicion '''Infopais Papaiamento''' ta uza pa duna varios pida informacio
 <br style="clear:both" />
 
 ===Tipo di soberania===
-
 E variabel aki ta depende riba e pais i por varia hopi. E ta uza pa indica ta con e pais a yega na su fundacion. Cu mayoria pais, esaki por ta "Independensia". Lokual ta sigui den '''eventonan_di_fundacion''' ta ki evento of eventonan a pone cu e pais a haña su independencia. Cu otro manera Curaçao, e ta "Eilandgebied den Antias Hulandes" i ku Aruba e ta "Pais den Reino Hulandes". Eventonan ku a yega na esaki ta e Statuut di 1954 i status aparte na aña 1986, respectivamente.
 
 
