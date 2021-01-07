@@ -4,19 +4,21 @@
 |colspan="3" align="center"|{{{potret}}}
 |-
 |- class="hiddenStructure{{{foto|}}}"
-|'''Nomber'''||colspan="2"|{{{nomber}}}
+|'''Nomber kompleto'''||colspan="2"|{{{nomber}}}
 |-
 |- class="hiddenStructure{{{Alias|}}}"
 |style="padding-right:1em;"|'''Alias'''||colspan="2"|{{{Alias}}}
 |-
-|'''Fecha di nasemientu'''||colspan="2"|{{{Fecha di nasemientu}}}
+|'''Fecha di nasementu'''||colspan="2"|{{{Fecha di nasementu}}}
 |-
-|'''Luga di nasemientu'''||colspan="2"|{{{cuidad di nasemientu}}}, {{{pais di nasemientu}}}
+|'''Luga di nasementu'''||colspan="2"|{{{Siudat di nasementu}}}, {{{pais di nasementu}}}
 |-
-|- class="hiddenStructure{{{club|}}}"
-|'''Hungando na'''||colspan="2"|{{{club}}}
+|'''Nashonalidat'''||colspan="2"|{{{Nashonalidat}}}
 |-
-|'''Position'''||colspan="2"|{{{position}}}
+|- class="hiddenStructure{{{klub|}}}"
+|'''Hungando na'''||colspan="2"|{{{klub}}}
+|-
+|'''Posishon'''||colspan="2"|{{{posishon}}}
 |-
 |}<noinclude>
 [[Category:Wikipedia templates]]
