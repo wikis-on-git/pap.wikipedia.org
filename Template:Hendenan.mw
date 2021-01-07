@@ -1,8 +1,8 @@
 {| style="background-color:#F8F8F8; border:2px solid #006699;  padding:5px;" cellpadding="2" cellspacing="0" align="right" width=300
 |-
 !align="center" bgcolor="#006699" colspan="4" style="color:white;"| '''{{{nomber}}}'''
-|- style="display:{{#if:{{{figura|}}}|normal|none}};"
-| style="font-size:90%" colspan="3" align="center"|{{{figura}}}
+|- style="display:{{#if:{{{potret|}}}|normal|none}};"
+| style="font-size:90%" colspan="3" align="center"|{{{potret}}}
 |- style="display:{{#if:{{{deskripshon|}}}|normal|none}};"
 | style="font-size:90%" colspan="3" align="center"|{{{deskripshon}}}
 |-
@@ -52,7 +52,7 @@
 | profeshon = [[linguaro|linguisto]], pioniro di [[Ido]]
 | fecha di nasemento = [[3 di oktobro]] [[1855]]
 | lugá di nasemento = [[Paris]], [[Francia]]
-| fecha di fayesemento = [[8 di januaro]] [[1935]]
+| fecha di fayesemento = [[8 di yanuari]] [[1935]]
 | lugá di fayesemento = Thézy-Glimont, [[Francia]]
 }}
 
