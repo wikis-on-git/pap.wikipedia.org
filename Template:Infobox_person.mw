@@ -100,26 +100,26 @@
 | label36    = Home&nbsp;town
 | data36     = {{{home town|{{{home_town|}}}}}}
 
-| label37    = Salary
+| label37    = Salario
 | data37     = {{{salary|}}}
 
 | label38    = Net&nbsp;worth
 | data38     = {{{net worth|{{{net_worth|{{{networth|}}}}}}}}}
 
-| label39    = Height
+| label39    = Haltura
 | data39     = {{{height|}}}
 
-| label40    = Weight
+| label40    = Peso
 | data40     = {{{weight|}}}
 
 | label41    = Television
 | data41     = {{{television|}}}
 
-| label42    = Title
+| label42    = Titulo
 | data42     = {{{title|}}}
 | class42    = title
 
-| label43    = Term
+| label43    = Periodo
 | data43     = {{{term|}}}
 
 | label44    = Predecessor
@@ -128,11 +128,11 @@
 | label45    = Successor
 | data45     = {{{successor|}}}
 
-| label46    = {{Longitem|Political party}}
+| label46    = {{Partido}}
 | data46     = {{{party|}}}
 | class46    = org
 
-| label47    = Movement
+| label47    = Movementu
 | data47     = {{{movement|}}}
 | class47    = category
 
@@ -169,7 +169,7 @@
 | label57    = Children
 | data57     = {{{children|}}}
 
-| label58    = Parents
+| label58    = Mayornan
 | data58     = {{{parents|}}}
 
 | label59    = Relatives
