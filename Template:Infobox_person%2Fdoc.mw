@@ -21,9 +21,9 @@ The infobox may be added by pasting the template as shown below into an article 
 | birth_place = 
 | death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} or {{Death-date and age|death date†|birth date†}} -->
 | death_place = 
-| nationality = 
+| nationalidat = 
 | other_names = 
-| occupation  = 
+| profeshon = 
 | known_for   = 
 }}
 † birth date and death date may be in either 'DD Month YYYY' or 'Month DD, YYYY'
