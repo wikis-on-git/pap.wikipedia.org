@@ -68,7 +68,7 @@
 | label25    = Alma&nbsp;mater
 | data25     = {{{alma mater|{{{alma_mater|}}}}}}
 
-| label26    = Occupation
+| label26    = Profeshon
 | class26    = role
 | data26     = {{{occupation|}}}
 
@@ -79,7 +79,7 @@
 | data28     = {{{employer|}}}
 | class28    = org
 
-| label29    = Organization
+| label29    = Organisashon
 | data29     = {{{organization|{{{organizations|}}}}}}
 | class29    = org
 
