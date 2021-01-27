@@ -712,12 +712,15 @@ We are waiting for your votes. Thank you!
 
 
 == Templates needed ==
-Can someone give assistance to the Papiamento wikipedia community by creating for us the following templates: {{commmonscat|}} and {{coor title dms}}? Your contribution is highly appreciated. Any questions please contact me. [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 11:13, 25 yanüari 2021 (UTC)
+Can someone give assistance to the Papiamento wikipedia community by creating for us the following templates: {{tl|commmonscat}} and {{coor title dms}}? Your contribution is highly appreciated. Any questions please contact me. [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 11:13, 25 yanüari 2021 (UTC)
 :I planned for this week to check how far along we are with everything, so I'll add these two templates on my list! [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 20:52, 25 yanüari 2021 (UTC)
 ::Do we have a {{tl|welcome}} already? I see we were joined by several new users last week, it would be nice to be able to send them a welcome message, in Papiamentu off course! [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 20:59, 25 yanüari 2021 (UTC)
 :::Thank you, Ciell! I will make an effort to create a welcome template. Still learning by trial and error!!! Today I tried to use this [[Template:Infobox stadion]], but it does not work. Under special pages there is a list of unused templates that perhaps also need reviewing.[[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 22:54, 25 yanüari 2021 (UTC)
 ::::More complicated templates, like infoboxes, need a background with [[:en:Lua (programming language)]] to make information visible - that looks like the case with this one. It may be better to find a simpler template on another wiki to copy the code from. If I recall correctly, also [[User:YAniceta|YAniceta]] does not know Lua, and I know very little people that can really work with this code. [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 06:39, 26 yanüari 2021 (UTC)
+: I did a quick move of {{tl|Commonscat}} for you. Here is an example:
+{{Commonscat|Example images}}
 
+: Please check the language, I have a bit of an ''atraso lingwístiko'' in Papiamentu. There are some artistic choices to be made regarding the location of links to the sister projects, and these require Admin privileges as well. Coor title dms also requires some artistic choices and admin access. So I left that to Ciell. ;) --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 15:25, 27 yanüari 2021 (UTC)
 == Moving Wikimania 2021 to a Virtual Event ==
 
 <div class="mw-content-ltr" lang="en" dir="ltr">
