@@ -1,0 +1,15 @@
+{{Proyekto hermana box
+| logo = Commons-logo.svg
+| teksto = Mira tambe e kategoria '''''[[commons:Category:{{First non empty
+  | {{{1|}}}
+  | {{Wikidata|property|P373}}
+  | {{#ifeq:{{NAMESPACE:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} | {{ns:14}} | {{PAGENAME:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} }}
+  | {{PAGENAME}}
+}}#mw-subcategories|{{First non empty
+  | {{{2|}}}
+  | {{{1|}}}
+  | {{Wikidata|property|P373}}
+  | {{#ifeq:{{NAMESPACE:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} | {{ns:14}} | {{PAGENAME:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} }}
+  | {{PAGENAME}}
+}}]]''''' di [[Wikimedia Commons]] pa mira datonan tokante di e tema aki.
+}}
