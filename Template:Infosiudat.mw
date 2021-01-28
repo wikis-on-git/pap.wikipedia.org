@@ -1,13 +1,13 @@
 {| cellpadding="4" style="width: 20em; font-size: 95%; float: right; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; border-collapse: collapse; clear: right;"
 |+ style="margin-left: inherit;" | <big>'''{{{nomber_nativo}}}'''</big>{{#if:{{{nomber_propio}}}|<br />'''{{{nomber_propio}}}'''}}
 |-
-| colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Lokashon di {{{nomber_komun}}}]]
+| colspan="2" style="text-align: center; background: white;" | [[{{ns:6}}:{{{imagen_mapa}}}|250px|Lokalisashon di {{{nomber_komun}}}]]
 |-
 | '''Pais'''
 |{{{pais}}}
 |-
 |'''Alkalde'''
-|[[{{{prefeito}}}]]
+|{{{alkalde}}}
 |-
 | '''Fecha fundá'''
 |{{{fecha_di_fundashon}}}
@@ -15,8 +15,8 @@
 |'''Area'''
 |{{{area}}}&nbsp;km&sup2;&nbsp;
 |-
-| style="white-space: nowrap;" | '''Poblashon'''<br />&nbsp;- {{{ana_kalkulashon_di_pop}}} est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di {{{aña_di_senso}}}}}<br />&nbsp;- Densidat
-| &nbsp;<br />{{{pop_aproksima}}} {{#if:{{{pop_segun_senso|}}}|<br />{{{pob_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
+| style="white-space: nowrap;" | '''Poblashon'''<br />&nbsp;- {{{aña_kalkulashon_di_pop}}} est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di {{{aña_di_senso}}}}}<br />&nbsp;- Densidat
+| &nbsp;<br />{{{pop_aproksima}}} {{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
 |}
 <noinclude>
 <poem>
