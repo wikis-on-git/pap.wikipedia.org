@@ -6,31 +6,31 @@
 | '''Pais'''
 |{{{pais}}}
 |-
-|'''Prefeito'''
+|'''Alkalde'''
 |[[{{{prefeito}}}]]
 |-
-| '''Fecha di fundashon'''
+| '''Fecha fundá'''
 |{{{fecha_di_fundashon}}}
 |-
 |'''Area'''
 |{{{area}}}&nbsp;km&sup2;&nbsp;
 |-
-| style="white-space: nowrap;" | '''Populashon'''<br />&nbsp;- {{{ana_kalkulashon_di_pop}}} est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di {{{ana_di_senso}}}}}<br />&nbsp;- Densidat
-| &nbsp;<br />{{{pop_aproksima}}} {{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
+| style="white-space: nowrap;" | '''Poblashon'''<br />&nbsp;- {{{ana_kalkulashon_di_pop}}} est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di {{{aña_di_senso}}}}}<br />&nbsp;- Densidat
+| &nbsp;<br />{{{pop_aproksima}}} {{#if:{{{pop_segun_senso|}}}|<br />{{{pob_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
 |}
 <noinclude>
 <poem>
 {{infosiudat
 |nomber_nativo = 
 |nomber_propio = 
-|imagen_mapa = 
-|pais = 
-|prefeito = 
-|fecha_di_fundashon = 
+|imagen_mapa   = 
+|pais          = 
+|alkalde       = 
+|fecha fundá = 
 |area = 
-|ana_kalkulashon_di_pop = 
-|pop_aproksima = 
-|densidat_pop = 
+|aña_kalkulashon_di_pob = 
+|pob_aproksima = 
+|densidat_pob = 
 }}
 </poem>
 </noinclude>
