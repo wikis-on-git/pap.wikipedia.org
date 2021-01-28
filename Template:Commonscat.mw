@@ -11,5 +11,5 @@
   | {{Wikidata|property|P373}}
   | {{#ifeq:{{NAMESPACE:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} | {{ns:14}} | {{PAGENAME:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} }}
   | {{PAGENAME}}
-}}]]''''' di [[Wikimedia Commons]] pa mira datonan tokante di e tema aki.
+}}]]''''' di [[Wikimedia Commons]] pa mas dato mediatiko tokante di e tema aki.
 }}
