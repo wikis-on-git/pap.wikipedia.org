@@ -12,6 +12,7 @@
   | {{#ifeq:{{NAMESPACE:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} | {{ns:14}} | {{PAGENAME:{{#invoke:Wikidata|getSiteLink|commonswiki}}}} }}
   | {{PAGENAME}}
 }}]]''''' di [[Wikimedia Commons]] pa mas dato mediatiko tokante di e tema aki.
-}}
+}}<noinclude>
 
 [[Category:Wikipedia templates]]
+</noinclude>
