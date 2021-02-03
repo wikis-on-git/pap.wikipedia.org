@@ -1,0 +1,8 @@
+<includeonly>{{#switch:{{{1|}}}
+| de = aleman
+| en = ingles
+| fr = franses
+| it = italianu
+| nl = hulandes
+| #default = <span class="error">Idioma imbálido"{{{1|}}}".</span>
+}}</includeonly>
