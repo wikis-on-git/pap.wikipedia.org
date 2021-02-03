@@ -1,0 +1,17 @@
+<div class="reflist" style="{{#if:{{{1|}}}|font-size:{{{1}}};}} {{#if:{{{2|}}}|{{#switch:{{{2|}}}
+| 2 = column-count:2;
+| 3 = column-count:3;
+| 4 = column-count:4;
+}}{{#switch:{{{2|}}}
+| 30em = column-width:30em;
+| 34em = column-width:33.708em;
+| 40em = column-width:40em;
+| 45em = column-width:44.94em;
+| #default = column-width:20em;
+}}}} list-style-type: {{#switch:{{{group|}}}
+| kleine-letter = lower-alpha
+| hoofdletter = upper-alpha
+| kleine-letter-Grieks = lower-greek
+| kleine-letter-Romeins = lower-roman
+| hoofdletter-Romeins = upper-roman
+| #default = decimal}};">{{#if:{{{group|}}}|{{#tag:references||group={{{group|}}}}}|<references />}}</div>
