@@ -4,7 +4,7 @@
 |referenshanan
 |ref
 |refs
-|referenties      = '''Referenshanan'''
+|referenties      = '''Referensha'''
 |not
 |nota
 |notanan
@@ -13,27 +13,27 @@
 |voetnoot
 |voetnoten
 |noot
-|noten            = '''Notanan'''
+|noten            = '''Nota'''
 |fuente
 |fuentenan
 |bron
-|bronnen          = '''Fuentenan'''
+|bronnen          = '''Fuente'''
 |bronvoet
 |voetbron
 |bronnoot
 |nootbron
-|bronoot          = '''Fuentenan i notanan'''
+|bronoot          = '''Fuente i nota'''
 |refnota
 |notaref
 |refnot
 |notref
 |voetref
-|refvoet          = '''Referenshanan i notanan'''
+|refvoet          = '''Referensha i nota'''
 |bronnootref
 |bronnennotenrefs
-|alles            = '''Fuentenan, notanan i/òf referenshanan'''
+|alles            = '''Fuente, nota i referensha'''
 | = {{#ifeq:{{bevat|{{{2|}}}|{{=}}{{=}}{{=}}}}|JA1|<div style="margin-top:-10px"></div>|{{#ifeq:{{bevat|{{{2|}}}|{{=}}{{=}}}}|JA1|<div style="margin-top:-16px"></div>|<div style="margin-top:-3px"></div>}}}}
-| {{#tag:span|{{{1|Fuentenan, notanan i/òf referenshanan}}}|style=font-weight:bold}} 
+| {{#tag:span|{{{1|Fuente, nota i/òf referensha}}}|style=font-weight:bold}} 
 }}
 {{{2|{{References}}}}}
 |}</includeonly>
