@@ -1,0 +1,18 @@
+{{#switch:{{{type|}}}
+| orashon
+| zin       = E orashon aki
+| alínea
+| alinea    = E alínea aki
+| paragraf
+| paragraaf = E paragraf aki
+| #default  = E artikulo aki
+}} òf un vershon anterior di dje tabata wòrdu tradusí di e artikulo <span class="plainlinks">[{{fullurl:{{{idioma|}}}:{{{titulo|{{PAGENAME}}}}}|oldid={{{oldid|}}}}} {{{titulo|{{PAGENAME}}}}}] riba e Wikipedia {{#iferror:{{Wikidioma|{{{idioma|}}}}}|di otro lenga<includeonly>[[Category:Wikipedia:Categoria yudansa temporario]]</includeonly>}}, ku kai bou di lisensia [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Attribution/Share Alike]. Mira e [{{fullurl:{{{taal|}}}:{{{titel|{{PAGENAME}}}}}|offset={{{datum|}}}&action=history}} historia di edishon]</span> einan.<noinclude>
+<pre>
+{{ Tradukshon for di otro Wikipedia | idioma = .. | type = [orashon/alínea/paragraf/(default = artíkulo)] | oldid = .. | titulo = .... }}
+</pre>
+Por ehèmpel:
+* <pre>{{ Tradukshon for di otro Wikipedia | idioma = nl | type = alinea | oldid = | titulo = Kantklossen }}</pre>
+* {{ Tradukshon for di otro Wikipedia | idioma = nl | type = alinea | oldid = | titulo = Kantklossen }}
+
+E argumentu <code>type</code> ta fakultativo.
+</noinclude>
