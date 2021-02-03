@@ -1,0 +1,39 @@
+<includeonly>{| class="toccolours" style="font-size:89%; margin-top:1em; margin-bottom:-0.5em; border: 1px solid #aaa; padding: 5px; clear: both; width:100%; box-sizing:border-box;" role="presentation"
+|{{#switch: {{{1}}} 
+|referensha
+|referenshanan
+|ref
+|refs
+|referenties      = '''Referenshanan'''
+|not
+|nota
+|notanan
+|notnan
+|voet
+|voetnoot
+|voetnoten
+|noot
+|noten            = '''Notanan'''
+|fuente
+|fuentenan
+|bron
+|bronnen          = '''Fuentenan'''
+|bronvoet
+|voetbron
+|bronnoot
+|nootbron
+|bronoot          = '''Fuentenan i notanan'''
+|refnota
+|notaref
+|refnot
+|notref
+|voetref
+|refvoet          = '''Referenshanan i notanan'''
+|bronnootref
+|bronnennotenrefs
+|alles            = '''Fuentenan, notanan i/òf referenshanan'''
+| = {{#ifeq:{{bevat|{{{2|}}}|{{=}}{{=}}{{=}}}}|JA1|<div style="margin-top:-10px"></div>|{{#ifeq:{{bevat|{{{2|}}}|{{=}}{{=}}}}|JA1|<div style="margin-top:-16px"></div>|<div style="margin-top:-3px"></div>}}}}
+| {{#tag:span|{{{1|Fuentenan, notanan i/òf referenshanan}}}|style=font-weight:bold}} 
+}}
+{{{2|{{References}}}}}
+|}</includeonly>
