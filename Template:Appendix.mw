@@ -4,7 +4,7 @@
 |referenshanan
 |ref
 |refs
-|referenties      = '''Referensha'''
+|referenties      = '''Referensia'''
 |not
 |nota
 |notanan
@@ -28,10 +28,10 @@
 |refnot
 |notref
 |voetref
-|refvoet          = '''Referensha i nota'''
+|refvoet          = '''Referensia i nota'''
 |bronnootref
 |bronnennotenrefs
-|alles            = '''Fuente, nota i referensha'''
+|alles            = '''Fuente, nota i referensia'''
 | = {{#ifeq:{{bevat|{{{2|}}}|{{=}}{{=}}{{=}}}}|JA1|<div style="margin-top:-10px"></div>|{{#ifeq:{{bevat|{{{2|}}}|{{=}}{{=}}}}|JA1|<div style="margin-top:-16px"></div>|<div style="margin-top:-3px"></div>}}}}
 | {{#tag:span|{{{1|Fuente, nota i/òf referensha}}}|style=font-weight:bold}} 
 }}
