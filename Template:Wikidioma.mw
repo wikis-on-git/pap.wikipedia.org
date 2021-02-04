@@ -6,4 +6,4 @@
 | nl = hulandes
 | pt = portugues
 | #default = <span class="error">Idioma imbálido"{{{1|}}}".</span>
-}}</includeonly>
+}}</includeonly><noinclude>{{Documentation}}</noinclude>
