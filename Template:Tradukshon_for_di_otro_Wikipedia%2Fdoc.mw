@@ -1,0 +1,17 @@
+{{Documentation subpage}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+== Usage ==
+<pre>
+{{ Tradukshon for di otro Wikipedia | idioma = .. | type = [orashon/alínea/paragraf/(default = artíkulo)] | oldid = .. | titulo = .... }}
+</pre>
+Por ehèmpel:
+* <pre>{{ Tradukshon for di otro Wikipedia | idioma = nl | type = alinea | oldid = | titulo = Kantklossen }}</pre>
+* {{ Tradukshon for di otro Wikipedia | idioma = nl | type = alinea | oldid = | titulo = Kantklossen }}
+
+E argumentu <code>type</code> ta fakultativo.
+
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line; interwikis at Wikidata -->
+
+}}</includeonly>
