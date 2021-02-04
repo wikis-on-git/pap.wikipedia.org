@@ -1,0 +1,10 @@
+<noinclude>{{Ombox |style=margin-bottom:2.0em; |image=[[File:Template-info.png|128px|alt=|link=]] |text=The text below is a [[mw:Manual:Creating pages with preloaded text|preloaded template]] for module documentation pages. It is not actual documentation.}}</noinclude>{{tl|Module rating |<!-- Values:  pre-alpha • alpha • beta • release • protected  --  If a rating not needed/relevant, delete this template call -->}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+== Usage ==
+
+<code><nowiki>{{</nowiki>#invoke:{{BASEPAGENAME}}|''function_name''}}</code>
+
+<include<includeonly></includeonly>only>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories below this line, please; interwikis at Wikidata -->
+
+}}</include<includeonly></includeonly>only>
