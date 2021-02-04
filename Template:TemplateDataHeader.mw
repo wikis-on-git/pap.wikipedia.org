@@ -1,0 +1,22 @@
+<div class="templatedata-header">{{#if:{{{noheader|}}}|<!--
+ noheader:
+-->{{Template parameter usage}}|<!--
+ +header:
+-->This is the {{#if:{{{nolink|}}}|<!--
+  +header, nolink TD
+  -->TemplateData|<!--
+  +header,  +link [[TD]]; DEFAULT:
+-->[[Wikipedia:TemplateData|TemplateData]]}}<!--
+   e.o. #if:nolink; DEFAULT:
+--> documentation for this template used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools; {{Template parameter usage|lc=yes}}<!--
+   e.o. #if:noheader
+-->}}
+
+'''TemplateData for {{{1|{{BASEPAGENAME}}}}}'''
+</div><includeonly><!--
+-->{{template other|{{sandbox other||
+[[Category:Templates using TemplateData]]
+
+}}}}</includeonly><!--
+
+--><noinclude>{{Documentation}}</noinclude>
