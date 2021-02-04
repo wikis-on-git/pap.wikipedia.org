@@ -8,7 +8,7 @@
   +header,  +link [[TD]]; DEFAULT:
 -->[[Wikipedia:TemplateData|TemplateData]]}}<!--
    e.o. #if:nolink; DEFAULT:
---> documentation for this template used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools; {{Template parameter usage|lc=yes}}<!--
+--> documentation for this template used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools.<!--
    e.o. #if:noheader
 -->}}
 
