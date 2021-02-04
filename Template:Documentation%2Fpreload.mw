@@ -1,0 +1,13 @@
+<noinclude><!--
+
+   This code must be kept in sync with that at [[:en:Wikipedia:Template documentation#How to create a documentation subpage]].
+
+--></noinclude>{{Documentation subpage}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+== Usage ==
+
+
+<include<includeonly></includeonly>only>{{sandbox other||
+<!-- Categories below this line; interwikis at Wikidata -->
+
+}}</include<includeonly></includeonly>only>
