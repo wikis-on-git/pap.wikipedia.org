@@ -1,9 +1,9 @@
 {{#switch:{{{type|}}}
-| orashon
-| zin       = E orashon aki
+| frase
+| zin       = E frase aki
 | alínea
 | alinea    = E alínea aki
 | paragraf
 | paragraaf = E paragraf aki
-| #default  = E artikulo aki
-}} òf un vershon anterior di dje tabata wòrdu tradusí di e artikulo <span class="plainlinks">[{{fullurl:{{{idioma|}}}:{{{titulo|{{PAGENAME}}}}}|oldid={{{oldid|}}}}} {{{titulo|{{PAGENAME}}}}}] riba e Wikipedia {{#iferror:{{Wikidioma|{{{idioma|}}}}}|di otro lenga<includeonly>[[Category:Wikipedia:Categoria yudansa temporario]]</includeonly>}}, ku kai bou di lisensia [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Attribution/Share Alike]. Mira e [{{fullurl:{{{taal|}}}:{{{titulo|{{PAGENAME}}}}}|offset={{{datum|}}}&action=history}} historia di edishon]</span> einan.<noinclude>{{Documentation}}</noinclude>
+| #default  = E artíkulo aki
+}} òf un vershon anterior di dje ta un tradukshon di e artíkulo <span class="plainlinks">[{{fullurl:{{{idioma|}}}:{{{título|{{PAGENAME}}}}}|oldid={{{oldid|}}}}} {{{título|{{PAGENAME}}}}}] riba e Wikipedia {{#iferror:{{Wikidioma|{{{idioma|}}}}}|di otro lenga<includeonly>[[Category:Wikipedia:Categoria yudansa temporario]]</includeonly>}}, ku ta kai bao di e lisensia [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Attribution/Share Alike]. Mira e [{{fullurl:{{{taal|}}}:{{{título|{{PAGENAME}}}}}|offset={{{datum|}}}&action=history}} historia di edishon]</span> einan.<noinclude>{{Documentation}}</noinclude>
