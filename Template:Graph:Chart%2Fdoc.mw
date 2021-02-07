@@ -1,0 +1,612 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{Shortcut|Template:Graph}}
+{{Lua|Module:Graph}}
+{{Lua sidebar}}
+{{TemplateStyles|Template:Graph:Chart/styles.css}}
+{{Meta|Template:Graph:Chart}}
+
+== CSV2Chart ==
+If you have data from a spreadsheet document (e.g. [[LibreOffice]] Calc) or in a statistics software [[R programming|R/R-Studio]], you can export them to CSV file. The CSV file can be loaded with an [[v:en:AppLSAC]], that is able to convert the CSV in chart for the data. The column should have headers in the first row. The column of the CSV file contain float or integer values. [https://niebert.github.io/csv2wikichart_app CSV2WikiChart] was created as support tool for Wikipedia and for Wikiversity learning resources that contain data.
+
+== Parameters ==
+{{Module:Graph/doc|chart|nocat=yes}}
+
+== Examples ==
+===Basic examples===
+Line Chart:
+<pre>
+{{Graph:Chart
+ | width = 450
+ | height = 150
+ | type = line
+ | x = 1,2,3,4,5,6,7,8,9
+ | y = 10,12,6,14,2,10,7,9,12
+}}
+</pre>
+{{Graph:Chart
+ | width = 400
+ | height = 150
+ | type = line
+ | x = 1,2,3,4,5,6,7,8
+ | y = 10,12,6,14,2,10,7,9
+}}
+
+Note: The y-axis starts from the smallest y value, though this can be overridden with the <code>yAxisMin</code> parameter.
+
+Area chart:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=100
+ | type=area
+ | x=1,2,3,4,5,6,7,8
+ | y=10,12,6,14,2,10,7,9
+}}
+</pre>
+{{Graph:Chart
+ | width=400
+ | height=100
+ | type=area
+ | x=1,2,3,4,5,6,7,8
+ | y=10,12,6,14,2,10,7,9
+}}
+Note: The y-axis starts from zero
+
+Bar chart:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=100
+ | xAxisTitle=The X axis
+ | yAxisTitle=The Y axis
+ | type=rect
+ | x=1,2,3,4,5,6,7,8
+ | y=10,12,6,14,2,10,7,9
+}}
+</pre>
+{{Graph:Chart
+ | width=400
+ | height=100
+ | xAxisTitle=The X axis
+ | yAxisTitle=The Y axis
+ | type=rect
+ | x=1,2,3,4,5,6,7,8
+ | y=10,12,6,14,2,10,7,9
+}}
+
+===Multiple data series===
+Line chart with more than one data series, using colors:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | colors=#0000aa,#ff8000
+}}
+</pre>{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | colors=#0000aa,#ff8000
+}}
+
+Area chart with more than one data series showing blended overlap:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=100
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=area
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | colors=#800000aa,#80ff8000
+}}
+</pre>{{Graph:Chart
+ | width=400
+ | height=100
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=area
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | colors=#800000aa,#80ff8000
+}}
+
+Bar chart with multiple data series:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=100
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=rect
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ |colors=#800000aa,#80ff8000
+}}
+</pre>
+{{Graph:Chart
+ | width=400
+ | height=100
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=rect
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ |colors=#800000aa,#80ff8000
+}}
+
+Area chart with smoothed data values:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=stackedarea
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | interpolate=monotone
+ | colors=seagreen, orchid
+}}
+</pre>
+{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=stackedarea
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | interpolate=monotone
+ | colors=seagreen, orchid
+}}
+
+Bar chart with stacked data series:
+<pre>
+{{Graph:Chart
+ | width=400 | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=stackedrect
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | y1Title=Data A
+ | y2Title=Data B
+ | colors=seagreen, orchid
+}}
+</pre>
+{{Graph:Chart
+ | width=400 | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | type=stackedrect
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+ | y1Title=Data A
+ | y2Title=Data B
+ | colors=seagreen, orchid
+}}
+
+===Pie charts===
+<pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+}}
+</pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+}}
+
+
+<pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+ | showValues=
+}}
+</pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+ | showValues=
+}}
+
+
+<pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+ | y2=7,8,9,8,8,9,10,9,5
+ | showValues=
+}}
+</pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+ | y2=7,8,9,8,8,9,10,9,5
+ | showValues=
+}}
+
+<pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | innerRadius=40
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+}}
+</pre>
+{{Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | innerRadius=40
+ | legend=Letter
+ | x=A,B,C,D,E,F,G,H,I
+ | y1=100,200,150,300,100,100,150,50,200
+}}
+
+===Scatter plot===
+By using a line plot with <code>linewidth=0</code>, it is possible to create a [[scatter plot]]:
+<pre>
+{{Graph:Chart
+|width=500
+|height=200
+|type=line
+|x=15.7,10.8,68.5,33.4,23.8,42.2,27.1,38.2,13.5,74.3
+|y1=1517,970,4075,3819,2106,2919,2428,2164,1393,7603
+|showSymbols=1
+|linewidth=0
+|yGrid= |xGrid= 
+}}
+</pre>
+{{Graph:Chart
+|width=500
+|height=200
+|type=line
+|x=15.7,10.8,68.5,33.4,23.8,42.2,27.1,38.2,13.5,74.3
+|y1=1517,970,4075,3819,2106,2919,2428,2164,1393,7603
+|showSymbols=1
+|linewidth=0
+|yGrid= |xGrid= 
+}}
+
+===Using percentages===
+*When <code>xAxisFormat</code> or <code>yAxisFormat</code> is set to <code>%</code>, a percentage sign will be added to the scale of the corresponding axis.
+*A value of <code>1</code> equals 100%. A decimal point should be added in front of percentages between 0 and 100, for instance <code>.25</code> for 25%.
+*Including the code <code>| yAxisMin=0 | yAxisMax=1</code> will force the y axis scale to run from 0% to 100%.
+<pre>
+{{Graph:Chart
+| width = 450
+| height = 350
+| x = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+| yAxisMin = 0
+| yAxisMax = 1
+| yAxisFormat = %
+| showSymbols = 
+| y1 = , , , .43, , , , .39, .43, .38, .38, .40, .48, .54 , .42, .47, .45, .48, .44, .41, .41, .45, .46
+| y2 = .40, .377, .38, , .39, .38, .419, .55, .60, .63
+| y3 = .27, .311, .31, , .26, .28, .285
+| y4 = {{repeat|7|, }} .40, .44, .42, .47, .44, .43, .42
+}}
+</pre>
+
+{{Graph:Chart
+| width = 450
+| height = 350
+| x = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+| yAxisMin = 0
+| yAxisMax = 1
+| yAxisFormat = %
+| showSymbols = 
+| y1 = , , , .43, , , , .39, .43, .38, .38, .40, .48, .54 , .42, .47, .45, .48, .44, .41, .41, .45, .46
+| y2 = .40, .377, .38, , .39, .38, .419, .55, .60, .63
+| y3 = .27, .311, .31, , .26, .28, .285
+| y4 = {{repeat|7|, }} .40, .44, .42, .47, .44, .43, .42
+}}
+
+A graph showing values greater than 100% and negative values:
+<pre>
+{{Graph:Chart
+| width = 450
+| height = 350
+| x = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+| yAxisFormat = %
+| showSymbols = 
+| y1 = 2, .43, 1.20, .39, .43, .0, -.38, -.20, .18, .54 , 0
+}}
+</pre>
+
+{{Graph:Chart
+| width = 450
+| height = 350
+| x = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+| yAxisFormat = %
+| showSymbols = 
+| y1 = 2, .43, 1.20, .39, .43, .0, -.38, -.20, .18, .54 , 0
+}}
+
+====Legends====
+A legend can be added where there are multiple data series:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | y1Title=Blue
+ | y2Title=Orange
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+}}
+</pre>{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=Legend
+ | y1Title=Blue
+ | y2Title=Orange
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+}}
+
+The title can be omitted by leaving the parameter blank:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=
+ | y1Title=Blue
+ | y2Title=Orange
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+}}
+</pre>{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | legend=
+ | y1Title=Blue
+ | y2Title=Orange
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+}}
+
+Long legend entries can look clumsy. It may be better to omit the legend parameter and use {{tl|Legend}} (or [[:Category:Legend templates|a similar template]]) instead:
+<pre>
+{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | colors=darkred, gold
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+}}
+{{legend|darkred|This is a long legend entry and wouldn't look so good if it was part of the graph itself.}}
+{{legend|gold|This is another fairly long entry.}}
+</pre>{{Graph:Chart
+ | width=400
+ | height=150
+ | xAxisTitle=X
+ | yAxisTitle=Y
+ | colors=darkred, gold
+ | type=line
+ | x=1,2,3,4,5,6,7,8
+ | y1=10,12,6,14,2,10,7,9
+ | y2=2,4,6,8,13,11,9,2
+}}
+{{legend|darkred|This is a long legend entry and wouldn't look so good if it was part of the graph itself.}}
+{{legend|gold|This is another fairly long entry.}}
+
+
+This method also allows the use of wiki formatting and the insertion of links. Graphs using the default colors need to specify the hex values in the legend templates:
+{{columns-list|colwidth=7em|
+{{legend|#1f77b4|#1f77b4}}
+{{legend|#ff7f0e|#ff7f0e}}
+{{legend|#2ca02c|#2ca02c}}
+{{legend|#d62728|#d62728}}
+{{legend|#9467bd|#9467bd}}
+{{legend|#8c564b|#8c564b}}
+{{legend|#e377c2|#e377c2}}
+{{legend|#7f7f7f|#7f7f7f}}
+{{legend|#bcbd22|#bcbd22}}
+{{legend|#17becf|#17becf}}
+}}
+
+Alternatively, [https://www.w3schools.com/cssref/css_colors.asp CSS color names] (or hex values) can be specified in the graph and the legend templates.
+
+===Annotations===
+Line Chart with horizontal annotations only:
+<pre>
+{{Graph:Chart
+|hannotatonslabel=label4, label5, label6
+|hannotatonsline=4, 5, 6
+|linewidths=2,4,0
+|showSymbols=3,3,3
+|symbolsShape=triangle_up, cross, cross
+|type=line
+|x=0,1,2,3
+|y1=0,3.342,2.3423,5.32423|y2=1,2.342,4.63,2.32423|y3=3,1.342,2.63,6.32423}}
+</pre>
+{{Graph:Chart
+|hAnnotatonsLine=4, 5, 6
+|hAnnotatonsLabel=label4, label5, label6
+|linewidths=2,4,0
+|showSymbols=2,4,3
+|symbolsShape=triangle_up, cross, square
+|type=line
+|x=0,1,2,3
+|y1=0,3.342,2.3423,5.32423|y2=1,2.342,4.63,2.32423|y3=3,1.342,2.63,6.32423}}
+
+Area chart with vertical annotations only
+<pre>
+{{Graph:Chart
+|vAnnotatonsLine=1, 2, 3 
+|vAnnotatonsLabel=label1, label2, label3
+|colors=#ffff5ba0, #641050ff, #ffaaff00
+|type=area
+|x=0,1,2,3
+|y3=0,3.342,2.3423,5.32423|y2=1,2.342,4.63,2.32423|y1=3,1.342,2.63,6.32423}}</pre>
+{{Graph:Chart
+|vAnnotatonsLine=1, 2, 3 
+|vAnnotatonsLabel=label1, label2, label3
+|colors=#ffff5ba0, #641050ff, #ffaaff00
+|type=area
+|x=0,1,2,3
+|y3=0,3.342,2.3423,5.32423|y2=1,2.342,4.63,2.32423|y1=3,1.342,2.63,6.32423}}
+
+===Display===
+Putting a Chart in an {{tl|image frame}} allows the graph to float and text may wrap around it:<br />
+<pre>
+{{Image frame 
+ | caption=Line chart 
+ | content = {{Graph:Chart
+   | width=400
+   | height=150
+   | type=line
+   | yAxisMin = -1
+   | x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9
+  }} 
+}}
+</pre>
+
+{{Image frame
+ | caption=Line chart
+ | content = {{Graph:Chart
+   | width=400
+   | height=150
+   | type=line
+   | yAxisMin = -1
+   | x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9
+  }}
+}}
+
+{{-}}
+
+To add a title above the chart and source links below the chart, an option is to use a chart in a {{tl|side box}}.
+<pre>
+{{Side box |metadata=No<!--This makes the box display on the mobile site-->
+ | above = '''A graph of something'''
+ | abovestyle = text-align:center
+ | text = {{Graph:Chart
+  |height = 150
+  |width = 200
+  |xAxisTitle = Year
+  |xAxisAngle = -40
+  |yAxisTitle = Units of something
+  |yAxisMin = 0
+  |type = rect
+  |showValues = offset:4
+  |x = 2011, 2012, 2013, 2014, 2015, 2016
+  |y1 = 1326, 145, 203, 377, 639, 306
+  |y2 =   ,     ,     , 226, 208, 276
+  |colors = blue,grey
+  }}
+ | below = Caption & source links here
+}}
+</pre>
+
+{{Side box |metadata=No<!--This makes the box display on the mobile site-->
+ | above = '''A graph of something'''
+ | abovestyle = text-align:center
+ | text = {{Graph:Chart
+  |height = 150
+  |width = 200
+  |xAxisTitle = Year
+  |xAxisAngle = -40
+  |yAxisTitle = Units of something
+  |yAxisMin = 0
+  |type = rect
+  |showValues = offset:4
+  |x = 2011, 2012, 2013, 2014, 2015, 2016
+  |y1 = 1326, 145, 203, 377, 639, 306
+  |y2 =   ,     ,     , 226, 208, 276
+  |colors = blue,grey
+  }}
+ | below = Caption & source links here
+}}
+{{-}}
+
+== See also ==
+{{Template:Graph, chart and plot templates}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Graph Template Collection]]
+[[Category:Graph, chart and plot templates]]
+}}</includeonly>
