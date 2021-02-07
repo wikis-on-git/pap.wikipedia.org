@@ -1,216 +1,6 @@
+{{Variante|a}}
 [[File:Aruba map.png|thumb|Mapa di Aruba]]
-E '''crisis di [[COVID-19]] na [[Aruba]]''' a inicia ora e prome dos caso di [[COVID-19]] na pais Aruba a keda documentá dia 13 di maart 2020. E krisis ta parti di e [[pandemia coronavirus 2019-2020|pandemia]] ku a afecta paisnan ront mundu.<graph>{
-	"version": 2,
-	"width": 400,
-	"height": 200,
-	"data": [
-		{
-			"name": "table",
-			"values": [
-				{
-					"x": 0,
-					"y": 1
-				},
-				{
-					"x": 1,
-					"y": 1
-				},
-				{
-					"x": 2,
-					"y": 2
-				},
-				{
-					"x": 3,
-					"y": 3
-				},
-				{
-					"x": 4,
-					"y": 4
-				},
-				{
-					"x": 5,
-					"y": 4
-				},
-				{
-					"x": 6,
-					"y": 4
-				},
-				{
-					"x": 7,
-					"y": 5
-				},
-				{
-					"x": 8,
-					"y": 8
-				},
-				{
-					"x": 9,
-					"y": 9
-				},
-				{
-					"x": 10,
-					"y": 12
-				},
-				{
-					"x": 11,
-					"y": 17
-				},
-				{
-					"x": 12,
-					"y": 19
-				},
-				{
-					"x": 13,
-					"y": 28
-				},
-				{
-					"x": 14,
-					"y": 33
-				},
-				{
-					"x": 15,
-					"y": 46
-				},
-				{
-					"x": 16,
-					"y": 50
-				},
-				{
-					"x": 17,
-					"y": 50
-				},
-				{
-					"x": 18,
-					"y": 55
-				},
-				{
-					"x": 19,
-					"y": 55
-				},
-				{
-					"x": 20,
-					"y": 60
-				},
-				{
-					"x": 21,
-					"y": 62
-				},
-				{
-					"x": 22,
-					"y": 64
-				},
-				{
-					"x": 23,
-					"y": 64
-				},
-				{
-					"x": 24,
-					"y": 71
-				},
-				{
-					"x": 25,
-					"y": 74
-				},
-                                {
-                                        "x": 26,
-                                        "y": 77
-                                },
-                                {
-                                        "x": 27,
-                                        "y": 82
-                                },
-                                {
-                                        "x": 29,
-                                        "y": 92
-                                },
-                                {
-                                        "x": 32,
-                                        "y": 92
-                                },
-                                {
-                                        "x": 39,
-                                        "y": 93
-                                },
-                                {
-                                        "x": 39,
-                                        "y": 95
-                                },
-                                {
-                                        "x": 73,
-                                        "y": 100
-                                }
-			]
-		}
-	],
-	"scales": [
-		{
-			"name": "x",
-			"type": "linear",
-			"range": "width",
-			"zero": false,
-			"domain": {
-				"data": "table",
-				"field": "x"
-			}
-		},
-		{
-			"name": "y",
-			"type": "linear",
-			"range": "height",
-			"nice": true,
-			"domain": {
-				"data": "table",
-				"field": "y"
-			}
-		}
-	],
-	"axes": [
-		{
-			"type": "x",
-			"scale": "x",
-			"title": "dianan"
-		},
-		{
-			"type": "y",
-			"scale": "y",
-			"title": "casonan"
-		}
-	],
-	"marks": [
-		{
-			"type": "line",
-			"from": {
-				"data": "table"
-			},
-			"properties": {
-				"enter": {
-					"x": {
-						"scale": "x",
-						"field": "x"
-					},
-					"y": {
-						"scale": "y",
-						"field": "y"
-					},
-					"y2": {
-						"scale": "y",
-						"value": 0
-					},
-					"interpolate": {
-						"value": "monotone"
-					},
-					"stroke": {
-						"value": "steelblue"
-					},
-					"strokeWidth": {
-						"value": 3
-					}
-				}
-			}
-		}
-	]
-}</graph>
-
+E '''crisis di [[COVID-19]] na [[Aruba]]''' a inicia ora e prome dos caso di [[COVID-19]] na pais Aruba a keda documentá dia 13 di maart 2020. E krisis ta parti di e [[pandemia coronavirus 2019-2020|pandemia]] ku a afecta paisnan ront mundu.
 ==Linea di tempo==
 ===Maart===
 13 di maart – Mas o menos 20:00 ora local prome ministro, [[Evelyn Wever-Croes]] ta anuncia cu tin confirmacion di dos caso di [[coronavirus]] na Aruba. Ta trata di un persona cu ta haci trabou di consultancy na e empresa estatal WEB, cu tabata di vacacion na [[Egipto]] y [[New York City|New York]]. E di dos persona ta un Arubiano cu recien a biaha pa New York.<ref name="13maart">[https://24ora.com/dos-caso-di-coronavirus-na-aruba-di-cual-un-ta-arubiano/ Dos caso di coronavirus na Aruba di cual un ta Arubiano], 24ora.com, 14 maart 2020</ref> Cu e dos caso di coronavirus gobierno di Aruba ta decreta un estado di crisis oficial y ta tuma paso pa escala e medidanan di precaucion. 
@@ -383,6 +173,90 @@ Aruba a keda su desapunta cu e ayudo di emergencia di [[Hulanda]]. Mientras a pi
 6 di augustus - Bonaire y Corsow ta cera frontera cu Aruba.
 
 8 di augustus - Hulanda ta emiti un conseho negativo di biahe pa Aruba debi na aumento drastico di casonan positivo di COVID-19 di e ultimo dianan. Mester evita biahe no esencial pa e periodo aki y esnan cu bolbe Hulanda for di Aruba awor, ta wordo seriamente conseha pa bay den cuarentena di dos siman.<ref>[https://www.noticiacla.com/news/20105  Hulanda cu conseho negativo di biahe pa Aruba], NoticiaCla, 8 augustus 2020</ref> Merca tambe a duna un conseho negativo di biahe pa Aruba for di algun dia prome.
+
+===September===
+9 di september - Segun DVG a wordo registra 142 caso positivo den un solo dia, un record nobo desde inicio di e pandemia na Aruba. Tur caso nobo ta residente. E total di caso di contagio ta 2730, caso recupera ta 1351 y caso di fayecimento relata na COVID-19 ta 15. E total di caso activo ta 1364, mientras na HOH tin 38 persona interna di cual 11 ta den cuido intensivo y 27 ta isola riba piso general.
+
+18 september - Ta amplia e toque de keda cuminsando desde 22:00 te 05:00 ora.
+
+=== Oktober 2020 ===
+7 oktober - E toque de keda ta wordo sauvisa di nobo pa 24.00 (mei anochi) te 05.00 ora.
+
+=== November 2020 ===
+13 november - Na lange onderhandelingen over de voorwaarden tekent Aruba een overeenkomst met Nederland wat inhoudt dat Aruba een lening van 209 miljoen florin krijgt als liquiditeitssteun.<ref>[https://antilliaansdagblad.com/aruba/22630-overeenkomst-aruba-meer-dan-lening  Overeenkomst Aruba meer dan lening], Antilliaans Dagblad (16 november 2020)</ref>
+
+=== Grafica di e di dos ola ===
+Cantidad di casonan activo den curso di tempo (28 juni 2020—30 november 2020)
+{{Graph:Chart
+| type = line
+| linewidth = 1
+| showSymbols = 1
+| yType= integer
+| width = 600
+| colors = #ff6347, cyan, black
+| xAxisTitle = Fecha
+| xAxisAngle = -40
+| xType = date
+| xAxisFormat = %e %b
+| x = 28 June 2020, 29 June 2020, 30 June 2020, 1 July 2020, 2 July 2020, 3 July 2020, 4 July 2020, 5 July 2020, 6 July 2020, 7 July 2020, 8 July 2020, 9 July 2020, 10 July 2020, 11 July 2020, 12 July 2020, 13 July 2020, 14 July 2020, 15 July 2020, 16 July 2020, 17 July 2020, 18 July 2020, 19 July 2020, 20 July 2020, 21 July 2020, 22 July 2020, 23 July 2020, 24 July 2020, 25 July 2020, 26 July 2020, 27 July 2020, 28 July 2020, 29 July 2020, 30 July 2020, 31 July 2020,
+1 August 2020, 2 August 2020, 3 August 2020, 4 August 2020, 5 August 2020, 6 August 2020, 7 August 2020, 8 August 2020, 9 August 2020, 10 August 2020, 11 August 2020, 12 August 2020, 13 August 2020, 14 August 2020, 15 August 2020, 16 August 2020, 17 August 2020, 18 August 2020, 19 August 2020, 20 August 2020, 21 August 2020, 22 August 2020, 23 August 2020, 24 August 2020, 25 August 2020, 26 August 2020, 27 August 2020, 28 August 2020, 29 August 2020, 30 August 2020, 31 August 2020,
+1 September 2020, 2 September 2020, 3 September 2020, 4 September 2020, 5 September 2020, 6 September 2020, 7 September 2020, 8 September 2020, 9 September 2020, 10 September 2020, 11 September 2020, 12 September 2020, 13 September 2020, 14 September 2020, 15 September 2020, 16 September 2020, 17 September 2020, 18 September 2020, 20 September 2020, 21 September 2020, 22 September 2020, 23 September 2020, 24 September 2020, 25 September 2020, 26 September 2020, 27 September 2020, 28 September 2020, 29 September 2020, 30 September 2020,
+1 October 2020, 2 October 2020, 3 October 2020, 4 October 2020, 5 October 2020, 6 October 2020, 7 October 2020, 8 October 2020, 9 October 2020, 10 October 2020, 11 October 2020, 12 October 2020, 13 October 2020, 14 October 2020, 15 October 2020, 16 October 2020, 17 October 2020, 18 October 2020, 19 October 2020, 20 October 2020, 21 October 2020, 22 October 2020, 23 October 2020, 24 October 2020, 25 October 2020, 26 October 2020, 27 October 2020, 28 October 2020, 29 October 2020, 30 October 2020, 31 October 2020,
+1 November 2020, 2 November 2020, 3 November 2020, 4 November 2020, 5 November 2020, 6 November 2020, 7 November 2020, 8 November 2020, 9 November 2020, 10 November 2020, 11 November 2020, 12 November 2020, 13 November 2020, 14 November 2020, 15 November 2020, 16 November 2020, 17 November 2020, 18 November 2020, 19 November 2020, 20 November 2020, 21 November 2020, 22 November 2020, 23 November 2020, 24 November 2020, 25 November 2020, 26 November 2020, 27 November 2020, 28 November 2020, 29 November 2020, 30 November 2020
+| yAxisTitle = Cantidad di casonan activo
+| y1 =
+0,       2,    2,                                                     <!-- June -->
+2,       3,    3,    4,    4,    4,    4,    4,    4,    4,    3,    3,    3,    4,    4,       <!-- -15 July -->
+5,       8,    8,   10,   12,   14,   14,   13,   13,   14,   14,   14,   14,   14,   12,   13, <!-- -31 July -->
+13,      8,    9,   12,   56,  146,  279,  392,  446,  513,  600,  681,  776,  806,  851,       <!-- -15 Aug  -->
+898,   905,  924,  974, 1027, 1043, 1081, 1106, 1160, 1097, 1165, 1232, 1154, 1200, 1222, 1228, <!-- -31 Aug  -->
+1237, 1265, 1248, 1226, 1208, 1229, 1223, 1281, 1364, 1396, 1429, 1434, 1486, 1474, 1520,
+1630, 1617, 1309, 1289, 1194, 1214, 1195, 1067, 1021,  978,  871,  810,  727,  677,
+644,   602,  570,  517,  451,  434,  424,  401,  417,  403,  393,  375,  348,  348,  343,
+310,   287,  286,  260,  256,  250,  233,  205,  188,  175,  164,  148,  153,  149,  158,  156,
+155,   155,  160,  166,  173,  172,  166,  171,  176,  181,  169,   99,   96,   93,   83,
+89,     85,   82,   79,   73,   91,   90,   85,   88,  101,  106,  115,  124,  114,  108
+| yGrid = 
+| xGrid = 
+}}
+
+=== Januari 2021 ===
+7 januari - E medidanan cu a bay na vigor na december a keda prolonga te 31 di januari 2021 pa motivo di e aumento continuo di e cantidad di casonan. Esaki ta conta tambe pa e toque de keda di 23.00 pa 05.00 ora. <ref>[https://www.arubacovid19.org/post/medidanan-ta-sigui Escalacion di Medidanan], Aruba Covid-19 (7 januari 2021)</ref>
+
+25 januari - Presencia di e variante britanico di COVID-19 a keda registra. Ta trata di un residente cu no a biaha. 
+
+28 januari - E prome turista ta fayese di corona na Aruba, esaki ta trece e total di casonan fatal na 58 persona. E edad promedio di esnan cu a fayece ta 64 aña.<ref>[https://www.noticiacla.com/news/21507  Aruba awe a registra e prome turista cu a muri di Covid19], NoticiaCla (28 januari 2021)</ref> E total di casonan activo ta suma 406.
+
+=== Februari 2021 ===
+6 februari - E toque de keda ta keda na vigor y ta wordo suavisa desde mei anochi en bes di 23.00 ora. Tiendanan tambe por keda habri un ora mas te 23.00 ora. Den restaurante 6 en bes di 4 persona mag sinta na mesa pafor. Paden e maximo di 4 persona pa mesa ta keda na vigor.<ref>[https://nos.nl/liveblog/2367500-belgische-horeca-nog-langer-dan-een-maand-dicht-catshuisoverleg-over-avondklok-vervalt.html  Liveblog], Nos.nl</ref>
+
+=== Grafica di e di tres ola ===
+Cantidad di casonan activo di contagio den curso di tempo (1 december 2020-presente)
+{{Graph:Chart
+| type = line
+| linewidth = 1
+| showSymbols = 1
+| yType= integer
+| width = 600
+| colors = #ff6347, cyan, black
+| xAxisTitle = Fecha
+| xAxisAngle = -40
+| xType = date
+| xAxisFormat = %e %b
+| x = 
+1 December 2020, 2 December 2020, 3 December 2020, 4 December 2020, 5 December 2020, 6 December 2020, 7 December 2020, 8 December 2020, 9 December 2020, 10 December 2020, 11 December 2020, 12 December 2020, 13 December 2020, 14 December 2020, 15 December 2020, 16 December 2020, 17 December 2020, 18 December 2020, 19 December 2020, 20 December 2020, 21 December 2020, 22 December 2020, 23 December 2020, 24 December 2020, 25 December 2020, 26 December 2020, 27 December 2020, 28 December 2020, 29 December 2020, 30 December 2020, 31 December 2020,
+1 January 2021, 2 January 2021, 3 January 2021, 4 January 2021, 5 January 2021, 6 January 2021, 7 January 2021, 8 January 2021, 9 January 2021, 10 January 2021, 11 January 2021, 12 January 2021, 13 January 2021, 14 January 2021, 15 January 2021, 16 January 2021, 17 January 2021, 18 January 2021, 19 January 2021, 20 January 2021, 21 January 2021, 22 January 2021, 23 January 2021, 24 January 2021, 25 January 2021, 26 January 2021, 27 January 2021, 28 January 2021, 29 January 2021, 30 January 2021, 31 January 2021,
+1 February 2021, 2 February 2021, 3 February 2021, 4 February 2021, 5 February 2021, 6 February 2021
+| yAxisTitle = Cantidad di casonan activo
+| y1 =
+122,   139,  145,  151,  149,  132,  120,  112,   94,  100,  106,  108,  107,  107,  122,
+140,   158,  163,  171,  159,  160,  155,  173,  179,  161,  162,  164,  164,  206,  261,  291,
+281,   274,  306,  339,  429,  488,  510,  538,  527,  535,  537,  591,  624,  582,  541,
+524,   460,  476,  512,  523,  558,  502,  480,  427,  391,  362,  373,  406,  372,  380,  341,
+334,   321,  341,  366,  359,  344
+| yGrid = 
+| xGrid = 
+}}
 
 ==Wak tambe==
 * [[pandemia coronavirus 2019-2020]]
