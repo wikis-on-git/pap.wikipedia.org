@@ -1,0 +1,14 @@
+/* Prevent overflow behavior in mobile skins. */
+@media all and ( max-width: 720px ) {
+	body.skin-minerva div.mw-graph {
+		min-width: auto !important;
+		max-width: 100%;
+		overflow-x: auto;
+		overflow-y: visible;
+	}
+}
+
+.mw-graph-img {
+	width: inherit;
+	height: inherit;
+}
