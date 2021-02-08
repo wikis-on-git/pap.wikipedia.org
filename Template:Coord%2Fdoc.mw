@@ -1,13 +1,4 @@
 {{Documentation subpage}}
-{{#ifeq: {{FULLPAGENAME}} | Template:Coord | {{high-use|all-pages=yes}} }}
-{{Transwiki guide candidate}}
-{{lua|Module:Coordinates}}
-{{#switch: {{FULLPAGENAME}} | Template:Coord | Template:Coord/doc = {{Uses Wikidata|P625}} {{Tracks Wikidata|P625|cat=Coordinates Wikidata tracking categories}} }}
-
-==Quick guide==
-{{Coord how-to}}
-
-__TOC__
 ==Purpose==
 {{tlf|Coord}} provides a standard notation for encoding locations by their [[latitude]] and [[longitude]] coordinates. It is primarily for specifying the [[World Geodetic System|WGS84]] geographic coordinates of locations on [[Earth]], at the same time emitting a machine-readable [[Geo (microformat)|Geo microformat]]. However, it can also encode locations on natural satellites, dwarf planets, and planets other than Earth.
 
