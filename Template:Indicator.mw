@@ -1,1 +1,1 @@
-<includeonly><indicator name="{{{1}}}">{{{2}}}</indicator></includeonly><noinclude>{{Documentation}}</noinclude>
+<includeonly>BOE<!-- indicator name="{{{1}}}">{{{2}}}</indicator></includeonly --><noinclude>{{Documentation}}</noinclude>
