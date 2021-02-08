@@ -1,0 +1,30 @@
+{{Documentation subpage}}
+{{lua|Module:WikidataCoord}}
+{{Uses Wikidata|P625}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+This template takes geographic coordinate data in the form provided by Wikidata (dms), formats the data into the form required by [[Template:Coord]], and then calls Template:Coord to create links to GeoHack.  The basic form is:
+
+ '''&#123;{WikidataCoord|'''''wikidata page name'''''|'''''coordinate parameters'''''|'''''template parameters'''''}&#125;'''
+
+*'''<code>wikidata page name</code>''' – unnamed positional parameter is the Wikidata page name (starting with Q). Default is the current page.
+*'''<code>coordinate parameters</code>''' – passed through to Template:Coord unmodified; see §[[Template:Coord#Usage|Usage]] at Template:Coord
+*'''<code>template parameters</code>''' – passed through to Template:Coord unmodified; see §[[Template:Coord#Usage|Usage]] at Template:Coord
+**{{para|display}} behavior is different from Template:Coord:
+***when {{para|display}} is not present, the rendered coordinates are displayed at the top of the page (equivalent to {{para|display|title}}):
+***:<code><nowiki>{{WikidataCoord|Q218501}}</nowiki></code> → {{WikidataCoord|Q218501}}(display at top of page)
+***when {{para|display}} is present but empty, the rendered coordinates are displayed in line (equivalent to {{para|display|inline}}):
+***:<code><nowiki>{{WikidataCoord|Q24012602|display=}}</nowiki></code> → {{WikidataCoord|Q24012602|display=}}
+***typically, one would use {{para|display|inline,title}} so that it will display within an infobox and at the top of the page of an article.
+
+==Example==
+For an article that has a {{para|coordinates}} parameter within an infobox, use:
+:{{para|coordinates}}{{tlx|WikidataCoord|2=display=inline,title}}
+
+==See also==
+* {{tl|WikidataCoord hqlocation}}
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Coordinates templates]]
+[[Category:Templates using data from Wikidata]]
+}}</includeonly>
