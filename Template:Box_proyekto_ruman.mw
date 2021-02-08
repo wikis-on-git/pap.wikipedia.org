@@ -1,17 +1,4 @@
 {| class="interProjectTemplate {{#ifeq:{{NAMESPACE}}|Category||toccolours}}" style="width:100%; margin:{{#ifeq:{{NAMESPACE}}|Category|0.5em 0|1em 0 -0.5em 0}};"
 | width="34" height="28" | {{#if:{{{logo}}}|[[File:{{{logo|Wikimedia-logo.svg}}}|21px|alt=]]}}
 | {{{teksto}}}
-|}<noinclude>
-E patronchi ta un metashablon na manera ku fabriká lenknan pa proyektonan ligá na e Wikipedia aki.
-
-'''Nota bon''': Pa kategorianan ta mustra esaki sin rant òf koló, pa motibu di estétika.
-
-== Manera di uza ==
-<pre>{{Proyekto hermana box
-| logo = 
-| teksto = 
-}}</pre>
-
-</noinclude>
-
-[[Category:Wikipedia templates]]
+|}<noinclude>{{Documentation}}</noinclude>
