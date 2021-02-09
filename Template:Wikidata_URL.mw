@@ -1,0 +1,3 @@
+{{#invoke:String|replace|source={{{1|{{#property:{{{P|{{{p|P856}}}}}}|from={{{from|}}}}}}}}|pattern=^[Hh][Tt][Tt][Pp]([Ss]?)&#58;//|replace=http%1://|plain=false}}<noinclude>
+{{documentation}}
+</noinclude>
