@@ -9,7 +9,7 @@
              | style = margin-bottom:1.0em;
              | image = [[File:Edit-copy green.svg|40px|alt=|link=]]
              | text =
-'''This is a [[Wikipedia:Template documentation|documentation]] [[Wikipedia:Subpages|subpage]] for {{{1|[[:{{SUBJECTSPACE}}:{{BASEPAGENAME}}]]}}}'''.<br />It contains usage information, [[Wikipedia:Categorization|categories]] and other content that is not part of the original {{#if:{{{text2|}}} |{{{text2}}} |{{#if:{{{text1|}}} |{{{text1}}} |{{#ifeq:{{SUBJECTSPACE}} |{{ns:User}} |{{lc:{{SUBJECTSPACE}}}} template page |{{#if:{{SUBJECTSPACE}} |{{lc:{{SUBJECTSPACE}}}} page|article}}}}}}}}. 
+'''Esaki ta un suppàgina ku ta splika: {{{1|[[:{{SUBJECTSPACE}}:{{BASEPAGENAME}}]]}}}'''.<br />It contains usage information, [[Wikipedia:Categorization|categories]] and other content that is not part of the original {{#if:{{{text2|}}} |{{{text2}}} |{{#if:{{{text1|}}} |{{{text1}}} |{{#ifeq:{{SUBJECTSPACE}} |{{ns:User}} |{{lc:{{SUBJECTSPACE}}}} template page |{{#if:{{SUBJECTSPACE}} |{{lc:{{SUBJECTSPACE}}}} page|article}}}}}}}}. 
             }}
          }}<!--
 
