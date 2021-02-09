@@ -1,0 +1,43 @@
+{{Documentation subpage}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+
+__NOTOC__
+==Kon ta uza==
+E predefinishon '''Variante''' ta uzá pa indiká ta kua variante di papiamentu ta uzá den un artíkulo.
+
+==Estilo di Aruba==
+Pa indica cu un articulo ta skirbi na estilo di Aruba, usa lo siguiente:
+{| style="background: none; border: none;"
+|<pre>{{Variante|a}}</pre>
+|}
+Locual ta resulta ta e mensahe aki:
+
+:''E articulo aki ta skirbi na '''papiamento'''. Lo aprecia si por mantene e articulo aki na estilo di '''papiamento'''.''
+
+==Estilo di Boneiru==
+Pa indiká ku un artíkulo ta skirbí na estilo di Boneiru, uza lo siguiente:
+{| style="background: none; border: none;"
+|<pre>{{Variante|b}}</pre>
+|}
+Lokual ta resulta ta e mensahe aki:
+
+:''E artíkulo aki ta skirbí na '''[[Ortografia di papiamentu|papiamen]]'''. Lo ta apresiá si por mantené e artíkulo aki na estilo di '''papiamen'''.''
+
+==Estilo di Kòrsou==
+Pa indiká ku un artíkulo ta skirbí na estilo di Kòrsou, uza lo siguiente:
+{| style="background: none; border: none;"
+|<pre>{{Variante|c}}</pre>
+|}
+Lokual ta resulta ta e mensahe aki:
+
+:''E artíkulo aki ta skirbí na '''[[Ortografia di papiamentu|papiamentu]]'''. Lo ta apresiá si por mantené e artíkulo aki na estilo di '''papiamentu'''.''
+
+Tambe por uza '''<nowiki>{{Variante}}</nowiki>''' su so. Lo e tin mesun resultado.
+
+==Nota==
+Por fabor, no uza e predefinishon aki si e artíkulo no parse kompletu. Por ehèmpel, si un artíkulo tin solamente algun frase, i un hende ke amplia e artíkulo, e no mester sinti limitá pasombra e outor original a skirbi algun palabra den un otro variante. Ora ta uza e predefinishon aki, hasi uzo ora tin sufisiente kontenido den e artíkulo.
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line; interwikis at Wikidata -->
+
+}}</includeonly>
