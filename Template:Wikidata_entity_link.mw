@@ -1,0 +1,10 @@
+<includeonly>{{#if: {{{1|}}}
+| {{#switch: {{uc:{{padleft:|1|{{#if:1|{{{1}}}}}}}}}
+  | Q | P = [[d:Special:EntityPage/{{#if:1|{{{1}}}}}|{{#invoke:wd|label|{{{1}}}}} <small>({{#if:1|{{{1}}}}})</small>]]
+  | #default = [[d:Special:EntityPage/Q{{#if:1|{{{1}}}}}|{{#invoke:wd|label|Q{{#if:1|{{{1}}}}}}} <small>(Q{{#if:1|{{{1|}}}}})</small>]]
+  }}
+| {{#if:{{#invoke:wd|label|raw}}
+  | [[d:Special:EntityPage/{{#invoke:wd|label|raw}}|{{#invoke:wd|label}} <small>({{#invoke:wd|label|raw}})</small>]]
+  | <small>(no entity)</small>
+  }}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>
