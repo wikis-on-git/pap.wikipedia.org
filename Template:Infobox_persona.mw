@@ -1,6 +1,5 @@
 {{Infobox|child={{{child|}}}
 | bodyclass  = biography vcard
-| child = {{{child|no}}}
 
 | above      = {{Br separated entries
 | 1 = {{#if:{{{honorific prefix|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{honorific prefix|{{{honorific_prefix|}}}}}}</span>}}
