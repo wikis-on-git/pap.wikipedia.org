@@ -25,7 +25,7 @@
 | data26     = {{#invoke:String2 | ucfirst | {{#invoke:WikidataIB | getValue | rank=best |P106 |name=occupation |qid={{{qid|}}} |onlysourced=no |suppressfields={{{suppressfields|}}} |fetchwikidata={{{fetchwikidata|ALL}}}  |noicon={{{noicon|}}}  |list={{{list|}}} |qual=DATES |{{{occupation|}}} }} }}
 | class26    = role
 
-| below     = {{EditOnWikidata|noicon={{{noicon|true}}}}}
+| below     = {{EditOnWikidata|noicon={{{noicon|}}}}}
 
 }}<noinclude>
 {{Documentation}}
