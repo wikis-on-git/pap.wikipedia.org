@@ -14,4 +14,7 @@
 | label3    = Puesto
 | data3     = {{#invoke:String2 | ucfirst | {{#invoke:WikidataIB | getValue | rank=best |P39 |name=position |qid={{{qid|}}} |onlysourced=no |suppressfields={{{suppressfields|}}} |fetchwikidata={{{fetchwikidata|ALL}}}  |noicon={{{noicon|}}}  |list={{{list|}}} |qual=DATES |{{{party|}}} }} }}
 
+| label4    = Predesesor
+| data4     = {{{predecessor|}}}
+
 }}<noinclude>{{Documentation}}</noinclude>
