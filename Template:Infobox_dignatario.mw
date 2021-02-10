@@ -1,0 +1,17 @@
+{{Infobox|child={{{child|}}}
+| bodyclass  = biography vcard
+| above      = {{Br separated entries
+| 1 = {{#if:{{{honorific prefix|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{honorific prefix|{{{honorific_prefix|}}}}}}</span>}}
+| 2 = <span class="fn">{{#if:{{{name|}}}|{{{name}}}|{{PAGENAMEBASE}}}}</span>
+ | 3 = {{#if:{{{honorific suffix|{{{honorific_suffix|}}}}}}|<span class="honorific-suffix" style="font-size: small">{{{honorific suffix|{{{honorific_suffix|}}}}}}</span>}}
+ }}
+| abovestyle = {{{abovestyle|}}}
+| data1 = {{Infobox persona|child=yes|qid={{{qid|}}}|suppressfields=occupation }}
+
+| label2    = Partido
+| data2     = {{#invoke:String2 | ucfirst | {{#invoke:WikidataIB | getValue | rank=best |P102 |name=party |qid={{{qid|}}} |onlysourced=no |suppressfields={{{suppressfields|}}} |fetchwikidata={{{fetchwikidata|ALL}}}  |noicon={{{noicon|}}}  |list={{{list|}}} |qual=DATES |{{{party|}}} }} }}
+
+| label3    = Puesto
+| data3     = {{#invoke:String2 | ucfirst | {{#invoke:WikidataIB | getValue | rank=best |P39 |name=position |qid={{{qid|}}} |onlysourced=no |suppressfields={{{suppressfields|}}} |fetchwikidata={{{fetchwikidata|ALL}}}  |noicon={{{noicon|}}}  |list={{{list|}}} |qual=DATES |{{{party|}}} }} }}
+
+}}<noinclude>{{Documentation}}</noinclude>
