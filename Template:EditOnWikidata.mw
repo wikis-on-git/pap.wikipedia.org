@@ -1,6 +1,6 @@
 {{#switch: {{{noicon|}}}
  | no = 
  | false = 
- | #default = <div class="metadata" style="text-align: right;">&#91;[[d:{{#if:{{{qid|}}}|{{{qid}}}|{{#invoke:WikidataIB|pageId}}}}|edit on Wikidata]]]</div>
+ | #default = <div class="metadata" style="text-align: right;">&#91;[[d:{{#if:{{{qid|}}}|{{{qid}}}|{{#invoke:WikidataIB|pageId}}}}|editá pa Wikidata]]]</div>
 }}<noinclude>
 {{Documentation}}</noinclude>
