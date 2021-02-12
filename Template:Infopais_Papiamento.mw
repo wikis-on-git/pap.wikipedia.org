@@ -53,14 +53,8 @@
 | '''Zona di tempo'''
 | {{{zona_di_tempo}}} ([[Tempo Universal Coordina|UTC]]{{{utc_offset}}})
 |-
-| '''Codico Telefonico'''
-| {{{codico_telefonico}}}
-|-
-| '''Codico DNSG'''
-| {{{codico_dnsg}}}
-|-
-| '''Codico ISO'''
-| {{{codico_iso}}}
+| '''[[WWW]] | [[ISO]] | [[Tel]]'''
+| {{{www_iso_tel}}}
 |-
 | colspan="2" style="text-align: center; background: lightgrey;" | '''Informacion extra'''
 |-
@@ -73,7 +67,6 @@
 |}
 <noinclude>
 __NOTOC__
-
 ===Con ta uza===
 E predefinicion '''Infopais Papiamento''' ta uza pa duna varios pida informacion di un pais na un manera organisa.
 
