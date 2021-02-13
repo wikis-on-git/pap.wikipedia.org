@@ -23,6 +23,9 @@
 | '''Idioma(nan) oficial'''
 | {{{idiomanan_oficial}}}
 |-
+| '''Gentilicia'''
+| {{{gentilicia}}}
+|-
 | '''Forma di gobernacion'''
 | {{{forma_di_gobernacion}}}
 |-
@@ -47,14 +50,23 @@
 | '''Densidad'''
 | {{{densidad_pop}}}
 |-
+| '''Gruponan etnico'''
+| {{{gruponan_etnico}}}
+|-
 | '''Moneda'''
 | style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{codigo_moneda}}}]]</code>)
 |-
 | '''Zona di tempo'''
 | {{{zona_di_tempo}}} ([[Tempo Universal Coordina|UTC]]{{{utc_offset}}})
 |-
-| '''[[WWW]] | [[ISO]] | [[Tel]]'''
-| {{{www_iso_tel}}}
+| '''[[Codico telefonico]]'''
+| {{{codico_telefonico}}}
+|-
+| '''[[Codico TLD]]'''
+| {{{codico_tld}}}
+|-
+| '''[[ISO]]'''
+| {{{Iso}}}
 |-
 | colspan="2" style="text-align: center; background: lightgrey;" | '''Informacion extra'''
 |-
@@ -82,6 +94,8 @@ E predefinicion '''Infopais Papiamento''' ta uza pa duna varios pida informacion
 |capital = 
 |ciudad_di_mas_grandi = 
 |idiomanan_oficial = 
+|gruponan_etnico =
+|gentilicia =
 |forma_di_gobernacion =
 |forma_di_estado = 
 |cabesante_di_estado1 =
@@ -106,9 +120,9 @@ E predefinicion '''Infopais Papiamento''' ta uza pa duna varios pida informacion
 |codigo_moneda = 
 |zona_di_tempo =
 |utc_offset = 
-|codigo_tld = 
-|codigo_telefon = 
-|www_iso_tel =
+|codigo_telefonico = 
+|codico_tld = 
+|iso =
 |nota = 
 }}</pre>
 |}
