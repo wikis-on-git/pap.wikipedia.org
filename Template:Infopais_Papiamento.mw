@@ -50,8 +50,8 @@
 | '''Densidad'''
 | {{{densidad_pop}}}
 |-
-| '''Gruponan etnico'''
-| {{{gruponan_etnico}}}
+| '''Pais natal di habitantenan'''
+| {{{pais_natal_di_habitantenan}}}
 |-
 | '''Moneda'''
 | style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{codigo_moneda}}}]]</code>)
@@ -94,7 +94,7 @@ E predefinicion '''Infopais Papiamento''' ta uza pa duna varios pida informacion
 |capital = 
 |ciudad_di_mas_grandi = 
 |idiomanan_oficial = 
-|gruponan_etnico =
+|pais_natal_di_habitantenan=
 |gentilicia =
 |forma_di_gobernacion =
 |forma_di_estado = 
