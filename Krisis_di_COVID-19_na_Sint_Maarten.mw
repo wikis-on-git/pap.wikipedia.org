@@ -112,7 +112,7 @@ Kantidat di kasonan aktivo den kurso di tempo (ougustus 2020—presente)
 1 December 2020, 2 December 2020, 3 December 2020, 4 December 2020, 5 December 2020, 7 December 2020, 8 December 2020, 9 December 2020, 10 December 2020, 11 December 2020, 12 December 2020, 14 December 2020, 15 December 2020, 16 December 2020, 17 December 2020, 18 December 2020, 19 December 2020, 20 December 2020, 21 December 2020, 22 December 2020, 23 December 2020, 24 December 2020, 25 December 2020, 27 December 2020, 28 December 2020, 29 December 2020, 30 December 2020, 31 December 2020,
 1 January 2021, 2 January 2021, 3 January 2021, 4 January 2021, 5 January 2021,6 January 2021, 7 January 2021, 8 January 2021, 9 January 2021, 10 January 2021, 11 January 2021, 12 January 2021, 13 January 2021, 14 January 2021, 15 January 2021,
 17 January 2021, 18 January 2021, 19 January 2021, 20 January 2021, 21 January 2021, 22 January 2021, 23 January 2021, 24 January 2021, 25 January 2021, 26 January 2021, 27 January 2021, 28 January 2021, 29 January 2021, 30 January 2021, 31 January 2021,
-1 February 2021, 2 February 2021, 3 February 2021, 4 February 2021, 5 February 2021, 6 February 2021, 7 February 2021, 8 February 2021, 9 February 2021, 10 February 2021, 11 February 2021, 12 February 2021
+1 February 2021, 2 February 2021, 3 February 2021, 4 February 2021, 5 February 2021, 6 February 2021, 7 February 2021, 8 February 2021, 9 February 2021, 10 February 2021, 11 February 2021, 12 February 2021, 13 February 2021, 14 February 2021, 15 February 2021, 16 February 2021, 17 February 2021, 18 February 2021, 19 February 2021
 | yAxisTitle = Kantidat di kasonan aktivo
 | y1 = 
 0,     1,   1,   1,   1,   2,   2,   2,   6,   6,  18,  18,  36,  36,  42, 47, 49, 49, <!-- up to 31 July -->
@@ -128,7 +128,8 @@ Kantidat di kasonan aktivo den kurso di tempo (ougustus 2020—presente)
 128, 134, 132, 138, 118, 110, 122, 109, 121, 129,  97,  86,  88,  87,  98,
 89,   80,  75,  68,  92,  98, 110, 102,  95,  94, 103, 102, 111, 124, 123,
 127, 120, 127, 134, 127, 133, 134, 145, 133, 129, 155, 151, 162, 158, 167,
-144, 148, 140, 129, 130, 121, 126, 117, 108, 117,  89,  94
+144, 148, 140, 129, 130, 121, 126, 117, 108, 117,  89,  94,  78,  58,  58,
+59,   54,  55,  51
 | yGrid = 
 | xGrid = 
 }}
