@@ -32,26 +32,26 @@
 | '''Forma di estado'''
 | {{{forma_di_estado}}}
 |-
-| '''Hefe di estado'''
-| {{{hefe_di_estado1}}}
+| '''Cabesante di estado'''
+| {{{cabesante_di_estado1}}}
 |-
 | '''Gobernador'''
-| {{{hefe_di_estado2}}}
+| {{{cabesante_di_estado2}}}
 |-
 | '''Prome Minister'''
-| {{{hefe_di_estado3}}}
+| {{{cabesante_di_estado3}}}
 |-
 | '''Area'''
 | {{{area}}}
 |-
-| '''Poblacion'''
+| '''Populacion'''
 | {{{pop_aproxima}}}
 |-
 | '''Densidad'''
 | {{{densidad_pop}}}
 |-
-| '''Pais di origen di habitantenan'''
-| {{{pais_di_origen_di_habitantenan}}}
+| '''Pais natal di habitantenan'''
+| {{{pais_natal_di_habitantenan}}}
 |-
 | '''Moneda'''
 | style="white-space: nowrap;" | {{{moneda}}} (<code>[[ISO 4217|{{{codigo_moneda}}}]]</code>)
@@ -70,11 +70,11 @@
 |-
 | colspan="2" style="text-align: center; background: lightgrey;" | '''Informacion extra'''
 |-
-| '''Producto Nacional Bruto'''
-| {{{producto_nacional}}}
+| '''Produccion Nacional Bruto'''
+| {{{produccion_nacional}}}
 |-
-| '''Producto Nacional Bruto pa capita'''
-| {{{producto_nacional_capita}}}
+| '''Produccion Nacional Bruto pa capita'''
+| {{{produccion_nacional_capita}}}
 {{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
 |}
 <noinclude>
@@ -95,14 +95,14 @@ E predefinicion '''Infopais Papiamento''' ta uza pa duna varios pida informacion
 |capital = 
 |ciudad_di_mas_grandi = 
 |idiomanan_oficial = 
-|pais_origen_di_habitantenan=
+|pais_natal_di_habitantenan=
 |gentilicia =
 |forma_di_gobernacion =
 |forma_di_estado = 
-|hefe_di_estado1 =
-|hefe_di_estado2 =
-|hefe_di_estado3 = 
-|nombernan_hefenan =  
+|cabesante_di_estado1 =
+|cabesante_di_estado2 =
+|cabesante_di_estado3 = 
+|nombernan_cabesantenan =  
 |eventonan_di_fundacion = 
 |fechanan_di_fundacion = 
 |area = 
@@ -115,8 +115,8 @@ E predefinicion '''Infopais Papiamento''' ta uza pa duna varios pida informacion
 |aña_di_censo =
 |densidad_pop = 
 |rango_densidad_pop = 
-|producto_nacional =
-|producto_nacional_capita =
+|produccion_nacional =
+|produccio_nacional_capita =
 |moneda = 
 |codigo_moneda = 
 |zona_di_tempo =
