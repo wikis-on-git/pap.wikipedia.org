@@ -32,7 +32,7 @@
 | '''Forma di estado'''
 | {{{forma_di_estado}}}
 |-
-| '''Cabesante di estado'''
+| '''Hefe di estado'''
 | {{{cabesante_di_estado1}}}
 |-
 | '''Gobernador'''
@@ -44,13 +44,13 @@
 | '''Area'''
 | {{{area}}}
 |-
-| '''Populacion'''
+| '''Poblacion'''
 | {{{pop_aproxima}}}
 |-
 | '''Densidad'''
 | {{{densidad_pop}}}
 |-
-| '''Pais natal di habitantenan'''
+| '''Pais di origen di habitantenan'''
 | {{{pais_natal_di_habitantenan}}}
 |-
 | '''Moneda'''
@@ -70,10 +70,10 @@
 |-
 | colspan="2" style="text-align: center; background: lightgrey;" | '''Informacion extra'''
 |-
-| '''Produccion Nacional Bruto'''
+| '''Producto Nacional Bruto'''
 | {{{produccion_nacional}}}
 |-
-| '''Produccion Nacional Bruto pa capita'''
+| '''Producto Nacional Bruto pa capita'''
 | {{{produccion_nacional_capita}}}
 {{#if:{{{nota|}}}|<tr><td colspan="2"><small>{{{nota|}}}</small></td></tr>|}}
 |}
