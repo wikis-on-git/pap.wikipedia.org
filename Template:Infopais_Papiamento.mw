@@ -59,13 +59,13 @@
 | '''Zona di tempo'''
 | {{{zona_di_tempo}}} ([[Tempo Universal Coordina|UTC]]{{{utc_offset}}})
 |-
-| '''[[Codico telefonico]]'''
+| '''Codico telefonico'''
 | {{{codico_telefonico}}}
 |-
-| '''[[Codico TLD]]'''
+| '''Codico TLD'''
 | {{{codico_tld}}}
 |-
-| '''[[ISO]]'''
+| '''ISO'''
 | {{{Iso}}}
 |-
 | colspan="2" style="text-align: center; background: lightgrey;" | '''Informacion extra'''
