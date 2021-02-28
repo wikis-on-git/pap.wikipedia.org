@@ -1,0 +1,24 @@
+{{#if: {{{needed|}}}
+|{{page needed|date={{{date|}}} }}
+|<sup class="reference" style="white-space:nowrap;">{{#if: {{{page|}}}
+ |(<span {{#if:{{{q|{{{quote|}}}}}}|style="border-bottom: 1px dashed;" title='"{{#tag:nowiki|{{#invoke:String|replace|{{trim quotes|s={{{q|{{{quote}}}}}}}}|"|&quot;}}}}"'}}>{{#if: {{{nopp|}}}||p}}{{{page}}}</span>)
+ |{{#if: {{{pages|}}}
+   |(<span {{#if:{{{q|{{{quote|}}}}}}|style="border-bottom: 1px dashed;" title='"{{#tag:nowiki|{{#invoke:String|replace|{{trim quotes|s={{{q|{{{quote}}}}}}}}|"|&quot;}}}}"'}}>{{#if: {{{nopp|}}}||pp}}{{{pages}}}</span>)
+   |{{#if: {{{at|}}}
+      |(<span {{#if:{{{q|{{{quote|}}}}}}|style="border-bottom: 1px dashed;" title='"{{#tag:nowiki|{{#invoke:String|replace|{{trim quotes|s={{{q|{{{quote}}}}}}}}|"|&quot;}}}}"'}}>{{{at}}}</span>)
+      |<nowiki>:</nowiki><span {{#if:{{{q|{{{quote|}}}}}}|style="border-bottom: 1px dashed;" title='"{{#tag:nowiki|{{#invoke:String|replace|{{trim quotes|s={{{q|{{{quote}}}}}}}}|"|&quot;}}}}"'}}>{{trim|
+        {{#invoke:String|replace|
+          {{#invoke:String|replace|
+            {{#invoke:String|replace|{{{1|}}}|(%d+)%-(%d+)|%1&ndash;%2|plain=false}} <!-- Match all ranges of numbers e.g. 1-2 -->
+          |(%d+)%-%s*$|%1&ndash;|plain=false}} <!-- Match all like "1-" which only have whitespace after and then end of parameter -->
+        |(%d+)%-,([%s][^%s]+)|%1&ndash;%2|plain=false}} <!-- Match all like "2-, 10" but never "1-," -->
+      }}</span>
+    }}
+  }}
+ }}</sup>
+}}<noinclude><!--
+   Note: Please do not change the parameter names "at", "page", "pages"
+         and "nopp" as they are also used by [[Template:Citation]].
+-->
+{{Documentation}}
+</noinclude>
