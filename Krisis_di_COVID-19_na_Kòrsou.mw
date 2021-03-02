@@ -132,7 +132,8 @@ Kantidat di kasonan aktivo den kurso di tempo (ougustus 2020—presente)
 1 November 2020, 2 November 2020, 3 November 2020, 4 November 2020, 5 November 2020, 6 November 2020, 7 November 2020, 8 November 2020, 9 November 2020, 10 November 2020, 11 November 2020, 12 November 2020, 13 November 2020, 14 November 2020, 15 November 2020, 16 November 2020, 17 November 2020, 18 November 2020, 19 November 2020, 20 November 2020, 21 November 2020, 22 November 2020, 23 November 2020, 24 November 2020, 26 November 2020, 27 November 2020, 28 November 2020, 29 November 2020, 30 November 2020,
 1 December 2020, 2 December 2020, 3 December 2020, 4 December 2020, 5 December 2020, 6 December 2020, 7 December 2020, 8 December 2020, 9 December 2020, 10 December 2020, 11 December 2020, 13 December 2020, 14 December 2020, 15 December 2020, 16 December 2020, 17 December 2020, 18 December 2020, 19 December 2020, 20 December 2020, 21 December 2020, 22 December 2020, 23 December 2020, 24 December 2020, 25 December 2020, 26 December 2020, 27 December 2020, 28 December 2020, 29 December 2020, 30 December 2020, 31 December 2020,
 2 January 2021, 3 January 2021, 4 January 2021, 5 January 2021, 6 January 2021, 7 January 2021, 8 January 2021, 9 January 2021, 10 January 2021, 11 January 2021, 12 January 2021, 13 January 2021, 14 January 2021, 15 January 2021, 16 January 2021, 17 January 2021, 18 January 2021, 19 January 2021, 20 January 2021, 21 January 2021, 22 January 2021, 23 January 2021, 24 January 2021, 25 January 2021, 26 January 2021, 27 January 2021, 28 January 2021, 29 January 2021, 30 January 2021, 31 January 2021,
-1 February 2021, 2 February 2021, 3 February 2021, 4 February 2021, 5 February 2021, 6 February 2021, 7 February 2021, 8 February 2021, 9 February 2021, 10 February 2021, 11 February 2021, 12 February 2021, 13 February 2021, 14 February 2021, 15 February 2021, 16 February 2021, 17 February 2021, 18 February 2021, 19 February 2021, 20 February 2021, 21 February 2021
+1 February 2021, 2 February 2021, 3 February 2021, 4 February 2021, 5 February 2021, 6 February 2021, 7 February 2021, 8 February 2021, 9 February 2021, 10 February 2021, 11 February 2021, 12 February 2021, 13 February 2021, 14 February 2021, 15 February 2021, 16 February 2021, 17 February 2021, 18 February 2021, 19 February 2021, 20 February 2021, 21 February 2021, 22 February 2021, 23 February 2021, 24 February 2021, 25 February 2021, 26 February 2021, 27 February 2021, 28 February 2021,
+1 March 2021
 | yAxisTitle = Kantidat di kasonan aktivo
 | y1 = 
 0,       1,    1,    1,    1,    1,    2,    2,    4,    4,    3,    5,    4,    5,   8,   12,  14, 18, 19, 26, 31, 33, <!-- -31 Aug  -->
@@ -147,7 +148,8 @@ Kantidat di kasonan aktivo den kurso di tempo (ougustus 2020—presente)
 1328, 1131, 1027, 1006,  898,  908,  884,  758,  557,  460,  427,  373,  271,  233,
 209,   212,  146,  131,  122,  109,  107,  104,   94,   90,   96,   81,   75,   74,   75,   68,
 62,     62,   64,   61,   52,   54,   57,   53,   53,   59,   54,   62,   55,   60,   59,
-62,     60,   54,   56,   56,   59
+62,     60,   54,   56,   56,   59,   62,   63,   63,   62,   64,   68,   67,
+64
 | yGrid = 
 | xGrid = 
 }}
