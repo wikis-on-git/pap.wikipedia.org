@@ -27,13 +27,13 @@
 | style="white-space: nowrap;" | '''[[Lista di país segun forma di gobernashon|Forma di gobernashon]]''' <div style="text-align: left;">{{{titulonan_kabesantenan}}}</div>
 | style="white-space: nowrap;" | {{{forma_di_gobernashon}}}<br />{{{nombernan_kabesantenan}}}
 |-
-| style="white-space: nowrap;" | {{{tipo_di_soberania}}}<br />{{{eventonan_di_fundashon}}}
+| style="white-space: nowrap;" | '''{{{tipo_di_soberania}}}'''<br />{{{eventonan_di_fundashon}}}
 | style="white-space: nowrap;" | {{{fechanan_di_fundashon}}}
 |-
 | '''[[Lista di país i teritorio segun area|Area]]'''<br />&nbsp;- Total<br>&nbsp;- Awa (%)
 | &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;<br />{{{persentahe_awa}}}
 |-
-| '''[[Poblashon]]'''<br />&nbsp;- Aproksima (2017)<br>&nbsp;- Densidat
+| '''[[Poblashon]]'''<br />&nbsp;- '''Aproksima''' (2017)<br>&nbsp;- '''Densidat'''
 | &nbsp;<br />{{{pop_aproksima}}}&nbsp;<br />{{{densidat_pop}}}
 |-
 | '''[[Moneda]]'''
