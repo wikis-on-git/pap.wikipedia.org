@@ -262,7 +262,7 @@ Cantidad di casonan activo di contagio den curso di tempo (1 december 2020-prese
 1 January 2021, 2 January 2021, 3 January 2021, 4 January 2021, 5 January 2021, 6 January 2021, 7 January 2021, 8 January 2021, 9 January 2021, 10 January 2021, 11 January 2021, 12 January 2021, 13 January 2021, 14 January 2021, 15 January 2021, 16 January 2021, 17 January 2021, 18 January 2021, 19 January 2021, 20 January 2021, 21 January 2021, 22 January 2021, 23 January 2021, 24 January 2021, 25 January 2021, 26 January 2021, 27 January 2021, 28 January 2021, 29 January 2021, 30 January 2021, 31 January 2021,
 1 February 2021, 2 February 2021, 3 February 2021, 4 February 2021, 5 February 2021, 6 February 2021, 7 February 2021, 8 February 2021, 9 February 2021, 10 February 2021, 11 February 2021, 12 February 2021, 13 February 2021, 14 February 2021, 15 February 2021, 16 February 2021, 17 February 2021, 18 February 2021, 19 February 2021, 20 February 2021, 21 February 2021, 22 February 2021, 23 February 2021, 24 February 2021, 25 February 2021, 26 February 2021, 27 February 2021, 28 February 2021,
 1 March 2021, 2 March 2021, 3 March 2021, 4 March 2021, 5 March 2021, 6 March 2021, 7 March 2021, 8 March 2021, 9 March 2021, 10 March 2021, 11 March 2021, 12 March 2021, 13 March 2021, 14 March 2021, 15 March 2021, 17 March 2021, 18 March 2021, 19 March 2021, 20 March 2021, 21 March 2021, 22 March 2021, 23 March 2021, 24 March 2021, 25 March 2021, 26 March 2021, 27 March 2021, 28 March 2021, 29 March 2021, 30 March 2021, 31 March 2021,
-1 April 2021, 2 April 2021, 3 April 2021, 4 April 2021, 5 April 2021, 6 April 2021, 7 April 2021, 8 April 2021, 9 April 2021, 10 April 2021, 11 April 2021, 12 April 2021, 13 April 2021, 14 April 2021
+1 April 2021, 2 April 2021, 3 April 2021, 4 April 2021, 5 April 2021, 6 April 2021, 7 April 2021, 8 April 2021, 9 April 2021, 10 April 2021, 11 April 2021, 12 April 2021, 13 April 2021, 14 April 2021, 15 April 2021, 16 April 2021, 17 April 2021, 18 April 2021
 | yAxisTitle = Cantidad di casonan activo
 | y1 =
 122,   139,  145,  151,  149,  132,  120,  112,   94,  100,  106,  108,  107,  107,  122,
@@ -273,7 +273,8 @@ Cantidad di casonan activo di contagio den curso di tempo (1 december 2020-prese
 261,   292,  285,  286,  285,  280,  260,  280,  268,  239,  252,  240,  223,
 179,   169,  174,  209,  182,  202,  205,  192,  207,  221,  221,  234,  270,  271,  268,
 327,   379,  394,  417,  437,  426,  510,  567,  618,  659,  677,  619,  604,  654,  673,
-704,   659,  623,  564,  538,  544,  572,  599,  583,  573,  547,  516,  515,  494
+704,   659,  623,  564,  538,  544,  572,  599,  583,  573,  547,  516,  515,  494,  516,
+512,   488,  451
 | yGrid = 
 | xGrid = 
 }}
