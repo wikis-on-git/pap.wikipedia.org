@@ -6,7 +6,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 
 {{wikidata|description}}
 
-=== Artistanan i arkitektonan ===
+=== Artista i arkitekto ===
 {{div col|2}}
 
 #{{#if:{{wikidata|title|raw|Q4724}}|[[{{wikidata|title|raw|Q4724}}]]|{{#if:{{wikidata|label||Q4724}}|[[{{wikidata|label||Q4724}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|4724}}</span> ''{{wikidata|description||Q4724}}''
@@ -29,7 +29,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q5604}}|[[{{wikidata|title|raw|Q5604}}]]|{{#if:{{wikidata|label||Q5604}}|[[{{wikidata|label||Q5604}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|5604}}</span> ''{{wikidata|description||Q5604}}''
 {{div col end}}
 
-=== Outornan i poetanan ===
+=== Outor i poeta ===
 {{div col|2}} 
 #{{#if:{{wikidata|title|raw|Q5670}}|[[{{wikidata|title|raw|Q5670}}]]|{{#if:{{wikidata|label||Q5670}}|[[{{wikidata|label||Q5670}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|5670}}</span> ''{{wikidata|description||Q5670}}''
 #{{#if:{{wikidata|title|raw|Q5673}}|[[{{wikidata|title|raw|Q5673}}]]|{{#if:{{wikidata|label||Q5673}}|[[{{wikidata|label||Q5673}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|5673}}</span> ''{{wikidata|description||Q5673}}''
@@ -65,7 +65,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q1398}}|[[{{wikidata|title|raw|Q1398}}]]|{{#if:{{wikidata|label||Q1398}}|[[{{wikidata|label||Q1398}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1398}}</span> ''{{wikidata|description||Q1398}}''
 {{div col end}}
 
-=== Komponistanan i músikonan ===
+=== Kompositor i músiko ===
 {{div col|2}} 
 #{{#if:{{wikidata|title|raw|Q1779}}|[[{{wikidata|title|raw|Q1779}}]]|{{#if:{{wikidata|label||Q1779}}|[[{{wikidata|label||Q1779}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1779}}</span> ''{{wikidata|description||Q1779}}''
 #'''{{#if:{{wikidata|title|raw|Q1339}}|[[{{wikidata|title|raw|Q1339}}]]|{{#if:{{wikidata|label||Q1339}}|[[{{wikidata|label||Q1339}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1339}}</span>''' ''{{wikidata|description||Q1339}}''
@@ -90,7 +90,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #'''{{#if:{{wikidata|title|raw|Q1511}}|[[{{wikidata|title|raw|Q1511}}]]|{{#if:{{wikidata|label||Q1511}}|[[{{wikidata|label||Q1511}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1511}}</span>''' ''{{wikidata|description||Q1511}}''
 {{div col end}}
 
-=== Eksploradónan i biaheronan ===
+=== Eksploradó i biahero ===
 {{div col|2}} 
 #{{#if:{{wikidata|title|raw|Q926}}|[[{{wikidata|title|raw|Q926}}]]|{{#if:{{wikidata|label||Q926}}|[[{{wikidata|label||Q926}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|926}}</span> ''{{wikidata|description||Q926}}''
 #{{#if:{{wikidata|title|raw|Q1615}}|[[{{wikidata|title|raw|Q1615}}]]|{{#if:{{wikidata|label||Q1615}}|[[{{wikidata|label||Q1615}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1615}}</span> ''{{wikidata|description||Q1615}}''
@@ -106,7 +106,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q7333}}|[[{{wikidata|title|raw|Q7333}}]]|{{#if:{{wikidata|label||Q7333}}|[[{{wikidata|label||Q7333}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7333}}</span> ''{{wikidata|description||Q7333}}''
 {{div col end}}
 
-=== Direktornan di esena, screenwriters i aktornan ===
+=== Direktor di esena, autor di senario i aktor ===
 {{div col|2}} 
 #{{#if:{{wikidata|title|raw|Q7546}}|[[{{wikidata|title|raw|Q7546}}]]|{{#if:{{wikidata|label||Q7546}}|[[{{wikidata|label||Q7546}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7546}}</span> ''{{wikidata|description||Q7546}}''
 #{{#if:{{wikidata|title|raw|Q4605}}|[[{{wikidata|title|raw|Q4605}}]]|{{#if:{{wikidata|label||Q4605}}|[[{{wikidata|label||Q4605}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|4605}}</span> ''{{wikidata|description||Q4605}}''
@@ -122,7 +122,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q8873}}|[[{{wikidata|title|raw|Q8873}}]]|{{#if:{{wikidata|label||Q8873}}|[[{{wikidata|label||Q8873}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8873}}</span> ''{{wikidata|description||Q8873}}''
 {{div col end}}
 
-=== Inventornan, sientifikonan i matemátikonan ===
+=== Inventor, sientifiko i matemátiko ===
 {{div col|3}} 
 #'''{{#if:{{wikidata|title|raw|Q8739}}|[[{{wikidata|title|raw|Q8739}}]]|{{#if:{{wikidata|label||Q8739}}|[[{{wikidata|label||Q8739}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8739}}</span>''' ''{{wikidata|description||Q8739}}''
 #{{#if:{{wikidata|title|raw|Q8011}}|[[{{wikidata|title|raw|Q8011}}]]|{{#if:{{wikidata|label||Q8011}}|[[{{wikidata|label||Q8011}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8011}}</span> ''{{wikidata|description||Q8011}}''
@@ -160,7 +160,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #'''{{#if:{{wikidata|title|raw|Q9041}}|[[{{wikidata|title|raw|Q9041}}]]|{{#if:{{wikidata|label||Q9041}}|[[{{wikidata|label||Q9041}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|9041}}</span>''' ''{{wikidata|description||Q9041}}''
 {{div col end}}
 
-=== Filósofonan i sosiólogonan ===
+=== Filósofo i sosiólogo ===
 {{div col|2}} 
 #'''{{#if:{{wikidata|title|raw|Q868}}|[[{{wikidata|title|raw|Q868}}]]|{{#if:{{wikidata|label||Q868}}|[[{{wikidata|label||Q868}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|868}}</span>''' ''{{wikidata|description||Q868}}''
 #{{#if:{{wikidata|title|raw|Q7197}}|[[{{wikidata|title|raw|Q7197}}]]|{{#if:{{wikidata|label||Q7197}}|[[{{wikidata|label||Q7197}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7197}}</span> ''{{wikidata|description||Q7197}}''
@@ -190,7 +190,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q9397}}|[[{{wikidata|title|raw|Q9397}}]]|{{#if:{{wikidata|label||Q9397}}|[[{{wikidata|label||Q9397}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|9397}}</span> ''{{wikidata|description||Q9397}}''
 {{div col end}}
 
-=== Lidernan polítika ===
+=== Lider polítiko ===
 {{div col|3}} 
 #{{#if:{{wikidata|title|raw|Q8597}}|[[{{wikidata|title|raw|Q8597}}]]|{{#if:{{wikidata|label||Q8597}}|[[{{wikidata|label||Q8597}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8597}}</span> ''{{wikidata|description||Q8597}}''
 #'''{{#if:{{wikidata|title|raw|Q8409}}|[[{{wikidata|title|raw|Q8409}}]]|{{#if:{{wikidata|label||Q8409}}|[[{{wikidata|label||Q8409}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8409}}</span>''' ''{{wikidata|description||Q8409}}''
@@ -233,7 +233,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #'''{{#if:{{wikidata|title|raw|Q23}}|[[{{wikidata|title|raw|Q23}}]]|{{#if:{{wikidata|label||Q23}}|[[{{wikidata|label||Q23}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|23}}</span>''' ''{{wikidata|description||Q23}}''
 {{div col end}}
 
-=== Prosernan religioso i téologonan ===
+=== Proser??? religioso i téologo ===
 
 #{{#if:{{wikidata|title|raw|Q9181}}|[[{{wikidata|title|raw|Q9181}}]]|{{#if:{{wikidata|label||Q9181}}|[[{{wikidata|label||Q9181}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|9181}}</span> ''{{wikidata|description||Q9181}}''
 #{{#if:{{wikidata|title|raw|Q9438}}|[[{{wikidata|title|raw|Q9438}}]]|{{#if:{{wikidata|label||Q9438}}|[[{{wikidata|label||Q9438}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|9438}}</span> ''{{wikidata|description||Q9438}}''
@@ -306,7 +306,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q9418}}|[[{{wikidata|title|raw|Q9418}}]]|{{#if:{{wikidata|label||Q9418}}|[[{{wikidata|label||Q9418}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|9418}}</span> ''{{wikidata|description||Q9418}}''
 #'''{{#if:{{wikidata|title|raw|Q9420}}|[[{{wikidata|title|raw|Q9420}}]]|{{#if:{{wikidata|label||Q9420}}|[[{{wikidata|label||Q9420}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|9420}}</span>''' ''{{wikidata|description||Q9420}}''
 
-=== Famia i relashonnan ===
+=== Famia i relashon ===
 
 #'''{{#if:{{wikidata|title|raw|Q8436}}|[[{{wikidata|title|raw|Q8436}}]]|{{#if:{{wikidata|label||Q8436}}|[[{{wikidata|label||Q8436}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8436}}</span>''' ''{{wikidata|description||Q8436}}''
 #'''{{#if:{{wikidata|title|raw|Q7569}}|[[{{wikidata|title|raw|Q7569}}]]|{{#if:{{wikidata|label||Q7569}}|[[{{wikidata|label||Q7569}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7569}}</span>''' ''{{wikidata|description||Q7569}}''
@@ -356,7 +356,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #'''{{#if:{{wikidata|title|raw|Q7748}}|[[{{wikidata|title|raw|Q7748}}]]|{{#if:{{wikidata|label||Q7748}}|[[{{wikidata|label||Q7748}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7748}}</span>''' ''{{wikidata|description||Q7748}}''
 #{{#if:{{wikidata|title|raw|Q7755}}|[[{{wikidata|title|raw|Q7755}}]]|{{#if:{{wikidata|label||Q7755}}|[[{{wikidata|label||Q7755}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7755}}</span> ''{{wikidata|description||Q7755}}''
 
-=== Organisashonnan internasional ===
+=== Organisashon internasional ===
 
 #{{#if:{{wikidata|title|raw|Q7159}}|[[{{wikidata|title|raw|Q7159}}]]|{{#if:{{wikidata|label||Q7159}}|[[{{wikidata|label||Q7159}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7159}}</span> ''{{wikidata|description||Q7159}}''
 #{{#if:{{wikidata|title|raw|Q7172}}|[[{{wikidata|title|raw|Q7172}}]]|{{#if:{{wikidata|label||Q7172}}|[[{{wikidata|label||Q7172}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7172}}</span> ''{{wikidata|description||Q7172}}''
@@ -384,7 +384,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #'''{{#if:{{wikidata|title|raw|Q198}}|[[{{wikidata|title|raw|Q198}}]]|{{#if:{{wikidata|label||Q198}}|[[{{wikidata|label||Q198}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|198}}</span>''' ''{{wikidata|description||Q198}}''
 ##{{#if:{{wikidata|title|raw|Q8465}}|[[{{wikidata|title|raw|Q8465}}]]|{{#if:{{wikidata|label||Q8465}}|[[{{wikidata|label||Q8465}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8465}}</span> ''{{wikidata|description||Q8465}}''
 
-=== Temanan sosial ===
+=== Tema sosial ===
 
 #{{#if:{{wikidata|title|raw|Q8452}}|[[{{wikidata|title|raw|Q8452}}]]|{{#if:{{wikidata|label||Q8452}}|[[{{wikidata|label||Q8452}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8452}}</span> ''{{wikidata|description||Q8452}}''
 #'''{{#if:{{wikidata|title|raw|Q8454}}|[[{{wikidata|title|raw|Q8454}}]]|{{#if:{{wikidata|label||Q8454}}|[[{{wikidata|label||Q8454}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8454}}</span>''' ''{{wikidata|description||Q8454}}''
@@ -499,7 +499,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 === Biologia ===
 {{div col|2}} 
 #'''{{#if:{{wikidata|title|raw|Q420}}|[[{{wikidata|title|raw|Q420}}]]|{{#if:{{wikidata|label||Q420}}|[[{{wikidata|label||Q420}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|420}}</span>''' ''{{wikidata|description||Q420}}''
-# Materialnan biologiko
+# Material biologiko
 ##'''{{#if:{{wikidata|title|raw|Q7430}}|[[{{wikidata|title|raw|Q7430}}]]|{{#if:{{wikidata|label||Q7430}}|[[{{wikidata|label||Q7430}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7430}}</span>''' ''{{wikidata|description||Q7430}}''
 ##{{#if:{{wikidata|title|raw|Q8047}}|[[{{wikidata|title|raw|Q8047}}]]|{{#if:{{wikidata|label||Q8047}}|[[{{wikidata|label||Q8047}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8047}}</span> ''{{wikidata|description||Q8047}}''
 ##{{#if:{{wikidata|title|raw|Q8054}}|[[{{wikidata|title|raw|Q8054}}]]|{{#if:{{wikidata|label||Q8054}}|[[{{wikidata|label||Q8054}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|8054}}</span> ''{{wikidata|description||Q8054}}''
@@ -513,7 +513,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q11398}}|[[{{wikidata|title|raw|Q11398}}]]|{{#if:{{wikidata|label||Q11398}}|[[{{wikidata|label||Q11398}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11398}}</span> ''{{wikidata|description||Q11398}}''
 ##{{#if:{{wikidata|title|raw|Q7432}}|[[{{wikidata|title|raw|Q7432}}]]|{{#if:{{wikidata|label||Q7432}}|[[{{wikidata|label||Q7432}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7432}}</span> ''{{wikidata|description||Q7432}}''
 {{div col end}} 
-==== Prosesnan biologiko ====
+==== Proseso biologiko ====
 
 #'''{{#if:{{wikidata|title|raw|Q1057}}|[[{{wikidata|title|raw|Q1057}}]]|{{#if:{{wikidata|label||Q1057}}|[[{{wikidata|label||Q1057}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1057}}</span>''' ''{{wikidata|description||Q1057}}''
 ##{{#if:{{wikidata|title|raw|Q11978}}|[[{{wikidata|title|raw|Q11978}}]]|{{#if:{{wikidata|label||Q11978}}|[[{{wikidata|label||Q11978}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11978}}</span> ''{{wikidata|description||Q11978}}''
@@ -524,7 +524,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 ##{{#if:{{wikidata|title|raw|Q11995}}|[[{{wikidata|title|raw|Q11995}}]]|{{#if:{{wikidata|label||Q11995}}|[[{{wikidata|label||Q11995}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11995}}</span> ''{{wikidata|description||Q11995}}''
 ##{{#if:{{wikidata|title|raw|Q290}}|[[{{wikidata|title|raw|Q290}}]]|{{#if:{{wikidata|label||Q290}}|[[{{wikidata|label||Q290}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|290}}</span> ''{{wikidata|description||Q290}}''
 
-==== Organismonan ====
+==== Organismo ====
 {{div col|2}} 
 #'''{{#if:{{wikidata|title|raw|Q7239}}|[[{{wikidata|title|raw|Q7239}}]]|{{#if:{{wikidata|label||Q7239}}|[[{{wikidata|label||Q7239}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7239}}</span>''' ''{{wikidata|description||Q7239}}''
 #'''{{#if:{{wikidata|title|raw|Q729}}|[[{{wikidata|title|raw|Q729}}]]|{{#if:{{wikidata|label||Q729}}|[[{{wikidata|label||Q729}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|729}}</span>''' ''{{wikidata|description||Q729}}''
@@ -853,7 +853,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 ##{{#if:{{wikidata|title|raw|Q5321}}|[[{{wikidata|title|raw|Q5321}}]]|{{#if:{{wikidata|label||Q5321}}|[[{{wikidata|label||Q5321}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|5321}}</span> ''{{wikidata|description||Q5321}}''
 ##{{#if:{{wikidata|title|raw|Q11658}}|[[{{wikidata|title|raw|Q11658}}]]|{{#if:{{wikidata|label||Q11658}}|[[{{wikidata|label||Q11658}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11658}}</span> ''{{wikidata|description||Q11658}}''
 
-==== Kòmpiuternan i Internet ====
+==== Kòmpiuter i Internet ====
 
 #'''{{#if:{{wikidata|title|raw|Q68}}|[[{{wikidata|title|raw|Q68}}]]|{{#if:{{wikidata|label||Q68}}|[[{{wikidata|label||Q68}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|68}}</span>''' ''{{wikidata|description||Q68}}''
 ##{{#if:{{wikidata|title|raw|Q4439}}|[[{{wikidata|title|raw|Q4439}}]]|{{#if:{{wikidata|label||Q4439}}|[[{{wikidata|label||Q4439}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|4439}}</span> ''{{wikidata|description||Q4439}}''
@@ -878,7 +878,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q12760}}|[[{{wikidata|title|raw|Q12760}}]]|{{#if:{{wikidata|label||Q12760}}|[[{{wikidata|label||Q12760}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|12760}}</span> ''{{wikidata|description||Q12760}}''
 #{{#if:{{wikidata|title|raw|Q3196}}|[[{{wikidata|title|raw|Q3196}}]]|{{#if:{{wikidata|label||Q3196}}|[[{{wikidata|label||Q3196}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|3196}}</span> ''{{wikidata|description||Q3196}}''
 
-===Materialnan===
+===Material==
 #{{#if:{{wikidata|title|raw|Q11469}}|[[{{wikidata|title|raw|Q11469}}]]|{{#if:{{wikidata|label||Q11469}}|[[{{wikidata|label||Q11469}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11469}}</span> ''{{wikidata|description||Q11469}}''
 #{{#if:{{wikidata|title|raw|Q11472}}|[[{{wikidata|title|raw|Q11472}}]]|{{#if:{{wikidata|label||Q11472}}|[[{{wikidata|label||Q11472}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11472}}</span> ''{{wikidata|description||Q11472}}''
 #{{#if:{{wikidata|title|raw|Q11474}}|[[{{wikidata|title|raw|Q11474}}]]|{{#if:{{wikidata|label||Q11474}}|[[{{wikidata|label||Q11474}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11474}}</span> ''{{wikidata|description||Q11474}}''
@@ -968,7 +968,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 ##{{#if:{{wikidata|title|raw|Q9794}}|[[{{wikidata|title|raw|Q9794}}]]|{{#if:{{wikidata|label||Q9794}}|[[{{wikidata|label||Q9794}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|9794}}</span> ''{{wikidata|description||Q9794}}''
 ##{{#if:{{wikidata|title|raw|Q11399}}|[[{{wikidata|title|raw|Q11399}}]]|{{#if:{{wikidata|label||Q11399}}|[[{{wikidata|label||Q11399}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11399}}</span> ''{{wikidata|description||Q11399}}''
 ##{{#if:{{wikidata|title|raw|Q11403}}|[[{{wikidata|title|raw|Q11403}}]]|{{#if:{{wikidata|label||Q11403}}|[[{{wikidata|label||Q11403}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11403}}</span> ''{{wikidata|description||Q11403}}''
-# Instrumentnan spesífiko
+# Instrument spesífiko
 ##{{#if:{{wikidata|title|raw|Q11404}}|[[{{wikidata|title|raw|Q11404}}]]|{{#if:{{wikidata|label||Q11404}}|[[{{wikidata|label||Q11404}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11404}}</span> ''{{wikidata|description||Q11404}}''
 ##{{#if:{{wikidata|title|raw|Q11405}}|[[{{wikidata|title|raw|Q11405}}]]|{{#if:{{wikidata|label||Q11405}}|[[{{wikidata|label||Q11405}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|11405}}</span> ''{{wikidata|description||Q11405}}''
 ##{{#if:{{wikidata|title|raw|Q6607}}|[[{{wikidata|title|raw|Q6607}}]]|{{#if:{{wikidata|label||Q6607}}|[[{{wikidata|label||Q6607}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|6607}}</span> ''{{wikidata|description||Q6607}}''
@@ -1075,7 +1075,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #'''{{#if:{{wikidata|title|raw|Q165}}|[[{{wikidata|title|raw|Q165}}]]|{{#if:{{wikidata|label||Q165}}|[[{{wikidata|label||Q165}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|165}}</span>''' ''{{wikidata|description||Q165}}''
 #{{#if:{{wikidata|title|raw|Q933}}|[[{{wikidata|title|raw|Q933}}]]|{{#if:{{wikidata|label||Q933}}|[[{{wikidata|label||Q933}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|933}}</span> ''{{wikidata|description||Q933}}''
 
-=== Kontinentenan i régionan grandi ===
+=== Kontinente i region grandi ===
 
 #'''{{#if:{{wikidata|title|raw|Q15}}|[[{{wikidata|title|raw|Q15}}]]|{{#if:{{wikidata|label||Q15}}|[[{{wikidata|label||Q15}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|15}}</span>''' ''{{wikidata|description||Q15}}''
 #'''{{#if:{{wikidata|title|raw|Q51}}|[[{{wikidata|title|raw|Q51}}]]|{{#if:{{wikidata|label||Q51}}|[[{{wikidata|label||Q51}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|51}}</span>''' ''{{wikidata|description||Q51}}''
@@ -1086,7 +1086,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #'''{{#if:{{wikidata|title|raw|Q538}}|[[{{wikidata|title|raw|Q538}}]]|{{#if:{{wikidata|label||Q538}}|[[{{wikidata|label||Q538}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|538}}</span>''' ''{{wikidata|description||Q538}}''
 #'''{{#if:{{wikidata|title|raw|Q18}}|[[{{wikidata|title|raw|Q18}}]]|{{#if:{{wikidata|label||Q18}}|[[{{wikidata|label||Q18}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|18}}</span>''' ''{{wikidata|description||Q18}}''
 {{div col end}} 
-=== Paisnan<ref>Eventually, there should be articles on most or all of the countries listed at [[:en:List_of_sovereign_states|List of countries]]. However, for the smaller Wikipedias, some of the more high-priority countries to have articles on are:</ref> ===
+=== Pais<ref>Eventually, there should be articles on most or all of the countries listed at [[:en:List_of_sovereign_states|List of countries]]. However, for the smaller Wikipedias, some of the more high-priority countries to have articles on are:</ref> ===
 {{div col|3}} 
 #{{#if:{{wikidata|title|raw|Q889}}|[[{{wikidata|title|raw|Q889}}]]|{{#if:{{wikidata|label||Q889}}|[[{{wikidata|label||Q889}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|889}}</span> ''{{wikidata|description||Q889}}''
 #{{#if:{{wikidata|title|raw|Q262}}|[[{{wikidata|title|raw|Q262}}]]|{{#if:{{wikidata|label||Q262}}|[[{{wikidata|label||Q262}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|262}}</span> ''{{wikidata|description||Q262}}''
@@ -1135,7 +1135,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q717}}|[[{{wikidata|title|raw|Q717}}]]|{{#if:{{wikidata|label||Q717}}|[[{{wikidata|label||Q717}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|717}}</span> ''{{wikidata|description||Q717}}''
 #{{#if:{{wikidata|title|raw|Q881}}|[[{{wikidata|title|raw|Q881}}]]|{{#if:{{wikidata|label||Q881}}|[[{{wikidata|label||Q881}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|881}}</span> ''{{wikidata|description||Q881}}''
 {{div col end}} 
-=== Siudatnan ===
+=== Siudat ===
 {{div col|3}} 
 #{{#if:{{wikidata|title|raw|Q727}}|[[{{wikidata|title|raw|Q727}}]]|{{#if:{{wikidata|label||Q727}}|[[{{wikidata|label||Q727}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|727}}</span> ''{{wikidata|description||Q727}}''
 #{{#if:{{wikidata|title|raw|Q1524}}|[[{{wikidata|title|raw|Q1524}}]]|{{#if:{{wikidata|label||Q1524}}|[[{{wikidata|label||Q1524}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1524}}</span> ''{{wikidata|description||Q1524}}''
@@ -1183,7 +1183,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q61}}|[[{{wikidata|title|raw|Q61}}]]|{{#if:{{wikidata|label||Q61}}|[[{{wikidata|label||Q61}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|61}}</span> ''{{wikidata|description||Q61}}''
 {{div col end}}
 
-=== Kuerponan di awa ===
+=== Kuerpo di awa ===
 {{div col|3}} 
 #'''{{#if:{{wikidata|title|raw|Q3783}}|[[{{wikidata|title|raw|Q3783}}]]|{{#if:{{wikidata|label||Q3783}}|[[{{wikidata|label||Q3783}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|3783}}</span>''' ''{{wikidata|description||Q3783}}''
 #{{#if:{{wikidata|title|raw|Q788}}|[[{{wikidata|title|raw|Q788}}]]|{{#if:{{wikidata|label||Q788}}|[[{{wikidata|label||Q788}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|788}}</span> ''{{wikidata|description||Q788}}''
@@ -1217,7 +1217,7 @@ E lista ta originá di un programashon di kòmpiuter. Nos ta deskonsehá pa ahus
 #{{#if:{{wikidata|title|raw|Q7355}}|[[{{wikidata|title|raw|Q7355}}]]|{{#if:{{wikidata|label||Q7355}}|[[{{wikidata|label||Q7355}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|7355}}</span> ''{{wikidata|description||Q7355}}''
 {{div col end}}
 
-=== Serunan i wustèinnan ===
+=== Serun i wustèin??? desierto ===
 
 #{{#if:{{wikidata|title|raw|Q1286}}|[[{{wikidata|title|raw|Q1286}}]]|{{#if:{{wikidata|label||Q1286}}|[[{{wikidata|label||Q1286}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|1286}}</span> ''{{wikidata|description||Q1286}}''
 #{{#if:{{wikidata|title|raw|Q5456}}|[[{{wikidata|title|raw|Q5456}}]]|{{#if:{{wikidata|label||Q5456}}|[[{{wikidata|label||Q5456}}]] |}}}} <span style="border: 1px solid #ddd; background-color: #eef; padding-left: .5ex; padding-right: .5ex">{{Q|5456}}</span> ''{{wikidata|description||Q5456}}''
