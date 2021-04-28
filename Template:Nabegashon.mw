@@ -1,0 +1,11 @@
+<div>
+{| class="navigatiesjabloon" style="width:100%; clear:both; margin-top:1em; margin-bottom:-7px; border:1px solid #aaaaaa; background-color:#f8f8f8;" cellpadding="0"
+<tr>{{#If:{{{afb_links|}}}|<td>{{{afb_links}}}</td>}}<!--
+--><th style="width:100%; font-size:87%; padding-bottom:2px; text-align:center; background-color:{{Navigatie/titelbalkkleur}}; color:black;">{{{titel|(titel)}}}</th><!--
+-->{{#If:{{{afb_rechts|}}}|<td>{{{afb_rechts}}}</td>}}<!--
+-->{{#If:{{{afb_groot|}}}|<td valign="top" rowspan="2">{{{afb_groot}}}</td>}}</tr>
+|-
+| align="center" style="font-size:87%; padding:0px 3px 0px 3px;" colspan={{#Expr:1+{{#If:{{{afb_links|}}}|1|0}}+{{#If:{{{afb_rechts|}}}|1|0}}}}|
+{{{inhoud|(inhoud)}}}
+|}
+</div>
