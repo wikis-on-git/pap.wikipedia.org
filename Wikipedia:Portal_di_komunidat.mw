@@ -389,6 +389,8 @@ Best, [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 19:30, 30 mei 2021 (U
 :Bit late but I support this. --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|diskushon]]) 19:42, 22 yüni 2021 (UTC)
 ::Has the article placeholder been implemented already?? I recently created two articles using an automatic prompt provided when name searching. Please advise!! [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 21:58, 22 yüni 2021 (UTC)
 ::: Your remark prompted me to start looking for the current status and then I uncovered [[phab:T223693]] which seems to suggest we already have it and have had it for some time already, but I am not entirely sure what to do now. @[[User:Ciell|Ciell]], can you help explain where we stand exactly? --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 12:16, 25 yüni 2021 (UTC)
+::::Hi everyone, you're right, this dropped of my list for a moment. 
+::::@[[User:Frank Geerlings|Frank]]: seems we need to change the local settings for a bit, importing Lua. Looking at the guide in [[:mw:Extension:ArticlePlaceholder#Installation]], would you be comfortable to do this? [[:mw:Extension:ArticlePlaceholder/Module:AboutTopic]] looks helpful as well. [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 19:29, 29 yüni 2021 (UTC)
 
 == Universal Code of Conduct News – Issue 1 ==
 
