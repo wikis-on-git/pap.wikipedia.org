@@ -1,27 +1,22 @@
 {{variante|a}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Medellín'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Medellín.svg|125px]]
-| align="center" width="140px" | [[File:Escudo de Medellin.svg|125px]]
-|}
-|-
-| align=center colspan=2 | [[File:Metro de Medellín, Colombia.jpg|300px]]
-|}
-[[File:Colombia - Antioquia - Medellín.svg|thumb|]]
+{{infosiudat
+|nomber_nativo= Medellín
+|nomber_propio= Municipio de Medellín
+|imagen_mapa  = Colombia - Antioquia - Medellín.svg
+|pais         = Colombia
+|alkalde      = <br/ >[[Daniel Quintero]]<br /><small>(2020–2023)</small>
+|fecha_di_fundashon = [[2 di mart]] [[1616]]
+|area = 380.64
+|aña_kalkulashon_di_pop = 2020
+|pop_aproksima = 2,569,007<ref>[https://www.medellin.gov.co/irj/go/km/docs/pccdesign/SubportaldelCiudadano_2/PlandeDesarrollo_0_17/IndicadoresyEstadsticas/Shared%20Content/Documentos/ProyeccionPoblacion2016-2020/Perfil%20Demogr%C3%A1fico%202016%20-%202020%20Total%20Medellin.pdf Perfil Demográfico 2016 - 2020]</ref>
+|densidat_pop =
+}}
 '''Medellin''' ta un cuidad na parti panort-pabou di [[Colombia]] y capital di e departamento [[Antioquia]]. E tin un poblashon di 2.508.452 habitante (2018). Despues di [[Bogota]] e ta e ciudad mas grandi di e pais.
 
 Medellin ta ubica den e valei "Valle de Aburrá" y e zona metropolitano di mesun nomber, Valle de Aburrá, cual area ta conta cu mas di 3.8 miyon habitante (2016) y un centro industrial y comercial. Banda di e ciudad ta core e riu Medellin. 
 
 
-==Historia==	
-==Transportashon==	
-==Ekonomia==	
-==Referensianan==	
-==Linknan eksterno==
+{{Appendix}}
 
 [[Category:Siudadnan]]
 [[Category:Colombia]]
