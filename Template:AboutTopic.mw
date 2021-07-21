@@ -1,0 +1,2 @@
+This template is part of the [https://www.mediawiki.org/wiki/Extension:ArticlePlaceholder ArticlePlaceholder extension]. If you want to adjust it, please consider making your changes upstream.
+<onlyinclude>{{#invoke:AboutTopic|showData|{{{1}}}}}</onlyinclude>
