@@ -25,14 +25,14 @@ Dor di e daylight savings time, UTC e tempu lokal na e Observatorio Royal na Gre
 === UTC ===
 Si e tempu ta na Tempu Koordinal Universal (UTC), pone un 'z' direktamente patras di e tempu sin un espasio. 'Z' ta e designator di e zona di tempu pa e UTC. "09:30 UTC" ta bira representa komi "09:30Z" of "0930Z". "14:45:14" lo bira "14:45:15Z' of "144515Z"
 
-UTC tambe ta konsi komo tempu Zulu pasobra 'Zulu' ta codigo pa 'Z' na e [[Alphabet di ICAO]]
+UTC tambe ta konpsi komo tempu Zulu pasobra 'Zulu' ta kodigo pa 'Z' na e [[Alphabet di ICAO]]
 
 === Time zone as offsets from UTC ===
 Zona di tempu ta skibi manera un ''offset'' di UTC den e formaat ±[hh]:[mm], ±[hh][mm], of ±[hh]. Esei kemen ku e tempu ta describi manera un ora prome ku UTC (meskos ku e tempu na [[Berlin]] den winter), e zona designator lo ta "+01:00", "+0100", of simplemente "+01". Eskaki ta appende na e tempu meskos ku 'Z' tabata ariba. E offset di UTC ku [[Daylight savings Time]]. Kemen e tempu di [[Chicago]], ku ta situa na e zona di tempu mericano Central Time Zone, lo ta "[[UTC−06|−06:00]]" Pa winter i "[[UTC−05|−05:00]]" pa zomer.
 
-=== Abbreviashonan ===
+=== Abreviashon ===
 
-Zona di tempu hopi biaha ta wordu representa dor di abbrevashon manera "EST, WST, CST" pero esakinan no ta parti di e tempu standaart internashonal ISO 8601 anto nan uso ta pa solamente designa e zona di tempu i esaki mes no ta rekomenda. Un par di e abbrevashonan aki por refferensia na differente zona di tempu na otro continente, por ehemper EST, WST, CST por refferensia na na e tempu Oost, Wèst, i Suit, na [[Estandonan Uni|Merka]] i tambe na [[Australia]].
+Zona di tempu hopi biaha ta wordu representa dor di abreviashon manera "EST, WST, CST" pero esakinan no ta parti di e tempu standaart internashonal ISO 8601 anto nan uso ta pa solamente designa e zona di tempu i esaki mes no ta rekomenda. Un par di e abreviashonnan aki por referensia na diferente zona di tempu na otro kontinente, por ehempel EST, WST, CST por referensia na e tempu Oost, Wèst, i Suit, na [[Estado Uni di Merka|Merka]] i tambe na [[Australia]].
 
 == Ejemplonan ==
 
