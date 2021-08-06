@@ -399,6 +399,7 @@ Best, [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 19:30, 30 mei 2021 (U
 ::::@[[User:Frank Geerlings|Frank]]: seems we need to change the local settings for a bit, importing Lua. Looking at the guide in [[:mw:Extension:ArticlePlaceholder#Installation]], would you be comfortable to do this? [[:mw:Extension:ArticlePlaceholder/Module:AboutTopic]] looks helpful as well. [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 19:29, 29 yüni 2021 (UTC)
 :::::FYI: with a little help I now have the article placeholder extention in place. Please try it out and let me know what you think! [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 17:48, 21 yüli 2021 (UTC)
 :::::: Thanks for that! I looked at it briefly a few times myself but I didn't understand the instructions so I thought I'd look at it later, which I should have probably mentioned. --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 15:24, 29 yüli 2021 (UTC)
+:::::::In the end I just copied the necessary code from the Welsh Wikipedia and it worked. The instructions where to complicated for me as well. :P [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 08:21, 6 ougùstùs 2021 (UTC)
 
 == Universal Code of Conduct News – Issue 1 ==
 
