@@ -38,7 +38,7 @@
 | '''[[Area]]'''<br />&nbsp;- Total<br>&nbsp;- Awa (%)
 | &nbsp;<br />{{{area}}}&nbsp;km&sup2;&nbsp;<br />{{{persentahe_awa}}}
 |-
-| style="white-space: nowrap;" | '''[[Populashon]]'''<br />&nbsp;- [[{{{ana_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- [[Densidat di populashon|Densidat]]
+| style="white-space: nowrap;" | '''[[Populashon]]'''<br />&nbsp;- [[{{{aña_kalkulashon_di_pop}}}]] est.{{#if:{{{pop_segun_senso|}}}|<br />&nbsp;- Senso di [[{{{ana_di_senso}}}]]}}<br />&nbsp;- [[Densidat di populashon|Densidat]]
 | &nbsp;<br />{{{pop_aproksima}}}{{#if:{{{pop_segun_senso|}}}|<br />{{{pop_segun_senso}}}|}}<br />{{{densidat_pop}}}/km&sup2;
 |-
 | '''[[Moneda]]'''
