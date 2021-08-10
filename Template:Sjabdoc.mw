@@ -1,0 +1,8 @@
+{{Sjabdoc inline
+| 1={{{1|{{ {{#ifexist:{{{pagina|{{FULLPAGENAME}}/doc}}}|{{{pagina|{{FULLPAGENAME}}/doc}}}|ns:0}} }}}}}
+| 2={{{pagina|{{#ifeq:{{{1|}}}|{{{1}}}| |{{FULLPAGENAME}}/doc}}}}}
+| kop={{{kop|{{#switch:{{SUBJECTSPACE}}|Module|Sjabloon={{SUBJECTSPACE}}documentatie|Documentatie}}}}}
+}}<noinclude>
+
+[[Categorie:Wikipedia:Sjablonen sjabloondocumentatie| ]]
+</noinclude>
