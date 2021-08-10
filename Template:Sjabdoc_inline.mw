@@ -1,0 +1,10 @@
+<includeonly><div class="sjabdoc" style="background-color:#ffffee; border:1px solid #aaa; clear:both; margin-top:1em; padding:1em;">
+{{#if:{{{kop}}}|<div style="font-size: 1.5em; border-bottom: 1px solid #aaa; margin-bottom: 1ex;"><span>[[Bestand:Test Template Info-Icon - Version (2).svg|50px|link=|alt=]]</span><span style="font-weight:600; font-size:0.9em;> {{#if:{{{kop|}}}|{{{kop}}}|Sjabloondocumentatie}}&#8203;</span>{{#if:{{{2|}}}|<span class="mw-editsection-like plainlinks" style="font-size:small; margin-left:1em;">{{#ifexist:{{{2}}}|[[{{fullurl:{{{2}}}}} bekijk]] [[{{fullurl:{{{2}}}|action=edit}} bewerk]] [[{{fullurl:{{{2}}}|action=purge}} ververs]] [[{{fullurl:{{{2}}}|action=history}} geschiedenis]]|<!--[[{{fullurl:{{{2}}}|action=edit&preload={{urlencode:Sjabloon:Sjabdoc/preload}}}} aanmaken]]-->}}</span>}}</div>}}
+{{{1|}}}
+<div style="clear:both;"></div></div></includeonly><noinclude>
+{{Sjabdoc|1=
+Dit sjabloon is louter bedoeld als subsjabloon voor {{tl|Sjabdoc}} en zou daarbuiten eigenlijk niet gebruikt moeten hoeven worden. Zie voor meer informatie het voorgenoemde sjabloon.
+}}
+
+[[Categorie:Wikipedia:Sjablonen sjabloondocumentatie]]
+</noinclude>
