@@ -34,13 +34,13 @@ Zona di tempu ta skibi manera un ''offset'' di UTC den e formaat ±[hh]:[mm], ±
 
 Zona di tempu hopi biaha ta wordu representa dor di abreviashon manera "EST, WST, CST" pero esakinan no ta parti di e tempu standaart internashonal ISO 8601 anto nan uso ta pa solamente designa e zona di tempu i esaki mes no ta rekomenda. Un par di e abreviashonnan aki por referensia na diferente zona di tempu na otro kontinente, por ehempel EST, WST, CST por referensia na e tempu Oost, Wèst, i Suit, na [[Estado Uni di Merka|Merka]] i tambe na [[Australia]].
 
-== Ejemplonan ==
+== Ehèmpel ==
 
-E ejemplonan aki ta duna e tempu lokal na e siguiente lokashonan ront mundu na 12:00 UTC ora daylight savings time (of tempu di zomer) no tin effekto.
+E ehèmpelnan aki ta duna e tempu lokal na e siguiente lokashon nan ront mundu na 12:00 UTC ora "daylight savings time" (of tempu di zomer) no tin efekto.
 
 {| class="wikitable" style="margin: 1em auto 1em auto" border="1" style="float:center"
 |-
-! style="background:light blue" | Lokashonan
+! style="background:light blue" | Lokashon
 ! style="background:#ffdead;width:80px" | Zona di Tempu
 ! style="background:#ffdead;" | Tempu
 |-
@@ -72,7 +72,7 @@ E ejemplonan aki ta duna e tempu lokal na e siguiente lokashonan ront mundu na 1
 |[[UTC−07]]
 |05:00
 |-
-|[[Winnipeg]], [[Chicago]], [[Houston]], [[Mexico City]], [[Guatemala]], [[Honduras]], [[El Salvador]], [[Costa Rica]], [[Nicaragua]], [[Panama]], [[Easter Island]]
+|[[Winnipeg]], [[Chicago]], [[Houston]], [[Ciudad di Mexico]], [[Guatemala]], [[Honduras]], [[El Salvador]], [[Costa Rica]], [[Nicaragua]], [[Panama]], [[Easter Island]]
 |[[UTC−06]]
 |06:00
 |-
@@ -109,12 +109,12 @@ E ejemplonan aki ta duna e tempu lokal na e siguiente lokashonan ront mundu na 1
 |12:00
 |-
 |
-[[Austria]], [[Belgika]], [[Czechia]], [[Dinamarka]], [[Francia]], [[Alemania]], [[Hongaria]], [[Italia]], [[Luxembourg]], [[Monaco]], [[Hulanda]], [[Norwega]], [[San Marino]], [[Serbia]], [[Slovakia]], [[Spaña]], [[Suecia]], [[Tunisia]]<!-- Please use full countries if possible, not cities -->
+[[Austria]], [[Bélgika]], [[Czechia]], [[Dinamarka]], [[Fransia]], [[Alemania]], [[Hungria]], [[Italia]], [[Luxembourg]], [[Monaco]], [[Hulanda]], [[Noruega]], [[San Marino]], [[Serbia]], [[Slovakia]], [[Spaña]], [[Suesia]], [[Tunesia]]<!-- Please use full countries if possible, not cities -->
 |[[UTC+01]]
 |13:00
 |-
 |
-[[Helsinki]], [[Riga]], [[Vilnius]], [[Bucuresti]], [[Kiev]], [[Sofia]], [[Atenas]], [[Tallinn]], [[Istanbul]], [[Beirut]], [[Amman]], [[Israel]], [[Egypto]], [[Suit Afrika]], [[Swaziland]], [[Lesotho]]
+[[Helsinki]], [[Riga]], [[Vilnius]], [[Bucuresti]], [[Kiev]], [[Sofia]], [[Atenas]], [[Tallinn]], [[Istanbul]], [[Beirut]], [[Amman]], [[Israel]], [[Egipto]], [[Suit Afrika]], [[Swaziland]], [[Lesotho]]
 |[[UTC+02]]
 |14:00
 |-
@@ -130,7 +130,7 @@ E ejemplonan aki ta duna e tempu lokal na e siguiente lokashonan ront mundu na 1
 |[[UTC+4|UTC+04]]
 |16:00
 |-
-|[[Afghanistan]]
+|[[Afganistan]]
 |[[UTC+04:30]]
 |16:30
 |-
@@ -166,7 +166,7 @@ E ejemplonan aki ta duna e tempu lokal na e siguiente lokashonan ront mundu na 1
 |[[UTC+08:30]]
 |20:30
 |-
-|[[Sur Korea]], [[Japan]], [[Yakutsk]]
+|[[Sur Korea]], [[Hapon]], [[Yakutsk]]
 |[[UTC+09]]
 |21:00
 |-
