@@ -1,0 +1,70 @@
+{{Documentation subpage}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+== Usage ==
+== Doel ==
+Dit sjabloon heeft als doel om op uniforme wijze de verschillende alfabetische lijsten te verschaffen van een inhoudsopgave.
+
+== Gebruik ==
+Een gewone abc-reeks voeg je in met <code><nowiki>{{Inhoud abc}}</nowiki></code>. Het is mogelijk om de reeks aan te passen naargelang de pagina waarop ze komt. Er kunnen verschillende argumenten meegegeven worden:
+
+:;titel=Inhoudsopgave:
+:Hiermee kun je een alternatieve titel invoegen
+
+:;nummers=1 (verouderd)
+:;nummers=voor
+:;nummers=na
+:Hiermee voeg je de aanduiding "0-9" toe, ''voor'' de letters of ''na'' de letters.
+
+:;cijfers=1 (verouderd)
+:;cijfers=voor
+:;cijfers=na
+:Hiermee voeg je de aanduidingen "0", "1" enz. toe, ''voor'' de letters of ''na'' de letters.
+
+:;xyz=1
+:Hiermee voeg je de letters X, Y en Z samen tot één aanduiding. Dit werkt alleen als in het artikel een kopje "X Y Z" bestaat.
+
+:;zieook=1
+:Hiermee voeg je de aanduiding "Zie ook" toe.
+
+:;kader=1
+:Hiermee komt er een kader rond de abc-reeks. Er komt ook een titel "Inhoudsopgave" bij.
+
+:;toc=1
+:Hiermee wordt er naast de A-Z een inhoudsopgave getoond die anders verborgen is ten gunste is van A-Z. Dan kan er van [[Sjabloon:Inhoud beperkt]] gebruik gemaakt worden.
+
+:;extra=Extra toelichting of aanvulling op de inhoudsopgave erachter
+
+:;inhoud=Extra toelichting of aanvulling op de inhoudsopgave eronder
+
+De argumenten kunnen gecombineerd worden, mits gescheiden door een "<nowiki>|</nowiki>"-teken.
+
+== Werking ==
+De links verwijzen naar kopjes in de tekst, b.v. '''==A==''' of '''===B==='''. Als deze niet aanwezig of gewenst zijn kunnen regels als '''id=A''' etc. worden ingevoegd in bestaande HTML-elementen (zoals een cel van een tabel). In dit geval wordt bovendien geen TOC (inhoudsopgave) getoond. Zie [//nl.wikipedia.org/w/index.php?title=Lijst_van_topleveldomeinen_op_het_internet&curid=272591&diff=5291900&oldid=5289498 hier] een voorbeeld.
+
+=== Voorbeelden ===
+ <nowiki>{{Inhoud abc}}</nowiki>
+{{Inhoud abc}}
+ <nowiki>{{Inhoud abc|nummers=1}}</nowiki>
+{{Inhoud abc|nummers=1}}
+ <nowiki>{{Inhoud abc|cijfers=1}}</nowiki>
+{{Inhoud abc|cijfers=1}}
+ <nowiki>{{Inhoud abc|xyz=1}}</nowiki>
+{{Inhoud abc|xyz=1}}
+ <nowiki>{{Inhoud abc|kader=1}}</nowiki>
+{{Inhoud abc|kader=1}}
+
+=== Voorbeelden van combinaties ===
+ <nowiki>{{Inhoud abc|nummers=1|xyz=1}}</nowiki>
+{{Inhoud abc|nummers=1|xyz=1}}
+ <nowiki>{{Inhoud abc|nummers=1|kader=1}}</nowiki>
+{{Inhoud abc|nummers=1|kader=1}}
+ <nowiki>{{Inhoud abc|xyz=1|kader=1}}</nowiki>
+{{Inhoud abc|xyz=1|kader=1}}
+ <nowiki>{{Inhoud abc|nummers=1|xyz=1|kader=1}}</nowiki>
+{{Inhoud abc|nummers=1|xyz=1|kader=1}}
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line; interwikis at Wikidata -->
+[[Category:Wikipedia:Sjablonen inhoudsopgave|Abc]]
+
+}}</includeonly>
