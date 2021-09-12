@@ -1,11 +1,11 @@
 {{<includeonly>safesubst:</includeonly>#if:{{{1|<noinclude>$</noinclude>}}}
- |@[[:Gebruiker:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{1|Voorbeeldnaam}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{1|Voorbeeldnaam}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{2|}}}
- |, [[:Gebruiker:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{2}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{2}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{3|}}}
- |, [[:Gebruiker:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{3}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{3}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{4|}}}
- |, [[:Gebruiker:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{4}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{4}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{5|}}}
- |, [[:Gebruiker:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{5}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{5}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{6|}}}
- |, [[:Gebruiker:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{6}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{6}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{7|}}}
- |, [[:Gebruiker:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{7}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{7}}}}}]]
+ |@[[:User:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{1|Voorbeeldnaam}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{1|Voorbeeldnaam}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{2|}}}
+ |, [[:User:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{2}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{2}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{3|}}}
+ |, [[:User:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{3}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{3}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{4|}}}
+ |, [[:User:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{4}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{4}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{5|}}}
+ |, [[:User:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{5}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{5}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{6|}}}
+ |, [[:User:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{6}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{6}}}}}]]{{<includeonly>safesubst:</includeonly>#if:{{{7|}}}
+ |, [[:User:{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{7}}}}}|{{<includeonly>safesubst:</includeonly>BASEPAGENAME:{{{7}}}}}]]
       }}
      }}
     }}
