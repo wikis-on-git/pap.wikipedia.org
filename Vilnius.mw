@@ -1,16 +1,19 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Vilnius'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Vilnius.svg|125px]]
-| align="center" width="140px" | [[File:Grand Coat of arms of Vilnius.svg|125px]]
-|}
-|-
-| align=center colspan=2 | [[File:Vilnus Montage (2016).png|300px]]
-|}
-'''Vilnius''' ta e [[kapital]] i e suidat mas grandi di [[Lituania]]. E siudat tin un poblashon di mas of menos 542.664 habitante (2015) i un area di 401 kilometer kuadrá.
+{{infosiudat
+|nomber_nativo = Vilnius
+|nomber_propio = Kapital 
+|imagen_mapa   = Vilnus Montage (2016).png
+|pais          = {{LTU}}
+|alkalde       = Remigijus Šimašius
+|fecha_di_fundashon = 1323
+|area          = 401
+|aña_kalkulashon_di_pop = 2021
+|pop_aproksima = 588.412
+|densidat_pop  = 1.392
+}}
+'''Vilnius''', antes '''Wilnioes''', (na [[alemán]]: ''Wilna''; [[polaco|polako]]: ''Wilno''; [[rusiano|ruso]]: ''Вильнюсta''; [[yiddisch]]: ווילנע ''Wilne'') ta [[kapital]] i siudat mas grandi di [[Lituania]]. E ta situá den e region suitost di e pais baltiko, entre e riunan di Vilnelė i Neris. E siudat tin un poblashon di mas of menos 588.412 habitante (2021) i un area di 401 kilometer kuadrá.
+
+
+{{Appendix}}
 
 [[Category:Lituania]]
 [[Category:Siudadnan]]
