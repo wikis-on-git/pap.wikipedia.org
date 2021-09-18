@@ -1,25 +1,19 @@
 {{variante|a}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Santiago de cali'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Santiago de Cali.svg|125px]]
-| align="center" width="140px" | [[File:Escudo de Santiago de Cali.svg|125px]]
-|}
-|-
-| align=center colspan=2 | 
-|}
+{{infosiudat
+|nomber_nativo = Cali
+|nomber_propio = ''Santiago de Cali'' 
+|imagen_mapa   = Colombia - Valle del Cauca - Santiago de Cali.svg
+|pais          = {{COL}}
+|alkalde       = Jorge Iván Ospina
+|fecha_di_fundashon = 25 di juli 1536
+|area          = 619
+|aña_kalkulashon_di_pop = 2020
+|pop_aproksima = 2.252.616<ref name="dane.gov.co">https://www.dane.gov.co/files/varios/informacion-capital-DANE-2019.pdf</ref>
+|densidat_pop  = 3.600
+}}
+'''Cali''', oficialmente '''Santiago de Cali''', ta [[kapital|capital]] di e departamento di [[Valle del Cauca]] y e ciudad mas pobla den e parti sur di [[Colombia]]. Cali tin mas cu 2 miyon habitante y ta e di tres ciudad mas grandi di e pais, despues di [[Bogota]] y [[Medellín]].
 
-[[File:Colombia - Valle del Cauca - Santiago de Cali.svg|thumb|]]
-'''Cali''' ta un cuidad na [[Colombia]] y capital di [[Valle del Cauca]].
 
-==Historia==	
-==Transportashon==	
-==Ekonomia==	
-==Referensianan==	
-==Linknan eksterno==
-
+{{Appendix}}
 [[Category:Colombia]]
 [[Category:Siudadnan]]
