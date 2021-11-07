@@ -10,20 +10,20 @@
 | {{AFG}}
 | [[Himno di Afganistan|Sorud-e-Melli]] (Himno nashonal)
 |-----
-| [[Albania]]
+| {{ALB}}
 | [[Himno di Albania|Hymni i Flamurit]] (Himno di bandera)
 |-----
 
 | [[Algeria]]
 | [[Himno Algierii|Kassaman]] (Ślubujemy)
 |-----
-| [[Andorra]]
+| {{AND}}
 | [[Himno Andory|El Gran Carlemany]] (E Gran Karol)
 |-----
 | ''[[Anglia]]''
 | [[Himno di Gran Britania|God Save the Queen]] (Boże chroń królową), [[Land of Hope and Glory]] (Pais di Speransa i Gloria)
 |-----
-| [[Angola]]
+| {{AGO}}
 | [[Himno di Angola|Angola Avante]] (Naprzód Angolo)
 |-----
 | ''[[Anguilla]]''
@@ -40,16 +40,16 @@
 | {{ARG}}
 | [[Himno Argentyny|Oíd, mortales]] (Słyszcie, śmiertelni!)
 |-----
-| [[Armenia]]
+| {{ARM}}
 | [[Himno Armenii|Mer Hayrenik]] (Nasza Ojczyzna)
 |-----
-| ''[[Aruba]]''
+| [[Aruba]]
 | [[Aruba Dushi Tera|Aruba Dushi Tera]]
 |-----
-| [[Australia]]
+| {{AUS}}
 | Himno królewski -[[Himno Wielkiej Brytanii|God Save the Queen]] (Boże chroń królową)<br /> Himno narodowy - [[Himno Australii|Advance Australia Fair]] (Naprzód Piękna Australio)
 |-----
-| [[Austria]]
+| {{AUT}}
 | [[Himno Austrii|Land der Berge, Land am Strome]] (Kraju gór, kraju rzek)
 |-----
 | ''[[Austro-Węgry]]''
@@ -61,27 +61,27 @@
 | {{BHS}}
 | [[Himno Bahamów|March On, Bahamaland]]
 |-----
-| [[Bahrain]]
+| {{BHR}}
 | [[Himno Bahrajnu|Bahrainona]] (Nasz Bahrajn)
 |-----
 | ''[[Baleary]]'' || [[La Balanguera]] (Balanguera)
 |-----
-| [[Bangladesh]]
+| {{BGD}}
 | [[Himno Bangladeszu|Amar Sonar Bangla]] (Mój złoty Bengal)
 |-----
-| [[Barbados]]
+| {{BRB}}
 | [[Himno Barbadosu|In Plenty and In Time of Need]] (W obfitości i w potrzebie)
 |-----
-| [[Belarus]]
+| {{BLR}}
 | [[Himno di Belarus|My, biełarusy]] (My, Białorusini)
 |-----
-| [[Belgika]]
+| {{BEL}}
 | [[Himno Belgii|La Brabaçonne]] (Pieśń Brabancji; Brabantka)
 |-----
-| [[Belize]]
+| {{BLZ}}
 | [[Himno Belize|Land of the Free]] (Kraj wolnych ludzi)
 |-----
-| [[Benin]]
+| {{BEN}}
 | [[Himno Beninu|L'Aube Nouvelle]] (Świt nowego dnia)
 |-----
 | ''[[Bermuda]]''
@@ -99,13 +99,13 @@
 | {{BOL}}
 | [[Himno Boliwii|Canción Patriótica]] 
 |-----
-| [[Bosnia i Herzogovina]]
+| {{BIH}}
 | [[Himno Bośni i Hercegowiny|Intermeco]]
 |-----
 | [[Botswana]]
 | [[Himno Botswany|Fatshe leno la rona]] (Błogosławiony niech będzie ten szlachetny kraj)
 |-----
-| [[Brazil]]
+| {{BRA}}
 | [[Himno nashonal di Brazil|Hino Nacional Brasileiro]] (Himno nashonal di Brazil)
 |-----
 | [[Brunei]]
@@ -122,6 +122,9 @@
 |-----
 | [[Burundi]]
 | [[Himno Burundi|Burundi bwacu]] (Kochana Burundi)
+|-----
+| {{CAN}}
+| Himno królewski - [[Himno Wielkiej Brytanii|God Save the Queen]] (Boże chroń królową)<br />Himno państwowy - [[Himno Kanady|O Canada]] (Kanado)
 |-----
 | [[Chile]]
 | [[Himno Chile|Dulce Patria, recibe los votos]] (Droga Ojczyzno, przyjmij nasze poświęcenie)<br />
@@ -188,7 +191,7 @@
 | ''[[Flandria (region)]]''
 | [[Himno Flandrii|De Vlaamse Leeuw]] (Flamandzki lew)
 |-----
-| [[Fransia]]
+| {{FRA}}
 | [[Himno di Fransia|La Marseillaise]] ([[Himno Francji|Marsylianka]])
 |-----
 | [[Gabon]] || [[Himno Gabonu|La Concorde]] (Zgoda)
@@ -297,9 +300,6 @@
 |-----
 | [[Kamerun]]
 | [[Himno Kamerunu|Chant de Ralliement]] (Pieśń zbiórki)
-|-----
-| [[Kanada]]
-| Himno królewski - [[Himno Wielkiej Brytanii|God Save the Queen]] (Boże chroń królową)<br />Himno państwowy - [[Himno Kanady|O Canada]] (Kanado)
 |-----
 | ''[[Katalonia]]''
 | [[Himno Katalonii|Els Segadors]] (Żeńcy)
