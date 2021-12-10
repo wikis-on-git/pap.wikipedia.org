@@ -1,0 +1,66 @@
+<includeonly>{{
+#if: {{#if: {{{url|}}}{{{URL|}}} | {{#if: {{{titel|}}}{{{title|}}} |1}}}}
+  ||<span style="color: red;">Kan [[Sjabloon:Citeer web]] niet gebruiken, vanwege ontbrekende parameters '''url''' en/of '''titel'''</span>
+}}{{#if: {{{taal|}}}{{{lang|}}}{{{language|}}}
+  |{{#ifexist:sjabloon:taal-{{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}}
+    |{{ taal-{{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} }}
+    | [[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]]
+  }}
+}}{{#if: {{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}}{{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}}
+  | {{#if: {{#if: {{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}}| {{#if: {{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}} |1}}}}
+    ||<span style="color: red;">Kan [[Sjabloon:Citeer web]] niet gebruiken, vanwege ontbrekende parameters '''archiefurl''' of '''archiefdatum''' (beide moeten worden gebruikt of geen van beide)</span>
+}}
+}}{{#if: {{{auteur|}}}{{{author|}}}{{{achternaam|}}}{{{last|}}}
+  | {{aut|{{#if: {{{auteurlink|}}}{{{authorlink|}}}
+    | [[{{{auteurlink|}}}{{{authorlink|}}}|{{#if: {{{achternaam|}}}{{{last|}}}
+      | {{{achternaam|}}}{{{last|}}}{{#if: {{{voornaam|}}}{{{first|}}} | , {{{voornaam|}}}{{{first|}}} }}
+      | {{{auteur|}}}{{{author|}}}
+    }}]]
+    | {{#if: {{{achternaam|}}}{{{last|}}}
+      | {{{achternaam|}}}{{{last|}}}{{#if: {{{voornaam|}}}{{{first|}}} | , {{{voornaam|}}}{{{first|}}} }}
+      | {{{auteur|}}}{{{author|}}}
+    }}
+  }}}}
+}}{{#if: {{{auteur|}}}{{{author|}}}{{{achternaam|}}}{{{last|}}}
+  | {{#if: {{{medeauteurs|}}}{{{coauthors|}}}| <nowiki>;</nowiki>&#32;{{aut|{{{medeauteurs|}}}{{{coauthors|}}} }}}}
+}}{{#if: {{{auteur|}}}{{{author|}}}{{{achternaam|}}}{{{last|}}}
+  | ,&#32;
+}}{{#if:{{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}}| {{#Switch:{{{dodeurl|}}}{{{dode-url|}}}{{{deadurl|}}}{{{dead-url|}}}|ja|yes=[{{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}} {{{titel|}}}{{{title|}}}] |#default = [{{{url|}}}{{{URL|}}} {{{titel|}}}{{{title|}}}] }} | [{{{url|}}}{{{URL|}}} {{{titel|}}}{{{title|}}}]
+}}{{#if: {{{formaat|}}}{{{format|}}}
+  | &#32;({{{formaat|}}}{{{format|}}})
+}}{{#if: {{{werk|}}}{{{work|}}}{{{website|}}}
+  | .&#32;''{{{werk|}}}{{{work|}}}{{{website|}}}''
+}}{{#if: {{{pagina's|}}}{{{paginas|}}}{{{pages|}}}
+  | &#32;{{{pagina's|}}}{{{paginas|}}}{{{pages|}}}
+}}{{#if: {{{uitgever|}}}{{{publisher|}}}
+  | .&#32;{{{uitgever|}}}{{{publisher|}}}{{#if: {{{auteur|}}}{{{author|}}}{{{achternaam|}}}{{{last|}}}
+    | 
+    | {{#if: {{{datum|}}}{{{date|}}}{{{jaar|}}}{{{year|}}}{{{maand|}}}{{{month|}}} || }}
+  }}
+}}{{#if: {{{datum|}}}{{{date|}}}
+    | &#32;({{#dateformat:{{{datum|}}}{{{date|}}}|dmy}})
+    | {{#if: {{{jaar|}}}{{{year|}}}
+      | {{#if: {{{maand|}}}{{{month|}}}
+        | &#32;({{#dateformat:{{{maand|}}}{{{month|}}} {{{jaar|}}}{{{year|}}}|dmy}})
+        | &#32;({{#dateformat:{{{jaar|}}}{{{year|}}}|dmy}})
+      }}
+    }}
+}}{{#if: {{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}}
+  | .&#32;{{#Switch:{{{dodeurl|}}}{{{dode-url|}}}{{{deadurl|}}}{{{dead-url|}}}|ja|yes=Gearchiveerd|#default = [{{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}} Gearchiveerd] }} op {{#dateformat:{{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}}|dmy}}
+}}{{#if: {{{bezochtdatum|}}}{{{accessdate|{{{access-date|}}}}}}{{{datumbezocht|}}}{{{datumgeraadpleegd|}}}{{{raadpleegdatum|}}}
+  | .&#32;Geraadpleegd op {{#dateformat:{{{bezochtdatum|}}}{{{accessdate|{{{access-date|}}}}}}{{{datumbezocht|}}}{{{datumgeraadpleegd|}}}{{{raadpleegdatum|}}}|dmy}}
+}}{{#if:{{{via|}}}{{{Via|}}}{{{VIA|}}}|&nbsp;– via {{{via|}}}{{{Via|}}}{{{VIA|}}}.|.}}{{#if: {{{citaat|}}}{{{quote|}}}
+  | &nbsp;"{{{citaat|}}}{{{quote|}}}"
+}}{{#if: {{{url|}}}{{{URL|}}} ||[[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]]}}{{#if: {{{titel|}}}{{{title|}}}||[[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]]}}{{#ifeq: {{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} | {{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} |  | [[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]] }}{{#if:{{{bezochtjaar|}}}{{{accessyear|}}}{{{bezochtmaanddag|}}}{{{accessmonthday|}}}{{{accessdaymonth|}}}{{{bezochtdag|}}}{{{bezochtmaandag|}}}{{{bezochtmanadag|}}}{{{bezcohtmaanddag|}}}{{{beozchtjaar|}}}{{{bezochmaanddag|}}}|[[Categorie:Wikipedia:Test|W]] | {{#if:{{#ifeq:{{{bezochtjaar|}}}|{{{bezochtjaar|?}}}|x}}<!--
+-->{{#ifeq:{{{accessyear|}}}|{{{accessyear|?}}}|x}}<!--
+-->{{#ifeq:{{{bezochtmaanddag|}}}|{{{bezochtmaanddag|?}}}|x}}<!--
+-->{{#ifeq:{{{accessmonthday|}}}|{{{accessmonthday|?}}}|x}}<!--
+-->{{#ifeq:{{{accessdaymonth|}}}|{{{accessdaymonth|?}}}|x}}<!--
+-->{{#ifeq:{{{bezochtdag|}}}|{{{bezochtdag|?}}}|x}}<!--
+-->{{#ifeq:{{{bezochtmaandag|}}}|{{{bezochtmaandag|?}}}|x}}<!--
+-->{{#ifeq:{{{bezochtmanadag|}}}|{{{bezochtmanadag|?}}}|x}}<!--
+-->{{#ifeq:{{{bezcohtmaanddag|}}}|{{{bezcohtmaanddag|?}}}|x}}<!--
+-->{{#ifeq:{{{beozchtjaar|}}}|{{{beozchtjaar|?}}}|x}}<!--
+-->{{#ifeq:{{{bezochmaanddag|}}}|{{{bezochmaanddag|?}}}|x}}| [[Categorie:Wikipedia:Test|W]] }} }}</includeonly><noinclude>
+{{documentation}}
+</noinclude>
