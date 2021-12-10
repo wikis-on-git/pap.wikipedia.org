@@ -1,0 +1,54 @@
+{{Documentation subpage}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+{{Malchi kopiá|nl}}
+
+== Doel ==
+Dit sjabloon geeft de in de parameter opgegeven tekst weer in [[kleinkapitaal]]. Optioneel kan een link naar een lemma worden opgegeven. Het sjabloon heeft als doel gebruikt te worden in bronvermeldingen, externe links, referenties en bibliografieën.
+
+== Gebruik ==
+Onbenoemd:
+<pre>* {{Aut|naam}}
+* {{Aut|lemma|naam}}</pre>
+Benoemd:
+<pre>* {{Aut|auteur=naam}}
+* {{Aut|auteurlink=lemma|auteur=naam}}</pre>
+
+== Voorbeeld ==
+Onbenoemd:
+<pre>* {{Aut|F. Bordewijk}}
+* {{Aut|F. Bordewijk|Bordewijk, F.}}</pre>
+Benoemd:
+<pre>* {{Aut|auteur=F. Bordewijk}}
+* {{Aut|auteurlink=F. Bordewijk|auteur=Bordewijk, F.}}</pre>
+
+resulteert in:
+
+Onbenoemd:
+* {{Aut|F. Bordewijk}}
+* {{Aut|F. Bordewijk|Bordewijk, F.}}
+Benoemd:
+* {{Aut|auteur=F. Bordewijk}}
+* {{Aut|auteurlink=F. Bordewijk|auteur=Bordewijk, F.}}
+<templatedata>
+{
+	"params": {
+		"auteurlink": {
+			"aliases": [
+				"2"
+			]
+		},
+		"auteur": {
+			"aliases": [
+				"1"
+			],
+			"type": "string",
+			"required": true
+		}
+	},
+	"format": "inline"
+}
+</templatedata>
+<includeonly>{{sandbox other||
+<!-- Categories below this line; interwikis at Wikidata -->
+
+}}</includeonly>
