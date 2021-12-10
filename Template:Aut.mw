@@ -1,0 +1,1 @@
+<includeonly><span style="font-variant:small-caps;">{{#if:{{{2|{{{auteurlink|}}}}}}|[[{{{auteurlink|{{{1}}}}}}|{{{auteur|{{{2}}}}}}]]|{{{auteur|{{{1}}}}}}}}</span>{{#if:{{{2|{{{auteurlink|}}}}}}| {{#if:{{{1|{{{auteur|}}}}}} | | [[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik|A]] }} | }}</includeonly><noinclude>{{Documentation}}</noinclude>
