@@ -1,0 +1,499 @@
+{{Documentation subpage}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+{{Malchi kopiá|nl}}
+
+== Gebruik ==
+;Meestgebruikte vorm bij bijvoorbeeld nieuwspublicaties<nowiki>:</nowiki>
+:<kbd><nowiki>{{Citeer web |url= |titel= |auteur= |uitgever= |datum= |bezochtdatum=</nowiki>{{nowrap|{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}}}}<nowiki>}}</nowiki></kbd>
+
+Met korte uitleg (zie [[#Verplichte parameters|uitgebreide uitleg]]):
+:<kbd><nowiki>{{Citeer web |</nowiki>url=</kbd>''de link''<kbd> &#124;titel=</kbd>''de titel van het nieuwsbericht''<kbd> &#124;auteur=</kbd>''de schrijver, als hij erbij staat''<kbd> &#124;uitgever=</kbd>''het medium waarin het bericht is uitgegeven, bijvoorbeeld: ''<kbd><nowiki>[[NRC Handelsblad]]</nowiki> &#124;datum=</kbd>''de datum waarop het bericht geschreven is, bijvoorbeeld: ''<kbd>2008-04-12 &#124;bezochtdatum=</kbd>''de datum waarop je de pagina bezocht hebt, bijvoorbeeld: ''<kbd>{{nowrap|{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}}}}<nowiki> }}</nowiki></kbd>
+
+;Meestgebruikte vorm als er weinig bekend is over de auteur van de pagina (met ingevulde bezochtdatum)<nowiki>:</nowiki>
+:<kbd><nowiki>{{Citeer web |url= |titel= |bezochtdatum=</nowiki>{{nowrap|{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}}}}<nowiki> |formaat= |werk= |uitgever= }}</nowiki></kbd>
+
+;Gebruikmakend van de achternaam- en voornaam-parameters (met ingevulde bezochtdatum)<nowiki>:</nowiki>
+:<kbd><nowiki>{{Citeer web |url= |titel= |bezochtdatum=</nowiki>{{nowrap|{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}}}}<nowiki> |achternaam= |voornaam= |auteurlink= |medeauteurs= |datum= |formaat= |werk= |uitgever= |paginas= |taal= |archiefurl= |archiefdatum= |citaat= }}</nowiki></kbd>
+
+;Gebruikmakend van de auteur-parameter (met ingevulde bezochtdatum)<nowiki>:</nowiki>
+:<kbd><nowiki>{{Citeer web |url= |titel= |bezochtdatum=</nowiki>{{nowrap|{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}}}}<nowiki> |auteur= |auteurlink= |medeauteurs= |datum= |formaat= |werk= |uitgever= |paginas= |taal= |archiefurl= |archiefdatum= |citaat= }}</nowiki></kbd>
+
+;Alle parameters<nowiki>:</nowiki>
+<pre>{{Citeer web
+| url          = 
+| titel        = 
+| bezochtdatum = 
+| auteur       = 
+| achternaam   = 
+| voornaam     = 
+| auteurlink   = 
+| medeauteurs  = 
+| datum        = 
+| formaat      = 
+| werk         = 
+| uitgever     = 
+| paginas      = 
+| taal         = 
+| archiefurl   = 
+| archiefdatum = 
+| dodeurl      = 
+| via          =
+| citaat       = 
+}}</pre>
+
+of
+
+<pre>{{Citeer web | url= | titel= | bezochtdatum= | auteur= | achternaam= | voornaam= | auteurlink= | medeauteurs= | datum= | formaat= | werk= | uitgever= | paginas= | taal= | archiefurl= | archiefdatum= | dodeurl= | via= | citaat= }}</pre>
+
+===Korte vorm===
+<pre>
+{{Citeer web
+| url          = 
+| titel        = 
+| bezochtdatum = 
+| auteur       = 
+| auteurlink   = 
+| medeauteurs  = 
+| datum        = 
+}}</pre>
+
+of
+
+<pre>{{Citeer web |url = |titel = |bezochtdatum = |auteur=  |auteurlink = |medeauteurs = |datum = }}</pre>
+
+=== Verplichte parameters ===
+* '''url''': Het webadres (URL) van de pagina.
+* '''titel''': De titel van de pagina.
+* '''bezochtdatum''': De datum waarop de pagina was bezocht, bijvoorbeeld <code>bezochtdatum={{nowrap|{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}}}}</code>.
+
+=== Niet-verplichte parameters ===
+* '''auteur''': De naam van de auteur.
+** '''achternaam''' en '''voornaam''': In plaats van de parameter <kbd>'''auteur'''</kbd>. Samen te gebruiken om de auteur weer te geven als "achternaam, voornaam".
+** '''auteurlink''': De titel van het Wikipedia-artikel van de auteur. Samen met <kbd>'''auteur'''</kbd> of met <kbd>'''achternaam'''</kbd> en <kbd>'''voornaam'''</kbd> te gebruiken om naar het juiste artikel te linken. Werkt niet met URL's.
+** '''medeauteurs''': Maakt het mogelijk om nog meer auteurs toe te voegen.
+* '''datum''': De datum van de publicatie, bijvoorbeeld <code>datum=2016-07-17</code>
+* '''formaat''': Het formaat, indien het niet een gewone webpagina (HTML) is, bijvoorbeeld <code>formaat=pdf</code>.
+* '''werk''': De naam van het werk, als de pagina onderdeel is van een groter werk. Het domein van de website in de url kan bij deze parameter vermeld worden, zodat de lezer expliciet het domein kan zien voordat erop geklikt wordt. Bij online kranten e.d. voer je de domeinnaam in, bijvoorbeeld nrc.nl, bij papieren kranten, tijdschriften e.d plaats je hier de naam van de krant of het tijdschrift. Eventueel als wikilink, bijvoorbeeld <code>werk=nrc.nl of <nowiki>[[NRC Handelsblad]]</nowiki></code>
+* '''uitgever''': De naam van de uitgever, als die er is. Eventueel als wikilink, bijvoorbeeld <code>uitgever=Uitgeverij Chaos of <nowiki>[[Uitgeverij Contact]]</nowiki> of <nowiki>[[DPG Media]]</nowiki></code>
+* '''paginas''': De paginanummers die relevant zijn voor het citaat (niet het totale aantal pagina's!), bijvoorbeeld <code>paginas=p. 5</code> of <code>paginas=pp. 5–7</code> voor de eerste en eventueel de laatste pagina. Dit is erg handig voor het [[Portable Document Format|pdf]]-formaat, waarbij het mogelijk is om direct naar de eerste pagina te linken door <code>#page=''paginanummer''</code> aan het einde van de URL te plakken: <!--
+--><code><nowiki>paginas=[https://www.example.com/file.pdf#page=123 p. 123]</nowiki></code>. Voor webpagina's kan naar een relevant deel verwezen worden, bijvoorbeeld <code>paginas=Geschiedenis</code>.
+* '''taal''': De taal van de publicatie, bijvoorbeeld <code>taal=fr</code>. Gebruik altijd de [[:Categorie:Wikipedia:Sjablonen ISO-639|twee- of drieletterige taalcode]] volgens [[ISO 639]].
+* '''archiefurl''': De URL van de locatie waar een gearchiveerde versie van de pagina kan worden gevonden. De parameter <kbd>'''archiefdatum'''</kbd> is verplicht als deze parameter wordt gebruikt. Voor het aanmaken van een archiefurl zie [[Wikipedia:Bronvermelding#Online bronmateriaal veilig stellen]].
+* '''archiefdatum''': De datum waarop de pagina was gearchiveerd, bijvoorbeeld <code>archiefdatum=2020-06-07</code>. De parameter <kbd>'''archiefurl'''</kbd> is dan ook verplicht.
+* '''dodeurl''': Zet de waarde van dit veld op <kbd>ja</kbd> als de oorspronkelijke link 'dood' is, de oorspronkelijke url wordt dan niet meer weergegeven. Leeg laten zolang de link werkt.
+* '''citaat''': Het relevante citaat van de pagina.
+* '''via''': De site via welke de informatie ontsloten wordt, als dat niet de oorspronkelijke uitgever is. Denk onder meer aan Delpher.
+
+== Voorbeelden ==
+;Enkele standaardvoorbeelden<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web
+|auteur=Jansen, Jan
+|titel=My Favorite Things Part II
+|uitgever=Open Publishing
+|datum=2005-04-30
+|werk=Encyclopedia of Things
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web |auteur=Jansen, Jan |titel=My Favorite Things Part II |uitgever=Open Publishing |datum=2005-04-30|werk=Encyclopedia of Things |url=https://www.example.com/ |bezochtdatum=2020-08-07}}
+
+* <code><nowiki>{{Citeer web
+|auteur=Jansen, Jan
+|titel=My Favorite Things Part II
+|datum=2005-04-30
+|werk=Encyclopedia of Things
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web |auteur=Jansen, Jan |titel=My Favorite Things Part II |datum=2005-04-30 |werk=Encyclopedia of Things |url=https://www.example.com/ |bezochtdatum=2020-08-07}}
+
+* <code><nowiki>{{Citeer web
+|auteur=Jansen, Jan
+|titel=My Favorite Things Part II
+|datum=2005-04-30
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web |auteur=Jansen, Jan |titel=My Favorite Things Part II |datum=2005-04-30 |url=https://www.example.com/ |bezochtdatum=2020-08-07}}
+
+* <code><nowiki>{{Citeer web
+|auteur=Jansen, Jan
+|titel=My Favorite Things Part II
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web |auteur=Jansen, Jan |titel=My Favorite Things Part II |url=https://www.example.com/ |bezochtdatum=2020-08-07}}
+
+* <code><nowiki>{{Citeer web
+|titel=My Favorite Things Part II
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web |titel=My Favorite Things Part II |url=https://www.example.com/ |bezochtdatum=2020-08-07}}
+
+* <code><nowiki>{{Citeer web
+|url=https://www.nfl.com/fans/
+|titel=Digest of Rules
+|uitgever=National Football League
+|bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web |url=https://www.nfl.com/fans/
+|titel=Digest of Rules |uitgever=National Football League |bezochtdatum=2020-08-07}}
+
+;Met formaat<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web
+|titel=List of psychotropic substances under international control
+|uitgever=International Narcotics Control Board
+|url=https://www.incb.org/pdf/e/list/green.pdf
+|formaat=pdf
+|bezochtdatum=2020-08-07
+}}</nowiki></code><br /> → {{Citeer web
+|titel=List of psychotropic substances under international control
+|uitgever=International Narcotics Control Board |url=https://www.incb.org/pdf/e/list/green.pdf
+|formaat=pdf |bezochtdatum=2020-08-07}}
+
+;Met taal<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web
+|auteur=Joliet, François
+|titel=Honi soit qui mal y pense
+|datum=2005-04-30
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+|taal=fr
+}}</nowiki></code><br />→ {{Citeer web |auteur=Joliet, François |titel=Honi soit qui mal y pense |datum=2005-04-30 |url=https://www.example.com/ |bezochtdatum=2020-08-07|taal=fr}}
+
+;Medeauteurs<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web |voornaam=Jan |achternaam=Jansen |medeauteurs=Peter Smith, Jim Smythe |titel=My Favorite Things Part II |uitgever=Open Publishing |datum=2005-04-30 |werk=Encyclopedia of Things |url=https://www.example.com/ |bezochtdatum=2020-08-07 
+}}</nowiki></code><br />→ {{Citeer web |voornaam=Jan |achternaam=Jansen |medeauteurs=Peter Smith, Jim Smythe |titel=My Favorite Things Part II | uitgever=Open Publishing | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2020-08-07}}
+
+;Geen auteur<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web |titel=My Favorite Things Part II |uitgever=Open Publishing |datum=2005-04-30 |werk=Encyclopedia of Things |url=https://www.example.com/ |bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web | titel=My Favorite Things Part II | uitgever=Open Publishing | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2020-08-07}}
+
+;Geen auteur, geen uitgever<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web |titel=My Favorite Things Part II |datum=2005-04-30 |werk=Encyclopedia of Things |url=https://www.example.com/ |bezochtdatum=2020-08-07
+}}</nowiki></code><br />→ {{Citeer web | titel=My Favorite Things Part II | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2020-08-07}}
+
+* <code><nowiki>{{Citeer web |titel=My Favorite Things Part II |datum=2005-04-30 |url=https://www.example.com/ |bezochtdatum=6 juli 2005 }}</nowiki></code><br />→ {{Citeer web | titel=My Favorite Things Part II | datum=2005-04-30 | url=https://www.example.com/ | bezochtdatum=2020-08-075 }}
+
+* <code><nowiki>{{Citeer web
+|titel=List of psychotropic substances under international control
+|datum=2005-04-30
+|url=https://www.incb.org/pdf/e/list/green.pdf
+|formaat=pdf
+|bezochtdatum=2020-08-07
+|taal=grc 
+}}</nowiki></code><br /> → {{Citeer web
+|titel=List of psychotropic substances under international control |datum=2005-04-30
+|url=https://www.incb.org/pdf/e/list/green.pdf |formaat=pdf |bezochtdatum=2020-08-07
+|taal=grc}}
+
+;Met archiefurl en archiefdatum, voor pagina's die niet meer bestaan maar wel zijn gearchiveerd<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web
+|titel=List of psychotropic substances under international control
+|datum=2005-04-30
+|url=https://www.incb.org/pdf/e/list/green.pdf
+|formaat=pdf
+|bezochtdatum=2020-08-07
+|archiefurl=https://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+|archiefdatum=2005-11-11
+|dodeurl=ja}}</nowiki></code><br /> → {{Citeer web
+|titel=List of psychotropic substances under international control
+|datum=2005-04-30
+|url=https://www.incb.org/pdf/e/list/green.pdf
+|formaat=pdf
+|bezochtdatum=2020-08-07
+|archiefurl=https://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+|archiefdatum=2005-11-11
+|dodeurl=ja}}
+
+* <code><nowiki>{{Citeer web
+|url=https://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|titel=Interview with Maggie Downs
+|datum=2006-03-31 
+|uitgever=The Desert Sun
+|archiefurl=https://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|archiefdatum=2006-04-26
+}}</nowiki></code><br /> → {{Citeer web
+|url=https://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|titel=Interview with Maggie Downs
+|datum=2006-03-31 
+|uitgever=The Desert Sun
+|archiefurl=https://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|archiefdatum=2006-04-26}}
+
+;Met citaat<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web
+|titel=My Favorite Things Part II
+|werk=Encyclopedia of Things
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+|citaat=Lorem ipsum dolor.
+}}</nowiki></code><br />→ {{Citeer web
+|titel=My Favorite Things Part II
+|werk=Encyclopedia of Things
+|url=https://www.example.com/
+|bezochtdatum=2020-08-07
+|citaat=Lorem ipsum dolor.
+}}
+
+;Het ontbreken van verplichte parameters resulteert in een foutmelding<nowiki>:</nowiki>
+* <code><nowiki>{{Citeer web}}</nowiki></code><br />→ <span style="color: red;">Kan [[Sjabloon:Citeer web]] niet gebruiken, vanwege ontbrekende parameters '''url''' en/of '''titel'''[ ]</span>
+
+== Templatedata ==
+<templatedata>
+{
+	"params": {
+		"url": {
+			"label": "URL",
+			"type": "url",
+			"required": true,
+			"description": "Het webadres (URL) van de pagina.",
+			"example": "https://www.voorbeeld.nl/",
+			"aliases": [
+				"URL"
+			]
+		},
+		"titel": {
+			"label": "Titel",
+			"type": "string",
+			"required": true,
+			"description": "De titel van de pagina.",
+			"aliases": [
+				"title"
+			]
+		},
+		"bezochtdatum": {
+			"label": "Bezochtdatum",
+			"type": "date",
+			"description": "De datum waarop de pagina door jou als bron voor Wikipedia is geraadpleegd.",
+			"example": "2021-04-16",
+			"aliases": [
+				"accessdate",
+				"datumbezocht",
+				"datumgeraadpleegd",
+				"raadpleegdatum",
+				"access-date"
+			],
+			"suggested": true,
+			"required": true
+		},
+		"auteur": {
+			"label": "Auteur",
+			"type": "string",
+			"description": "De naam van de auteur.",
+			"suggested": true,
+			"aliases": [
+				"author"
+			]
+		},
+		"achternaam": {
+			"label": "Achternaam",
+			"type": "string",
+			"description": "In plaats van 'auteur'. Samen met 'voornaam' te gebruiken om de auteur weer te geven als \"achternaam, voornaam\".",
+			"suggested": true,
+			"aliases": [
+				"last"
+			]
+		},
+		"voornaam": {
+			"label": "Voornaam",
+			"type": "string",
+			"description": "In plaats van 'auteur'. Samen met 'achternaam' te gebruiken om de auteur weer te geven als \"achternaam, voornaam\".",
+			"suggested": true,
+			"aliases": [
+				"first"
+			]
+		},
+		"auteurlink": {
+			"label": "Link naar auteur",
+			"type": "wiki-page-name",
+			"description": "De titel van het Wikipedia-artikel van de auteur. Samen met 'auteur' of met 'achternaam' en 'voornaam' te gebruiken om naar het juiste artikel te linken. Werkt niet met URL's.",
+			"aliases": [
+				"authorlink"
+			]
+		},
+		"medeauteurs": {
+			"label": "Medeauteurs",
+			"type": "string",
+			"description": "Maakt het mogelijk om nog meer auteurs toe te voegen.",
+			"aliases": [
+				"coauthors"
+			]
+		},
+		"datum": {
+			"label": "Datum",
+			"type": "date",
+			"description": "De datum van de publicatie.",
+			"suggested": true,
+			"example": "2015-10-13",
+			"aliases": [
+				"date",
+				"publicatiedatum"
+			]
+		},
+		"formaat": {
+			"label": "Formaat",
+			"type": "string",
+			"description": "Het formaat, indien het niet een gewone webpagina (HTML) is.",
+			"example": "pdf",
+			"aliases": [
+				"format"
+			]
+		},
+		"werk": {
+			"label": "Werk",
+			"type": "string",
+			"description": "De naam van het werk, als de pagina onderdeel is van een groter werk. Het domein van de website in de url kan bij deze parameter vermeld worden, zodat de lezer expliciet het domein kan zien voordat erop geklikt wordt. Bij online kranten e.d. voer je de domeinnaam in, bijvoorbeeld nrc.nl, bij papieren kranten, tijdschriften e.d plaats je hier de naam van de krant of het tijdschrift. Eventueel als wikilink.",
+			"aliases": [
+				"work",
+				"website"
+			],
+			"example": "nrc.nl of [[NRC Handelsblad]]",
+			"suggested": true
+		},
+		"uitgever": {
+			"label": "Uitgever",
+			"type": "string",
+			"description": "De naam van de uitgever, als die er is. Eventueel als wikilink.",
+			"suggested": true,
+			"aliases": [
+				"publisher"
+			],
+			"example": "Uitgeverij Chaos of [[Uitgeverij Contact]] of [[DPG Media]]"
+		},
+		"taal": {
+			"label": "Taalcode",
+			"type": "string",
+			"description": "De taal van de publicatie. Gebruik altijd de tweeletterige of indien niet beschikbaar drieletterige taalcode.",
+			"example": "en",
+			"aliases": [
+				"lang",
+				"language"
+			],
+			"suggested": true
+		},
+		"archiefurl": {
+			"label": "Archief-url",
+			"type": "string",
+			"description": "De URL van de locatie waar een gearchiveerde versie van de pagina kan worden gevonden. De parameter 'archiefdatum' is verplicht als deze parameter wordt gebruikt.",
+			"aliases": [
+				"archiveurl",
+				"archive-url"
+			]
+		},
+		"archiefdatum": {
+			"label": "Archief-datum",
+			"type": "date",
+			"description": "De datum waarop de pagina was gearchiveerd. De parameter 'archiefurl' is dan ook verplicht.",
+			"example": "2015-12-13",
+			"aliases": [
+				"archivedate",
+				"archive-date"
+			]
+		},
+		"dodeurl": {
+			"label": "Dode url",
+			"type": "string",
+			"description": "Zet de waarde van dit veld op 'ja' als de oorspronkelijke link 'dood' is, de oorspronkelijke url wordt dan niet meer weergegeven. Leeg laten zolang de link werkt.",
+			"aliases": [
+				"dode-url",
+				"deadurl",
+				"dead-url"
+			]
+		},
+		"citaat": {
+			"label": "Citaat",
+			"type": "string",
+			"description": "Het relevante citaat van de pagina.",
+			"aliases": [
+				"quote"
+			]
+		},
+		"pagina's": {
+			"aliases": [
+				"paginas",
+				"pages"
+			],
+			"label": "Pagina's",
+			"description": "De paginanummers die relevant zijn voor het citaat (niet het totale aantal pagina's!); de eerste en eventueel de laatste pagina, voorafgegaan door de aanduiding ''p. '' of ''pp. ''. Dit is erg handig voor het pdf-formaat, waarbij het mogelijk is om direct naar de eerste pagina te linken door #page=number aan het einde van de URL te plakken. Kan ook gebruikt worden voor het aangeven welk deel van (bijvoorbeeld) een internetpagina relevant is.",
+			"example": "p. 5, pp. 5–7, paragraaf 2.3, kopje Geschiedenis",
+			"type": "string"
+		},
+		"via": {
+			"label": "Via",
+			"description": "De inhoudsleverancier als deze anders is dan de uitgever. Dit is niet een vervanging van de uitgever parameter maar voor het leveren van extra details. Het kan gebruikt worden als de inhoud hergepubliceerd is in een ander formaat, bijvoorbeeld op Delpher.",
+			"example": "Delpher, Newspapers.com",
+			"type": "string"
+		},
+		"jaar": {
+			"aliases": [
+				"year",
+				"maand",
+				"month"
+			],
+			"label": "Jaar / maand",
+			"deprecated": "gebruik: datum"
+		},
+		"bezochtmaanddag": {
+			"deprecated": "Gebruik bezochtdatum",
+			"aliases": [
+				"accessmonthday",
+				"accessdaymonth",
+				"bezochtmaanddag",
+				"accessmonthday",
+				"accessdaymonth",
+				"bezochtdag",
+				"bezochtmaandag",
+				"bezochtmanadag",
+				"bezcohtmaanddag",
+				"beozchtjaar",
+				"bezochmaanddag",
+				"bezochtjaar",
+				"accessyear"
+			]
+		}
+	},
+	"maps": {
+		"citoid": {
+			"title": "titel",
+			"url": "url",
+			"publicationTitle": "werk",
+			"websiteTitle": "werk",
+			"blogTitle": "werk",
+			"forumTitle": "werk",
+			"publisher": "uitgever",
+			"date": "datum",
+			"pages": "pagina's",
+			"accessDate": "bezochtdatum",
+			"language": "taal",
+			"contributors": "medeauteurs",
+			"podcaster": "auteur",
+			"programmer": "auteur",
+			"author": "auteur"
+		}
+	},
+	"paramOrder": [
+		"url",
+		"titel",
+		"bezochtdatum",
+		"auteur",
+		"achternaam",
+		"voornaam",
+		"auteurlink",
+		"medeauteurs",
+		"datum",
+		"formaat",
+		"werk",
+		"uitgever",
+		"pagina's",
+		"taal",
+		"archiefurl",
+		"archiefdatum",
+		"dodeurl",
+		"via",
+		"citaat",
+		"jaar",
+		"bezochtmaanddag"
+	],
+	"format": "inline",
+	"description": "Met dit sjabloon voeg je een verwijzing naar een website in die gebruikt is als bron."
+}
+</templatedata><includeonly>{{sandbox other||
+<!-- Categories below this line; interwikis at Wikidata -->
+
+}}</includeonly>
