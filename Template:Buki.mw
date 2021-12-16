@@ -1,0 +1,27 @@
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+!style="background:#F5F5DC; font-size:110%; text-align:center; font-weight:bold; font-style:italic;"|{{{titulo|{{PAGENAME}}}}}
+|-
+|style="text-align: center; font-size: 90%;"| {{#if:{{{image|}}} | [[File:{{{image}}}|197px]] }}
+|-
+|
+{| style="background:#ff8080"; style="text-align: left; width: 25em; margin: 0 auto;"
+|- style="vertical-align: top;" 
+|-
+| style="padding-left: 0.5em;" | Autor: || {{{autor}}}
+|-
+| style="padding-left: 0.5em;" | Idioma: || {{{idioma}}}
+|-
+| style="padding-left: 0.5em;" | Fecha: || {{{fecha}}}
+|}
+|}
+<noinclude>
+<pre>
+{{Buki
+| titulo                    = 
+| image                     = 
+| autor                     = 
+| fecha                     = 
+| idioma                    = 
+}}
+</pre>
+</noinclude>
