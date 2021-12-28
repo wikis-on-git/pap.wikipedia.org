@@ -4,7 +4,7 @@
 }}{{#if: {{{taal|}}}{{{lang|}}}{{{language|}}}
   |{{#ifexist:sjabloon:taal-{{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}}
     |{{ taal-{{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} }}
-    | [[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]]
+    | [[Category:Wikipedia:Kategoria ouksiliar pa utilisashon pa poko tempu]]
   }}
 }}{{#if: {{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}}{{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}}
   | {{#if: {{#if: {{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}}| {{#if: {{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}} |1}}}}
@@ -46,12 +46,12 @@
       }}
     }}
 }}{{#if: {{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}}
-  | .&#32;{{#Switch:{{{dodeurl|}}}{{{dode-url|}}}{{{deadurl|}}}{{{dead-url|}}}|ja|yes=Gearchiveerd|#default = [{{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}} Gearchiveerd] }} op {{#dateformat:{{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}}|dmy}}
+  | .&#32;{{#Switch:{{{dodeurl|}}}{{{dode-url|}}}{{{deadurl|}}}{{{dead-url|}}}|ja|yes=Gearchiveerd|#default = [{{{archiefurl|}}}{{{archiveurl|{{{archive-url|}}}}}} Archivá] }} riba {{#dateformat:{{{archiefdatum|}}}{{{archivedate|{{{archive-date|}}}}}}|dmy}}
 }}{{#if: {{{bezochtdatum|}}}{{{accessdate|{{{access-date|}}}}}}{{{datumbezocht|}}}{{{datumgeraadpleegd|}}}{{{raadpleegdatum|}}}
-  | .&#32;Geraadpleegd op {{#dateformat:{{{bezochtdatum|}}}{{{accessdate|{{{access-date|}}}}}}{{{datumbezocht|}}}{{{datumgeraadpleegd|}}}{{{raadpleegdatum|}}}|dmy}}
+  | .&#32;Konsultá riba {{#dateformat:{{{bezochtdatum|}}}{{{accessdate|{{{access-date|}}}}}}{{{datumbezocht|}}}{{{datumgeraadpleegd|}}}{{{raadpleegdatum|}}}|dmy}}
 }}{{#if:{{{via|}}}{{{Via|}}}{{{VIA|}}}|&nbsp;– via {{{via|}}}{{{Via|}}}{{{VIA|}}}.|.}}{{#if: {{{citaat|}}}{{{quote|}}}
   | &nbsp;"{{{citaat|}}}{{{quote|}}}"
-}}{{#if: {{{url|}}}{{{URL|}}} ||[[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]]}}{{#if: {{{titel|}}}{{{title|}}}||[[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]]}}{{#ifeq: {{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} | {{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} |  | [[Categorie:Wikipedia:Hulpcategorie voor tijdelijk gebruik]] }}{{#if:{{{bezochtjaar|}}}{{{accessyear|}}}{{{bezochtmaanddag|}}}{{{accessmonthday|}}}{{{accessdaymonth|}}}{{{bezochtdag|}}}{{{bezochtmaandag|}}}{{{bezochtmanadag|}}}{{{bezcohtmaanddag|}}}{{{beozchtjaar|}}}{{{bezochmaanddag|}}}|[[Categorie:Wikipedia:Test|W]] | {{#if:{{#ifeq:{{{bezochtjaar|}}}|{{{bezochtjaar|?}}}|x}}<!--
+}}{{#if: {{{url|}}}{{{URL|}}} ||[[Category:Wikipedia:Kategoria ouksiliar pa utilisashon pa poko tempu]]}}{{#if: {{{titel|}}}{{{title|}}}||[[Category:Wikipedia:Kategoria ouksiliar pa utilisashon pa poko tempu]]}}{{#ifeq: {{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} | {{#invoke:String|replace|source={{lc:{{{taal|{{{lang|{{{language|}}}}}}}}}}}|pattern=%-.*$|replace=|plain=false}} |  | [[Category:Wikipedia:Kategoria ouksiliar pa utilisashon pa poko tempu]] }}{{#if:{{{bezochtjaar|}}}{{{accessyear|}}}{{{bezochtmaanddag|}}}{{{accessmonthday|}}}{{{accessdaymonth|}}}{{{bezochtdag|}}}{{{bezochtmaandag|}}}{{{bezochtmanadag|}}}{{{bezcohtmaanddag|}}}{{{beozchtjaar|}}}{{{bezochmaanddag|}}}|[[Category:Wikipedia:Test|W]] | {{#if:{{#ifeq:{{{bezochtjaar|}}}|{{{bezochtjaar|?}}}|x}}<!--
 -->{{#ifeq:{{{accessyear|}}}|{{{accessyear|?}}}|x}}<!--
 -->{{#ifeq:{{{bezochtmaanddag|}}}|{{{bezochtmaanddag|?}}}|x}}<!--
 -->{{#ifeq:{{{accessmonthday|}}}|{{{accessmonthday|?}}}|x}}<!--
@@ -61,6 +61,6 @@
 -->{{#ifeq:{{{bezochtmanadag|}}}|{{{bezochtmanadag|?}}}|x}}<!--
 -->{{#ifeq:{{{bezcohtmaanddag|}}}|{{{bezcohtmaanddag|?}}}|x}}<!--
 -->{{#ifeq:{{{beozchtjaar|}}}|{{{beozchtjaar|?}}}|x}}<!--
--->{{#ifeq:{{{bezochmaanddag|}}}|{{{bezochmaanddag|?}}}|x}}| [[Categorie:Wikipedia:Test|W]] }} }}</includeonly><noinclude>
+-->{{#ifeq:{{{bezochmaanddag|}}}|{{{bezochmaanddag|?}}}|x}}| [[Category:Wikipedia:Test|W]] }} }}</includeonly><noinclude>
 {{documentation}}
 </noinclude>
