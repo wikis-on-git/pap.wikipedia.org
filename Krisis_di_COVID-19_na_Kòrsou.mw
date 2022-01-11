@@ -219,11 +219,13 @@ Kantidat di kasonan aktivo den kurso di tempo (desèmber 2021 - presente)
 | xType = date
 | xAxisFormat = %e %b
 | x = 
-1 December 2021, 2 December 2021, 3 December 2021, 4 December 2021, 5 December 2021, 6 December 2021, 7 December 2021, 8 December 2021, 9 December 2021, 10 December 2021, 11 December 2021, 12 December 2021, 13 December 2021, 14 December 2021, 15 December 2021, 16 December 2021, 17 December 2021, 18 December 2021, 19 December 2021, 20 December 2021, 21 December 2021, 22 December 2021, 23 December 2021, 24 December 2021, 25 December 2021, 26 December 2021, 27 December 2021, 28 December 2021, 29 December 2021, 30 December 2021
+1 December 2021, 2 December 2021, 3 December 2021, 4 December 2021, 5 December 2021, 6 December 2021, 7 December 2021, 8 December 2021, 9 December 2021, 10 December 2021, 11 December 2021, 12 December 2021, 13 December 2021, 14 December 2021, 15 December 2021, 16 December 2021, 17 December 2021, 18 December 2021, 19 December 2021, 20 December 2021, 21 December 2021, 22 December 2021, 23 December 2021, 24 December 2021, 25 December 2021, 26 December 2021, 27 December 2021, 28 December 2021, 29 December 2021, 30 December 2021, 31 December 2021,
+1 January 2022, 2 January 2022, 3 January 2022, 4 January 2022, 5 January 2022, 6 January 2022, 7 January 2022, 8 January 2022, 9 Janaury 2022, 10 January 2022
 | yAxisTitle = Kantidat di kasonan aktivo
 | y1 = 
  95,    87,   90,  101,  107,   98,  102,  109,  122,  132,  127,  130,  125,  138,  165,
-188,   202,  212,  216,  232,  304,  462,  662,  964, 1195, 1331, 1511, 1859, 2338, 2726
+188,   202,  212,  216,  232,  304,  462,  662,  964, 1195, 1331, 1511, 1859, 2338, 2726, 3192,
+3824, 4039, 4249, 5757, 5722, 6726, 7567, 8326, 8801, 9027
 | yGrid = 
 | xGrid = 
 }}
