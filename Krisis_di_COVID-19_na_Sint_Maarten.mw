@@ -177,13 +177,15 @@ Kantidat di kasonan aktivo den kurso di tempo (desèmber 2021 - presente)
 | xAxisFormat = %e %b
 | x = 
 3 December 2021, 4 December 2021, 6 December 2021, 7 December 2021, 8 December 2021, 9 December 2021, 10 December 2021, 11 December 2021, 13 December 2021, 14 December 2021, 15 December 2021, 16 December 2021, 17 December 2021, 18 December 2021, 20 December 2021, 21 December 2021, 22 December 2021, 23 December 2021, 24 December 2021, 27 December 2021, 28 December 2021, 29 December 2021, 30 December 2021, 31 December 2021,
-3 January 2022, 4 January 2022, 5 January 2022, 6 January 2022, 7 January 2022, 8 January 2022, 10 January 2022, 11 January 2022, 12 January 2022, 13 January 2022, 14 January 2022, 15 January 2022, 17 January 2022, 18 January 2022, 19  January 2022, 20 January 2022, 21 January 2022, 22 January 2022, 24 January 2022, 25 January 2022
+3 January 2022, 4 January 2022, 5 January 2022, 6 January 2022, 7 January 2022, 8 January 2022, 10 January 2022, 11 January 2022, 12 January 2022, 13 January 2022, 14 January 2022, 15 January 2022, 17 January 2022, 18 January 2022, 19  January 2022, 20 January 2022, 21 January 2022, 22 January 2022, 24 January 2022, 25 January 2022, 26 January 2022, 27 January 2022, 28  January 2022, 29 January 2022, 31 January 2022, 
+1 February 2022, 2 February 2022, 3 February 2022, 4 February 2022, 5 February 2022, 7 February 2022, 8 February 2022, 9 February 2022, 10 February 2022, 11 February 2022
 | yAxisTitle = No. of cases
 | y1 = 
  16,   19,  25,  29,  31,  34,  33,  33,  45,  46,  49,  46,  48,  52,  59,  
  51,   70,  79, 101, 136, 236, 326, 448, 543, 
 678,  826, 992, 1080, 1280, 1477, 1544, 1945, 2320, 2597, 2643, 2618, 2602, 
-2451, 2156, 1876, 1542, 1409, 1184, 1086
+2451, 2156, 1876, 1542, 1409, 1184, 1086, 941, 807, 735, 708, 618, 
+557,  510, 495, 471, 452, 418, 417, 301, 280, 244
 | xGrid = 
 }}
 
