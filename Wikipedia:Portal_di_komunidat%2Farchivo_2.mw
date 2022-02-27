@@ -1,0 +1,811 @@
+
+
+== Admin on the Papiamentu Wikipedia? ==
+Hi,
+
+Some people would like to 'revive' the Papiamentu Wikipedia, but there is some backlogged maintenance work that need to be done first. I've been an admin on the Dutch Wikipedia for 14 years and from that experience offer to help out, by doing some maintenance work but also by showing other new admins, that hopefully step forward soon, how the Mediawiki extensions work, how to keep a wiki clean, and how to build a community. 
+
+For this it would be handy if I was granted admin rights on this wiki: it is in no way my intention to be admin for life, since I do not speak the language, but I am more than willing to help set up this new community. I'd like to apply for adminship on meta over ~10 days, if everyone is okay with this at least. Please let me know if you have any questions, either here or by email. 
+
+[[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 16:22, 10 novèmber 2020 (UTC)
+<small>(courtusy ping: [[User:Dwerg85]], [[User:Caribiana]])</small>
+
+:Hi Ciell,
+:I am very grateful that you want to help out with Wikipedia Papiamentu and would like very much if you could join as an administrator temporarily. [[User:YAniceta|YAniceta]] ([[User talk:YAniceta|talk]]) 13:37, 18 novèmber 2020 (UTC)
+::As an active editor I definitely root for expanding the team in order to take the Papiamentu/o wikipedia to the next level. So I look forward to welcoming Ciell soon!! [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 18:13, 18 novèmber 2020 (UTC)
+:::Totally fine with me too for [[User:Ciell|Ciell]] to become an admin here. --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|talk]]) 16:43, 20 novèmber 2020 (UTC)
+::::I've been granted rights for 3 months, I hope to be able to do clean-up and teaching others how things work. Will be continued! [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 09:33, 24 novèmber 2020 (UTC)
+
+==Curaçao photos==
+My apologies as I am not fluent in Papiamentu. I would just like to let people know there is a [https://commons.wikimedia.org/wiki/Category:History_of_Cura%C3%A7ao big collection] of images from Curaçao's history. ([https://commons.wikimedia.org/wiki/Category:People_of_Cura%C3%A7ao Click here] for photos of people; there are some color photos from the 1960s as well.) Many of them are not used and I imagine many people interested in this Wikipedia would like to use them if they don't already know about them. [[User:DoSazunielle|DoSazunielle]] ([[User talk:DoSazunielle|talk]]) 14:34, 18 novèmber 2020 (UTC)
+:Thank you for bringing this to the attention. Found three unused images related to articles in progress.[[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 18:01, 18 novèmber 2020 (UTC)
+
+== [[m:Special:MyLanguage/Community Wishlist Survey 2021/Invitation|Community Wishlist Survey 2021]] ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+[[File:Magic Wand Icon 229981 Color Flipped.svg|thumb|48px]]
+The '''[[m:Special:MyLanguage/Community Wishlist Survey 2021|2021 Community Wishlist Survey]]''' is now open!
+This survey is the process where communities decide what the [[m:Community Tech|Community Tech]] team should work on over the next year. We encourage everyone to submit proposals until the deadline on '''{{#time:j xg|2020-11-30|{{PAGELANGUAGE}}}}''', or comment on other proposals to help make them better.
+The communities will vote on the proposals between {{#time:j xg|2020-12-08|{{PAGELANGUAGE}}}} and {{#time:j xg|2020-12-21|{{PAGELANGUAGE}}}}.
+
+The Community Tech team is focused on tools for experienced Wikimedia editors.
+You can write proposals in any language, and we will translate them for you. Thank you, and we look forward to seeing your proposals!
+</div>
+
+<span lang="en" dir="ltr" class="mw-content-ltr">[[m:user:SGrabarczuk (WMF)|SGrabarczuk (WMF)]]</span>
+
+18:09, 20 novèmber 2020 (UTC)
+<!-- Message sent by User:SGrabarczuk (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:SGrabarczuk_(WMF)/sandbox/1&oldid=20689939 -->
+
+== Adjustments for this wiki ==
+Hi,
+
+I've put in a request for a patrolling marker, so we can check off patrolled edits (for instance in the recent changes). I need community support for this, so please let me know if you support this feature, either here below, or on [[phabricator:T268924]]. (You can log in and comment with your Wikimedia-account)
+
+I would also like to propose to ask for a 'new section' tab to be added for talk pages and the Portal di komunidat. This tab is on the right, between 'edit' and history, so you don't have to edit the complete page if you want to create a new section (like [[:en:Wikipedia:Help_desk|here on en:]]). 
+Please also for this speak your mind whether you would support such a change. 
+
+(courtesy ping @[[User:Caribiana|Caribiana]], @[[User:YAniceta|YAniceta]], @[[User:Dwerg85|Dwerg85]])
+
+Best, [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 10:17, 29 novèmber 2020 (UTC)
+*I've created a public [[Wikipedia:Sandbox|Sandbox-page]], feel free (please!) to translate the text to Papiamentu.
+* It would be nice to fill [[Help:Kontenido]], since it is linked in the side-column. Any help is appreciated.
+*I created the templates {{tl|See article}} and {{tl|See also}}, plus the page [[Help:Disambiguashon]] for explanation (feel free to translate, of course)
+* For pages that need deletion, please use {{tl|Delete}}, and mention them on [[Wikipedia:Páginanan pa sea kitá]].
+
+<br>
+
+:These are all positive additions and improvements to the wiki. +1 support from me. --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|talk]]) 23:01, 7 desèmber 2020 (UTC)
+::Thanks Dwergje! Patrolling has been turned on this afternoon: you can now see the exclamation mark in the [[Special:RecentChanges|recent changes]], and a "mark as patrolled" button when you compare versions. On the Dutch Wikipedia we only use this for ip- or newbie edits, but off course this wiki can decide different. [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 21:00, 15 desèmber 2020 (UTC)
+
+== Wikidata descriptions changes to be included more often in Recent Changes and Watchlist ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+''Sorry for sending this message in English. Translations are available on [[m:Special:MyLanguage/Announcements/Announcement Wikidata descriptions in watchlist|this page]]. Feel free to translate it in more languages!''
+
+As you may know, you can include changes coming from Wikidata in your Watchlist and Recent Changes ([[Special:Preferences#mw-prefsection-watchlist|in your preferences]]). Until now, this feature didn’t always include changes made on Wikidata descriptions due to the way Wikidata tracks the data used in a given article.
+
+Starting on December 3rd, the Watchlist and Recent Changes will include changes on the descriptions of Wikidata Items that are used in the pages that you watch. This will only include descriptions in the language of your wiki to make sure that you’re only seeing changes that are relevant to your wiki.
+
+This improvement was requested by many users from different projects. We hope that it can help you monitor the changes on Wikidata descriptions that affect your wiki and participate in the effort of improving the data quality on Wikidata for all Wikimedia wikis and beyond.
+
+Note: if you didn’t use the Wikidata watchlist integration feature for a long time, feel free to give it another chance! The feature has been improved since the beginning and the content it displays is more precise and useful than at the beginning of the feature in 2015.
+
+If you encounter any issue or want to provide feedback, feel free to use [[Phab:T191831|this Phabricator ticket]]. Thanks!
+
+[[:d:User:Lea Lacroix (WMDE)|Lea Lacroix (WMDE)]] 14:39, 30 novèmber 2020 (UTC)
+</div>
+<!-- Message sent by User:Lea Lacroix (WMDE)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:Lea_Lacroix_(WMDE)/wikis&oldid=20728482 -->
+
+== 2020 Coolest Tool Award Ceremony on December 11th ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+Hello all,
+
+The ceremony of the 2020 [[m:Coolest_Tool_Award|Wikimedia Coolest Tool Award]] will take place virtually on Friday, December 11th, at 17:00 GMT. This award is highlighting tools that have been nominated by contributors to the Wikimedia projects, and the ceremony will be a nice moment to show appreciation to the tools developers and maybe discover new tools!
+
+You will find more information [[m:Coolest_Tool_Award|here]] about the livestream and the discussions channels. Thanks for your attention, [[:d:User:Lea Lacroix (WMDE)|Lea Lacroix (WMDE)]] 10:55, 7 desèmber 2020 (UTC)
+</div>
+<!-- Message sent by User:Lea Lacroix (WMDE)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=20734978 -->
+
+== Community Wishlist Survey 2021 ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+[[File:Magic Wand Icon 229981 Color Flipped.svg|thumb|48px]]
+'''We invite all registered users to vote on the [[m:Special:MyLanguage/Community Wishlist Survey 2021|2021 Community Wishlist Survey]]. You can vote from now until {{#time:j xg|2020-12-21|en}} for as many different wishes as you want.'''
+
+In the Survey, wishes for new and improved tools for experienced editors are collected. After the voting, we will do our best to grant your wishes. We will start with the most popular ones.
+
+We, the [[m:Special:MyLanguage/Community Tech|Community Tech]], are one of the [[m:Special:MyLanguage/Wikimedia Foundation|Wikimedia Foundation]] teams. We create and improve editing and wiki moderation tools. What we work on is decided based on results of the Community Wishlist Survey. Once a year, you can submit wishes. After two weeks, you can vote on the ones that you're most interested in. Next, we choose wishes from the survey to work on. Some of the wishes may be granted by volunteer developers or other teams.
+
+'''[[m:Special:MyLanguage/Community Wishlist Survey 2021/Tracking|You can view and vote all proposals here.]]'''
+
+We are waiting for your votes. Thank you!
+</div>
+[[user:SGrabarczuk (WMF)|SGrabarczuk (WMF)]]
+
+00:52, 15 desèmber 2020 (UTC)
+<!-- Message sent by User:SGrabarczuk (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:SGrabarczuk_(WMF)/sandbox/1&oldid=20689939 -->
+
+
+== Templates needed ==
+Can someone give assistance to the Papiamento wikipedia community by creating for us the following templates: {{tl|commonscat}} and {{coor title dms}}? Your contribution is highly appreciated. Any questions please contact me. [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 11:13, 25 yanüari 2021 (UTC)
+:I planned for this week to check how far along we are with everything, so I'll add these two templates on my list! [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 20:52, 25 yanüari 2021 (UTC)
+::Do we have a {{tl|welcome}} already? I see we were joined by several new users last week, it would be nice to be able to send them a welcome message, in Papiamentu off course! [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 20:59, 25 yanüari 2021 (UTC)
+:::Thank you, Ciell! I will make an effort to create a welcome template. Still learning by trial and error!!! Today I tried to use this [[Template:Infobox stadion]], but it does not work. Under special pages there is a list of unused templates that perhaps also need reviewing.[[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 22:54, 25 yanüari 2021 (UTC)
+::::More complicated templates, like infoboxes, need a background with [[:en:Lua (programming language)]] to make information visible - that looks like the case with this one. It may be better to find a simpler template on another wiki to copy the code from. If I recall correctly, also [[User:YAniceta|YAniceta]] does not know Lua, and I know very little people that can really work with this code. [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 06:39, 26 yanüari 2021 (UTC)
+: I did a quick move of {{tl|Commonscat}} for you. Here is an example:
+{{Commonscat|Example images}}
+
+: Please check the language, I have a bit of an ''atraso lingwístiko'' in Papiamentu. There are some artistic choices to be made regarding the location of links to the sister projects, and these require Admin privileges as well. Coor title dms also requires some artistic choices and admin access. So I left that to Ciell. ;) --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 15:25, 27 yanüari 2021 (UTC)
+::Hi [[User:Frank Geerlings|Frank Geerlings]], masha danki!. Great input for the Papiamentu wikipedia to keep moving ahead. I made a minor adjustment to the template text. Most appreciated was that the "template" is identical to the Dutch version. This saves energy and time when translating articles from NL to PAP. Saludos!! [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 18:54, 28 yanüari 2021 (UTC)
+::: You're welcome! I have also had a look at {{tl|Coor title dms}} but I was a bit overwhelmed with options. I think it might be better to start afresh instead of copying the dutch version, because that one is rather complicated. Also, could you perhaps help me translate the terms 'oosterlengte', 'westerlengte', 'noorderbreedte' and 'zuiderbreedte'? And finally: how would one write the following coordinate (that of Willemstad): "12° 6′ NB, 68° 56′ WL" is what is written in Dutch, how would you translate the NB and WL? Is the notation somehow different? I would expect not, but you never know... --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 21:35, 28 yanüari 2021 (UTC)
+::Hi [[User:Frank Geerlings|Frank Geerlings]]! Ik heb net grafieken van [[:en:COVID-19 pandemic in Aruba|COVID-19 pandemic in Aruba]] gebruikt voor [[:nl:Coronacrisis in Aruba|Coronacrisis in Aruba]]. Nu wil ik hetzelfde doen voor de corona-lemma's op de Papiamentse wiki. Kan jij me te hulp schieten met het aanmaken van een [[template:Graph:Chart]]? [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 17:52, 7 febrüari 2021 (UTC)
+::: Alsjeblieft [[User:Caribiana|Caribiana]], ik heb dit sjabloon overzet vanaf enwiki. --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 21:17, 7 febrüari 2021 (UTC)
+{{Graph:Chart
+| type = line
+| linewidth = 1
+| showSymbols = 1
+| yType= integer
+| width = 600
+| colors = #ff6347, cyan, black
+| xAxisTitle = Datum
+| xAxisAngle = -40
+| xType = date
+| xAxisFormat = %e %b
+| x = 12 March 2020, 13 March 2020, 14 March 2020, 15 March 2020, 16 March 2020, 17 March 2020, 18 March 2020, 19 March 2020, 20 March 2020, 21 March 2020, 22 March 2020, 23 March 2020, 24 March 2020, 25 March 2020, 26 March 2020, 27 March 2020, 28 March 2020, 29 March 2020, 30 March 2020, 31 March 2020,
+1 April 2020, 2 April 2020, 3 April 2020, 4 April 2020, 5 April 2020, 6 April 2020, 7 April 2020, 8 April 2020, 9 April 2020, 10 April 2020, 11 April 2020, 12 April 2020, 13 April 2020, 14 April 2020, 15 April 2020, 16 April 2020, 17 April 2020, 18 April 2020, 19 April 2020, 20 April 2020, 21 April 2020, 22 April 2020, 23 April 2020, 24 April 2020, 25 April 2020, 26 April 2020, 27 April 2020, 28 April 2020, 29 April 2020, 30 April 2020,
+1 May 2020, 2 May 2020, 3 May 2020, 4 May 2020, 5 May 2020, 6 May 2020, 7 May 2020, 8 May 2020, 9 May 2020, 10 May 2020, 11 May 2020, 12 May 2020, 13 May 2020, 14 May 2020, 15 May 2020, 16 May 2020, 17 May 2020, 18 May 2020, 19 May 2020, 20 May 2020, 21 May 2020, 22 May 2020, 23 May 2020, 24 May 2020, 25 May 2020, 26 May 2020, 27 May 2020, 28 May 2020, 29 May 2020
+| yAxisTitle = Aantal actieve gevallen
+| y1 =
+0,   1,  1,  2,  3,  4,   4,  3,  4,  7,  8, 11, 16, 18, 27, 32, 45, 49, 49, 54,  <!-- March -->
+54, 59, 61, 63, 62, 57,  57, 63, 62, 59, 63, 60, 60, 60, 53,                      <!-- -15 April -->
+54, 51, 50, 46, 44, 44,  30, 29, 29, 29, 25, 25, 25, 25, 19,                      <!-- 16+ April -->
+17, 17, 17, 17, 17, 10,   9,  9,  9,  9,  9,  9,  7,  5,  5,                      <!-- -15 May   -->
+5,   5,  5,  5,  3,  3,   3,  3,  3,  3,  3,  1,  1,  0
+| yGrid = 
+| xGrid = 
+}}
+:::Super bedankt!! Ik ben er nu al mee bezig. Met jouw hulp is het omzetten makkelijk en snel. We hoeven dus niet onder te doen voor de Engelse en Nederlandse wikis. Fijn dat je betrokken bent. Fijne avond! [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 21:29, 7 febrüari 2021 (UTC)
+::Hi [[User:Frank Geerlings|Frank]]! Ik heb weer jouw hulp nodig voor een navigatie template. Ik zag [[Template:Navbox generic]] maar weet of dit het is en hoe het werkt. Saludos, [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 22:09, 18 mart 2021 (UTC)
+::: Mi no ta pensa ku e Navbox generic ta usabel sin mas. E ta dependé di pakiko bo ke usa esei. Ki ta presis e grupo di artikel enbolbí? --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 14:41, 20 mart 2021 (UTC)
+::Mi ta sigur ku bo konose e sjabloon "navigatie" riba wikipedia na hulandes. Eynan mi ta uza esaki pa akoplá artikulo ku tin algo na komun. Aki tin un ehempel esaki di tur e partidonan politiko di Korsou: [[:nl:Sjabloon:Navigatie politieke partijen Curaçao]]. Den pap.wiki tambe tin artikulo ku navigashon, manera [[Afrika]]. Solamente mi no por haya sa kon pa traha ku e template aki. Kizas bo por splika. [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 21:03, 20 mart 2021 (UTC)
+::: Sòri pa e reakshon lat! Hmm, mi ta mira ku e shablon {{tl|Afrika}} ta un shablon trahá na man, ku un tabèl. Mi tabata bisa un rekado pasá ku e shablon {{tl|Navbox generic}} no ta usabel, ma eigenlijk esei ta prima adekuá. Den fuente di {{tl|Siencia}} bo por weta di ki manera bo por usa esei. --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 20:40, 29 mart 2021 (UTC)
+:Danki, Frank! Mi lo bai purba esei. [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 11:30, 30 mart 2021 (UTC)
+:::@ Frank! Den e chat aki a toka kaba e tema di e template pa "coordinaten" (mira ariba). Ta posibel pa esaki wordu implementa awor? Tin mas y mas artikulo eksistente riba pap.wiki ku ta falta mapa ku por indika un luga spesifiko. Saludos, [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 09:17, 6 ougùstùs 2021 (UTC)
+
+== Moving Wikimania 2021 to a Virtual Event ==
+
+<div class="mw-content-ltr" lang="en" dir="ltr">
+[[File:Wikimania_logo_with_text_2.svg|right|alt=Wikimania's logo.|75px]]
+
+''{{int:Hello}}. Apologies if you are not reading this message in your native language. {{Int:Please-translate}}. {{Int:Feedback-thanks-title}}''
+
+[[:m:Wikimania 2021|Wikimania will be a virtual event this year]], and hosted by a wide group of community members. Whenever the next in-person large gathering is possible again, [[:m:ESEAP Hub|the ESEAP Core Organizing Team]] will be in charge of it. Stay tuned for more information about how ''you'' can get involved in the planning
+process and other aspects of the event. [https://lists.wikimedia.org/pipermail/wikimedia-l/2021-January/096141.html Please read the longer version of this announcement on wikimedia-l]. 
+
+''ESEAP Core Organizing Team, Wikimania Steering Committee, Wikimedia Foundation Events Team'', 15:16, 27 yanüari 2021 (UTC) 
+</div>
+<!-- Message sent by User:Elitre (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:Elitre_(WMF)/Wikimania21&oldid=21014617 -->
+
+== Project Grant Open Call ==
+
+This is the announcement for the [[m:Grants:Project|Project Grants program]] open call that started on January 11, with the submission deadline of February 10, 2021.<br> This first open call will be focussed on Community Organizing proposals. A second open call focused on research and software proposals is scheduled from February 15 with a submission deadline of March 16, 2021.<br>
+
+For the Round 1 open call, we invite you to propose grant applications that fall under community development and organizing (offline and online) categories. Project Grant funds are available to support individuals, groups, and organizations to implement new experiments and proven ideas, from organizing a better process on your wiki, coordinating a campaign or editathon series to providing other support for community building.  We offer the following resources to help you plan your project and complete a grant proposal:<br>
+
+* Weekly proposals clinics via Zoom during the Open Call. Join us for [[m:Grants:Project|#Upcoming_Proposal_Clinics|real-time discussions]] with Program Officers and select thematic experts and get live feedback about your Project Grants proposal. We’ll answer questions and help you make your proposal better. We also offer these support pages to help you build your proposal:
+* [[m:Grants:Project/Tutorial|Video tutorials]] for writing a strong application<br>
+* General [[m:Grants:Project/Plan|planning page]] for Project Grants <br>
+* [[m:Grants:Project/Learn|Program guidelines and criteria]]<br>
+
+Program officers are also available to offer individualized proposal support upon request. Contact us if you would like feedback or more information.<br>
+
+We are excited to see your grant ideas that will support our community and make an impact on the future of Wikimedia projects. Put your idea into motion, and [[m:Grants:Project/Apply|submit your proposal]] by February 10, 2021!<br>
+
+Please feel free to get in touch with questions about getting started with your grant application, or about serving on the Project Grants Committee. Contact us at projectgrants{{at}}wikimedia.org. Please help us translate this message to your local language. [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 08:01, 28 yanüari 2021 (UTC)
+<!-- Message sent by User:RSharma (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=20808431 -->
+
+== New Wikipedia Library Collections Available Now (February 2021) ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+
+Hello Wikimedians! 
+[[File:Wikipedia_Library_owl.svg|thumb|upright|The TWL owl says sign up today!]]
+[[m:The Wikipedia Library|The Wikipedia Library]] is announcing new free, full-access, accounts to reliable sources as part of our [https://wikipedialibrary.wmflabs.org/partners/ research access program]. You can sign up to access research materials on the [https://wikipedialibrary.wmflabs.org/ Library Card platform]: 
+* '''[https://wikipedialibrary.wmflabs.org/partners/103/ Taxmann]''' – Taxation and law database
+* '''[https://wikipedialibrary.wmflabs.org/partners/104/ PNAS]''' – Official journal of the National Academy of Sciences
+* '''[https://wikipedialibrary.wmflabs.org/partners/57/ EBSCO]''' – New Arabic and Spanish language databases added
+
+We have a wide array of [https://wikipedialibrary.wmflabs.org/partners/ other collections available], and a significant number now no longer require individual applications to access! Read more in our [https://diff.wikimedia.org/2020/06/24/simplifying-your-research-needs-the-wikipedia-library-launches-new-technical-improvements-and-partnerships/ blog post].
+
+Do better research and help expand the use of high quality references across Wikipedia projects!
+
+:<small>This message was delivered via the [https://meta.wikimedia.org/wiki/MassMessage#Global_message_delivery Global Mass Message] tool to [https://meta.wikimedia.org/wiki/Global_message_delivery/Targets/Wikipedia_Library The Wikipedia Library Global Delivery List].</small>
+--12:57, 1 febrüari 2021 (UTC)
+</div>
+<!-- Message sent by User:Samwalton9@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Wikipedia_Library&oldid=21022367 -->
+
+== Update Página Prinsipal ==
+
+Antayera'tardi mi ha kita e kapitulonan ''notisia'' i ''artikelnan nobo'' pasobra esei no ta revisá durante hopi ãna largu. Na mi opinion e tabata no por pasa mas, mi ta spera boso ta ens? <small>(Ik heb eergistermiddag (NL-avond) van de voorpagina de oude hoofdstukjes nieuws en nieuwe artikelen verwijderd want die waren gedurende heel lange tijd niet aangepast. Naar mijn mening konden die echt niet meer, ik denk dat jullie het daarmee eens zijn?)</small> --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 11:04, 9 febrüari 2021 (UTC)
+
+== Feminism & Folklore 1 February - 31 March ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+
+{{int:please-translate}}
+
+Greetings! 
+
+You are invited to participate in '''[[m:Feminism and Folklore 2021|Feminism and Folklore]] writing contest'''. This year Feminism and Folklore will focus on feminism, women's biographies and gender-focused topics for the project in league with Wiki Loves Folklore gender gap focus with folk culture theme on Wikipedia. folk activities, folk games, folk cuisine, folk wear, fairy tales, folk plays, folk arts, folk religion, mythology, etc.
+
+You can help us in enriching the folklore documentation on Wikipedia from your region by creating or improving articles centered on folklore around the world, including, but not limited to folk festivals, folk dances, folk music, women and queer personalities in folklore, folk culture (folk artists, folk dancers, folk singers, folk musicians, folk game athletes, women in mythology, women warriors in folklore, witches and witch-hunting, fairy tales and more. You can contribute to new articles or translate from the list of [[:m:Feminism and Folklore 2021/List of Articles|suggested articles here]]. 
+
+You can also support us in translating the [[m:Feminism and Folklore 2021|project page]] and help us spread the word in your native language. 
+
+Learn more about the contest and prizes from our [[m:Feminism and Folklore 2021|project page]]. Thank you. 
+
+Feminism and Folklore team,
+
+[[m:User:Joy Agyepong|Joy Agyepong]] ([[m:User talk:Joy Agyepong|talk]]) 02:40, 16 febrüari 2021 (UTC)
+
+</div>
+<!-- Message sent by User:Tiven2240@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery/Wikipedia&oldid=20421065 -->
+
+== Admin rights on this wiki ==
+
+Hi all,
+
+My admin rights will expire in three days, on the 20th of February. Luckily, [[User:Caribiana|Caribeana]] and [[User:Frank Geerlings|Frank Geerlings]] are willing to step forward and take up adminship on this wiki: they both speak Papiamentu and have a background in writing wiki articles, or development. I think they would make a great team, as they do already for the maintenance of this wiki!
+
+I'd like to keep my rights for another 3 month so I can show them the ropes and help solve new problems they may encounter. For this, I again need the communities' support. So for you the question:<br>
+''Can I get your support for another three months as an admin here?''
+
+Thanks! [[User:Ciell|Ciell]] ([[User talk:Ciell|talk]]) 11:05, 17 febrüari 2021 (UTC)
+: '''Yes'''. I wholeheartedly support Ciells request for another three months. And indeed, I am willing to take on admin duties, if there are no objections. I am happy that Ciell wants to back us up as we familiarize ourselves with this new role (or at least, new to me). --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 11:41, 17 febrüari 2021 (UTC)
+::Desde 2018 mi ta aktivo komo skirbidó riba pap.wiki. Mi ta skirbi tantu na Papiamento komo Papiamentu. Mi ta duna mi voto di sosten na ambos [[User:Ciell|Ciell]] i [[User:Frank Geerlings|Frank Geerlings]]. Mes momentu mi ta pone mi mes disponibel pa djoin nan i tambe asumi tareanan di moderadó. Mi ta pidi e komunidat pa reakshoná riba mi kandidatura. [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|talk]]) 13:58, 17 febrüari 2021 (UTC)
+:::Masha danki pa e voto di sosten. Mi tabata skibi mi reakshon den ingles pasobra burókratanan por tambe komprondé esei. Mi ta konfia ku e komunidat chikí nos ta sostené, sino mi ta pidi bosonan laga sa algu. Por e klaridat: Mi ta sosten bo postulashon di kandidato shen porshento! <small>Summary: Thank you for your vote of support. First response was in english for bureaucrats to understand, and I completely support Caribiana's candidacy. I am confident the (small) community will support us, otherwise please say so.</small> --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|talk]]) 15:15, 17 febrüari 2021 (UTC)
+: I support [[user:Ciell|Ciell]]'s request plus the requests by [[User:Caribiana|Caribiana]] and [[User:Frank Geerlings|Frank Geerlings]]. Good luck with the new tasks ✌🏽. --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|talk]]) 00:45, 22 febrüari 2021 (UTC)
+: Support for Caribiana and Frank [[User:Grijz|Grijz]] ([[User talk:Grijz|talk]]) 20:18, 23 febrüari 2021 (UTC)
+: I also support this request wholeheartedly! Eksito! [[User:YAniceta|YAniceta]] ([[User talk:YAniceta|talk]]) 20:19, 23 febrüari 2021 (UTC)
+
+== Wikifunctions logo contest ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+{{Int:Hello}}. Please help to choose a design concept for the logo of the new Wikifunctions wiki. Voting starts today and will be open for 2 weeks. If you would like to participate, then '''[[m:Special:MyLanguage/Abstract Wikipedia/Wikifunctions logo concept/Vote|please learn more and vote now]]''' at Meta-Wiki. {{Int:Feedback-thanks-title}} --[[m:User:Quiddity (WMF)|Quiddity (WMF)]]</div> 01:47, 2 mart 2021 (UTC)
+<!-- Message sent by User:Quiddity (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=21087740 -->
+
+== Estudio di Neural Machine Translation pa Papiamento ==
+
+Mi a topa cu un noticia cu ta sona alentador pa nos wikipedia y su proyectonan di automatisa traduccion di Papiamento. Esaki ta e link pa lesa e articulo y pa download e estudio: [https://nederlands.24ora.com/2021/02/26/kris-croes-presenteert-zijn-proefschrift-aan-de-regering-van-aruba/ Neural Machine Translation for Papiamento].
+:Bon konsepto i great ku ta trahando riba kosnan asina den papiamento / u tambe. Pero mane mi ta mira e ta algu ku ta den su 'kinderschoenen' ainda. Lo mester di hopi training pa un sistema asina por destingi entre papiamento i papiamentu i aplikanan korektamente tambe. Por lo pronto ta riba e manera bieu nos lo tin ku sigi ku e trabounan. --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|talk]]) 12:57, 8 mart 2021 (UTC)
+
+== Universal Code of Conduct – 2021 consultations ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+=== Universal Code of Conduct Phase 2 ===
+
+{{int:please-translate}}
+
+The [[:wmf:Special:MyLanguage/Universal Code of Conduct|'''Universal Code of Conduct (UCoC)''']] provides a universal baseline of acceptable behavior for the entire Wikimedia movement and all its projects. The project is currently in Phase 2, outlining clear enforcement pathways. You can read more about the whole project on its [[:m:Special:MyLanguage/Universal Code of Conduct|'''project page''']].
+
+==== Drafting Committee: Call for applications ====
+
+The Wikimedia Foundation is recruiting volunteers to join a committee to draft how to make the code enforceable. Volunteers on the committee will commit between 2 and 6 hours per week from late April through July and again in October and November. It is important that the committee be diverse and inclusive, and have a range of experiences, including both experienced users and newcomers, and those who have received or responded to, as well as those who have been falsely accused of harassment.
+
+To apply and learn more about the process, see [[:m:Special:MyLanguage/Universal Code of Conduct/Drafting committee|Universal Code of Conduct/Drafting committee]].
+
+==== 2021 community consultations: Notice and call for volunteers / translators ====
+
+From 5 April – 5 May 2021 there will be conversations on many Wikimedia projects about how to enforce the UCoC. We are looking for volunteers to translate key material, as well as to help host consultations on their own languages or projects using suggested [[:m:Special:MyLanguage/Universal Code of Conduct/2021 consultations/Discussion|key questions]]. If you are interested in volunteering for either of these roles, please [[:m:Talk:Universal Code of Conduct/2021 consultations|contact us]] in whatever language you are most comfortable.
+
+To learn more about this work and other conversations taking place, see [[:m:Special:MyLanguage/Universal Code of Conduct/2021 consultations|Universal Code of Conduct/2021 consultations]].
+
+-- [[User:Xeno (WMF)|Xeno (WMF)]] ([[User talk:Xeno (WMF)|talk]]) 22:06, 5 aprel 2021 (UTC)
+</div>
+<!-- Message sent by User:MNadzikiewicz (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:MNadzikiewicz_(WMF)/Without_Russian,_Polish_and_translated/5&oldid=21302202 -->
+
+== Line numbering coming soon to all wikis ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">  
+
+[[File:Technical_Wishes_–_Line_numbering_-_2010_wikitext_editor.png|thumb|Example]]
+From April 15, you can enable line numbering in some wikitext editors - for now in the template namespace, coming to more namespaces soon. This will make it easier to detect line breaks and to refer to a particular line in discussions. These numbers will be shown if you enable the syntax highlighting feature ([[mw:Special:MyLanguage/Extension:CodeMirror|CodeMirror extension]]), which is supported in the [[mw:Special:MyLanguage/Extension:WikiEditor|2010]] and [[mw:Special:MyLanguage/2017 wikitext editor|2017]] wikitext editors. 
+
+More information can be found on [[m:WMDE Technical Wishes/Line Numbering|this project page]]. Everyone is invited to test the feature, and to give feedback [[m:talk:WMDE Technical Wishes/Line Numbering|on this talk page]].
+</div> -- [[m:User:Johanna Strodt (WMDE)|Johanna Strodt (WMDE)]] 15:09, 12 aprel 2021 (UTC)
+<!-- Message sent by User:Johanna Strodt (WMDE)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=WMDE_Technical_Wishes/Technical_Wishes_News_list_all_village_pumps&oldid=21329014 -->
+
+== Suggested Values ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">  
+
+From April 29, it will be possible to suggest values for parameters in templates. Suggested values can be added to [[mw:Special:MyLanguage/Help:TemplateData|TemplateData]] and will then be shown as a drop-down list in [[mw:Special:MyLanguage/Help:VisualEditor/User guide|VisualEditor]]. This allows template users to quickly select an appropriate value. This way, it prevents potential errors and reduces the effort needed to fill the template with values. It will still be possible to fill in values other than the suggested ones.
+
+More information, including the supported parameter types and how to create suggested values: [[mw:Help:TemplateData#suggestedvalues|[1]]] [[m:WMDE_Technical_Wishes/Suggested_values_for_template_parameters|[2]]]. Everyone is invited to test the feature, and to give feedback [[m:Talk:WMDE Technical Wishes/Suggested values for template parameters|on this talk page]].
+
+</div> [[m:User:Timur Vorkul (WMDE)|Timur Vorkul (WMDE)]] 14:08, 22 aprel 2021 (UTC)
+<!-- Message sent by User:Timur Vorkul (WMDE)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=WMDE_Technical_Wishes/Technical_Wishes_News_list_all_village_pumps&oldid=21361904 -->
+
+== [[Wikipedia:Artíkulonan importante]] ==
+
+Would you like to write an article on the Papiamentu Wikipedia, but aren't you sure about the topic? This '''[[Wikipedia:Artíkulonan importante|list]]''' has a lot of ideas on articles we're still missing! [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 22:15, 24 aprel 2021 (UTC)
+
+:I highly recommend the users who speak Papiamentu to go through that list, click on each Wikidata item Q number where no name appears, and add the desired page name to the Wikidata item. ― [[User:Deborahjay|Deborahjay]] ([[User talk:Deborahjay|diskushon]]) 19:49, 30 mei 2021 (UTC)
+
+::Thank you [[User:Deborahjay|Deborahjay]] for this recommendation. I agree that this is essential.[[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 21:21, 30 mei 2021 (UTC)
+
+== Rekisitonan ku tur artíkulo mester ta kumpli kuné ==
+
+E kriterionan no ta e úniko base pa determiná si un artikulo ta adekuá i kla pa publiká.  
+E prinsipio di sano huisio ta konta i lo guia nos.
+
+Tur artíkulo den e ensiklopedia mester:
+
+* Tin ''un base''; esei ta deskribí un tópiko spesífiko. Un artíkulo den [[Wikipedia]] no ta un storia, argumento, alabansa òf propaganda komersial, sino ta deskribí e tópiko den un manera neutral i konkreto. Si tin mas ku un solo posishon establesí, ta splika konsiso kiko ta esei i kua gruponan ta ligá na kua respektivo deklarashonnan ètsétera.
+
+* Tin un ''introdukshon'' ku ta menshoná breve e tema i ta formula konsiso e pakiko e tópiko ta ensiklopédiko. E promé frase ta kontené e '''titulo di artikel''' ku lèter diki.
+
+* Ta un ''distribushon lógiko den suptemanan''. Den kaso di un artikulo biografiko e órden kronológiko ta bisto, por ehempel.
+
+* Ta identifiká ''artikulo tradusí'' for di un Wikipedia di otro idioma. E shablon {{tl|Tradukshon for di otro Wikipedia}} ta rekerí esaki.
+
+* Ta basá riba ''fuente existente'' i ta menshoná esei. Un fuente no mester ta ''online'', tambe e por un buki òf dokumento skirbí. Menshoná e URL den kaso e fuente ta disponibel online. Ta obligatorio pa tin un mínimo di un (1) fuente, pero nos ta preferá ku tur deklarashon ta karga un fuente.
+
+* Tin ''suptemanan stándart'' manera "Linknan eksterno", "Mira tambe", i otro. Usa nan kaminda ta posibel.
+
+* Tin un ''mínimo di algun frase''. Un solo frase no ta sufisiente òf adekuá.
+
+Artikulonan ki tin hopi eror, òf ki ta wordu skirbi den idioma kompletamente robes (ingles, hulandes, òf un tradukshon inlegibel òf inkomprensibel òf ta traha mediante un kòmpiuter) nos lo mester kita.
+
+
+Saludo di [[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 09:15, 17 mei 2021 (UTC)
+
+== Request for your feedback on improving the Content Translation tool for Papiamento Wikipedia ==
+
+{{Int:Hello}} Papiamento Wikipedians!
+
+Apologies as this message is not in your native language, {{Int:Please-translate}}.
+
+The WMF language team is reaching out to your community, the Papiamento Wikipedia, about the [https://pap.wikipedia.org/w/index.php?title=Special:ContentTranslation&campaign=contributionsmenu&to=pap#draft Content translation tool]. 
+
+We noticed that articles created with the Content Translation tool in your wiki are deleted more than in other Wikipedias. We say this because, from our statistics, 117 articles were added to Papiamento Wikipedia in 2020. Out of the above figure, only 1 of them was translated using the Content Translation tool; 2 of the articles added with Content translation were deleted. The deletion rate and the tool's low usage signals a problem or deficiencies that might be peculiar to Papiamento Wikipedia. 
+The Content Translation tool can increase content creation in your Wikipedia. Also, it is an excellent way to efficiently introduce newcomers to adding content and expand on existing ones. 
+
+So we, the WMF Language team will like to get answers from members of your community on the following questions:
+* What deficiencies do articles created with the Content translation tool have that makes them not of good quality?
+* What makes it challenging to use the tool to create content in your Wikipedia.
+* How can this tool be improved to make it more user-friendly and efficient to add good quality content in your language Wikipedia? 
+
+We believe that the answers to the above questions are good ways to get insight into improving the tool for your community and others. Please, feel free to provide us feedback in this thread or [mailto:uozurumba@wikimedia.org email us] your feedback using the title of this message as your subject.
+
+Thank you so much, as we look forward to your participation.
+
+
+[[User:UOzurumba (WMF)|UOzurumba (WMF)]] ([[User talk:UOzurumba (WMF)|diskushon]]) 19:50, 26 mei 2021 (UTC) On behalf of the WMF Language team.
+: Thanks for getting in touch, [[User:UOzurumba (WMF)|UOzurumba]]. If there is anything that we can do ourselves to make the tool more useful, I'm all ears. Are there experiences with other small language Wikipedias about specific steps to take to make it more useful? --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 00:02, 27 mei 2021 (UTC)
+::Hello [[User:UOzurumba (WMF)|UOzurumba (WMF)]], first of all: we did a clean up of non-Papiamentu/-o articles last year, since we were behind on maintenance. So in general you'll probably see a peak in the pages deleted for 2020. Then: no, the translation tool is not very good. The Papiamentu dictionary used is just about sufficient, but not high in quality. There is almost no online translation tool that supports translation into the Papiamentu/-o language afaik. [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 20:15, 30 mei 2021 (UTC)
+
+:::Hi [[User:UOzurumba (WMF)|UOzurumba (WMF)]]!! In the past I have attempted to use the translator tool. My idea was that it would help me save time and I could create more output since I am a native speaker. However, no article was produced with automated translation due to its poor quality. Deficiencies concern mostly syntax and grammar. Also, too many word-to-word translations make no sense in the context of the text. The tool is indeed in need of revision. Furthermore, in order to improve it adequately I think it is important to assess who are the actual users of this tool. It is my impression that they are mostly non-Papiamento speakers. Presently I consider reliance on a correct translation the major challenge to creating content for our WP.[[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 23:43, 31 mei 2021 (UTC)
+
+:::::Hello Everyone,
+:::::Thank you so much for your valuable feedback; they are all noted, and we will keep in touch on improving the tool based on your inputs. Please, do not hesitate to provide still more information that will help us.
+
+:::::Cheers!
+:::::[[User:UOzurumba (WMF)|UOzurumba (WMF)]] ([[User talk:UOzurumba (WMF)|diskushon]]) 12:20, 21 yüli 2021 (UTC)
+
+== Article placeholder with information from Wikidata ==
+
+Hi all,
+
+A user from the WGC group pointed me to the "article placeholder" extension from Wikidata.
+
+On blank pages, this displays facts about the topic from Wikidata, and then invites people to start an article about the topic in their own language. [https://ht.wikipedia.org/wiki/Espesyal:AboutTopic/Q14384 Here is an example from the Haitian Creole Wikipedia].
+
+I like the idea to turn this on for the Papiamentu Wikipedia, what do you think?
+
+([[User:Caribiana]], [[User:Dwerg85]], [[User:Frank Geerlings]], [[User:YAniceta]], [[User:Grijz]])
+
+Best, [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 19:30, 30 mei 2021 (UTC)
+
+: I'm in '''support'''. I think it's an interesting feature that we should try out. I have no objections to there being a trial period of, say, a few months, but frankly I am also fine with just having it enabled indefinitely. Aside: I am a bit skeptical about this leading to more articles being created, but I think it's a useful addition for the reader that solves the problem of there still being a lot of articles missing. --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 16:53, 31 mei 2021 (UTC)
+::In general I support the proposal, however I do have reservations about what goals can and will be achieved. I favour the tool mostly to attract more traffic, and in particular from the Papiamento language communities, which up to now prefer the English WP by far. Red links will now supply some basic information from Wikidata, which I understood will remain static. In my humble opinion the extension on its own will not suffice to generate new article contributions and that further strengthening of our efforts to target potential editor groups amongst Papiamento speakers will be essential. Since other minority languages have implemented this tool maybe we can inquire what their findings are with its use. In any case, I strongly recommend that we formulate concrete goals and after a certain time frame review the project results. Also I have a question, can someone elaborate on what (technical, editorial or other) efforts/input is needed to implement/switch on (and later maintain) the "article placeholder extension"? [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 08:49, 1 yüni 2021 (UTC)
+:Bit late but I support this. --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|diskushon]]) 19:42, 22 yüni 2021 (UTC)
+::Has the article placeholder been implemented already?? I recently created two articles using an automatic prompt provided when name searching. Please advise!! [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 21:58, 22 yüni 2021 (UTC)
+::: Your remark prompted me to start looking for the current status and then I uncovered [[phab:T223693]] which seems to suggest we already have it and have had it for some time already, but I am not entirely sure what to do now. @[[User:Ciell|Ciell]], can you help explain where we stand exactly? --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 12:16, 25 yüni 2021 (UTC)
+::::Hi everyone, you're right, this dropped of my list for a moment. 
+::::@[[User:Frank Geerlings|Frank]]: seems we need to change the local settings for a bit, importing Lua. Looking at the guide in [[:mw:Extension:ArticlePlaceholder#Installation]], would you be comfortable to do this? [[:mw:Extension:ArticlePlaceholder/Module:AboutTopic]] looks helpful as well. [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 19:29, 29 yüni 2021 (UTC)
+:::::FYI: with a little help I now have the article placeholder extention in place. Please try it out and let me know what you think! [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 17:48, 21 yüli 2021 (UTC)
+:::::: Thanks for that! I looked at it briefly a few times myself but I didn't understand the instructions so I thought I'd look at it later, which I should have probably mentioned. --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 15:24, 29 yüli 2021 (UTC)
+:::::::In the end I just copied the necessary code from the Welsh Wikipedia and it worked. The instructions where to complicated for me as well. :P [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 08:21, 6 ougùstùs 2021 (UTC)
+
+== Universal Code of Conduct News – Issue 1 ==
+
+<div style = "line-height: 1.2">
+<span style="font-size:200%;">'''Universal Code of Conduct News'''</span><br>
+<span style="font-size:120%; color:#404040;">'''Issue 1, June 2021'''</span><span style="font-size:120%; float:right;">[[m:Universal Code of Conduct/Newsletter/1|Read the full newsletter]]</span>
+----
+Welcome to the first issue of [[m:Special:MyLanguage/Universal Code of Conduct|Universal Code of Conduct News]]! This newsletter will help Wikimedians stay involved with the development of the new code, and will distribute relevant news, research, and upcoming events related to the UCoC.
+
+Please note, this is the first issue of UCoC Newsletter which is delivered to all subscribers and projects as an announcement of the initiative. If you want the future issues delivered to your talk page, village pumps, or any specific pages you find appropriate, you need to [[m:Global message delivery/Targets/UCoC Newsletter Subscription|subscribe here]].
+
+You can help us by translating the newsletter issues in your languages to spread the news and create awareness of the new conduct to keep our beloved community safe for all of us. Please [[m:Universal Code of Conduct/Newsletter/Participate|add your name here]] if you want to be informed of the draft issue to translate beforehand. Your participation is valued and appreciated.
+</div><div style="margin-top:3px; padding:10px 10px 10px 20px; background:#fffff; border:2px solid #808080; border-radius:4px; font-size:100%;">
+* '''Affiliate consultations''' – Wikimedia affiliates of all sizes and types were invited to participate in the UCoC affiliate consultation throughout March and April 2021. ([[m:Universal Code of Conduct/Newsletter/1#sec1|continue reading]])
+* '''2021 key consultations''' – The Wikimedia Foundation held enforcement key questions consultations in April and May 2021 to request input about UCoC enforcement from the broader Wikimedia community. ([[m:Universal Code of Conduct/Newsletter/1#sec2|continue reading]])
+* '''Roundtable discussions''' – The UCoC facilitation team hosted two 90-minute-long public roundtable discussions in May 2021 to discuss UCoC key enforcement questions. More conversations are scheduled. ([[m:Universal Code of Conduct/Newsletter/1#sec3|continue reading]])
+* '''Phase 2 drafting committee''' – The drafting committee for the phase 2 of the UCoC started their work on 12 May 2021. Read more about their work. ([[m:Universal Code of Conduct/Newsletter/1#sec4|continue reading]])
+* '''Diff blogs''' – The UCoC facilitators wrote several blog posts based on interesting findings and insights from each community during local project consultation that took place in the 1st quarter of 2021. ([[m:Universal Code of Conduct/Newsletter/1#sec5|continue reading]])</div>
+--[[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|diskushon]]) 23:06, 11 yüni 2021 (UTC)
+<!-- Message sent by User:SOyeyele (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:SOyeyele_(WMF)/Announcements/Other_languages&oldid=21578291 -->
+
+== Wikimania 2021: Individual Program Submissions ==
+
+[[File:Wikimania logo with text 2.svg|right|200px]]
+Dear all,
+
+Wikimania 2021 will be [[:wikimania:2021:Save the date and the Core Organizing Team|hosted virtually]] for the first time in the event's 15-year history. Since there is no in-person host, the event is being organized by a diverse group of Wikimedia volunteers that form the [[:wikimania:2021:Organizers|Core Organizing Team]] (COT) for Wikimania 2021.
+
+'''Event Program''' - Individuals or a group of individuals can submit their session proposals to be a part of the program. There will be translation support for sessions provided in a number of languages. See more information [[:wikimania:2021:Submissions/Guidelines#Language Accessibility|here]].
+
+Below are some links to guide you through;
+* [[:wikimania:2021:Submissions|Program Submissions]]
+* [[:wikimania:2021:Submissions/Guidelines|Session Submission Guidelines]]
+* [[:wikimania:2021:FAQ|FAQ]]
+
+Please note that the deadline for submission is 18th June 2021. 
+
+'''Announcements'''- To keep up to date with the developments around Wikimania, the COT sends out weekly updates. You can view them in the Announcement section [[:wikimania:2021:Announcements|here]]. 
+
+'''Office Hour''' - If you are left with questions, the COT will be hosting some office hours (in multiple languages), in multiple time-zones, to answer any programming questions that you might have.  Details can be found [[:wikimania:2021:Organizers#Office hours schedule|here.]]
+
+Best regards,
+
+[[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|diskushon]]) 04:18, 16 yüni 2021 (UTC)
+
+On behalf of Wikimania 2021 Core Organizing Team
+<!-- Message sent by User:Bodhisattwa@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/VisualEditor/Newsletter/Wikis_with_VE&oldid=21597568 -->
+
+== Editing news 2021 #2 ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+<em>[[m:Special:MyLanguage/VisualEditor/Newsletter/2021/June|Read this in another language]] • [[m:VisualEditor/Newsletter|Subscription list for this multilingual newsletter]]</em>
+
+[[File:Reply Tool A-B test comment completion.png|alt=Junior contributors comment completion rate across all participating Wikipedias|thumb|296x296px|When newcomers had the Reply tool and tried to post on a talk page, they were more successful at posting a comment. ([https://wikimedia-research.github.io/Reply-tools-analysis-2021/ Source])]]
+
+Earlier this year, the Editing team ran a large study of [[mw:Talk pages project/Replying|the Reply Tool]].  The main goal was to find out whether the Reply Tool helped [[mw:Talk pages project/Glossary|newer editors]] communicate on wiki.  The second goal was to see whether the comments that newer editors made using the tool needed to be reverted more frequently than comments newer editors made with the existing wikitext page editor.
+
+The key results were:
+
+* Newer editors who had automatic ("default on") access to the Reply tool were [https://wikimedia-research.github.io/Reply-tools-analysis-2021/ more likely] to post a comment on a talk page.
+* The comments that newer editors made with the Reply Tool were also [https://wikimedia-research.github.io/Reply-tools-analysis-2021/ less likely] to be reverted than the comments that newer editors made with page editing.
+
+These results give the Editing team confidence that the tool is helpful.
+
+<strong>Looking ahead</strong>
+
+The team is planning to make the Reply tool available to everyone as an opt-out preference in the coming months.  This has already happened at the Arabic, Czech, and Hungarian Wikipedias.
+
+The next step is to [[phab:T280599|resolve a technical challenge]]. Then, they will deploy the Reply tool first to the [[phab:T267379|Wikipedias that participated in the study]].  After that, they will deploy it, in stages, to the other Wikipedias and all WMF-hosted wikis.
+
+You can turn on "{{int:discussiontools-preference-label}}" [[Special:Preferences#mw-prefsection-betafeatures|in Beta Features]] now.  After you get the Reply tool, you can change your preferences at any time in [[Special:Preferences#mw-prefsection-editing-discussion]].
+
+–[[User:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[User talk:Whatamidoing (WMF)|talk]])
+</div> 14:14, 24 yüni 2021 (UTC)
+<!-- Message sent by User:Elitre (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/VisualEditor/Newsletter/Wikis_with_VE&oldid=21624491 -->
+
+== Server switch ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr"><div class="plainlinks">
+
+[[:m:Special:MyLanguage/Tech/Server switch 2020|Read this message in another language]]  •  [https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=page-Tech%2FServer+switch+2020&language=&action=page&filter= {{int:please-translate}}]
+
+The [[foundation:|Wikimedia Foundation]] tests the switch between its first and secondary data centers.  This will make sure that Wikipedia and the other Wikimedia wikis can stay online even after a disaster. To make sure everything is working, the Wikimedia Technology department needs to do a planned test. This test will show if they can reliably switch from one data centre to the other. It requires many teams to prepare for the test and to be available to fix any unexpected problems. <!--
+
+ They will switch all traffic back to the primary data center on '''Tuesday, October 27 2020'''. -->
+
+Unfortunately, because of some limitations in [[mw:Manual:What is MediaWiki?|MediaWiki]], all editing must stop while the switch is made.  We apologize for this disruption, and we are working to minimize it in the future. 
+
+'''You will be able to read, but not edit, all wikis for a short period of time.'''
+
+*You will not be able to edit for up to an hour on Tuesday, 29 June 2021. The test will start at [https://zonestamp.toolforge.org/1624975200 14:00 UTC] (07:00 PDT, 10:00 EDT, 15:00 WEST/BST, 16:00 CEST, 19:30 IST,  23:00 JST, and in New Zealand at 02:00 NZST on Wednesday 30 June).
+*If you try to edit or save during these times, you will see an error message.  We hope that no edits will be lost during these minutes, but we can't guarantee it.  If you see the error message, then please wait until everything is back to normal.  Then you should be able to save your edit.  But, we recommend that you make a copy of your changes first, just in case.
+
+''Other effects'':
+
+*Background jobs will be slower and some may be dropped. Red links might not be updated as quickly as normal. If you create an article that is already linked somewhere else, the link will stay red longer than usual. Some long-running scripts will have to be stopped.
+*There will be code freezes for the week of June 28.  Non-essential code deployments will not happen.
+
+This project may be postponed if necessary.  You can [[wikitech:Switch_Datacenter#Schedule_for_2021_switch|read the schedule at wikitech.wikimedia.org]]. Any changes will be announced in the schedule.  There will be more notifications about this. A banner will be displayed on all wikis 30 minutes before this operation happens. '''Please share this information with your community.'''</div></div> [[user:SGrabarczuk (WMF)|SGrabarczuk (WMF)]] 01:19, 27 yüni 2021 (UTC)
+<!-- Message sent by User:SGrabarczuk (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=21463754 -->
+
+== Admin confirmations for Frank Geerlings, Carbiana, Ciell ==
+
+Hi all,
+
+At the moment three of the admins on this project (out of a total of four) need their admin rights reconfirmed by the community. Per the [[:meta:Steward_requests/Permissions/Minimum_voting_requirements|rules on Meta]], we need 2-4 votes for another 6 month approval: 5 of more votes (and 2/3 in favor of the applicant) would mean they get permanent rights. So please let us know if you would be in favor of extending the admin rights for the three of us, no hard feelings if you think the should not be prolonged, but then a little explanation would be nice.
+
+Thank you! [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 16:32, 8 ougùstùs 2021 (UTC)
+
+=== [[User:Caribiana|Caribiana]] ===
+#in favor --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|diskushon]]) 17:24, 8 ougùstùs 2021 (UTC)...
+# In favor. --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 21:46, 9 ougùstùs 2021 (UTC)
+# Yes please! [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 16:27, 10 ougùstùs 2021 (UTC)
+# in favor![[User:Roseallen2565]]
+
+=== [[User:Frank Geerlings|Frank Geerlings]] ===
+# In favor --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|diskushon]]) 17:24, 8 ougùstùs 2021 (UTC)
+# Yes please! [[User:Ciell|Ciell]] ([[User talk:Ciell|diskushon]]) 16:27, 10 ougùstùs 2021 (UTC)
+# In favor! [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 17:47, 10 ougùstùs 2021 (UTC)
+# In favor![[User:Roseallen2565]]
+
+=== [[User:Ciell|Ciell]] ===
+# In favor. --[[User:Dwerg85|Dwerg85]] ([[User talk:Dwerg85|diskushon]]) 17:24, 8 ougùstùs 2021 (UTC)
+# In favor. --[[User:Frank Geerlings|Frank Geerlings]] ([[User talk:Frank Geerlings|diskushon]]) 21:46, 9 ougùstùs 2021 (UTC)
+# In favor! [[User:Caribiana|Caribiana]] ([[User talk:Caribiana|diskushon]]) 17:48, 10 ougùstùs 2021 (UTC)
+# in favor! [[User:Roseallen2565]]
+
+== New Wikipedia Library collections and design update (August 2021) ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+
+Hello Wikimedians! 
+[[File:Wikipedia_Library_owl.svg|thumb|upright|The TWL OWL says log in today!]]
+[https://wikipedialibrary.wmflabs.org/users/my_library/ The Wikipedia Library] is pleased to announce the addition of new collections, alongside a new interface design. New collections include:
+* '''[https://wikipedialibrary.wmflabs.org/partners/107/ Cabells]''' – Scholarly and predatory journal database
+* '''[https://wikipedialibrary.wmflabs.org/partners/108/ Taaghche]''' -  Persian language e-books
+* '''[https://wikipedialibrary.wmflabs.org/partners/112/ Merkur]''', '''[https://wikipedialibrary.wmflabs.org/partners/111/ Musik & Ästhetik]''', and '''[https://wikipedialibrary.wmflabs.org/partners/110/ Psychologie, Psychotherapie, Psychoanalyse]''' - German language magazines and journals published by Klett-Cotta
+* '''[https://wikipedialibrary.wmflabs.org/partners/117/ Art Archiv]''', '''[https://wikipedialibrary.wmflabs.org/partners/113/ Capital]''', '''[https://wikipedialibrary.wmflabs.org/partners/115/ Geo]''', '''[https://wikipedialibrary.wmflabs.org/partners/116/ Geo Epoche]''', and '''[https://wikipedialibrary.wmflabs.org/partners/114/ Stern]''' - German language newspapers and magazines published by Gruner + Jahr
+
+Additionally, '''[https://wikipedialibrary.wmflabs.org/partners/105/ De Gruyter]''' and '''[https://wikipedialibrary.wmflabs.org/partners/106/ Nomos]''' have been centralised from their previous on-wiki signup location on the German Wikipedia. Many other collections are freely available by simply logging in to [https://wikipedialibrary.wmflabs.org/ The Wikipedia Library] with your Wikimedia login!
+
+We are also excited to announce that the first version of a new design for My Library was deployed this week. We will be iterating on this design with more features over the coming weeks. Read more on the [[:m:Library Card platform/Design improvements|project page on Meta]].
+
+Lastly, an Echo notification will begin rolling out soon to notify eligible editors about the library ([[Phab:T132084|T132084]]). If you can translate the notification please do so [https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-thewikipedialibrary at TranslateWiki]!
+
+--The Wikipedia Library Team 13:23, 11 ougùstùs 2021 (UTC)
+
+:<small>This message was delivered via the [https://meta.wikimedia.org/wiki/MassMessage#Global_message_delivery Global Mass Message] tool to [https://meta.wikimedia.org/wiki/Global_message_delivery/Targets/Wikipedia_Library The Wikipedia Library Global Delivery List].</small>
+</div>
+<!-- Message sent by User:Samwalton9@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Wikipedia_Library&oldid=21851699 -->
+
+== Universal Code of Conduct - Enforcement draft guidelines review ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+<section begin="content"/>The [[m:Special:MyLanguage/Universal_Code_of_Conduct/Drafting_committee#Phase_2|Universal Code of Conduct Phase 2 drafting committee]] would like comments about the '''[[:m:Universal Code of Conduct/Enforcement draft guidelines review|enforcement draft guidelines]]''' for the [[m:Special:MyLanguage/Universal Code of Conduct|Universal Code of Conduct]] (UCoC). This review period is planned for 17 August 2021 through 17 October 2021.
+
+These guidelines are not final but you can help move the progress forward. The committee will revise the guidelines based upon community input.
+
+Comments can be shared in any language on the [[m:Talk:Universal Code of Conduct/Enforcement draft guidelines review|draft review talk page]] and [[m:Special:MyLanguage/Universal Code of Conduct/Discussions|multiple other venues]]. Community members are encouraged to organize conversations in their communities.
+
+There are planned live discussions about the UCoC enforcement draft guidelines: 
+
+:[[wmania:2021:Submissions/Universal_Code_of_Conduct_Roundtable|Wikimania 2021 session]] (recorded 16 August)
+:[[m:Special:MyLanguage/Universal_Code_of_Conduct/2021_consultations/Roundtable_discussions#Conversation hours|Conversation hours]] - 24 August, 31 August, 7 September @ 03:00 UTC & 14:00 UTC
+:[[m:Special:MyLanguage/Universal_Code_of_Conduct/2021_consultations/Roundtable_discussions|Roundtable calls]] - 18 September @ 03:00 UTC & 15:00 UTC
+
+Summaries of discussions will be posted every two weeks [[m:Special:MyLanguage/Universal Code of Conduct/Drafting committee/Digests|here]].
+
+Please let me know if you have any questions.<section end="content"/>
+</div>
+
+[[User:Xeno (WMF)|Xeno (WMF)]] 23:19, 17 ougùstùs 2021 (UTC)
+<!-- Message sent by User:Xeno (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:Xeno_(WMF)/Delivery/Wikipedia&oldid=21895766 -->
+
+== Wikimedia Foundation Board of Trustees election has come to an end ==
+
+Thank you for participating in the [[:meta:Special:MyLanguage/Wikimedia_Foundation_elections/2021|2021 Wikimedia Foundation Board of Trustees election]]! Voting closed August 31 at 23:59. The official data, including the four most voted candidates, will be announced as soon as the [[:meta:Special:MyLanguage/Wikimedia_Foundation_elections_committee|Elections Committee]] completes their review of the ballots. The official announcement of the new trustees appointed will happen later, once the selected candidates have been confirmed by the Board.
+
+6,946 community members from 216 wiki projects have voted. This makes 10.2% global participation, 1.1% higher than in the last Board elections. In 2017, 5167 people from 202 wiki projects cast their vote. A full analysis is planned to be published in a few days when the confirmed results are announced. In the meantime, you can check the [[:meta:Special:MyLanguage/Wikimedia_Foundation_elections/2021/Stats|data produced during the election]].
+
+Diversity was an important goal with these elections. Messages about the Board election were translated into 61 languages. This outreach worked well. There were 70 communities with eligible voters voting in this election for the first time. With your help, next year’s Board of Trustees election will be even better.
+
+10:03, 2 sèptèmber 2021 (UTC)
+<!-- Message sent by User:MNadzikiewicz (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:Xeno_(WMF)/Delivery/Wikipedia&oldid=21895840 -->
+
+== The 2022 Community Wishlist Survey will happen in January ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+Hello everyone,
+
+We hope all of you are as well and safe as possible during these trying times! We wanted to share some news about a change to the Community Wishlist Survey 2022. We would like to hear your opinions as well.
+
+Summary:
+
+<div style="font-style:italic;">
+We will be running the [[m:Special:MyLanguage/Community Wishlist Survey|Community Wishlist Survey]] 2022 in January 2022. We need more time to work on the 2021 wishes. We also need time to prepare some changes to the Wishlist 2022. In the meantime, you can use a [[m:Special:MyLanguage/Community Wishlist Survey/Sandbox|dedicated sandbox to leave early ideas for the 2022 wishes]].
+</div>
+
+=== Proposing and wish-fulfillment will happen during the same year ===
+
+In the past, the [[m:Special:MyLanguage/Community Tech|Community Tech]] team has run the Community Wishlist Survey for the following year in November of the prior year. For example, we ran the [[m:Special:MyLanguage/Community Wishlist Survey 2021|Wishlist for 2021]] in November 2020. That worked well a few years ago. At that time, we used to start working on the Wishlist soon after the results of the voting were published.
+
+However, in 2021, there was a delay between the voting and the time when we could start working on the new wishes. Until July 2021, we were working on wishes from the [[m:Special:MyLanguage/Community Wishlist Survey 2020|Wishlist for 2020]].
+
+We hope having the Wishlist 2022 in January 2022 will be more intuitive. This will also give us time to fulfill more wishes from the 2021 Wishlist.
+
+=== Encouraging wider participation from historically excluded communities ===
+
+We are thinking how to make the Wishlist easier to participate in. We want to support more translations, and encourage under-resourced communities to be more active. We would like to have some time to make these changes.
+
+=== A new space to talk to us about priorities and wishes not granted yet ===
+
+We will have gone 365 days without a Wishlist. We encourage you to approach us. We hope to hear from you in the [[m:Special:MyLanguage/Talk:Community Wishlist Survey|talk page]], but we also hope to see you at our bi-monthly Talk to Us meetings! These will be hosted at two different times friendly to time zones around the globe.
+
+We will begin our first meeting '''September 15th at 23:00 UTC'''. More details about the agenda and format coming soon!
+
+=== Brainstorm and draft proposals before the proposal phase ===
+
+If you have early ideas for wishes, you can use the [[m:Special:MyLanguage/Community Wishlist Survey/Sandbox|new Community Wishlist Survey sandbox]]. This way, you will not forget about these before January 2022. You will be able to come back and refine your ideas. Remember, edits in the sandbox don't count as wishes!
+
+=== Feedback ===
+* What should we do to improve the Wishlist pages?
+* How would you like to use our new [[m:Special:MyLanguage/Community Wishlist Survey/Sandbox|sandbox?]]
+* What, if any, risks do you foresee in our decision to change the date of the Wishlist 2022?
+* What will help more people participate in the Wishlist 2022?
+
+Answer on the [[m:Special:MyLanguage/Talk:Community Wishlist Survey|talk page]] (in any language you prefer) or at our Talk to Us meetings.
+</div>
+
+[[user:SGrabarczuk (WMF)|SGrabarczuk (WMF)]] ([[user talk:SGrabarczuk (WMF)|talk]]) 00:23, 7 sèptèmber 2021 (UTC)
+<!-- Message sent by User:SGrabarczuk (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=21980442 -->
+
+== Call for Candidates for the Movement Charter Drafting Committee ending 14 September 2021 ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+<section begin="announcement-content"/>Movement Strategy announces [[:m:Special:MyLanguage/Movement_Charter/Drafting_Committee|the Call for Candidates for the Movement Charter Drafting Committee]]. The Call opens August 2, 2021 and closes September 14, 2021.
+
+The Committee is expected to represent [[:m:Special:MyLanguage/Movement_Charter/Drafting_Committee/Diversity_and_Expertise_Matrices|diversity in the Movement]]. Diversity includes gender, language, geography, and experience. This comprises participation in projects, affiliates, and the Wikimedia Foundation.
+
+English fluency is not required to become a member. If needed, translation and interpretation support is provided. Members will receive an allowance to offset participation costs. It is US$100 every two months.
+
+We are looking for people who have some of the following [[:m:Special:MyLanguage/Movement_Charter/Drafting_Committee#Role_Requirements|skills]]:
+
+* Know how to write collaboratively. (demonstrated experience is a plus) 
+* Are ready to find compromises. 
+* Focus on inclusion and diversity. 
+* Have knowledge of community consultations. 
+* Have intercultural communication experience. 
+* Have governance or organization experience in non-profits or communities. 
+* Have experience negotiating with different parties. 
+
+The Committee is expected to start with 15 people. If there are 20 or more candidates, a mixed election and selection process will happen. If there are 19 or fewer candidates, then the process of selection without election takes place.
+
+Will you help move Wikimedia forward in this important role? Submit your candidacy [[:m:Special:MyLanguage/Movement_Charter/Drafting_Committee#Candidate_Statements|here]]. Please contact strategy2030[[File:At sign.svg|16x16px|link=|(_AT_)]]wikimedia.org with questions.<section end="announcement-content"/>
+</div>
+
+[[User:Xeno (WMF)|Xeno (WMF)]] 17:02, 10 sèptèmber 2021 (UTC)
+<!-- Message sent by User:Xeno (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:Xeno_(WMF)/Delivery/Wikipedia&oldid=22002240 -->
+
+== Server switch ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr"><div class="plainlinks">
+
+[[:m:Special:MyLanguage/Tech/Server switch|Read this message in another language]] • [https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=page-Tech%2FServer+switch&language=&action=page&filter= {{int:please-translate}}]
+
+The [[foundation:|Wikimedia Foundation]] tests the switch between its first and secondary data centers. This will make sure that Wikipedia and the other Wikimedia wikis can stay online even after a disaster. To make sure everything is working, the Wikimedia Technology department needs to do a planned test. This test will show if they can reliably switch from one data centre to the other. It requires many teams to prepare for the test and to be available to fix any unexpected problems. 
+
+They will switch all traffic back to the primary data center on '''Tuesday, 14 September 2021'''.
+
+Unfortunately, because of some limitations in [[mw:Manual:What is MediaWiki?|MediaWiki]], all editing must stop while the switch is made. We apologize for this disruption, and we are working to minimize it in the future. 
+
+'''You will be able to read, but not edit, all wikis for a short period of time.'''
+
+*You will not be able to edit for up to an hour on Tuesday, 14 September 2021. The test will start at [https://zonestamp.toolforge.org/1631628049 14:00 UTC] (07:00 PDT, 10:00 EDT, 15:00 WEST/BST, 16:00 CEST, 19:30 IST, 23:00 JST, and in New Zealand at 02:00 NZST on Wednesday, 15 September).
+*If you try to edit or save during these times, you will see an error message. We hope that no edits will be lost during these minutes, but we can't guarantee it. If you see the error message, then please wait until everything is back to normal. Then you should be able to save your edit. But, we recommend that you make a copy of your changes first, just in case.
+
+''Other effects'':
+
+*Background jobs will be slower and some may be dropped. Red links might not be updated as quickly as normal. If you create an article that is already linked somewhere else, the link will stay red longer than usual. Some long-running scripts will have to be stopped.
+* We expect the code deployments to happen as any other week. However, some case-by-case code freezes could punctually happen if the operation require them afterwards.
+
+This project may be postponed if necessary.  You can [[wikitech:Switch_Datacenter|read the schedule at wikitech.wikimedia.org]]. Any changes will be announced in the schedule. There will be more notifications about this. A banner will be displayed on all wikis 30 minutes before this operation happens. '''Please share this information with your community.'''</div></div> [[user:SGrabarczuk (WMF)|SGrabarczuk (WMF)]] ([[user talk:SGrabarczuk (WMF)|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 00:45, 11 sèptèmber 2021 (UTC)
+<!-- Message sent by User:SGrabarczuk (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=21980442 -->
+
+== Talk to the Community Tech ==
+
+[[File:Magic Wand Icon 229981 Color Flipped.svg|{{dir|{{pagelang}}|left|right}}|frameless|50px]]
+
+[[:m:Special:MyLanguage/Community Wishlist Survey/Updates/2021-09 Talk to Us|Read this message in another language]] • [https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=page-Community_Wishlist_Survey/Updates/2021-09_Talk_to_Us&language=&action=page&filter= {{int:please-translate}}]
+
+Hello!
+
+As we have [[m:Special:MyLanguage/Community Wishlist Survey/Updates|recently announced]], we, the team working on the [[m:Special:MyLanguage/Community Wishlist Survey|Community Wishlist Survey]], would like to invite you to an online meeting with us. It will take place on [https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210915T2300 '''September 15th, 23:00 UTC'''] on Zoom, and will last an hour. [https://wikimedia.zoom.us/j/89828615390 '''Click here to join'''].
+
+'''Agenda'''
+
+* [[m:Special:MyLanguage/Community Wishlist Survey 2021/Status report 1#Prioritization Process|How we prioritize the wishes to be granted]]
+* [[m:Special:MyLanguage/Community Wishlist Survey/Updates|Why we decided to change the date]] from November 2021 to January 2022
+* Update on the [[m:Special:MyLanguage/Community Wishlist Survey 2021/Warn when linking to disambiguation pages|disambiguation]] and the [[m:Special:MyLanguage/Community Wishlist Survey 2021/Real Time Preview for Wikitext|real-time preview]] wishes
+* Questions and answers
+
+'''Format'''
+
+The meeting will not be recorded or streamed. Notes without attribution will be taken and published on Meta-Wiki. The presentation (first three points in the agenda) will be given in English.
+
+We can answer questions asked in English, French, Polish, and Spanish. If you would like to ask questions in advance, add them [[m:Talk:Community Wishlist Survey|on the Community Wishlist Survey talk page]] or send to sgrabarczuk@wikimedia.org.
+
+[[m:Special:MyLanguage/User:NRodriguez (WMF)|Natalia Rodriguez]] (the [[m:Special:MyLanguage/Community Tech|Community Tech]] manager) will be hosting this meeting.
+
+'''Invitation link'''
+
+* [https://wikimedia.zoom.us/j/89828615390 Join online]
+* Meeting ID: 898 2861 5390
+* One tap mobile
+** +16465588656,,89828615390# US (New York)
+** +16699006833,,89828615390# US (San Jose)
+* [https://wikimedia.zoom.us/u/kctR45AI8o Dial by your location]
+
+See you! [[User:SGrabarczuk (WMF)|SGrabarczuk (WMF)]] ([[User talk:SGrabarczuk (WMF)|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 03:03, 11 sèptèmber 2021 (UTC)
+<!-- Message sent by User:SGrabarczuk (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=21980442 -->
+
+== Select You the question statements for candidates of Drafting Committee Movement Charter ==
+
+Into 2021-10-04 11:59:59 UTC you can select [[:m:Movement Charter/Drafting Committee/Election Compass Statements|question statements]] for the [[:m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates|candidates]] of [[:m:Special:MyLanguage/Movement Charter/Drafting Committee|Drafting Committee]] [[:m:Special:MyLanguage/Movement_Charter|Movement Charter]]. ✍️ [[User:Dušan Kreheľ|Dušan Kreheľ]] ([[User talk:Dušan Kreheľ|diskushon]]) 02:37, 30 sèptèmber 2021 (UTC)
+
+== Voting for the election for the members for the Movement Charter drafting committee is now open ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+<section begin="announcement-content"/>
+:''<div class="plainlinks">[[m:Special:MyLanguage/Movement Charter/Drafting Committee/MCDC Voter Email short 12-10-2021|{{int:otherlanguages}}]] • [https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=page-{{urlencode:Movement Charter/Drafting Committee/MCDC Voter Email short 12-10-2021}}&language=&action=page&filter= {{int:please-translate}}]''
+Voting for the election for the members for the Movement Charter drafting committee is now open. In total, 70 Wikimedians from around the world are running for 7 seats in these elections.
+
+'''Voting is open from October 12 to October 24, 2021.'''
+
+The committee will consist of 15 members in total: The online communities vote for 7 members, 6 members will be selected by the Wikimedia affiliates through a parallel process, and 2 members will be appointed by the Wikimedia Foundation. The plan is to assemble the committee by November 1, 2021.
+
+Learn about each candidate to inform your vote in the language that you prefer: <https://meta.wikimedia.org/wiki/Special:MyLanguage/Movement_Charter/Drafting_Committee/Candidates>
+
+Learn about the Drafting Committee: <https://meta.wikimedia.org/wiki/Special:MyLanguage/Movement_Charter/Drafting_Committee>
+
+We are piloting a voting advice application for this election. Click yourself through the tool and you will see which candidate is closest to you! Check at <https://mcdc-election-compass.toolforge.org/>
+
+Read the full announcement: <https://meta.wikimedia.org/wiki/Special:MyLanguage/Movement_Charter/Drafting_Committee/Elections>
+
+'''Go vote at SecurePoll on:''' <https://meta.wikimedia.org/wiki/Special:MyLanguage/Movement_Charter/Drafting_Committee/Elections>
+
+Best,
+
+Movement Strategy & Governance Team, Wikimedia Foundation
+<section end="announcement-content"/>
+</div>
+
+[[User:Xeno (WMF)|Xeno (WMF)]] 02:25, 14 òktober 2021 (UTC)
+<!-- Message sent by User:Xeno (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:Xeno_(WMF)/Delivery/Wikipedia&oldid=22185710 -->
+
+== Learn how Movement Strategy Implementation Grants can support your Movement Strategy plans ==
+
+<section begin="announcement-content"/>Movement Strategy Implementation grants now provide more than $2,000 USD to put Movement Strategy plans into action. Find out more about [[:m:Special:MyLanguage/Grants:MSIG/About|Movement Strategy Implementation grants, the criteria, and how to apply]].<section end="annoumcent-content"/>
+
+[[User:MNadzikiewicz (WMF)|MNadzikiewicz (WMF)]] ([[User talk:MNadzikiewicz (WMF)#top|talk]]) 13:30, 29 October 2021 (UTC)
+<!-- Message sent by User:MNadzikiewicz (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:MNadzikiewicz_(WMF)/Delivery&oldid=22247589 -->
+
+== Meet the new Movement Charter Drafting Committee members ==
+
+<section begin="announcement-content"/>
+:''<div class="plainlinks">[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Elections/Results/Announcement|{{int:interlanguage-link-mul}}]] • [https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=page-{{urlencode:Movement Charter/Drafting Committee/Elections/Results/Announcement}}&language=&action=page&filter= {{int:please-translate}}]</div>''
+The Movement Charter Drafting Committee election and selection processes are complete.
+* The [[m:Special:MyLanguage/Movement Charter/Drafting Committee/Elections/Results|election results have been published]]. 1018 participants voted to elect seven members to the committee: '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Richard_Knipel_(Pharos)|Richard Knipel (Pharos)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Anne_Clin_(Risker)|Anne Clin (Risker)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Alice_Wiegand_(lyzzy)|Alice Wiegand (Lyzzy)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Micha%C5%82_Buczy%C5%84ski_(Aegis_Maelstrom)|Michał Buczyński (Aegis Maelstrom)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Richard_(Nosebagbear)|Richard (Nosebagbear)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Ravan_J_Al-Taie_(Ravan)|Ravan J Al-Taie (Ravan)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Ciell_(Ciell)|Ciell (Ciell)]]'''.
+* The [[m:Special:MyLanguage/Movement_Charter/Drafting_Committee/Candidates#Affiliate-chosen_members|affiliate process]] has selected six members: '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Anass_Sedrati_(Anass_Sedrati)|Anass Sedrati (Anass Sedrati)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#%C3%89rica_Azzellini_(EricaAzzellini)|Érica Azzellini (EricaAzzellini)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Jamie_Li-Yun_Lin_(Li-Yun_Lin)|Jamie Li-Yun Lin (Li-Yun Lin)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Georges_Fodouop_(Geugeor)|Georges Fodouop (Geugeor)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Manavpreet_Kaur_(Manavpreet_Kaur)|Manavpreet Kaur (Manavpreet Kaur)]]''', '''[[m:Special:MyLanguage/Movement Charter/Drafting Committee/Candidates#Pepe_Flores_(Padaguan)|Pepe Flores (Padaguan)]]'''.
+* The Wikimedia Foundation has [[m:Special:MyLanguage/Movement_Charter/Drafting_Committee/Candidates#Wikimedia_Foundation-chosen_members|appointed]] two members: '''[[m:Special:MyLanguage/Movement_Charter/Drafting_Committee/Candidates#Runa_Bhattacharjee_(Runab_WMF)|Runa Bhattacharjee (Runab WMF)]]''', '''[[m:Special:MyLanguage/Movement_Charter/Drafting_Committee/Candidates#Jorge_Vargas_(JVargas_(WMF))|Jorge Vargas (JVargas (WMF))]]'''.
+
+The committee will convene soon to start its work. The committee can appoint up to three more members to bridge diversity and expertise gaps.
+
+If you are interested in engaging with [[m:Special:MyLanguage/Movement Charter|Movement Charter]] drafting process, follow the updates [[m:Special:MyLanguage/Movement Charter/Drafting Committee|on Meta]] and join the [https://t.me/joinchat/U-4hhWtndBjhzmSf Telegram group].
+
+With thanks from the Movement Strategy and Governance team<section end="announcement-content"/>
+
+15:53, 5 novèmber 2021 (UTC)
+<!-- Message sent by User:MNadzikiewicz (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=User:MNadzikiewicz_(WMF)/Delivery&oldid=22300322 -->
+
+== Upcoming Call for Feedback about the Board of Trustees elections ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+<section begin="announcement-content />
+:''You can find this message translated into additional languages on Meta-wiki.''
+:''<div class="plainlinks">[[m:Special:MyLanguage/Wikimedia Foundation Board of Trustees/Call for feedback:2022 Board of Trustees election/Upcoming Call for Feedback about the Board of Trustees elections|{{int:interlanguage-link-mul}}]] • [https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=page-{{urlencode:Wikimedia Foundation Board of Trustees/Call for feedback:2022 Board of Trustees election/Upcoming Call for Feedback about the Board of Trustees elections}}&language=&action=page&filter= {{int:please-translate}}]</div>''
+
+The Board of Trustees is preparing a call for feedback about the upcoming Board Elections, from January 7 - February 10, 2022.
+
+While details will be finalized the week before the call, we have confirmed at least two questions that will be asked during this call for feedback:
+
+* What is the best way to ensure fair representation of emerging communities among the Board?
+
+* What involvement should candidates have during the election?
+
+While additional questions may be added, the Movement Strategy and Governance team wants to provide time for community members and affiliates to consider and prepare ideas on the confirmed questions before the call opens. We apologize for not having a complete list of questions at this time. The list of questions should only grow by one or two questions. The intention is to not overwhelm the community with requests, but provide notice and welcome feedback on these important questions.
+
+'''Do you want to help organize local conversation during this Call?'''
+
+Contact the [[m:Special:MyLanguage/Movement Strategy and Governance|Movement Strategy and Governance team]] on Meta, on [https://t.me/wmboardgovernancechat Telegram], or via email at msg[[File:At sign.svg|16x16px|link=|(_AT_)]]wikimedia.org.
+
+Reach out if you have any questions or concerns. The Movement Strategy and Governance team will be minimally staffed until January 3. Please excuse any delayed response during this time. We also recognize some community members and affiliates are offline during the December holidays. We apologize if our message has reached you while you are on holiday.
+
+Best,
+
+Movement Strategy and Governance<section end="announcement-content" />
+</div>
+
+{{int:thank-you}} [[User:Xeno (WMF)|Xeno (WMF)]] 17:56, 27 desèmber 2021 (UTC)
+<!-- Message sent by User:Xeno (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Movement_Strategy_and_Governance/Delivery/Wikipedia&oldid=22502754 -->
