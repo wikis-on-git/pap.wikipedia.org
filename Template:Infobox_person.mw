@@ -26,7 +26,7 @@
 | label13     = Status
 | data13      = {{{status|{{{disappeared_status|}}}}}}
 
-| label14     = Died
+| label14     = Dia Muri
 | data14      = {{br separated entries|1={{{death_date|}}}|2={{#if:{{{death_place|}}}|<span class="deathplace">{{{death_place|}}}</span>}}}}
 
 | label15     = {{Longitem|Cause&nbsp;of death}}
