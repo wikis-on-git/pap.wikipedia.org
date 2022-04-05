@@ -41,7 +41,7 @@
 | {{ARM}}
 | [[Himno Armenii|Mer Hayrenik]] (Nasza Ojczyzna)
 |-----
-| [[Aruba]]
+| {{ABW}}
 | [[Aruba Dushi Tera]]
 |-----
 | {{AUS}}
@@ -112,13 +112,13 @@
 | ''[[Brytyjskie Wyspy Dziewicze]]''
 | [[Himno Wielkiej Brytanii|God Save the Queen]] (Boże chroń królową)
 |-----
-| [[Bulgaria]]
+| {{BGR}}
 | [[Himno di Bulgaria|Miła Rodino]] (E patria stima)
 |-----
-| [[Burkina Faso]]
+| {{BFA}}
 | [[Himno Burkina Faso|Le Ditanye]] (Himno Zwycięstwa)
 |-----
-| [[Burundi]]
+| {{BDI}}} [[Burundi]]
 | [[Himno Burundi|Burundi bwacu]] (Kochana Burundi)
 |-----
 | {{CAN}}
@@ -154,7 +154,7 @@
 | [[Dominika (państwo)|Dominika]]
 | [[Himno Dominiki|Isle of Beauty, Isle of Splendour]] (Wyspa piękności, wyspa chwały)
 |-----
-| [[Republika Dominikana]]
+| {{DOM}} 
 | [[Himno Dominikany|Quisqueyanos valientes]] (Dzielni synowie Quisqueye)
 |-----
 | [[Dżibuti]] || [[Himno Dżibuti]]
@@ -168,10 +168,10 @@
 | [[Erytrea]]
 | [[Himno Erytrei|Ertära Ertära Ertära]] (Erytrea, Erytrea, Erytrea)
 |-----
-| [[Estonia]]
+| {{EST}}
 | [[Himno Estonii|Mu Isamaa]] (Moja rodzinna ziemia)
 |-----
-| [[Etiopia]]
+| {{ETH}}
 | [[Himno Etiopii|Whedefit Gesgeshi Woude Henate Ethiopia]] (Naprzód, droga matko Etiopio)
 |-----
 | ''[[Falklandy (terytorium)|Falklandy]]''
@@ -183,7 +183,7 @@
 | [[Filipiny]]
 | [[Himno Filipin|Lupang Hinirang]] (Wybrany kraj)
 |-----
-| [[Finlandia]]
+| {{FIN}} 
 | [[Himno Finlandii|Maamme]] (Nasz kraj)
 |-----
 | ''[[Flandria (region)]]''
@@ -192,12 +192,12 @@
 | {{FRA}}
 | [[Himno di Fransia|La Marseillaise]] ([[Himno Francji|Marsylianka]])
 |-----
-| [[Gabon]] || [[Himno Gabonu|La Concorde]] (Zgoda)
+| {{GAB}} || [[Himno Gabonu|La Concorde]] (Zgoda)
 |-----
 | [[Gambia]]
 | [[Himno Gambii|For The Gambia Our Homeland]] (Dla Gambii, naszej Ojczyzny)
 |-----
-| [[Ghana]]
+| {{GHA}} 
 | [[Himno Ghany|God Bless Our Homeland Ghana]] (Boże błogosław nasz kraj rodzinny, Ghanę)
 |-----
 | ''[[Gibraltar]]''
@@ -248,13 +248,13 @@
 | [[Hiszpania]]
 | [[Himno Hiszpanii|Marcha Real]] (Marsz Królewski)
 |-----
-| [[Holandia]]
+| {{NED}} 
 | [[Himno Holandii|Wilhelmus]] (Wilhelm)
 |-----
 | [[Honduras]]
 | [[Himno Hondurasu|Tu bandera es un lampo de cielo]] (Twoja flaga jest niebiańsko jasna)
 |-----
-| [[India]]
+| {{IND}} 
 | [[Himno Indii|Jana-Gana-Mana]] (Ty jesteś władcą umysłów wszystkich ludzi)
 |-----
 | [[Indonesia]]
@@ -270,7 +270,7 @@
 | ''[[Irlandia Północna]]''
 | [[Londonderry Air]] (Piosenka z Londonderry)
 |-----
-| [[Islandia]]
+| {{ISL}} [[Islandia]]
 | [[Himno Islandii|Lofsöngur]] (Himno pochwalny)
 |-----
 | [[Israel]] || [[Himno Izraela|Hatikwa]] (Nadzieja)
@@ -296,16 +296,16 @@
 | [[Kambodża]]
 | [[Himno Kambodży|Nokoreach]] (Niebiosa Chrońcie Króla)
 |-----
-| {{KAM}}
+| {{CMR}}
 | [[Himno Kamerunu|Chant de Ralliement]] (Pieśń zbiórki)
 |-----
 | ''[[Katalonia]]''
 | [[Himno Katalonii|Els Segadors]] (Żeńcy)
 |-----
-| [[Catar]]
+| {{QAT}} 
 | [[Himno Kataru|Al-Salam Al-Amiri]] (Himno pokoju)
 |-----
-| [[Kazakstan]]
+| {{KAZ}}
 | [[Himno Kazachstanu|Менің Қазақстаным]] (Mój Kazachstan)
 |-----
 | [[Kenia]]
@@ -338,7 +338,7 @@
 | ''[[Kraj Basków]]''
 | [[Himno Kraju Basków|Eusko Abendaren Ereserikia]] ("Himno Narodu Baskijskiego")
 |-----
-| [[Kuba]]
+| {{CUB}}
 | [[Himno Kuby|La Bayamesa]] (Pieśń Bayamo)
 |-----
 | ''[[Kurdistan]]''
@@ -353,7 +353,7 @@
 | [[Lesotho]]
 | [[Himno Lesotho|Lesotho Fatse La Bontata Rona]] (Lesotho, kraju naszych ojcow)
 |-----
-| [[Líbano]] || [[Himno Libanu]]
+| {{LBN}} || [[Himno Libanu]]
 |-----
 | [[Liberia]]
 | [[Himno Liberii|All Hail, Liberia Hail]] (Bądźcie wszyscy pozdrowieni, bądź pozdrowiona Liberio)
@@ -391,10 +391,10 @@
 | [[Malediwy]]
 | [[Himno Malediwów|Gaumee Salaam]] (Pozdrowienie narodowe)
 |-----
-| [[Mali]]
+| {{MLI}} 
 | [[Himno Mali|Pour l'Afrique et pour toi, Mali]] (Dla Afryki i dla ciebie, Mali)
 |-----
-| [[Malta]]
+| {{MLT}}
 | [[Himno Malty|L-Innu Malti]] (Himno Malty)
 |-----
 | ''[[Wyspa Man|Man]]''
@@ -426,25 +426,25 @@
 | [[Monako]]
 | [[Himno Monako|A Marcia de Muneghu]] (Marsz Monako)
 |-----
-| [[Mongolia]]
+| {{MNG}}
 | [[Himno Mongolii|Bügd Nairamdakh Mongol]] (Himno Narodowej Republiki Mongolii)
 |-----
 | ''[[Montserrat (wyspa)|Montserrat]]''
 | [[Himno Wielkiej Brytanii|God Save the Queen]] (Boże chroń królową)
 |-----
-| [[Mozambik]]
+| {{MOZ}}
 | [[Himno Mozambiku|Patria Amada]] (Ukochana ojczyzna)
 |-----
 | ''[[Naddniestrze]]''
 | [[Himno Naddniestrza|Мы славим тебя, Приднестровье]] (Śpiewamy chwałę Naddniestrza)
 |-----
-| [[Namibia]]
+| {{NAM}}
 | [[Himno Namibii|Namibia, Land of the Brave]] (Namibia, kraj ludzi dzielnych)
 |-----
 | [[Nauru]]
 | [[Himno Nauru|Nauru Bwiema]] (Nauru nasz kraj rodzinny)
 |-----
-| [[Nepal]]
+| {{NPL}}
 | [[Himno Nepalu|Ras Triya Gaan]] (Niech chwałą Cię ukoronuje, odważny monarcho)
 |-----
 | [[Niemcy]]
@@ -453,22 +453,22 @@
 | ''[[Niemiecka Republika Demokratyczna]]''
 | [[Himno Niemieckiej Republiki Demokratycznej|Auferstanden aus Ruinen]] (Powstanie z ruin)
 |-----
-| [[Nikaragua]]
+| {{NIC}}
 | [[Himno Nikaragui|Salve a ti, Nicaragua]] (Pozdrawiamy Cię, Nikaraguo)
 |-----
-| [[Niger]]
+| {{NER}}
 | [[Himno Nigru|La Nigerienne]] (Pieśń Nigru)
 |-----
-| [[Nigeria]]
+| {{NGA}}
 | [[Himno Nigerii|Arise Oh Compatriots, Nigeria's Call Obey]] (Powstańcie patrioci, usłuchajcie wezwania Nigerii)
 |-----
 | ''[[Niue]]''
 | [[Himno Niue|Ko e Iki he Lagi]] (Bóg w niebie)
 |-----
-| [[Noruega]]
+| {{NOR}}
 | [[Himno di Noruegai|Ja, vi elsker dette landet]] (Tak, kochamy ten kraj)
 |-----
-| [[Nowa Zelandia]]
+| {{NZL}}
 | Himno królewski - [[Himno Wielkiej Brytanii|God Save the Queen]] (Boże chroń królową)<br /> Himno narodowy - [[Himno Nowej Zelandii|God Defend New Zealand]] (Boże broń Nowej Zelandii)
 |-----
 | [[Oman (państwo)|Oman]]
@@ -560,7 +560,7 @@
 | [[Senegal]]
 | [[Himno Senegalu|Pincez Tous vos Koras, Frappez les Balafons]] (Chwyćcie wszystkie wasze kora, uderzcie w balafony)
 |-----
-| [[Serbia]]
+| {{SRB}}
 | [[Himno Serbii|Bože Pravde]] (Boże Sprawiedliwy)
 |-----
 | ''[[Serbia i Chernogora]]''
@@ -599,13 +599,13 @@
 | [[Suazi]]
 | [[Himno Suazi|Oh God, Bestower of the Blessings of the Swazi]] (O Boże, dawco błogosławieństw Suazi)
 |-----
-| [[Sudan]]
+| {{SDN}}
 | [[Himno Sudanu|Nahnu Djundulla Djundulwatan]] (Jesteśmy armią Boga i naszego kraju)
 |-----
-| [[Surinam]]
+| {{SUR}} 
 | [[Himno Surinamu|God zij met ons Suriname]] (Niech Bóg będzie z naszym Surinamem)
 |-----
-| [[Siria]]
+| {{SYR}} 
 | [[Himno Syrii|Homat el Diyar]] (Obrońcy Ojczyzny)
 |-----
 | ''[[Szkocja]]''
@@ -631,7 +631,7 @@
 | {{THA}}
 | Himno narodowy - [[Himno Tajlandii|Phleng Chat]] (Państwowa pieśń)<br />Himno królewski - [[Phleng Sansasoen Phra Barami]]
 |-----
-| [[Tanzania]]
+| {{TZA}} 
 | [[Himno Tanzanii|Mungu ibariki Afrika]] (Boże błogosław Afrykę)
 |-----
 | [[Timor Wschodni]]
