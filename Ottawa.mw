@@ -1,16 +1,19 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Ottawa'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag of Ottawa, Ontario.svg|200px]]
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[File:OttawaCollage.png|300px]]
-|}
-'''Ottawa''' ta e [[kapital]] di [[Canada]]. E siudat tin un area di 2.778 kilometer kuadrá i un poblashon di 883.391 (2011) habitante.
+{{infosiudat
+|nomber_nativo= Ottawa
+|nomber_propio= City of Ottawa / Ville d'Ottawa
+|imagen_mapa = OttawaCollage.png
+|pais = {{CAN}}
+|alkalde = Jim Watson
+|fecha_di_fundashon = 
+|area = 2790,30
+|aña_kalkulashon_di_pop = 2021
+|pop_aproksima = 1,017,449 <ref>{{Citeer web |url=https://web.archive.org/web/20181103094213/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3506008&Geo2=PR&Code2=01&Data=Count&SearchText=ottawa&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |title=Census Profile, 2021 Census Ottawa, &#91;City Census subdivision&#93;, Ontario |bezochtdatum=2022-06-11}}</ref> 
+|densidat_pop = 365
+}} 
+'''Ottawa''' ta e [[kapital]] di [[Canada]]. E siudat tin un area di 2.778 kilometer kuadrá. E ta e di kuater siudat mas grandi na Canada ku un poblashon di 883.391 (2011) habitante.
+
+
+{{Appendix}}
 
 [[Category:Canada]]
 [[Category:siudadnan]]
