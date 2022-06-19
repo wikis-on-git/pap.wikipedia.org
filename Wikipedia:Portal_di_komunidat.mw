@@ -410,3 +410,7 @@ On behalf of the UCoC project team <br /><section end="announcement-content" />
 
 [[User:Xeno (WMF)|Xeno (WMF)]] 22:56, 3 yüni 2022 (UTC)
 <!-- Message sent by User:Xeno (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Movement_Strategy_and_Governance/Delivery&oldid=23215441 -->
+
+== Databox, a universal Wikidata infobox now installed on pap.wikipedia.org ==
+
+Hello everyone. My apologies for writing in English, I don't speak Papiamentu unfortunately. Yesterday, in a Wiki goes Caribbean meeting, I heard @[[User:Caribiana|Caribiana]] ask if it would be possible to have more Wikidata-driven infoboxes here on the Papiamentu/o Wikipedia. I have asked around a bit. Someone told me about [[wikidata:Module:Databox|Module:Databox]], and that is a universal infobox driven by Wikidata. I have installed it here - it was really simple! See [[Module:Databox]]. It should work with any type of article that is connected to a Wikidata item (people, places, nature, art...) To include it on any page, you just need to add <code><nowiki>{{Databox}}</nowiki></code> to the article and it should work. It is possible that you will still need to translate Wikidata labels of items and properties to Papiamentu of course. I made a small example in the article of [[Rincon]]. I hope this is useful! All the best, [[User:Spinster|Spinster]] ([[User talk:Spinster|diskushon]]) 09:46, 19 yüni 2022 (UTC)
